@@ -1,0 +1,58 @@
+name: Weekly Data Refresh
+
+on:
+  schedule:
+    # 매주 토요일 오전 2시 (KST = UTC+9, so 17:00 UTC Friday = 02:00 KST Saturday)
+    - cron: "0 17 * * 5"
+  workflow_dispatch:
+    inputs:
+      skip_live_check:
+        description: "URL 라이브 체크 건너뜀"
+        type: boolean
+        default: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run weekly refresh
+        env:
+          KOPIS_API_KEY: ${{ secrets.KOPIS_API_KEY }}
+          CULTUREINFO_API_KEY: ${{ secrets.CULTUREINFO_API_KEY }}
+          KCISA_MUSEUM_API_KEY: ${{ secrets.KCISA_MUSEUM_API_KEY }}
+          KCISA_MUSEUM_API_URL: ${{ secrets.KCISA_MUSEUM_API_URL }}
+        run: |
+          python scripts/weekly_refresh.py \
+            --days-ahead 90 \
+            --contest-limit 40 \
+            --culture-rows 50 \
+            --culture-pages 4 \
+            ${{ github.event.inputs.skip_live_check == 'true' && '--skip-live-check' || '' }}
+
+      - name: Commit updated data files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add web/src/lib/contest-data.ts web/src/lib/culture-data.ts
+          if git diff --staged --quiet; then
+            echo "No data changes to commit"
+          else
+            git commit -m "chore: weekly data refresh $(date -u '+%Y-%m-%d')"
+            git push
+          fi
