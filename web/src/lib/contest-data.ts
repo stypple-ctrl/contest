@@ -1,7 +1,7 @@
 import type { ContestEvent } from "@/types/contest";
 
 // 데이터 기준일 — dday/status 스냅샷의 기준. 수집 파이프라인 재실행 후 scripts/export_web_data.py로 갱신한다.
-export const DATA_DATE = "2026-08-07";
+export const DATA_DATE = "2026-08-14";
 
 export const SAMPLE_EVENTS: ContestEvent[] = [
   {
@@ -28,7 +28,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
     "category": "과학·SW·창의",
     "start": "2026-12-04",
     "deadline": "2026-06-01",
-    "dday": -67,
+    "dday": -74,
     "status": "접수예정",
     "prize": null,
     "free": true,
@@ -63,7 +63,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
       "evidence": [
         "참가대상: 초·중·고",
         "분야: 과학·SW·창의",
-        "마감까지 -67일",
+        "마감까지 -74일",
         "지역/방식: 전국 또는 온라인",
         "참가비: 무료",
         "기관 원본 공고 확인"
@@ -98,7 +98,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
     "category": "과학·SW·창의",
     "start": "2026-06-01",
     "deadline": "2026-06-01",
-    "dday": -67,
+    "dday": -74,
     "status": "마감",
     "prize": null,
     "free": true,
@@ -131,7 +131,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
       "evidence": [
         "참가대상: 초·중·고",
         "분야: 과학·SW·창의",
-        "마감까지 -67일",
+        "마감까지 -74일",
         "지역: 강원·경기·대구·대전·부산·서울·세종·충남",
         "참가비: 무료",
         "제출물 단서: 글/그림/아이디어 등 비교적 가벼운 산출물"
@@ -160,7 +160,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
     "category": "과학·SW·창의",
     "start": null,
     "deadline": "2026-06-08",
-    "dday": -60,
+    "dday": -67,
     "status": "마감",
     "prize": null,
     "free": true,
@@ -194,7 +194,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
       "evidence": [
         "참가대상: 초·고",
         "분야: 과학·SW·창의",
-        "마감까지 -60일",
+        "마감까지 -67일",
         "지역/방식: 전국 또는 온라인",
         "참가비: 무료",
         "기관 원본 공고 확인"
@@ -222,7 +222,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
     "category": "과학·SW·창의",
     "start": null,
     "deadline": "2026-06-08",
-    "dday": -60,
+    "dday": -67,
     "status": "마감",
     "prize": null,
     "free": true,
@@ -253,7 +253,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
       "evidence": [
         "참가대상: 중·고",
         "분야: 과학·SW·창의",
-        "마감까지 -60일",
+        "마감까지 -67일",
         "지역: 서울",
         "참가비: 무료"
       ],
@@ -288,7 +288,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
     "category": "과학·SW·창의",
     "start": "2026-06-15",
     "deadline": "2026-06-16",
-    "dday": -52,
+    "dday": -59,
     "status": "마감",
     "prize": null,
     "free": true,
@@ -322,7 +322,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
       "evidence": [
         "참가대상: 초·중·고",
         "분야: 과학·SW·창의",
-        "마감까지 -52일",
+        "마감까지 -59일",
         "지역/방식: 전국 또는 온라인",
         "참가비: 무료",
         "기관 원본 공고 확인"
@@ -356,7 +356,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
     "category": "과학·SW·창의",
     "start": "2026-08-21",
     "deadline": "2026-06-22",
-    "dday": -46,
+    "dday": -53,
     "status": "접수예정",
     "prize": null,
     "free": true,
@@ -387,7 +387,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
       "evidence": [
         "참가대상: 초·중·고",
         "분야: 과학·SW·창의",
-        "마감까지 -46일",
+        "마감까지 -53일",
         "지역/방식: 전국 또는 온라인",
         "참가비: 무료"
       ],
@@ -423,7 +423,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
     "category": "과학·SW·창의",
     "start": "2026-08-31",
     "deadline": "2026-06-25",
-    "dday": -43,
+    "dday": -50,
     "status": "접수예정",
     "prize": null,
     "free": true,
@@ -454,7 +454,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
       "evidence": [
         "참가대상: 초·중·고",
         "분야: 과학·SW·창의",
-        "마감까지 -43일",
+        "마감까지 -50일",
         "지역/방식: 전국 또는 온라인",
         "참가비: 무료"
       ],
@@ -489,7 +489,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
     "category": "과학·SW·창의",
     "start": "2026-07-10",
     "deadline": "2026-06-26",
-    "dday": -42,
+    "dday": -49,
     "status": "접수예정",
     "prize": null,
     "free": true,
@@ -524,7 +524,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
       "evidence": [
         "참가대상: 초·중·고",
         "분야: 과학·SW·창의",
-        "마감까지 -42일",
+        "마감까지 -49일",
         "지역: 강원·경기·대구·대전·부산·서울·충남",
         "참가비: 무료",
         "제출물 단서: 영상/SW/보고서/창업 등 준비 부담 가능"
@@ -559,7 +559,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
     "category": "과학·SW·창의",
     "start": "2026-06-26",
     "deadline": "2026-06-26",
-    "dday": -42,
+    "dday": -49,
     "status": "마감",
     "prize": null,
     "free": true,
@@ -590,7 +590,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
       "evidence": [
         "참가대상: 초·중·고",
         "분야: 과학·SW·창의",
-        "마감까지 -42일",
+        "마감까지 -49일",
         "지역: 경기·대구·대전·부산·서울·충남",
         "참가비: 무료"
       ],
@@ -625,7 +625,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
     "category": "과학·SW·창의",
     "start": "2026-07-12",
     "deadline": "2026-06-26",
-    "dday": -42,
+    "dday": -49,
     "status": "접수예정",
     "prize": null,
     "free": true,
@@ -658,7 +658,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
       "evidence": [
         "참가대상: 초·중·고",
         "분야: 과학·SW·창의",
-        "마감까지 -42일",
+        "마감까지 -49일",
         "지역/방식: 전국 또는 온라인",
         "참가비: 무료",
         "기관 원본 공고 확인"
@@ -692,7 +692,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
     "category": "과학·SW·창의",
     "start": "2026-06-24",
     "deadline": "2026-06-28",
-    "dday": -40,
+    "dday": -47,
     "status": "마감",
     "prize": null,
     "free": true,
@@ -725,7 +725,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
       "evidence": [
         "참가대상: 초·중·고",
         "분야: 과학·SW·창의",
-        "마감까지 -40일",
+        "마감까지 -47일",
         "지역/방식: 전국 또는 온라인",
         "참가비: 무료",
         "기관 원본 공고 확인"
@@ -753,7 +753,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
     "category": "글쓰기·독서",
     "start": "2026-06-08",
     "deadline": "2026-06-30",
-    "dday": -38,
+    "dday": -45,
     "status": "마감임박",
     "prize": "1천만원이하",
     "free": true,
@@ -782,7 +782,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
       "evidence": [
         "참가대상: 초·중·고",
         "분야: 글쓰기·독서",
-        "마감까지 -38일",
+        "마감까지 -45일",
         "지역: 서울",
         "참가비: 무료",
         "제출물 단서: 글/그림/아이디어 등 비교적 가벼운 산출물"
@@ -811,7 +811,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
     "category": "글쓰기·독서",
     "start": "2026-06-08",
     "deadline": "2026-06-30",
-    "dday": -38,
+    "dday": -45,
     "status": "마감임박",
     "prize": "1천만원이하",
     "free": true,
@@ -840,7 +840,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
       "evidence": [
         "참가대상: 초·중·고",
         "분야: 글쓰기·독서",
-        "마감까지 -38일",
+        "마감까지 -45일",
         "지역: 전북",
         "참가비: 무료",
         "제출물 단서: 글/그림/아이디어 등 비교적 가벼운 산출물"
@@ -868,31 +868,33 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
     "category": "기타",
     "start": "2026-05-01",
     "deadline": "2026-06-30",
-    "dday": -38,
+    "dday": -45,
     "status": "마감임박",
     "prize": "500만원",
     "free": true,
     "officialUrl": "https://www.goheung.go.kr/index.do",
     "summary": "고흥군 주최. 참가대상 고등·중등. 대상지역 전국. 자세한 내용은 기관 원본 공고 확인.",
-    "conflict": true,
+    "conflict": false,
     "academyRecommendation": {
       "subjectTags": [],
       "careerTags": [],
-      "useCaseTags": [],
+      "useCaseTags": [
+        "학부모안내"
+      ],
       "confidence": "중간",
-      "confidenceScore": 52,
+      "confidenceScore": 72,
       "reasons": [
-        "현재 확보된 기본 정보 기준으로 활용 후보를 분류했으며, 세부 요강 확인 후 안내하는 것이 좋습니다."
+        "기관 원본 공고가 확인되어 학부모 안내 자료로 사용하기 전 검토 부담이 낮습니다."
       ],
       "evidence": [
         "참가대상: 중·고",
         "분야: 기타",
-        "마감까지 -38일",
+        "마감까지 -45일",
         "지역/방식: 전국 또는 온라인",
-        "참가비: 무료"
+        "참가비: 무료",
+        "기관 원본 공고 확인"
       ],
       "warnings": [
-        "기관 원본 링크 또는 검수상태 확인 필요",
         "제출 형식은 원본 공고에서 확인 필요"
       ],
       "programIdeas": [
@@ -922,13 +924,13 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
     "category": "과학·SW·창의",
     "start": "2026-07-01",
     "deadline": "2026-07-01",
-    "dday": -37,
+    "dday": -44,
     "status": "접수예정",
     "prize": null,
     "free": true,
     "officialUrl": "http://www.dmzfesta.kr/bbs/write.php?bo_table=apply_3",
     "summary": "제6회 DMZ 문학상 공모전 후보입니다. 참가대상·마감일·접수방법은 기관 원본 공고에서 확인하세요.",
-    "conflict": false,
+    "conflict": true,
     "academyRecommendation": {
       "subjectTags": [
         "과학",
@@ -942,25 +944,23 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
       "useCaseTags": [
         "수업연계",
         "결과물있음",
-        "학부모안내",
         "심화도전"
       ],
-      "confidence": "높음",
-      "confidenceScore": 92,
+      "confidence": "중간",
+      "confidenceScore": 78,
       "reasons": [
         "과학·코딩/SW 수업과 연결해 학생별 결과물 제작 과제로 활용할 수 있습니다.",
-        "기관 원본 공고가 확인되어 학부모 안내 자료로 사용하기 전 검토 부담이 낮습니다.",
         "준비 부담이 있는 산출물 또는 전문 분야 단서가 있어 관심 학생의 심화 프로젝트 후보로 적합합니다."
       ],
       "evidence": [
         "참가대상: 초·중·고",
         "분야: 과학·SW·창의",
-        "마감까지 -37일",
+        "마감까지 -44일",
         "지역/방식: 전국 또는 온라인",
-        "참가비: 무료",
-        "기관 원본 공고 확인"
+        "참가비: 무료"
       ],
       "warnings": [
+        "기관 원본 링크 또는 검수상태 확인 필요",
         "제출 형식은 원본 공고에서 확인 필요"
       ],
       "programIdeas": [
@@ -990,7 +990,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
     "category": "과학·SW·창의",
     "start": "2026-06-23",
     "deadline": "2026-07-02",
-    "dday": -36,
+    "dday": -43,
     "status": "마감임박",
     "prize": null,
     "free": true,
@@ -1023,7 +1023,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
       "evidence": [
         "참가대상: 초·중·고",
         "분야: 과학·SW·창의",
-        "마감까지 -36일",
+        "마감까지 -43일",
         "지역/방식: 전국 또는 온라인",
         "참가비: 무료",
         "기관 원본 공고 확인"
@@ -1049,7 +1049,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
     "category": "미술·디자인·영상",
     "start": "2026-06-01",
     "deadline": "2026-07-03",
-    "dday": -35,
+    "dday": -42,
     "status": "접수중",
     "prize": "30만원",
     "free": true,
@@ -1082,7 +1082,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
       "evidence": [
         "참가대상: 초",
         "분야: 미술·디자인·영상",
-        "마감까지 -35일",
+        "마감까지 -42일",
         "지역/방식: 전국 또는 온라인",
         "참가비: 무료",
         "기관 원본 공고 확인"
@@ -1109,7 +1109,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
     "category": "진로·경제·아이디어",
     "start": "2026-05-19",
     "deadline": "2026-07-07",
-    "dday": -31,
+    "dday": -38,
     "status": "접수중",
     "prize": "200만원",
     "free": true,
@@ -1142,7 +1142,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
       "evidence": [
         "참가대상: 초·중·고",
         "분야: 진로·경제·아이디어",
-        "마감까지 -31일",
+        "마감까지 -38일",
         "지역/방식: 전국 또는 온라인",
         "참가비: 무료",
         "기관 원본 공고 확인"
@@ -1177,7 +1177,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
     "category": "과학·SW·창의",
     "start": "2026-06-26",
     "deadline": "2026-07-08",
-    "dday": -30,
+    "dday": -37,
     "status": "접수중",
     "prize": null,
     "free": true,
@@ -1212,7 +1212,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
       "evidence": [
         "참가대상: 초·중·고",
         "분야: 과학·SW·창의",
-        "마감까지 -30일",
+        "마감까지 -37일",
         "지역/방식: 전국 또는 온라인",
         "참가비: 무료",
         "기관 원본 공고 확인"
@@ -1245,7 +1245,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
     "category": "과학·SW·창의",
     "start": "2026-06-26",
     "deadline": "2026-07-08",
-    "dday": -30,
+    "dday": -37,
     "status": "접수중",
     "prize": null,
     "free": true,
@@ -1278,7 +1278,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
       "evidence": [
         "참가대상: 초·중·고",
         "분야: 과학·SW·창의",
-        "마감까지 -30일",
+        "마감까지 -37일",
         "지역/방식: 전국 또는 온라인",
         "참가비: 무료",
         "기관 원본 공고 확인"
@@ -1312,7 +1312,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
     "category": "과학·SW·창의",
     "start": "2026-07-10",
     "deadline": "2026-07-10",
-    "dday": -28,
+    "dday": -35,
     "status": "접수예정",
     "prize": null,
     "free": true,
@@ -1345,7 +1345,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
       "evidence": [
         "참가대상: 초·중·고",
         "분야: 과학·SW·창의",
-        "마감까지 -28일",
+        "마감까지 -35일",
         "지역/방식: 전국 또는 온라인",
         "참가비: 무료",
         "기관 원본 공고 확인"
@@ -1373,7 +1373,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
     "category": "과학·SW·창의",
     "start": "2026-06-22",
     "deadline": "2026-07-10",
-    "dday": -28,
+    "dday": -35,
     "status": "접수중",
     "prize": null,
     "free": true,
@@ -1404,7 +1404,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
       "evidence": [
         "참가대상: 중·고",
         "분야: 과학·SW·창의",
-        "마감까지 -28일",
+        "마감까지 -35일",
         "지역: 서울·세종",
         "참가비: 무료"
       ],
@@ -1413,71 +1413,6 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
         "제출 형식은 원본 공고에서 확인 필요"
       ],
       "programIdeas": [
-        "SW 심화반 문제풀이 또는 미니 프로젝트"
-      ]
-    }
-  },
-  {
-    "id": "allcon-539930",
-    "title": "2026년 전남광주통합특별시 이모티콘 공모전",
-    "organizer": "원본 확인 필요",
-    "grades": [
-      "초",
-      "중",
-      "고"
-    ],
-    "regions": [
-      "광주",
-      "서울",
-      "온라인",
-      "전남"
-    ],
-    "category": "과학·SW·창의",
-    "start": "2026-07-10",
-    "deadline": "2026-07-10",
-    "dday": -28,
-    "status": "마감",
-    "prize": null,
-    "free": true,
-    "officialUrl": "https://kakaoemoticonstudio.notion.site/image-guide?v=23ae52082d858072aaca000cbbc4588e",
-    "summary": "2026년 전남광주통합특별시 이모티콘 공모전 후보입니다. 참가대상·마감일·접수방법은 기관 원본 공고에서 확인하세요.",
-    "conflict": false,
-    "academyRecommendation": {
-      "subjectTags": [
-        "과학",
-        "코딩/SW",
-        "국어/논술"
-      ],
-      "careerTags": [
-        "이공계",
-        "IT/SW"
-      ],
-      "useCaseTags": [
-        "수업연계",
-        "결과물있음",
-        "학부모안내",
-        "심화도전"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 92,
-      "reasons": [
-        "과학·코딩/SW 수업과 연결해 학생별 결과물 제작 과제로 활용할 수 있습니다.",
-        "기관 원본 공고가 확인되어 학부모 안내 자료로 사용하기 전 검토 부담이 낮습니다.",
-        "준비 부담이 있는 산출물 또는 전문 분야 단서가 있어 관심 학생의 심화 프로젝트 후보로 적합합니다."
-      ],
-      "evidence": [
-        "참가대상: 초·중·고",
-        "분야: 과학·SW·창의",
-        "마감까지 -28일",
-        "지역/방식: 전국 또는 온라인",
-        "참가비: 무료",
-        "기관 원본 공고 확인"
-      ],
-      "warnings": [
-        "제출 형식은 원본 공고에서 확인 필요"
-      ],
-      "programIdeas": [
-        "독서·글쓰기 수업의 2~4주 결과물 프로젝트",
         "SW 심화반 문제풀이 또는 미니 프로젝트"
       ]
     }
@@ -1503,7 +1438,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
     "category": "과학·SW·창의",
     "start": "2026-06-17",
     "deadline": "2026-07-11",
-    "dday": -27,
+    "dday": -34,
     "status": "접수중",
     "prize": null,
     "free": true,
@@ -1536,7 +1471,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
       "evidence": [
         "참가대상: 초·중·고",
         "분야: 과학·SW·창의",
-        "마감까지 -27일",
+        "마감까지 -34일",
         "지역/방식: 전국 또는 온라인",
         "참가비: 무료",
         "기관 원본 공고 확인"
@@ -1546,75 +1481,6 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
       ],
       "programIdeas": [
         "SW 심화반 문제풀이 또는 미니 프로젝트"
-      ]
-    }
-  },
-  {
-    "id": "contestkorea-202608070058",
-    "title": "제2회 숏폼공모전 _희로애락 서초이야기",
-    "organizer": "원본 확인 필요",
-    "grades": [
-      "초",
-      "중",
-      "고"
-    ],
-    "regions": [
-      "강원",
-      "경기",
-      "대구",
-      "대전",
-      "서울",
-      "온라인",
-      "충남",
-      "충북"
-    ],
-    "category": "과학·SW·창의",
-    "start": "2026-07-13",
-    "deadline": "2026-07-13",
-    "dday": -25,
-    "status": "마감",
-    "prize": null,
-    "free": true,
-    "officialUrl": "https://naver.me/x1u0RNpo",
-    "summary": "제2회 숏폼공모전 _희로애락 서초이야기 후보입니다. 참가대상·마감일·접수방법은 기관 원본 공고에서 확인하세요.",
-    "conflict": false,
-    "academyRecommendation": {
-      "subjectTags": [
-        "과학",
-        "코딩/SW",
-        "영상/미디어"
-      ],
-      "careerTags": [
-        "이공계",
-        "IT/SW",
-        "미디어"
-      ],
-      "useCaseTags": [
-        "수업연계",
-        "결과물있음",
-        "학부모안내",
-        "개별추천",
-        "심화도전"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 100,
-      "reasons": [
-        "과학·코딩/SW 수업과 연결해 학생별 결과물 제작 과제로 활용할 수 있습니다.",
-        "기관 원본 공고가 확인되어 학부모 안내 자료로 사용하기 전 검토 부담이 낮습니다.",
-        "준비 부담이 있는 산출물 또는 전문 분야 단서가 있어 관심 학생의 심화 프로젝트 후보로 적합합니다."
-      ],
-      "evidence": [
-        "참가대상: 초·중·고",
-        "분야: 과학·SW·창의",
-        "마감까지 -25일",
-        "지역/방식: 전국 또는 온라인",
-        "참가비: 무료",
-        "기관 원본 공고 확인"
-      ],
-      "warnings": [],
-      "programIdeas": [
-        "SW 심화반 문제풀이 또는 미니 프로젝트",
-        "기획안 작성부터 촬영·편집까지 이어지는 영상 제작 특강"
       ]
     }
   },
@@ -1640,7 +1506,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
     "category": "과학·SW·창의",
     "start": "2026-03-19",
     "deadline": "2026-07-13",
-    "dday": -25,
+    "dday": -32,
     "status": "마감",
     "prize": null,
     "free": true,
@@ -1674,7 +1540,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
       "evidence": [
         "참가대상: 초·중·고",
         "분야: 과학·SW·창의",
-        "마감까지 -25일",
+        "마감까지 -32일",
         "지역/방식: 전국 또는 온라인",
         "참가비: 무료",
         "기관 원본 공고 확인"
@@ -1709,7 +1575,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
     "category": "과학·SW·창의",
     "start": "2026-06-25",
     "deadline": "2026-07-13",
-    "dday": -25,
+    "dday": -32,
     "status": "접수중",
     "prize": null,
     "free": true,
@@ -1742,7 +1608,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
       "evidence": [
         "참가대상: 초·중·고",
         "분야: 과학·SW·창의",
-        "마감까지 -25일",
+        "마감까지 -32일",
         "지역/방식: 전국 또는 온라인",
         "참가비: 무료",
         "기관 원본 공고 확인"
@@ -1776,7 +1642,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
     "category": "과학·SW·창의",
     "start": "2026-05-27",
     "deadline": "2026-07-15",
-    "dday": -23,
+    "dday": -30,
     "status": "접수중",
     "prize": null,
     "free": true,
@@ -1809,7 +1675,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
       "evidence": [
         "참가대상: 초·중·고",
         "분야: 과학·SW·창의",
-        "마감까지 -23일",
+        "마감까지 -30일",
         "지역/방식: 전국 또는 온라인",
         "참가비: 무료",
         "기관 원본 공고 확인"
@@ -1836,7 +1702,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
     "category": "미술·디자인·영상",
     "start": "2026-06-22",
     "deadline": "2026-07-17",
-    "dday": -21,
+    "dday": -28,
     "status": "접수중",
     "prize": "70만원",
     "free": true,
@@ -1871,7 +1737,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
       "evidence": [
         "참가대상: 중·고",
         "분야: 미술·디자인·영상",
-        "마감까지 -21일",
+        "마감까지 -28일",
         "지역: 대전",
         "참가비: 무료",
         "기관 원본 공고 확인"
@@ -1898,7 +1764,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
     "category": "과학·SW·창의",
     "start": "2026-06-22",
     "deadline": "2026-07-17",
-    "dday": -21,
+    "dday": -28,
     "status": "접수중",
     "prize": "100만원",
     "free": true,
@@ -1931,7 +1797,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
       "evidence": [
         "참가대상: 중·고",
         "분야: 과학·SW·창의",
-        "마감까지 -21일",
+        "마감까지 -28일",
         "지역: 충남",
         "참가비: 무료",
         "기관 원본 공고 확인"
@@ -1957,7 +1823,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
     "category": "미술·디자인·영상",
     "start": "2026-05-20",
     "deadline": "2026-07-19",
-    "dday": -19,
+    "dday": -26,
     "status": "접수중",
     "prize": "다양한 혜택",
     "free": true,
@@ -1988,7 +1854,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
       "evidence": [
         "참가대상: 중·고",
         "분야: 미술·디자인·영상",
-        "마감까지 -19일",
+        "마감까지 -26일",
         "지역/방식: 전국 또는 온라인",
         "참가비: 무료",
         "제출물 단서: 영상/SW/보고서/창업 등 준비 부담 가능"
@@ -2016,7 +1882,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
     "category": "과학·SW·창의",
     "start": "2026-06-04",
     "deadline": "2026-07-19",
-    "dday": -19,
+    "dday": -26,
     "status": "접수중",
     "prize": "1,000만원",
     "free": true,
@@ -2047,81 +1913,13 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
       "evidence": [
         "참가대상: 중·고",
         "분야: 과학·SW·창의",
-        "마감까지 -19일",
+        "마감까지 -26일",
         "지역/방식: 전국 또는 온라인",
         "참가비: 무료",
         "제출물 단서: 영상/SW/보고서/창업 등 준비 부담 가능"
       ],
       "warnings": [
         "기관 원본 링크 또는 검수상태 확인 필요"
-      ],
-      "programIdeas": [
-        "SW 심화반 문제풀이 또는 미니 프로젝트"
-      ]
-    }
-  },
-  {
-    "id": "contestkorea-202607270005",
-    "title": "덕원예술고등학교 2026학년도 전국 초·중학생 덕원 음악 콩쿠르",
-    "organizer": "원본 확인 필요",
-    "grades": [
-      "초",
-      "중"
-    ],
-    "regions": [
-      "강원",
-      "경기",
-      "대구",
-      "대전",
-      "서울",
-      "온라인",
-      "충남",
-      "충북"
-    ],
-    "category": "과학·SW·창의",
-    "start": "2026-08-29",
-    "deadline": "2026-07-20",
-    "dday": -18,
-    "status": "접수예정",
-    "prize": null,
-    "free": true,
-    "officialUrl": "https://www.twitter.com/contestkorea",
-    "summary": "덕원예술고등학교 2026학년도 전국 초·중학생 덕원 음악 콩쿠르 후보입니다. 참가대상·마감일·접수방법은 기관 원본 공고에서 확인하세요.",
-    "conflict": false,
-    "academyRecommendation": {
-      "subjectTags": [
-        "과학",
-        "코딩/SW"
-      ],
-      "careerTags": [
-        "이공계",
-        "IT/SW"
-      ],
-      "useCaseTags": [
-        "수업연계",
-        "결과물있음",
-        "학부모안내",
-        "단체참여",
-        "개별추천",
-        "심화도전"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 92,
-      "reasons": [
-        "과학·코딩/SW 수업과 연결해 학생별 결과물 제작 과제로 활용할 수 있습니다.",
-        "기관 원본 공고가 확인되어 학부모 안내 자료로 사용하기 전 검토 부담이 낮습니다.",
-        "준비 부담이 있는 산출물 또는 전문 분야 단서가 있어 관심 학생의 심화 프로젝트 후보로 적합합니다."
-      ],
-      "evidence": [
-        "참가대상: 초·중",
-        "분야: 과학·SW·창의",
-        "마감까지 -18일",
-        "지역/방식: 전국 또는 온라인",
-        "참가비: 무료",
-        "기관 원본 공고 확인"
-      ],
-      "warnings": [
-        "제출 형식은 원본 공고에서 확인 필요"
       ],
       "programIdeas": [
         "SW 심화반 문제풀이 또는 미니 프로젝트"
@@ -2143,7 +1941,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
     "category": "미술·디자인·영상",
     "start": "2026-06-22",
     "deadline": "2026-07-20",
-    "dday": -18,
+    "dday": -25,
     "status": "접수중",
     "prize": "다양한 혜택",
     "free": true,
@@ -2177,7 +1975,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
       "evidence": [
         "참가대상: 초·중·고",
         "분야: 미술·디자인·영상",
-        "마감까지 -18일",
+        "마감까지 -25일",
         "지역/방식: 전국 또는 온라인",
         "참가비: 무료",
         "기관 원본 공고 확인"
@@ -2199,19 +1997,15 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
       "고"
     ],
     "regions": [
-      "강원",
       "경기",
-      "대구",
-      "대전",
+      "경북",
       "서울",
-      "온라인",
-      "충남",
-      "충북"
+      "온라인"
     ],
     "category": "과학·SW·창의",
     "start": "2026-07-24",
     "deadline": "2026-07-24",
-    "dday": -14,
+    "dday": -21,
     "status": "마감",
     "prize": null,
     "free": true,
@@ -2247,7 +2041,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
       "evidence": [
         "참가대상: 초·중·고",
         "분야: 과학·SW·창의",
-        "마감까지 -14일",
+        "마감까지 -21일",
         "지역/방식: 전국 또는 온라인",
         "참가비: 무료",
         "기관 원본 공고 확인"
@@ -2275,7 +2069,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
     "category": "글쓰기·독서",
     "start": "2026-06-15",
     "deadline": "2026-07-24",
-    "dday": -14,
+    "dday": -21,
     "status": "접수중",
     "prize": "3천만원~1천만원",
     "free": true,
@@ -2304,7 +2098,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
       "evidence": [
         "참가대상: 초·중·고",
         "분야: 글쓰기·독서",
-        "마감까지 -14일",
+        "마감까지 -21일",
         "지역/방식: 전국 또는 온라인",
         "참가비: 무료",
         "기관 원본 공고 확인"
@@ -2337,7 +2131,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
     "category": "과학·SW·창의",
     "start": "2026-04-27",
     "deadline": "2026-07-27",
-    "dday": -11,
+    "dday": -18,
     "status": "마감",
     "prize": null,
     "free": true,
@@ -2371,7 +2165,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
       "evidence": [
         "참가대상: 초·중·고",
         "분야: 과학·SW·창의",
-        "마감까지 -11일",
+        "마감까지 -18일",
         "지역/방식: 전국 또는 온라인",
         "참가비: 무료",
         "기관 원본 공고 확인"
@@ -2398,7 +2192,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
     "category": "미술·디자인·영상",
     "start": "2026-06-17",
     "deadline": "2026-07-27",
-    "dday": -11,
+    "dday": -18,
     "status": "접수중",
     "prize": "200만원",
     "free": true,
@@ -2430,7 +2224,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
       "evidence": [
         "참가대상: 초·중·고",
         "분야: 미술·디자인·영상",
-        "마감까지 -11일",
+        "마감까지 -18일",
         "지역/방식: 전국 또는 온라인",
         "참가비: 무료",
         "제출물 단서: 영상/SW/보고서/창업 등 준비 부담 가능"
@@ -2459,7 +2253,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
     "category": "글쓰기·독서",
     "start": null,
     "deadline": "2026-07-29",
-    "dday": -9,
+    "dday": -16,
     "status": "마감",
     "prize": null,
     "free": true,
@@ -2489,7 +2283,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
       "evidence": [
         "참가대상: 초·중·고",
         "분야: 글쓰기·독서",
-        "마감까지 -9일",
+        "마감까지 -16일",
         "지역: 서울",
         "참가비: 무료",
         "기관 원본 공고 확인"
@@ -2515,7 +2309,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
     "category": "미술·디자인·영상",
     "start": "2024-09-01",
     "deadline": "2026-07-29",
-    "dday": -9,
+    "dday": -16,
     "status": "마감",
     "prize": null,
     "free": true,
@@ -2548,7 +2342,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
       "evidence": [
         "참가대상: 초·중·고",
         "분야: 미술·디자인·영상",
-        "마감까지 -9일",
+        "마감까지 -16일",
         "지역: 서울",
         "참가비: 무료",
         "기관 원본 공고 확인"
@@ -2574,7 +2368,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
     "category": "미술·디자인·영상",
     "start": "2026-07-01",
     "deadline": "2026-07-30",
-    "dday": -8,
+    "dday": -15,
     "status": "접수예정",
     "prize": "다양한 혜택",
     "free": true,
@@ -2608,7 +2402,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
       "evidence": [
         "참가대상: 고",
         "분야: 미술·디자인·영상",
-        "마감까지 -8일",
+        "마감까지 -15일",
         "지역/방식: 전국 또는 온라인",
         "참가비: 무료",
         "기관 원본 공고 확인"
@@ -2633,7 +2427,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
     "category": "과학·SW·창의",
     "start": "2026-07-01",
     "deadline": "2026-07-30",
-    "dday": -8,
+    "dday": -15,
     "status": "접수예정",
     "prize": "다양한 혜택",
     "free": true,
@@ -2668,7 +2462,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
       "evidence": [
         "참가대상: 고",
         "분야: 과학·SW·창의",
-        "마감까지 -8일",
+        "마감까지 -15일",
         "지역/방식: 전국 또는 온라인",
         "참가비: 무료",
         "기관 원본 공고 확인"
@@ -2694,7 +2488,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
     "category": "과학·SW·창의",
     "start": "2026-06-08",
     "deadline": "2026-07-31",
-    "dday": -7,
+    "dday": -14,
     "status": "접수중",
     "prize": "다양한 혜택",
     "free": true,
@@ -2727,7 +2521,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
       "evidence": [
         "참가대상: 중·고",
         "분야: 과학·SW·창의",
-        "마감까지 -7일",
+        "마감까지 -14일",
         "지역/방식: 전국 또는 온라인",
         "참가비: 무료",
         "기관 원본 공고 확인"
@@ -2762,7 +2556,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
     "category": "과학·SW·창의",
     "start": "2026-06-01",
     "deadline": "2026-07-31",
-    "dday": -7,
+    "dday": -14,
     "status": "접수중",
     "prize": null,
     "free": true,
@@ -2793,7 +2587,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
       "evidence": [
         "참가대상: 초·중·고",
         "분야: 과학·SW·창의",
-        "마감까지 -7일",
+        "마감까지 -14일",
         "지역/방식: 전국 또는 온라인",
         "참가비: 무료"
       ],
@@ -2821,7 +2615,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
     "category": "글쓰기·독서",
     "start": "2026-07-01",
     "deadline": "2026-07-31",
-    "dday": -7,
+    "dday": -14,
     "status": "접수예정",
     "prize": "500만원",
     "free": true,
@@ -2850,7 +2644,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
       "evidence": [
         "참가대상: 초·중·고",
         "분야: 글쓰기·독서",
-        "마감까지 -7일",
+        "마감까지 -14일",
         "지역/방식: 전국 또는 온라인",
         "참가비: 무료",
         "기관 원본 공고 확인"
@@ -2883,7 +2677,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
     "category": "과학·SW·창의",
     "start": "2026-06-10",
     "deadline": "2026-07-31",
-    "dday": -7,
+    "dday": -14,
     "status": "마감",
     "prize": null,
     "free": true,
@@ -2916,7 +2710,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
       "evidence": [
         "참가대상: 초·중·고",
         "분야: 과학·SW·창의",
-        "마감까지 -7일",
+        "마감까지 -14일",
         "지역/방식: 전국 또는 온라인",
         "참가비: 무료",
         "기관 원본 공고 확인"
@@ -2943,7 +2737,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
     "category": "과학·SW·창의",
     "start": "2026-06-24",
     "deadline": "2026-07-31",
-    "dday": -7,
+    "dday": -14,
     "status": "접수중",
     "prize": "다양한 혜택",
     "free": true,
@@ -2975,7 +2769,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
       "evidence": [
         "참가대상: 중·고",
         "분야: 과학·SW·창의",
-        "마감까지 -7일",
+        "마감까지 -14일",
         "지역/방식: 전국 또는 온라인",
         "참가비: 무료",
         "제출물 단서: 글/그림/아이디어 등 비교적 가벼운 산출물"
@@ -3003,7 +2797,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
     "category": "미술·디자인·영상",
     "start": "2026-06-22",
     "deadline": "2026-07-31",
-    "dday": -7,
+    "dday": -14,
     "status": "접수중",
     "prize": "다양한 혜택",
     "free": true,
@@ -3037,7 +2831,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
       "evidence": [
         "참가대상: 초",
         "분야: 미술·디자인·영상",
-        "마감까지 -7일",
+        "마감까지 -14일",
         "지역: 인천",
         "참가비: 무료",
         "기관 원본 공고 확인"
@@ -3063,7 +2857,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
     "category": "미술·디자인·영상",
     "start": "2026-06-05",
     "deadline": "2026-07-31",
-    "dday": -7,
+    "dday": -14,
     "status": "접수중",
     "prize": "50만원",
     "free": true,
@@ -3097,7 +2891,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
       "evidence": [
         "참가대상: 초",
         "분야: 미술·디자인·영상",
-        "마감까지 -7일",
+        "마감까지 -14일",
         "지역/방식: 전국 또는 온라인",
         "참가비: 무료",
         "기관 원본 공고 확인"
@@ -3108,346 +2902,6 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
       "programIdeas": [
         "포스터·웹툰·디자인 작품 제작 특강",
         "기획안 작성부터 촬영·편집까지 이어지는 영상 제작 특강"
-      ]
-    }
-  },
-  {
-    "id": "contestkorea-202608060002",
-    "title": "[굿네이버스] 한 달 만에 완성하는 정책 제안 프로젝트! [기후위기 정책제안단]",
-    "organizer": "원본 확인 필요",
-    "grades": [
-      "초",
-      "중",
-      "고"
-    ],
-    "regions": [
-      "강원",
-      "경기",
-      "대구",
-      "대전",
-      "서울",
-      "온라인",
-      "충북"
-    ],
-    "category": "과학·SW·창의",
-    "start": "2026-08-03",
-    "deadline": "2026-08-03",
-    "dday": -4,
-    "status": "마감",
-    "prize": null,
-    "free": true,
-    "officialUrl": "https://www.twitter.com/contestkorea",
-    "summary": "[굿네이버스] 한 달 만에 완성하는 정책 제안 프로젝트! [기후위기 정책제안단] 후보입니다. 참가대상·마감일·접수방법은 기관 원본 공고에서 확인하세요.",
-    "conflict": false,
-    "academyRecommendation": {
-      "subjectTags": [
-        "과학",
-        "코딩/SW"
-      ],
-      "careerTags": [
-        "이공계",
-        "IT/SW"
-      ],
-      "useCaseTags": [
-        "수업연계",
-        "결과물있음",
-        "학부모안내",
-        "개별추천",
-        "심화도전"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 100,
-      "reasons": [
-        "과학·코딩/SW 수업과 연결해 학생별 결과물 제작 과제로 활용할 수 있습니다.",
-        "기관 원본 공고가 확인되어 학부모 안내 자료로 사용하기 전 검토 부담이 낮습니다.",
-        "준비 부담이 있는 산출물 또는 전문 분야 단서가 있어 관심 학생의 심화 프로젝트 후보로 적합합니다."
-      ],
-      "evidence": [
-        "참가대상: 초·중·고",
-        "분야: 과학·SW·창의",
-        "마감까지 -4일",
-        "지역/방식: 전국 또는 온라인",
-        "참가비: 무료",
-        "기관 원본 공고 확인"
-      ],
-      "warnings": [],
-      "programIdeas": [
-        "SW 심화반 문제풀이 또는 미니 프로젝트"
-      ]
-    }
-  },
-  {
-    "id": "contestkorea-202608060011",
-    "title": "2026년 재도전성공패키지 충청·강원권 커뮤니티 데이",
-    "organizer": "원본 확인 필요",
-    "grades": [
-      "초",
-      "중",
-      "고"
-    ],
-    "regions": [
-      "강원",
-      "경기",
-      "대구",
-      "대전",
-      "서울",
-      "온라인",
-      "충남",
-      "충북"
-    ],
-    "category": "과학·SW·창의",
-    "start": "2026-08-13",
-    "deadline": "2026-08-04",
-    "dday": -3,
-    "status": "접수예정",
-    "prize": null,
-    "free": true,
-    "officialUrl": "https://retry-hoseo.vercel.app/",
-    "summary": "2026년 재도전성공패키지 충청·강원권 커뮤니티 데이 후보입니다. 참가대상·마감일·접수방법은 기관 원본 공고에서 확인하세요.",
-    "conflict": false,
-    "academyRecommendation": {
-      "subjectTags": [
-        "과학",
-        "코딩/SW"
-      ],
-      "careerTags": [
-        "이공계",
-        "IT/SW"
-      ],
-      "useCaseTags": [
-        "수업연계",
-        "결과물있음",
-        "학부모안내",
-        "개별추천",
-        "심화도전"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 92,
-      "reasons": [
-        "과학·코딩/SW 수업과 연결해 학생별 결과물 제작 과제로 활용할 수 있습니다.",
-        "기관 원본 공고가 확인되어 학부모 안내 자료로 사용하기 전 검토 부담이 낮습니다.",
-        "준비 부담이 있는 산출물 또는 전문 분야 단서가 있어 관심 학생의 심화 프로젝트 후보로 적합합니다."
-      ],
-      "evidence": [
-        "참가대상: 초·중·고",
-        "분야: 과학·SW·창의",
-        "마감까지 -3일",
-        "지역/방식: 전국 또는 온라인",
-        "참가비: 무료",
-        "기관 원본 공고 확인"
-      ],
-      "warnings": [
-        "제출 형식은 원본 공고에서 확인 필요"
-      ],
-      "programIdeas": [
-        "SW 심화반 문제풀이 또는 미니 프로젝트"
-      ]
-    }
-  },
-  {
-    "id": "contestkorea-202608040033",
-    "title": "파인캐릭터 2026 (FineCharacter 2026)",
-    "organizer": "원본 확인 필요",
-    "grades": [
-      "초",
-      "중",
-      "고"
-    ],
-    "regions": [
-      "강원",
-      "경기",
-      "대구",
-      "대전",
-      "서울",
-      "온라인",
-      "충북"
-    ],
-    "category": "과학·SW·창의",
-    "start": "2026-11-27",
-    "deadline": "2026-08-04",
-    "dday": -3,
-    "status": "접수예정",
-    "prize": null,
-    "free": true,
-    "officialUrl": "https://finecharacter.kr/",
-    "summary": "파인캐릭터 2026 (FineCharacter 2026) 후보입니다. 참가대상·마감일·접수방법은 기관 원본 공고에서 확인하세요.",
-    "conflict": false,
-    "academyRecommendation": {
-      "subjectTags": [
-        "과학",
-        "코딩/SW"
-      ],
-      "careerTags": [
-        "이공계",
-        "IT/SW"
-      ],
-      "useCaseTags": [
-        "수업연계",
-        "결과물있음",
-        "학부모안내",
-        "개별추천",
-        "심화도전"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 92,
-      "reasons": [
-        "과학·코딩/SW 수업과 연결해 학생별 결과물 제작 과제로 활용할 수 있습니다.",
-        "기관 원본 공고가 확인되어 학부모 안내 자료로 사용하기 전 검토 부담이 낮습니다.",
-        "준비 부담이 있는 산출물 또는 전문 분야 단서가 있어 관심 학생의 심화 프로젝트 후보로 적합합니다."
-      ],
-      "evidence": [
-        "참가대상: 초·중·고",
-        "분야: 과학·SW·창의",
-        "마감까지 -3일",
-        "지역/방식: 전국 또는 온라인",
-        "참가비: 무료",
-        "기관 원본 공고 확인"
-      ],
-      "warnings": [
-        "제출 형식은 원본 공고에서 확인 필요"
-      ],
-      "programIdeas": [
-        "SW 심화반 문제풀이 또는 미니 프로젝트"
-      ]
-    }
-  },
-  {
-    "id": "contestkorea-202608050038",
-    "title": "[대구콘텐츠코리아랩] 슈퍼세미나 시즌 2 첫번째 이야기 | AI가 바꾸는 창작의 시대 : 결국 중요한 것은 무엇인가?",
-    "organizer": "원본 확인 필요",
-    "grades": [
-      "초",
-      "중",
-      "고"
-    ],
-    "regions": [
-      "강원",
-      "경기",
-      "대구",
-      "대전",
-      "서울",
-      "온라인",
-      "충북"
-    ],
-    "category": "과학·SW·창의",
-    "start": "2026-08-21",
-    "deadline": "2026-08-05",
-    "dday": -2,
-    "status": "접수예정",
-    "prize": null,
-    "free": true,
-    "officialUrl": "https://www.twitter.com/contestkorea",
-    "summary": "[대구콘텐츠코리아랩] 슈퍼세미나 시즌 2 첫번째 이야기 | AI가 바꾸는 창작의 시대 : 결국 중요한 것은 무엇인가? 후보입니다. 참가대상·마감일·접수방법은 기관 원본 공고에서 확인하세요.",
-    "conflict": false,
-    "academyRecommendation": {
-      "subjectTags": [
-        "과학",
-        "코딩/SW",
-        "국어/논술",
-        "영상/미디어"
-      ],
-      "careerTags": [
-        "이공계",
-        "IT/SW",
-        "미디어"
-      ],
-      "useCaseTags": [
-        "수업연계",
-        "결과물있음",
-        "학부모안내",
-        "심화도전"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 92,
-      "reasons": [
-        "과학·코딩/SW 수업과 연결해 학생별 결과물 제작 과제로 활용할 수 있습니다.",
-        "기관 원본 공고가 확인되어 학부모 안내 자료로 사용하기 전 검토 부담이 낮습니다.",
-        "준비 부담이 있는 산출물 또는 전문 분야 단서가 있어 관심 학생의 심화 프로젝트 후보로 적합합니다."
-      ],
-      "evidence": [
-        "참가대상: 초·중·고",
-        "분야: 과학·SW·창의",
-        "마감까지 -2일",
-        "지역/방식: 전국 또는 온라인",
-        "참가비: 무료",
-        "기관 원본 공고 확인"
-      ],
-      "warnings": [
-        "제출 형식은 원본 공고에서 확인 필요"
-      ],
-      "programIdeas": [
-        "독서·글쓰기 수업의 2~4주 결과물 프로젝트",
-        "SW 심화반 문제풀이 또는 미니 프로젝트",
-        "기획안 작성부터 촬영·편집까지 이어지는 영상 제작 특강"
-      ]
-    }
-  },
-  {
-    "id": "contestkorea-202608060097",
-    "title": "[굿네이버스] 글로벌 SDGs 소셜 에디터 2기 | 사회문제를 읽고, 나만의 칼럼을 쓰다",
-    "organizer": "원본 확인 필요",
-    "grades": [
-      "초",
-      "중",
-      "고"
-    ],
-    "regions": [
-      "강원",
-      "경기",
-      "대구",
-      "대전",
-      "서울",
-      "온라인",
-      "충북"
-    ],
-    "category": "과학·SW·창의",
-    "start": "2026-08-26",
-    "deadline": "2026-08-06",
-    "dday": -1,
-    "status": "접수예정",
-    "prize": null,
-    "free": true,
-    "officialUrl": "https://www.twitter.com/contestkorea",
-    "summary": "[굿네이버스] 글로벌 SDGs 소셜 에디터 2기 | 사회문제를 읽고, 나만의 칼럼을 쓰다 후보입니다. 참가대상·마감일·접수방법은 기관 원본 공고에서 확인하세요.",
-    "conflict": false,
-    "academyRecommendation": {
-      "subjectTags": [
-        "과학",
-        "코딩/SW",
-        "사회/환경"
-      ],
-      "careerTags": [
-        "이공계",
-        "IT/SW",
-        "환경/공공"
-      ],
-      "useCaseTags": [
-        "수업연계",
-        "결과물있음",
-        "학부모안내",
-        "심화도전"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 92,
-      "reasons": [
-        "과학·코딩/SW 수업과 연결해 학생별 결과물 제작 과제로 활용할 수 있습니다.",
-        "기관 원본 공고가 확인되어 학부모 안내 자료로 사용하기 전 검토 부담이 낮습니다.",
-        "준비 부담이 있는 산출물 또는 전문 분야 단서가 있어 관심 학생의 심화 프로젝트 후보로 적합합니다."
-      ],
-      "evidence": [
-        "참가대상: 초·중·고",
-        "분야: 과학·SW·창의",
-        "마감까지 -1일",
-        "지역/방식: 전국 또는 온라인",
-        "참가비: 무료",
-        "기관 원본 공고 확인"
-      ],
-      "warnings": [
-        "제출 형식은 원본 공고에서 확인 필요"
-      ],
-      "programIdeas": [
-        "SW 심화반 문제풀이 또는 미니 프로젝트",
-        "환경·사회 이슈 탐구 후 캠페인 산출물 만들기"
       ]
     }
   },
@@ -3466,7 +2920,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
     "category": "미술·디자인·영상",
     "start": "2026-07-23",
     "deadline": "2026-08-06",
-    "dday": -1,
+    "dday": -8,
     "status": "접수예정",
     "prize": null,
     "free": true,
@@ -3497,7 +2951,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
       "evidence": [
         "참가대상: 중·고",
         "분야: 미술·디자인·영상",
-        "마감까지 -1일",
+        "마감까지 -8일",
         "지역: 경북·서울",
         "참가비: 무료",
         "제출물 단서: 영상/SW/보고서/창업 등 준비 부담 가능"
@@ -3508,6 +2962,73 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
       "programIdeas": [
         "포스터·웹툰·디자인 작품 제작 특강",
         "기획안 작성부터 촬영·편집까지 이어지는 영상 제작 특강"
+      ]
+    }
+  },
+  {
+    "id": "contestkorea-202608120067",
+    "title": "2026 서울국제건축영화제 호스트 아키텍트 포럼(HAF)",
+    "organizer": "원본 확인 필요",
+    "grades": [
+      "초",
+      "중",
+      "고"
+    ],
+    "regions": [
+      "경기",
+      "경북",
+      "대전",
+      "서울",
+      "온라인",
+      "울산",
+      "제주"
+    ],
+    "category": "과학·SW·창의",
+    "start": "2026-09-05",
+    "deadline": "2026-08-07",
+    "dday": -7,
+    "status": "접수예정",
+    "prize": null,
+    "free": true,
+    "officialUrl": "https://smartstore.naver.com/storekira/products/13700307870",
+    "summary": "2026 서울국제건축영화제 호스트 아키텍트 포럼(HAF) 후보입니다. 참가대상·마감일·접수방법은 기관 원본 공고에서 확인하세요.",
+    "conflict": false,
+    "academyRecommendation": {
+      "subjectTags": [
+        "과학",
+        "코딩/SW"
+      ],
+      "careerTags": [
+        "이공계",
+        "IT/SW"
+      ],
+      "useCaseTags": [
+        "수업연계",
+        "결과물있음",
+        "학부모안내",
+        "개별추천",
+        "심화도전"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 92,
+      "reasons": [
+        "과학·코딩/SW 수업과 연결해 학생별 결과물 제작 과제로 활용할 수 있습니다.",
+        "기관 원본 공고가 확인되어 학부모 안내 자료로 사용하기 전 검토 부담이 낮습니다.",
+        "준비 부담이 있는 산출물 또는 전문 분야 단서가 있어 관심 학생의 심화 프로젝트 후보로 적합합니다."
+      ],
+      "evidence": [
+        "참가대상: 초·중·고",
+        "분야: 과학·SW·창의",
+        "마감까지 -7일",
+        "지역/방식: 전국 또는 온라인",
+        "참가비: 무료",
+        "기관 원본 공고 확인"
+      ],
+      "warnings": [
+        "제출 형식은 원본 공고에서 확인 필요"
+      ],
+      "programIdeas": [
+        "SW 심화반 문제풀이 또는 미니 프로젝트"
       ]
     }
   },
@@ -3532,7 +3053,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
     "category": "과학·SW·창의",
     "start": "2026-06-09",
     "deadline": "2026-08-08",
-    "dday": 1,
+    "dday": -6,
     "status": "접수중",
     "prize": null,
     "free": true,
@@ -3565,7 +3086,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
       "evidence": [
         "참가대상: 초·중·고",
         "분야: 과학·SW·창의",
-        "마감까지 1일",
+        "마감까지 -6일",
         "지역/방식: 전국 또는 온라인",
         "참가비: 무료",
         "기관 원본 공고 확인"
@@ -3592,7 +3113,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
     "category": "미술·디자인·영상",
     "start": "2026-06-20",
     "deadline": "2026-08-10",
-    "dday": 3,
+    "dday": -4,
     "status": "접수중",
     "prize": "다양한 혜택",
     "free": true,
@@ -3626,7 +3147,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
       "evidence": [
         "참가대상: 초",
         "분야: 미술·디자인·영상",
-        "마감까지 3일",
+        "마감까지 -4일",
         "지역: 전북",
         "참가비: 무료",
         "기관 원본 공고 확인"
@@ -3640,8 +3161,8 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
     }
   },
   {
-    "id": "contestkorea-202608070078",
-    "title": "2026년 공무원연금공단 AI•공공데이터 대국민 시각화 경진대회",
+    "id": "contestkorea-202608130014",
+    "title": "2026 송림문학회 기록문화 공모전 제2회",
     "organizer": "원본 확인 필요",
     "grades": [
       "초",
@@ -3649,36 +3170,30 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
       "고"
     ],
     "regions": [
-      "강원",
       "경기",
-      "대구",
-      "대전",
+      "경북",
       "서울",
-      "온라인",
-      "충남",
-      "충북"
+      "온라인"
     ],
     "category": "과학·SW·창의",
-    "start": "2026-08-10",
+    "start": "2026-09-05",
     "deadline": "2026-08-10",
-    "dday": 3,
+    "dday": -4,
     "status": "접수예정",
     "prize": null,
     "free": true,
     "officialUrl": "https://www.twitter.com/contestkorea",
-    "summary": "2026년 공무원연금공단 AI•공공데이터 대국민 시각화 경진대회 후보입니다. 참가대상·마감일·접수방법은 기관 원본 공고에서 확인하세요.",
+    "summary": "2026 송림문학회 기록문화 공모전 제2회 후보입니다. 참가대상·마감일·접수방법은 기관 원본 공고에서 확인하세요.",
     "conflict": false,
     "academyRecommendation": {
       "subjectTags": [
         "과학",
         "코딩/SW",
-        "국어/논술",
-        "수학"
+        "국어/논술"
       ],
       "careerTags": [
         "이공계",
-        "IT/SW",
-        "환경/공공"
+        "IT/SW"
       ],
       "useCaseTags": [
         "수업연계",
@@ -3696,7 +3211,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
       "evidence": [
         "참가대상: 초·중·고",
         "분야: 과학·SW·창의",
-        "마감까지 3일",
+        "마감까지 -4일",
         "지역/방식: 전국 또는 온라인",
         "참가비: 무료",
         "기관 원본 공고 확인"
@@ -3706,14 +3221,13 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
       ],
       "programIdeas": [
         "독서·글쓰기 수업의 2~4주 결과물 프로젝트",
-        "SW 심화반 문제풀이 또는 미니 프로젝트",
-        "환경·사회 이슈 탐구 후 캠페인 산출물 만들기"
+        "SW 심화반 문제풀이 또는 미니 프로젝트"
       ]
     }
   },
   {
-    "id": "contestkorea-202608040001",
-    "title": "제3회 DH사진공모전",
+    "id": "contestkorea-202608130031",
+    "title": "광주 남구 2026 제2회 행복인증샷 캠페인 공모",
     "organizer": "원본 확인 필요",
     "grades": [
       "초",
@@ -3721,24 +3235,152 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
       "고"
     ],
     "regions": [
-      "강원",
       "경기",
-      "대구",
-      "대전",
+      "경북",
+      "광주",
       "서울",
       "온라인",
-      "충남",
-      "충북"
+      "전남"
     ],
     "category": "과학·SW·창의",
     "start": "2026-08-10",
     "deadline": "2026-08-10",
-    "dday": 3,
+    "dday": -4,
+    "status": "마감",
+    "prize": null,
+    "free": true,
+    "officialUrl": "https://naver.me/x1uMizQD",
+    "summary": "광주 남구 2026 제2회 행복인증샷 캠페인 공모 후보입니다. 참가대상·마감일·접수방법은 기관 원본 공고에서 확인하세요.",
+    "conflict": false,
+    "academyRecommendation": {
+      "subjectTags": [
+        "과학",
+        "코딩/SW",
+        "사회/환경"
+      ],
+      "careerTags": [
+        "이공계",
+        "IT/SW",
+        "환경/공공"
+      ],
+      "useCaseTags": [
+        "수업연계",
+        "결과물있음",
+        "학부모안내",
+        "단체참여",
+        "심화도전"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 92,
+      "reasons": [
+        "과학·코딩/SW 수업과 연결해 학생별 결과물 제작 과제로 활용할 수 있습니다.",
+        "기관 원본 공고가 확인되어 학부모 안내 자료로 사용하기 전 검토 부담이 낮습니다.",
+        "준비 부담이 있는 산출물 또는 전문 분야 단서가 있어 관심 학생의 심화 프로젝트 후보로 적합합니다."
+      ],
+      "evidence": [
+        "참가대상: 초·중·고",
+        "분야: 과학·SW·창의",
+        "마감까지 -4일",
+        "지역/방식: 전국 또는 온라인",
+        "참가비: 무료",
+        "기관 원본 공고 확인"
+      ],
+      "warnings": [
+        "제출 형식은 원본 공고에서 확인 필요"
+      ],
+      "programIdeas": [
+        "SW 심화반 문제풀이 또는 미니 프로젝트",
+        "환경·사회 이슈 탐구 후 캠페인 산출물 만들기"
+      ]
+    }
+  },
+  {
+    "id": "contestkorea-202608130018",
+    "title": "2026 제주 AI국제필름페스티벌 「AI 영상제작 마스터클래스」 참가자 모집",
+    "organizer": "원본 확인 필요",
+    "grades": [
+      "초",
+      "중",
+      "고"
+    ],
+    "regions": [
+      "경기",
+      "경북",
+      "서울",
+      "온라인",
+      "제주"
+    ],
+    "category": "과학·SW·창의",
+    "start": "2026-08-22",
+    "deadline": "2026-08-13",
+    "dday": -1,
     "status": "접수예정",
     "prize": null,
     "free": true,
-    "officialUrl": "https://www.twitter.com/contestkorea",
-    "summary": "제3회 DH사진공모전 후보입니다. 참가대상·마감일·접수방법은 기관 원본 공고에서 확인하세요.",
+    "officialUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfixVvJcHxyaoq_M0_3Ak-fyaVmByxh5oLAbE6GOnjdFgkqmg/viewform",
+    "summary": "2026 제주 AI국제필름페스티벌 「AI 영상제작 마스터클래스」 참가자 모집 후보입니다. 참가대상·마감일·접수방법은 기관 원본 공고에서 확인하세요.",
+    "conflict": true,
+    "academyRecommendation": {
+      "subjectTags": [
+        "과학",
+        "코딩/SW",
+        "영상/미디어"
+      ],
+      "careerTags": [
+        "이공계",
+        "IT/SW",
+        "미디어"
+      ],
+      "useCaseTags": [
+        "수업연계",
+        "결과물있음",
+        "개별추천",
+        "심화도전"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 86,
+      "reasons": [
+        "과학·코딩/SW 수업과 연결해 학생별 결과물 제작 과제로 활용할 수 있습니다.",
+        "준비 부담이 있는 산출물 또는 전문 분야 단서가 있어 관심 학생의 심화 프로젝트 후보로 적합합니다."
+      ],
+      "evidence": [
+        "참가대상: 초·중·고",
+        "분야: 과학·SW·창의",
+        "마감까지 -1일",
+        "지역/방식: 전국 또는 온라인",
+        "참가비: 무료",
+        "제출물 단서: 영상/SW/보고서/창업 등 준비 부담 가능"
+      ],
+      "warnings": [
+        "기관 원본 링크 또는 검수상태 확인 필요"
+      ],
+      "programIdeas": [
+        "SW 심화반 문제풀이 또는 미니 프로젝트",
+        "기획안 작성부터 촬영·편집까지 이어지는 영상 제작 특강"
+      ]
+    }
+  },
+  {
+    "id": "allcon-538193",
+    "title": "2026 해양생물 콘텐츠 공모전",
+    "organizer": "원본 확인 필요",
+    "grades": [
+      "초",
+      "중"
+    ],
+    "regions": [
+      "서울",
+      "온라인"
+    ],
+    "category": "과학·SW·창의",
+    "start": "2026-06-04",
+    "deadline": "2026-08-14",
+    "dday": 0,
+    "status": "접수중",
+    "prize": null,
+    "free": true,
+    "officialUrl": "https://www.meis.go.kr/inform/contest/view1.do",
+    "summary": "2026 해양생물 콘텐츠 공모전 후보입니다. 참가대상·마감일·접수방법은 기관 원본 공고에서 확인하세요.",
     "conflict": false,
     "academyRecommendation": {
       "subjectTags": [
@@ -3758,21 +3400,23 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
         "심화도전"
       ],
       "confidence": "높음",
-      "confidenceScore": 100,
+      "confidenceScore": 92,
       "reasons": [
         "과학·코딩/SW 수업과 연결해 학생별 결과물 제작 과제로 활용할 수 있습니다.",
         "기관 원본 공고가 확인되어 학부모 안내 자료로 사용하기 전 검토 부담이 낮습니다.",
         "준비 부담이 있는 산출물 또는 전문 분야 단서가 있어 관심 학생의 심화 프로젝트 후보로 적합합니다."
       ],
       "evidence": [
-        "참가대상: 초·중·고",
+        "참가대상: 초·중",
         "분야: 과학·SW·창의",
-        "마감까지 3일",
+        "마감까지 0일",
         "지역/방식: 전국 또는 온라인",
         "참가비: 무료",
         "기관 원본 공고 확인"
       ],
-      "warnings": [],
+      "warnings": [
+        "제출 형식은 원본 공고에서 확인 필요"
+      ],
       "programIdeas": [
         "SW 심화반 문제풀이 또는 미니 프로젝트",
         "기획안 작성부터 촬영·편집까지 이어지는 영상 제작 특강"
@@ -3780,8 +3424,249 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
     }
   },
   {
-    "id": "contestkorea-202608060086",
-    "title": "2026 대한민국 국토대전",
+    "id": "contestkorea-202608140046",
+    "title": "제17회 겨레얼살리기 전국 고등학생 백일장 대회",
+    "organizer": "원본 확인 필요",
+    "grades": [
+      "고"
+    ],
+    "regions": [
+      "경기",
+      "경북",
+      "서울",
+      "온라인"
+    ],
+    "category": "과학·SW·창의",
+    "start": "2026-05-01",
+    "deadline": "2026-08-14",
+    "dday": 0,
+    "status": "마감임박",
+    "prize": null,
+    "free": true,
+    "officialUrl": "https://www.twitter.com/contestkorea",
+    "summary": "제17회 겨레얼살리기 전국 고등학생 백일장 대회 후보입니다. 참가대상·마감일·접수방법은 기관 원본 공고에서 확인하세요.",
+    "conflict": false,
+    "academyRecommendation": {
+      "subjectTags": [
+        "과학",
+        "코딩/SW"
+      ],
+      "careerTags": [
+        "이공계",
+        "IT/SW"
+      ],
+      "useCaseTags": [
+        "수업연계",
+        "결과물있음",
+        "학부모안내",
+        "개별추천",
+        "심화도전"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 92,
+      "reasons": [
+        "과학·코딩/SW 수업과 연결해 학생별 결과물 제작 과제로 활용할 수 있습니다.",
+        "기관 원본 공고가 확인되어 학부모 안내 자료로 사용하기 전 검토 부담이 낮습니다.",
+        "준비 부담이 있는 산출물 또는 전문 분야 단서가 있어 관심 학생의 심화 프로젝트 후보로 적합합니다."
+      ],
+      "evidence": [
+        "참가대상: 고",
+        "분야: 과학·SW·창의",
+        "마감까지 0일",
+        "지역/방식: 전국 또는 온라인",
+        "참가비: 무료",
+        "기관 원본 공고 확인"
+      ],
+      "warnings": [
+        "제출 형식은 원본 공고에서 확인 필요"
+      ],
+      "programIdeas": [
+        "SW 심화반 문제풀이 또는 미니 프로젝트"
+      ]
+    }
+  },
+  {
+    "id": "allcon-536489",
+    "title": "제1회 국민통합 문학공모전",
+    "organizer": "원본 확인 필요",
+    "grades": [
+      "중",
+      "고"
+    ],
+    "regions": [
+      "서울",
+      "온라인"
+    ],
+    "category": "과학·SW·창의",
+    "start": "2026-05-01",
+    "deadline": "2026-08-14",
+    "dday": 0,
+    "status": "접수중",
+    "prize": null,
+    "free": true,
+    "officialUrl": "https://www.k-together.kr/",
+    "summary": "제1회 국민통합 문학공모전 후보입니다. 참가대상·마감일·접수방법은 기관 원본 공고에서 확인하세요.",
+    "conflict": true,
+    "academyRecommendation": {
+      "subjectTags": [
+        "과학",
+        "코딩/SW",
+        "국어/논술"
+      ],
+      "careerTags": [
+        "이공계",
+        "IT/SW"
+      ],
+      "useCaseTags": [
+        "수업연계",
+        "결과물있음",
+        "심화도전"
+      ],
+      "confidence": "중간",
+      "confidenceScore": 78,
+      "reasons": [
+        "과학·코딩/SW 수업과 연결해 학생별 결과물 제작 과제로 활용할 수 있습니다.",
+        "준비 부담이 있는 산출물 또는 전문 분야 단서가 있어 관심 학생의 심화 프로젝트 후보로 적합합니다."
+      ],
+      "evidence": [
+        "참가대상: 중·고",
+        "분야: 과학·SW·창의",
+        "마감까지 0일",
+        "지역/방식: 전국 또는 온라인",
+        "참가비: 무료"
+      ],
+      "warnings": [
+        "기관 원본 링크 또는 검수상태 확인 필요",
+        "제출 형식은 원본 공고에서 확인 필요"
+      ],
+      "programIdeas": [
+        "독서·글쓰기 수업의 2~4주 결과물 프로젝트",
+        "SW 심화반 문제풀이 또는 미니 프로젝트"
+      ]
+    }
+  },
+  {
+    "id": "wevity-108491",
+    "title": "제23회 황순원문학제 백일장",
+    "organizer": "양평군·경희대학교·중앙일보 / 황순원기념사업회·황순원문학촌 소나기마을",
+    "grades": [
+      "초",
+      "중",
+      "고"
+    ],
+    "regions": [
+      "전국"
+    ],
+    "category": "글쓰기·독서",
+    "start": "2026-06-15",
+    "deadline": "2026-08-15",
+    "dday": 1,
+    "status": "접수중",
+    "prize": "100만원",
+    "free": true,
+    "officialUrl": "https://blog.naver.com/sonagivill/224307606859",
+    "summary": "양평군·경희대학교·중앙일보 주최. 참가대상 고등·중등·초등. 대상지역 전국. 자세한 내용은 기관 원본 공고 확인.",
+    "conflict": false,
+    "academyRecommendation": {
+      "subjectTags": [
+        "국어/논술"
+      ],
+      "careerTags": [
+        "인문사회"
+      ],
+      "useCaseTags": [
+        "수업연계",
+        "결과물있음",
+        "학부모안내",
+        "단체참여",
+        "개별추천"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 100,
+      "reasons": [
+        "국어/논술 수업과 연결해 학생별 결과물 제작 과제로 활용할 수 있습니다.",
+        "기관 원본 공고가 확인되어 학부모 안내 자료로 사용하기 전 검토 부담이 낮습니다."
+      ],
+      "evidence": [
+        "참가대상: 초·중·고",
+        "분야: 글쓰기·독서",
+        "마감까지 1일",
+        "지역/방식: 전국 또는 온라인",
+        "참가비: 무료",
+        "기관 원본 공고 확인"
+      ],
+      "warnings": [],
+      "programIdeas": [
+        "독서·글쓰기 수업의 2~4주 결과물 프로젝트"
+      ]
+    }
+  },
+  {
+    "id": "contestkorea-202608070062",
+    "title": "국립생태원 주니어 생태해설사 모집",
+    "organizer": "원본 확인 필요",
+    "grades": [
+      "초",
+      "중"
+    ],
+    "regions": [
+      "경기",
+      "경북",
+      "서울",
+      "충남"
+    ],
+    "category": "과학·SW·창의",
+    "start": "2026-08-10",
+    "deadline": "2026-08-17",
+    "dday": 3,
+    "status": "마감임박",
+    "prize": null,
+    "free": true,
+    "officialUrl": "https://www.twitter.com/contestkorea",
+    "summary": "국립생태원 주니어 생태해설사 모집 후보입니다. 참가대상·마감일·접수방법은 기관 원본 공고에서 확인하세요.",
+    "conflict": false,
+    "academyRecommendation": {
+      "subjectTags": [
+        "과학",
+        "코딩/SW"
+      ],
+      "careerTags": [
+        "이공계",
+        "IT/SW"
+      ],
+      "useCaseTags": [
+        "수업연계",
+        "결과물있음",
+        "학부모안내",
+        "개별추천",
+        "심화도전"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 89,
+      "reasons": [
+        "과학·코딩/SW 수업과 연결해 학생별 결과물 제작 과제로 활용할 수 있습니다.",
+        "기관 원본 공고가 확인되어 학부모 안내 자료로 사용하기 전 검토 부담이 낮습니다.",
+        "준비 부담이 있는 산출물 또는 전문 분야 단서가 있어 관심 학생의 심화 프로젝트 후보로 적합합니다."
+      ],
+      "evidence": [
+        "참가대상: 초·중",
+        "분야: 과학·SW·창의",
+        "마감까지 3일",
+        "지역: 경기·경북·서울·충남",
+        "참가비: 무료",
+        "기관 원본 공고 확인"
+      ],
+      "warnings": [
+        "제출 형식은 원본 공고에서 확인 필요"
+      ],
+      "programIdeas": [
+        "SW 심화반 문제풀이 또는 미니 프로젝트"
+      ]
+    }
+  },
+  {
+    "id": "contestkorea-202608120054",
+    "title": "롯데백화점 앰배서더 2기 모집",
     "organizer": "원본 확인 필요",
     "grades": [
       "초",
@@ -3789,24 +3674,20 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
       "고"
     ],
     "regions": [
-      "강원",
       "경기",
-      "대구",
-      "대전",
+      "경북",
       "서울",
-      "온라인",
-      "충남",
-      "충북"
+      "온라인"
     ],
     "category": "과학·SW·창의",
-    "start": "2026-07-01",
-    "deadline": "2026-08-12",
+    "start": "2026-08-12",
+    "deadline": "2026-08-19",
     "dday": 5,
     "status": "마감임박",
     "prize": null,
     "free": true,
-    "officialUrl": "https://www.lcdc.kr/contest",
-    "summary": "2026 대한민국 국토대전 후보입니다. 참가대상·마감일·접수방법은 기관 원본 공고에서 확인하세요.",
+    "officialUrl": "https://www.lottedptambassadors.co.kr",
+    "summary": "롯데백화점 앰배서더 2기 모집 후보입니다. 참가대상·마감일·접수방법은 기관 원본 공고에서 확인하세요.",
     "conflict": false,
     "academyRecommendation": {
       "subjectTags": [
@@ -3848,8 +3729,8 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
     }
   },
   {
-    "id": "contestkorea-202608040038",
-    "title": "<2026 겨레얼살리기 홍보 동영상 공모전> 국민참여 심사위원 모집 안내",
+    "id": "contestkorea-202608110068",
+    "title": "롯데백화점 앰배서더 2기 모집",
     "organizer": "원본 확인 필요",
     "grades": [
       "초",
@@ -3857,152 +3738,20 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
       "고"
     ],
     "regions": [
-      "강원",
       "경기",
-      "대구",
-      "대전",
-      "서울",
-      "온라인",
-      "충북"
-    ],
-    "category": "과학·SW·창의",
-    "start": "2026-08-04",
-    "deadline": "2026-08-13",
-    "dday": 6,
-    "status": "마감임박",
-    "prize": null,
-    "free": true,
-    "officialUrl": "http://www.koreaspirit.org/bbs/board.php?bo_table=notice&wr_id=168",
-    "summary": "<2026 겨레얼살리기 홍보 동영상 공모전> 국민참여 심사위원 모집 안내 후보입니다. 참가대상·마감일·접수방법은 기관 원본 공고에서 확인하세요.",
-    "conflict": false,
-    "academyRecommendation": {
-      "subjectTags": [
-        "과학",
-        "코딩/SW",
-        "영상/미디어"
-      ],
-      "careerTags": [
-        "이공계",
-        "IT/SW",
-        "미디어"
-      ],
-      "useCaseTags": [
-        "수업연계",
-        "결과물있음",
-        "학부모안내",
-        "개별추천",
-        "심화도전"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 100,
-      "reasons": [
-        "과학·코딩/SW 수업과 연결해 학생별 결과물 제작 과제로 활용할 수 있습니다.",
-        "기관 원본 공고가 확인되어 학부모 안내 자료로 사용하기 전 검토 부담이 낮습니다.",
-        "준비 부담이 있는 산출물 또는 전문 분야 단서가 있어 관심 학생의 심화 프로젝트 후보로 적합합니다."
-      ],
-      "evidence": [
-        "참가대상: 초·중·고",
-        "분야: 과학·SW·창의",
-        "마감까지 6일",
-        "지역/방식: 전국 또는 온라인",
-        "참가비: 무료",
-        "기관 원본 공고 확인"
-      ],
-      "warnings": [],
-      "programIdeas": [
-        "SW 심화반 문제풀이 또는 미니 프로젝트",
-        "기획안 작성부터 촬영·편집까지 이어지는 영상 제작 특강"
-      ]
-    }
-  },
-  {
-    "id": "allcon-538193",
-    "title": "2026 해양생물 콘텐츠 공모전",
-    "organizer": "원본 확인 필요",
-    "grades": [
-      "초",
-      "중"
-    ],
-    "regions": [
+      "경북",
       "서울",
       "온라인"
     ],
     "category": "과학·SW·창의",
-    "start": "2026-06-04",
-    "deadline": "2026-08-14",
-    "dday": 7,
-    "status": "접수중",
-    "prize": null,
-    "free": true,
-    "officialUrl": "https://www.meis.go.kr/inform/contest/view1.do",
-    "summary": "2026 해양생물 콘텐츠 공모전 후보입니다. 참가대상·마감일·접수방법은 기관 원본 공고에서 확인하세요.",
-    "conflict": false,
-    "academyRecommendation": {
-      "subjectTags": [
-        "과학",
-        "코딩/SW",
-        "영상/미디어"
-      ],
-      "careerTags": [
-        "이공계",
-        "IT/SW",
-        "미디어"
-      ],
-      "useCaseTags": [
-        "수업연계",
-        "결과물있음",
-        "학부모안내",
-        "심화도전"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 92,
-      "reasons": [
-        "과학·코딩/SW 수업과 연결해 학생별 결과물 제작 과제로 활용할 수 있습니다.",
-        "기관 원본 공고가 확인되어 학부모 안내 자료로 사용하기 전 검토 부담이 낮습니다.",
-        "준비 부담이 있는 산출물 또는 전문 분야 단서가 있어 관심 학생의 심화 프로젝트 후보로 적합합니다."
-      ],
-      "evidence": [
-        "참가대상: 초·중",
-        "분야: 과학·SW·창의",
-        "마감까지 7일",
-        "지역/방식: 전국 또는 온라인",
-        "참가비: 무료",
-        "기관 원본 공고 확인"
-      ],
-      "warnings": [
-        "제출 형식은 원본 공고에서 확인 필요"
-      ],
-      "programIdeas": [
-        "SW 심화반 문제풀이 또는 미니 프로젝트",
-        "기획안 작성부터 촬영·편집까지 이어지는 영상 제작 특강"
-      ]
-    }
-  },
-  {
-    "id": "contestkorea-202607270057",
-    "title": "2026년 강남어린이회관 [어린이 안전 모니터링단] 모집",
-    "organizer": "원본 확인 필요",
-    "grades": [
-      "초"
-    ],
-    "regions": [
-      "강원",
-      "경기",
-      "대구",
-      "대전",
-      "서울",
-      "온라인",
-      "충북"
-    ],
-    "category": "과학·SW·창의",
-    "start": "2026-07-27",
-    "deadline": "2026-08-14",
-    "dday": 7,
+    "start": "2026-08-12",
+    "deadline": "2026-08-19",
+    "dday": 5,
     "status": "마감임박",
     "prize": null,
     "free": true,
-    "officialUrl": "https://forms.gle/13VBLZBi3gDnif5bA",
-    "summary": "2026년 강남어린이회관 [어린이 안전 모니터링단] 모집 후보입니다. 참가대상·마감일·접수방법은 기관 원본 공고에서 확인하세요.",
+    "officialUrl": "https://www.lottedptambassadors.co.kr/apply ",
+    "summary": "롯데백화점 앰배서더 2기 모집 후보입니다. 참가대상·마감일·접수방법은 기관 원본 공고에서 확인하세요.",
     "conflict": false,
     "academyRecommendation": {
       "subjectTags": [
@@ -4028,9 +3777,9 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
         "준비 부담이 있는 산출물 또는 전문 분야 단서가 있어 관심 학생의 심화 프로젝트 후보로 적합합니다."
       ],
       "evidence": [
-        "참가대상: 초",
+        "참가대상: 초·중·고",
         "분야: 과학·SW·창의",
-        "마감까지 7일",
+        "마감까지 5일",
         "지역/방식: 전국 또는 온라인",
         "참가비: 무료",
         "기관 원본 공고 확인"
@@ -4044,101 +3793,33 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
     }
   },
   {
-    "id": "contestkorea-202608070088",
-    "title": "농림수산식품교육문화정보원 농촌에서 보낸 나만의 하루 영상 공모",
+    "id": "contestkorea-202608070082",
+    "title": "청소년 자기이해교육 주니어마인드클래스 <청년 멘토 양성 과정> 모집",
     "organizer": "원본 확인 필요",
     "grades": [
-      "초",
       "중",
       "고"
     ],
     "regions": [
-      "강원",
       "경기",
-      "대구",
-      "대전",
-      "서울",
-      "온라인",
-      "충남",
-      "충북"
-    ],
-    "category": "과학·SW·창의",
-    "start": "2026-07-27",
-    "deadline": "2026-08-14",
-    "dday": 7,
-    "status": "마감임박",
-    "prize": null,
-    "free": true,
-    "officialUrl": "https://docs.google.com/forms/d/1eOL5BXF6CvyHSyWlqx7iPtyVc2eqohZnJnF8H6fsHVM/viewform?edit_requested=true",
-    "summary": "농림수산식품교육문화정보원 농촌에서 보낸 나만의 하루 영상 공모 후보입니다. 참가대상·마감일·접수방법은 기관 원본 공고에서 확인하세요.",
-    "conflict": false,
-    "academyRecommendation": {
-      "subjectTags": [
-        "과학",
-        "코딩/SW",
-        "영상/미디어"
-      ],
-      "careerTags": [
-        "이공계",
-        "IT/SW",
-        "미디어"
-      ],
-      "useCaseTags": [
-        "수업연계",
-        "결과물있음",
-        "학부모안내",
-        "개별추천",
-        "심화도전"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 100,
-      "reasons": [
-        "과학·코딩/SW 수업과 연결해 학생별 결과물 제작 과제로 활용할 수 있습니다.",
-        "기관 원본 공고가 확인되어 학부모 안내 자료로 사용하기 전 검토 부담이 낮습니다.",
-        "준비 부담이 있는 산출물 또는 전문 분야 단서가 있어 관심 학생의 심화 프로젝트 후보로 적합합니다."
-      ],
-      "evidence": [
-        "참가대상: 초·중·고",
-        "분야: 과학·SW·창의",
-        "마감까지 7일",
-        "지역/방식: 전국 또는 온라인",
-        "참가비: 무료",
-        "기관 원본 공고 확인"
-      ],
-      "warnings": [],
-      "programIdeas": [
-        "SW 심화반 문제풀이 또는 미니 프로젝트",
-        "기획안 작성부터 촬영·편집까지 이어지는 영상 제작 특강"
-      ]
-    }
-  },
-  {
-    "id": "allcon-536489",
-    "title": "제1회 국민통합 문학공모전",
-    "organizer": "원본 확인 필요",
-    "grades": [
-      "중",
-      "고"
-    ],
-    "regions": [
+      "경북",
       "서울",
       "온라인"
     ],
     "category": "과학·SW·창의",
-    "start": "2026-05-01",
-    "deadline": "2026-08-14",
-    "dday": 7,
-    "status": "접수중",
+    "start": "2026-08-07",
+    "deadline": "2026-08-19",
+    "dday": 5,
+    "status": "마감임박",
     "prize": null,
     "free": true,
-    "officialUrl": "https://www.k-together.kr/",
-    "summary": "제1회 국민통합 문학공모전 후보입니다. 참가대상·마감일·접수방법은 기관 원본 공고에서 확인하세요.",
+    "officialUrl": "https://forms.gle/mThCpxU3MWRJHHoX8",
+    "summary": "청소년 자기이해교육 주니어마인드클래스 <청년 멘토 양성 과정> 모집 후보입니다. 참가대상·마감일·접수방법은 기관 원본 공고에서 확인하세요.",
     "conflict": true,
     "academyRecommendation": {
       "subjectTags": [
         "과학",
-        "코딩/SW",
-        "국어/논술"
+        "코딩/SW"
       ],
       "careerTags": [
         "이공계",
@@ -4147,6 +3828,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
       "useCaseTags": [
         "수업연계",
         "결과물있음",
+        "개별추천",
         "심화도전"
       ],
       "confidence": "중간",
@@ -4158,7 +3840,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
       "evidence": [
         "참가대상: 중·고",
         "분야: 과학·SW·창의",
-        "마감까지 7일",
+        "마감까지 5일",
         "지역/방식: 전국 또는 온라인",
         "참가비: 무료"
       ],
@@ -4167,135 +3849,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
         "제출 형식은 원본 공고에서 확인 필요"
       ],
       "programIdeas": [
-        "독서·글쓰기 수업의 2~4주 결과물 프로젝트",
         "SW 심화반 문제풀이 또는 미니 프로젝트"
-      ]
-    }
-  },
-  {
-    "id": "wevity-108491",
-    "title": "제23회 황순원문학제 백일장",
-    "organizer": "양평군·경희대학교·중앙일보 / 황순원기념사업회·황순원문학촌 소나기마을",
-    "grades": [
-      "초",
-      "중",
-      "고"
-    ],
-    "regions": [
-      "전국"
-    ],
-    "category": "글쓰기·독서",
-    "start": "2026-06-15",
-    "deadline": "2026-08-15",
-    "dday": 8,
-    "status": "접수중",
-    "prize": "100만원",
-    "free": true,
-    "officialUrl": "https://blog.naver.com/sonagivill/224307606859",
-    "summary": "양평군·경희대학교·중앙일보 주최. 참가대상 고등·중등·초등. 대상지역 전국. 자세한 내용은 기관 원본 공고 확인.",
-    "conflict": false,
-    "academyRecommendation": {
-      "subjectTags": [
-        "국어/논술"
-      ],
-      "careerTags": [
-        "인문사회"
-      ],
-      "useCaseTags": [
-        "수업연계",
-        "결과물있음",
-        "학부모안내",
-        "단체참여",
-        "개별추천"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 100,
-      "reasons": [
-        "국어/논술 수업과 연결해 학생별 결과물 제작 과제로 활용할 수 있습니다.",
-        "기관 원본 공고가 확인되어 학부모 안내 자료로 사용하기 전 검토 부담이 낮습니다."
-      ],
-      "evidence": [
-        "참가대상: 초·중·고",
-        "분야: 글쓰기·독서",
-        "마감까지 8일",
-        "지역/방식: 전국 또는 온라인",
-        "참가비: 무료",
-        "기관 원본 공고 확인"
-      ],
-      "warnings": [],
-      "programIdeas": [
-        "독서·글쓰기 수업의 2~4주 결과물 프로젝트"
-      ]
-    }
-  },
-  {
-    "id": "contestkorea-202607270030",
-    "title": "2026 충남 독서대전 숏폼 공모전",
-    "organizer": "원본 확인 필요",
-    "grades": [
-      "초",
-      "중",
-      "고"
-    ],
-    "regions": [
-      "강원",
-      "경기",
-      "대구",
-      "대전",
-      "서울",
-      "온라인",
-      "충남",
-      "충북"
-    ],
-    "category": "과학·SW·창의",
-    "start": "2026-07-27",
-    "deadline": "2026-08-21",
-    "dday": 14,
-    "status": "접수중",
-    "prize": null,
-    "free": true,
-    "officialUrl": "https://www.twitter.com/contestkorea",
-    "summary": "2026 충남 독서대전 숏폼 공모전 후보입니다. 참가대상·마감일·접수방법은 기관 원본 공고에서 확인하세요.",
-    "conflict": false,
-    "academyRecommendation": {
-      "subjectTags": [
-        "과학",
-        "코딩/SW",
-        "국어/논술",
-        "영상/미디어"
-      ],
-      "careerTags": [
-        "이공계",
-        "IT/SW",
-        "미디어"
-      ],
-      "useCaseTags": [
-        "수업연계",
-        "결과물있음",
-        "학부모안내",
-        "개별추천",
-        "심화도전"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 100,
-      "reasons": [
-        "과학·코딩/SW 수업과 연결해 학생별 결과물 제작 과제로 활용할 수 있습니다.",
-        "기관 원본 공고가 확인되어 학부모 안내 자료로 사용하기 전 검토 부담이 낮습니다.",
-        "준비 부담이 있는 산출물 또는 전문 분야 단서가 있어 관심 학생의 심화 프로젝트 후보로 적합합니다."
-      ],
-      "evidence": [
-        "참가대상: 초·중·고",
-        "분야: 과학·SW·창의",
-        "마감까지 14일",
-        "지역/방식: 전국 또는 온라인",
-        "참가비: 무료",
-        "기관 원본 공고 확인"
-      ],
-      "warnings": [],
-      "programIdeas": [
-        "독서·글쓰기 수업의 2~4주 결과물 프로젝트",
-        "SW 심화반 문제풀이 또는 미니 프로젝트",
-        "기획안 작성부터 촬영·편집까지 이어지는 영상 제작 특강"
       ]
     }
   },
@@ -4322,7 +3876,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
     "category": "과학·SW·창의",
     "start": "2026-06-22",
     "deadline": "2026-08-21",
-    "dday": 14,
+    "dday": 7,
     "status": "접수중",
     "prize": null,
     "free": true,
@@ -4355,7 +3909,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
       "evidence": [
         "참가대상: 초·중·고",
         "분야: 과학·SW·창의",
-        "마감까지 14일",
+        "마감까지 7일",
         "지역/방식: 전국 또는 온라인",
         "참가비: 무료",
         "제출물 단서: 영상/SW/보고서/창업 등 준비 부담 가능"
@@ -4392,7 +3946,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
     "category": "과학·SW·창의",
     "start": "2026-06-22",
     "deadline": "2026-08-21",
-    "dday": 14,
+    "dday": 7,
     "status": "접수중",
     "prize": null,
     "free": true,
@@ -4413,20 +3967,18 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
       "useCaseTags": [
         "수업연계",
         "결과물있음",
-        "초보도전",
         "심화도전"
       ],
       "confidence": "높음",
       "confidenceScore": 86,
       "reasons": [
-        "참가대상·마감여유·무료/전국 조건과 가벼운 제출물 단서가 있어 첫 도전 후보로 검토할 수 있습니다.",
         "과학·코딩/SW 수업과 연결해 학생별 결과물 제작 과제로 활용할 수 있습니다.",
         "준비 부담이 있는 산출물 또는 전문 분야 단서가 있어 관심 학생의 심화 프로젝트 후보로 적합합니다."
       ],
       "evidence": [
         "참가대상: 초·중·고",
         "분야: 과학·SW·창의",
-        "마감까지 14일",
+        "마감까지 7일",
         "지역/방식: 전국 또는 온라인",
         "참가비: 무료",
         "제출물 단서: 글/그림/아이디어 등 비교적 가벼운 산출물"
@@ -4453,7 +4005,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
     "category": "과학·SW·창의",
     "start": "2026-08-14",
     "deadline": "2026-08-22",
-    "dday": 15,
+    "dday": 8,
     "status": "접수예정",
     "prize": null,
     "free": true,
@@ -4484,7 +4036,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
       "evidence": [
         "참가대상: 고",
         "분야: 과학·SW·창의",
-        "마감까지 15일",
+        "마감까지 8일",
         "지역: 서울",
         "참가비: 무료"
       ],
@@ -4513,7 +4065,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
     "category": "미술·디자인·영상",
     "start": "2026-05-26",
     "deadline": "2026-08-22",
-    "dday": 15,
+    "dday": 8,
     "status": "접수중",
     "prize": null,
     "free": true,
@@ -4546,7 +4098,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
       "evidence": [
         "참가대상: 초·중·고",
         "분야: 미술·디자인·영상",
-        "마감까지 15일",
+        "마감까지 8일",
         "지역/방식: 전국 또는 온라인",
         "참가비: 무료",
         "기관 원본 공고 확인"
@@ -4559,36 +4111,35 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
     }
   },
   {
-    "id": "contestkorea-202608050008",
-    "title": "2026 경남대학교 게임아카데미 기초과정 교육생 모집 — Game Creator Level-Up",
+    "id": "contestkorea-202608140023",
+    "title": "2026년 성남시 규제혁신 아이디어 공모전",
     "organizer": "원본 확인 필요",
     "grades": [
+      "초",
+      "중",
       "고"
     ],
     "regions": [
-      "강원",
       "경기",
-      "경남",
-      "대구",
-      "대전",
-      "서울",
-      "온라인",
-      "충북"
+      "경북",
+      "서울"
     ],
     "category": "과학·SW·창의",
-    "start": "2026-08-05",
+    "start": "2026-08-24",
     "deadline": "2026-08-24",
-    "dday": 17,
-    "status": "접수중",
+    "dday": 10,
+    "status": "접수예정",
     "prize": null,
     "free": true,
-    "officialUrl": "https://naver.me/GYDJtK52",
-    "summary": "2026 경남대학교 게임아카데미 기초과정 교육생 모집 — Game Creator Level-Up 후보입니다. 참가대상·마감일·접수방법은 기관 원본 공고에서 확인하세요.",
+    "officialUrl": "https://www.twitter.com/contestkorea",
+    "summary": "2026년 성남시 규제혁신 아이디어 공모전 후보입니다. 참가대상·마감일·접수방법은 기관 원본 공고에서 확인하세요.",
     "conflict": false,
     "academyRecommendation": {
       "subjectTags": [
         "과학",
-        "코딩/SW"
+        "코딩/SW",
+        "국어/논술",
+        "진로/경제"
       ],
       "careerTags": [
         "이공계",
@@ -4598,36 +4149,34 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
         "수업연계",
         "결과물있음",
         "학부모안내",
-        "단체참여",
-        "개별추천",
         "심화도전"
       ],
       "confidence": "높음",
-      "confidenceScore": 92,
+      "confidenceScore": 97,
       "reasons": [
         "과학·코딩/SW 수업과 연결해 학생별 결과물 제작 과제로 활용할 수 있습니다.",
         "기관 원본 공고가 확인되어 학부모 안내 자료로 사용하기 전 검토 부담이 낮습니다.",
         "준비 부담이 있는 산출물 또는 전문 분야 단서가 있어 관심 학생의 심화 프로젝트 후보로 적합합니다."
       ],
       "evidence": [
-        "참가대상: 고",
+        "참가대상: 초·중·고",
         "분야: 과학·SW·창의",
-        "마감까지 17일",
-        "지역/방식: 전국 또는 온라인",
+        "마감까지 10일",
+        "지역: 경기·경북·서울",
         "참가비: 무료",
         "기관 원본 공고 확인"
       ],
-      "warnings": [
-        "제출 형식은 원본 공고에서 확인 필요"
-      ],
+      "warnings": [],
       "programIdeas": [
-        "SW 심화반 문제풀이 또는 미니 프로젝트"
+        "독서·글쓰기 수업의 2~4주 결과물 프로젝트",
+        "SW 심화반 문제풀이 또는 미니 프로젝트",
+        "아이디어 발굴과 발표자료 제작 진로 프로젝트"
       ]
     }
   },
   {
-    "id": "contestkorea-202608050012",
-    "title": "2026년 푸드뱅크 서포터즈 모집",
+    "id": "contestkorea-202608110040",
+    "title": "[100% 전액 무료 교육] 드디어, 동그라미재단 AI 아카데미 6기 서울 모집!",
     "organizer": "원본 확인 필요",
     "grades": [
       "초",
@@ -4635,23 +4184,20 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
       "고"
     ],
     "regions": [
-      "강원",
       "경기",
-      "대구",
-      "대전",
+      "경북",
       "서울",
-      "온라인",
-      "충북"
+      "온라인"
     ],
     "category": "과학·SW·창의",
-    "start": "2026-08-05",
+    "start": "2026-08-23",
     "deadline": "2026-08-24",
-    "dday": 17,
-    "status": "접수중",
+    "dday": 10,
+    "status": "접수예정",
     "prize": null,
     "free": true,
-    "officialUrl": "https://www.twitter.com/contestkorea",
-    "summary": "2026년 푸드뱅크 서포터즈 모집 후보입니다. 참가대상·마감일·접수방법은 기관 원본 공고에서 확인하세요.",
+    "officialUrl": "https://thecircle.career.greetinghr.com/ko/thecircle-ai4",
+    "summary": "[100% 전액 무료 교육] 드디어, 동그라미재단 AI 아카데미 6기 서울 모집! 후보입니다. 참가대상·마감일·접수방법은 기관 원본 공고에서 확인하세요.",
     "conflict": false,
     "academyRecommendation": {
       "subjectTags": [
@@ -4679,7 +4225,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
       "evidence": [
         "참가대상: 초·중·고",
         "분야: 과학·SW·창의",
-        "마감까지 17일",
+        "마감까지 10일",
         "지역/방식: 전국 또는 온라인",
         "참가비: 무료",
         "기관 원본 공고 확인"
@@ -4689,73 +4235,6 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
       ],
       "programIdeas": [
         "SW 심화반 문제풀이 또는 미니 프로젝트"
-      ]
-    }
-  },
-  {
-    "id": "contestkorea-202607240017",
-    "title": "남이섬 AI 영상 광고 숏폼 공모전",
-    "organizer": "원본 확인 필요",
-    "grades": [
-      "고"
-    ],
-    "regions": [
-      "강원",
-      "경기",
-      "대구",
-      "대전",
-      "서울",
-      "온라인",
-      "충남",
-      "충북"
-    ],
-    "category": "과학·SW·창의",
-    "start": "2026-07-24",
-    "deadline": "2026-08-24",
-    "dday": 17,
-    "status": "접수중",
-    "prize": null,
-    "free": true,
-    "officialUrl": "https://answer.moaform.com/answers/EQYnLZ",
-    "summary": "남이섬 AI 영상 광고 숏폼 공모전 후보입니다. 참가대상·마감일·접수방법은 기관 원본 공고에서 확인하세요.",
-    "conflict": false,
-    "academyRecommendation": {
-      "subjectTags": [
-        "과학",
-        "코딩/SW",
-        "영상/미디어"
-      ],
-      "careerTags": [
-        "이공계",
-        "IT/SW",
-        "미디어"
-      ],
-      "useCaseTags": [
-        "수업연계",
-        "결과물있음",
-        "학부모안내",
-        "개별추천",
-        "심화도전"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 100,
-      "reasons": [
-        "과학·코딩/SW 수업과 연결해 학생별 결과물 제작 과제로 활용할 수 있습니다.",
-        "기관 원본 공고가 확인되어 학부모 안내 자료로 사용하기 전 검토 부담이 낮습니다.",
-        "준비 부담이 있는 산출물 또는 전문 분야 단서가 있어 관심 학생의 심화 프로젝트 후보로 적합합니다."
-      ],
-      "evidence": [
-        "참가대상: 고",
-        "분야: 과학·SW·창의",
-        "마감까지 17일",
-        "지역/방식: 전국 또는 온라인",
-        "참가비: 무료",
-        "기관 원본 공고 확인"
-      ],
-      "warnings": [],
-      "programIdeas": [
-        "SW 심화반 문제풀이 또는 미니 프로젝트",
-        "기획안 작성부터 촬영·편집까지 이어지는 영상 제작 특강"
       ]
     }
   },
@@ -4774,7 +4253,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
     "category": "과학·SW·창의",
     "start": "2026-07-01",
     "deadline": "2026-08-24",
-    "dday": 17,
+    "dday": 10,
     "status": "접수중",
     "prize": null,
     "free": true,
@@ -4805,7 +4284,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
       "evidence": [
         "참가대상: 중·고",
         "분야: 과학·SW·창의",
-        "마감까지 17일",
+        "마감까지 10일",
         "지역/방식: 전국 또는 온라인",
         "참가비: 무료"
       ],
@@ -4813,6 +4292,328 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
         "기관 원본 링크 또는 검수상태 확인 필요",
         "제출 형식은 원본 공고에서 확인 필요"
       ],
+      "programIdeas": [
+        "SW 심화반 문제풀이 또는 미니 프로젝트"
+      ]
+    }
+  },
+  {
+    "id": "contestkorea-202608060003",
+    "title": "[굿네이버스] AI 캠페인 크리에이터 2기 | 아이디어를 AI디어로",
+    "organizer": "원본 확인 필요",
+    "grades": [
+      "초",
+      "중",
+      "고"
+    ],
+    "regions": [
+      "경기",
+      "경북",
+      "서울",
+      "온라인"
+    ],
+    "category": "과학·SW·창의",
+    "start": "2026-08-06",
+    "deadline": "2026-08-26",
+    "dday": 12,
+    "status": "접수중",
+    "prize": null,
+    "free": true,
+    "officialUrl": "https://www.twitter.com/contestkorea",
+    "summary": "[굿네이버스] AI 캠페인 크리에이터 2기 | 아이디어를 AI디어로 후보입니다. 참가대상·마감일·접수방법은 기관 원본 공고에서 확인하세요.",
+    "conflict": false,
+    "academyRecommendation": {
+      "subjectTags": [
+        "과학",
+        "코딩/SW",
+        "진로/경제",
+        "사회/환경"
+      ],
+      "careerTags": [
+        "이공계",
+        "IT/SW",
+        "환경/공공"
+      ],
+      "useCaseTags": [
+        "수업연계",
+        "결과물있음",
+        "학부모안내",
+        "단체참여",
+        "심화도전"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 100,
+      "reasons": [
+        "과학·코딩/SW 수업과 연결해 학생별 결과물 제작 과제로 활용할 수 있습니다.",
+        "기관 원본 공고가 확인되어 학부모 안내 자료로 사용하기 전 검토 부담이 낮습니다.",
+        "준비 부담이 있는 산출물 또는 전문 분야 단서가 있어 관심 학생의 심화 프로젝트 후보로 적합합니다."
+      ],
+      "evidence": [
+        "참가대상: 초·중·고",
+        "분야: 과학·SW·창의",
+        "마감까지 12일",
+        "지역/방식: 전국 또는 온라인",
+        "참가비: 무료",
+        "기관 원본 공고 확인"
+      ],
+      "warnings": [],
+      "programIdeas": [
+        "SW 심화반 문제풀이 또는 미니 프로젝트",
+        "환경·사회 이슈 탐구 후 캠페인 산출물 만들기",
+        "아이디어 발굴과 발표자료 제작 진로 프로젝트"
+      ]
+    }
+  },
+  {
+    "id": "contestkorea-202608120084",
+    "title": "「AI로 만드는 나의 실감세계」 — 2026 SUMMER WEEK AI+XR 공모전",
+    "organizer": "원본 확인 필요",
+    "grades": [
+      "초",
+      "중",
+      "고"
+    ],
+    "regions": [
+      "경기",
+      "경북",
+      "대전",
+      "서울",
+      "온라인",
+      "충남"
+    ],
+    "category": "과학·SW·창의",
+    "start": "2026-08-05",
+    "deadline": "2026-08-26",
+    "dday": 12,
+    "status": "접수중",
+    "prize": null,
+    "free": true,
+    "officialUrl": "https://forms.gle/6eb8qfsmEaGUvjLC9",
+    "summary": "「AI로 만드는 나의 실감세계」 — 2026 SUMMER WEEK AI+XR 공모전 후보입니다. 참가대상·마감일·접수방법은 기관 원본 공고에서 확인하세요.",
+    "conflict": false,
+    "academyRecommendation": {
+      "subjectTags": [
+        "과학",
+        "코딩/SW"
+      ],
+      "careerTags": [
+        "이공계",
+        "IT/SW"
+      ],
+      "useCaseTags": [
+        "수업연계",
+        "결과물있음",
+        "학부모안내",
+        "개별추천",
+        "심화도전"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 92,
+      "reasons": [
+        "과학·코딩/SW 수업과 연결해 학생별 결과물 제작 과제로 활용할 수 있습니다.",
+        "기관 원본 공고가 확인되어 학부모 안내 자료로 사용하기 전 검토 부담이 낮습니다.",
+        "준비 부담이 있는 산출물 또는 전문 분야 단서가 있어 관심 학생의 심화 프로젝트 후보로 적합합니다."
+      ],
+      "evidence": [
+        "참가대상: 초·중·고",
+        "분야: 과학·SW·창의",
+        "마감까지 12일",
+        "지역/방식: 전국 또는 온라인",
+        "참가비: 무료",
+        "기관 원본 공고 확인"
+      ],
+      "warnings": [
+        "제출 형식은 원본 공고에서 확인 필요"
+      ],
+      "programIdeas": [
+        "SW 심화반 문제풀이 또는 미니 프로젝트"
+      ]
+    }
+  },
+  {
+    "id": "contestkorea-202608140007",
+    "title": "국가유산 디지털 홍보대사 9기 모집",
+    "organizer": "원본 확인 필요",
+    "grades": [
+      "중",
+      "고"
+    ],
+    "regions": [
+      "경기",
+      "경북",
+      "서울",
+      "온라인"
+    ],
+    "category": "과학·SW·창의",
+    "start": "2026-08-04",
+    "deadline": "2026-08-26",
+    "dday": 12,
+    "status": "접수중",
+    "prize": null,
+    "free": true,
+    "officialUrl": "https://forms.gle/5rmBszV1fCEUn2oBA",
+    "summary": "국가유산 디지털 홍보대사 9기 모집 후보입니다. 참가대상·마감일·접수방법은 기관 원본 공고에서 확인하세요.",
+    "conflict": false,
+    "academyRecommendation": {
+      "subjectTags": [
+        "과학",
+        "코딩/SW"
+      ],
+      "careerTags": [
+        "이공계",
+        "IT/SW"
+      ],
+      "useCaseTags": [
+        "수업연계",
+        "결과물있음",
+        "학부모안내",
+        "개별추천",
+        "심화도전"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 92,
+      "reasons": [
+        "과학·코딩/SW 수업과 연결해 학생별 결과물 제작 과제로 활용할 수 있습니다.",
+        "기관 원본 공고가 확인되어 학부모 안내 자료로 사용하기 전 검토 부담이 낮습니다.",
+        "준비 부담이 있는 산출물 또는 전문 분야 단서가 있어 관심 학생의 심화 프로젝트 후보로 적합합니다."
+      ],
+      "evidence": [
+        "참가대상: 중·고",
+        "분야: 과학·SW·창의",
+        "마감까지 12일",
+        "지역/방식: 전국 또는 온라인",
+        "참가비: 무료",
+        "기관 원본 공고 확인"
+      ],
+      "warnings": [
+        "제출 형식은 원본 공고에서 확인 필요"
+      ],
+      "programIdeas": [
+        "SW 심화반 문제풀이 또는 미니 프로젝트"
+      ]
+    }
+  },
+  {
+    "id": "contestkorea-202608130048",
+    "title": "오픈AI 게임 빌더스 서울",
+    "organizer": "원본 확인 필요",
+    "grades": [
+      "초",
+      "중",
+      "고"
+    ],
+    "regions": [
+      "경기",
+      "경북",
+      "서울",
+      "온라인"
+    ],
+    "category": "과학·SW·창의",
+    "start": "2026-08-04",
+    "deadline": "2026-08-26",
+    "dday": 12,
+    "status": "접수중",
+    "prize": null,
+    "free": true,
+    "officialUrl": "https://openaigame2026.com/#submit",
+    "summary": "오픈AI 게임 빌더스 서울 후보입니다. 참가대상·마감일·접수방법은 기관 원본 공고에서 확인하세요.",
+    "conflict": false,
+    "academyRecommendation": {
+      "subjectTags": [
+        "과학",
+        "코딩/SW"
+      ],
+      "careerTags": [
+        "이공계",
+        "IT/SW"
+      ],
+      "useCaseTags": [
+        "수업연계",
+        "결과물있음",
+        "학부모안내",
+        "개별추천",
+        "심화도전"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 92,
+      "reasons": [
+        "과학·코딩/SW 수업과 연결해 학생별 결과물 제작 과제로 활용할 수 있습니다.",
+        "기관 원본 공고가 확인되어 학부모 안내 자료로 사용하기 전 검토 부담이 낮습니다.",
+        "준비 부담이 있는 산출물 또는 전문 분야 단서가 있어 관심 학생의 심화 프로젝트 후보로 적합합니다."
+      ],
+      "evidence": [
+        "참가대상: 초·중·고",
+        "분야: 과학·SW·창의",
+        "마감까지 12일",
+        "지역/방식: 전국 또는 온라인",
+        "참가비: 무료",
+        "기관 원본 공고 확인"
+      ],
+      "warnings": [
+        "제출 형식은 원본 공고에서 확인 필요"
+      ],
+      "programIdeas": [
+        "SW 심화반 문제풀이 또는 미니 프로젝트"
+      ]
+    }
+  },
+  {
+    "id": "contestkorea-202608110045",
+    "title": "학교 밖 청소년 자아탐색 창작 프로젝트 <TMI 프로젝트 21기> 모집",
+    "organizer": "원본 확인 필요",
+    "grades": [
+      "중",
+      "고"
+    ],
+    "regions": [
+      "경기",
+      "경북",
+      "서울",
+      "온라인"
+    ],
+    "category": "과학·SW·창의",
+    "start": "2026-08-11",
+    "deadline": "2026-08-26",
+    "dday": 12,
+    "status": "접수중",
+    "prize": null,
+    "free": true,
+    "officialUrl": "https://docs.google.com/forms/d/e/1FAIpQLSe_2falICQJs_Y_uw3zkYr1tWKTdVySd8SLPVFIi7OXNsPBWg/viewform",
+    "summary": "학교 밖 청소년 자아탐색 창작 프로젝트 <TMI 프로젝트 21기> 모집 후보입니다. 참가대상·마감일·접수방법은 기관 원본 공고에서 확인하세요.",
+    "conflict": false,
+    "academyRecommendation": {
+      "subjectTags": [
+        "과학",
+        "코딩/SW"
+      ],
+      "careerTags": [
+        "이공계",
+        "IT/SW"
+      ],
+      "useCaseTags": [
+        "수업연계",
+        "결과물있음",
+        "학부모안내",
+        "단체참여",
+        "개별추천",
+        "심화도전"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 100,
+      "reasons": [
+        "과학·코딩/SW 수업과 연결해 학생별 결과물 제작 과제로 활용할 수 있습니다.",
+        "기관 원본 공고가 확인되어 학부모 안내 자료로 사용하기 전 검토 부담이 낮습니다.",
+        "준비 부담이 있는 산출물 또는 전문 분야 단서가 있어 관심 학생의 심화 프로젝트 후보로 적합합니다."
+      ],
+      "evidence": [
+        "참가대상: 중·고",
+        "분야: 과학·SW·창의",
+        "마감까지 12일",
+        "지역/방식: 전국 또는 온라인",
+        "참가비: 무료",
+        "기관 원본 공고 확인"
+      ],
+      "warnings": [],
       "programIdeas": [
         "SW 심화반 문제풀이 또는 미니 프로젝트"
       ]
@@ -4832,7 +4633,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
     "category": "미술·디자인·영상",
     "start": "2026-06-25",
     "deadline": "2026-08-27",
-    "dday": 20,
+    "dday": 13,
     "status": "접수중",
     "prize": null,
     "free": true,
@@ -4863,7 +4664,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
       "evidence": [
         "참가대상: 중·고",
         "분야: 미술·디자인·영상",
-        "마감까지 20일",
+        "마감까지 13일",
         "지역: 서울",
         "참가비: 무료",
         "제출물 단서: 영상/SW/보고서/창업 등 준비 부담 가능"
@@ -4878,8 +4679,8 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
     }
   },
   {
-    "id": "contestkorea-202607240035",
-    "title": "2026년 통일부 공공데이터 활용 공모전",
+    "id": "contestkorea-202607300029",
+    "title": "2026 고성국가유산 야행",
     "organizer": "원본 확인 필요",
     "grades": [
       "초",
@@ -4887,56 +4688,49 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
       "고"
     ],
     "regions": [
-      "강원",
       "경기",
-      "대구",
-      "대전",
-      "서울",
-      "온라인",
-      "충남",
-      "충북"
+      "경남",
+      "경북",
+      "서울"
     ],
     "category": "과학·SW·창의",
-    "start": "2026-07-27",
+    "start": "2026-08-28",
     "deadline": "2026-08-28",
-    "dday": 21,
-    "status": "접수중",
+    "dday": 14,
+    "status": "접수예정",
     "prize": null,
     "free": true,
     "officialUrl": "https://www.twitter.com/contestkorea",
-    "summary": "2026년 통일부 공공데이터 활용 공모전 후보입니다. 참가대상·마감일·접수방법은 기관 원본 공고에서 확인하세요.",
+    "summary": "2026 고성국가유산 야행 후보입니다. 참가대상·마감일·접수방법은 기관 원본 공고에서 확인하세요.",
     "conflict": false,
     "academyRecommendation": {
       "subjectTags": [
         "과학",
-        "코딩/SW",
-        "수학",
-        "사회/환경"
+        "코딩/SW"
       ],
       "careerTags": [
         "이공계",
-        "IT/SW",
-        "환경/공공"
+        "IT/SW"
       ],
       "useCaseTags": [
         "수업연계",
         "결과물있음",
-        "특강가능",
         "학부모안내",
+        "개별추천",
         "심화도전"
       ],
       "confidence": "높음",
-      "confidenceScore": 92,
+      "confidenceScore": 89,
       "reasons": [
-        "마감까지 3주 이상 남아 결과물 제작형 수업이나 단기 특강으로 연결하기 좋습니다.",
         "과학·코딩/SW 수업과 연결해 학생별 결과물 제작 과제로 활용할 수 있습니다.",
-        "기관 원본 공고가 확인되어 학부모 안내 자료로 사용하기 전 검토 부담이 낮습니다."
+        "기관 원본 공고가 확인되어 학부모 안내 자료로 사용하기 전 검토 부담이 낮습니다.",
+        "준비 부담이 있는 산출물 또는 전문 분야 단서가 있어 관심 학생의 심화 프로젝트 후보로 적합합니다."
       ],
       "evidence": [
         "참가대상: 초·중·고",
         "분야: 과학·SW·창의",
-        "마감까지 21일",
-        "지역/방식: 전국 또는 온라인",
+        "마감까지 14일",
+        "지역: 경기·경남·경북·서울",
         "참가비: 무료",
         "기관 원본 공고 확인"
       ],
@@ -4944,8 +4738,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
         "제출 형식은 원본 공고에서 확인 필요"
       ],
       "programIdeas": [
-        "SW 심화반 문제풀이 또는 미니 프로젝트",
-        "환경·사회 이슈 탐구 후 캠페인 산출물 만들기"
+        "SW 심화반 문제풀이 또는 미니 프로젝트"
       ]
     }
   },
@@ -4959,19 +4752,17 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
       "고"
     ],
     "regions": [
-      "강원",
       "경기",
-      "대구",
+      "경북",
       "대전",
       "서울",
       "온라인",
-      "충남",
-      "충북"
+      "충남"
     ],
     "category": "과학·SW·창의",
     "start": "2026-07-15",
     "deadline": "2026-08-28",
-    "dday": 21,
+    "dday": 14,
     "status": "접수중",
     "prize": null,
     "free": true,
@@ -4992,7 +4783,6 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
       "useCaseTags": [
         "수업연계",
         "결과물있음",
-        "특강가능",
         "학부모안내",
         "개별추천",
         "심화도전"
@@ -5000,14 +4790,14 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
       "confidence": "높음",
       "confidenceScore": 100,
       "reasons": [
-        "마감까지 3주 이상 남아 결과물 제작형 수업이나 단기 특강으로 연결하기 좋습니다.",
         "과학·코딩/SW 수업과 연결해 학생별 결과물 제작 과제로 활용할 수 있습니다.",
-        "기관 원본 공고가 확인되어 학부모 안내 자료로 사용하기 전 검토 부담이 낮습니다."
+        "기관 원본 공고가 확인되어 학부모 안내 자료로 사용하기 전 검토 부담이 낮습니다.",
+        "준비 부담이 있는 산출물 또는 전문 분야 단서가 있어 관심 학생의 심화 프로젝트 후보로 적합합니다."
       ],
       "evidence": [
         "참가대상: 초·중·고",
         "분야: 과학·SW·창의",
-        "마감까지 21일",
+        "마감까지 14일",
         "지역/방식: 전국 또는 온라인",
         "참가비: 무료",
         "기관 원본 공고 확인"
@@ -5020,8 +4810,8 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
     }
   },
   {
-    "id": "contestkorea-202608070049",
-    "title": "[과제전형 리허설] 실전 모의고사 · 사업기획 직무",
+    "id": "contestkorea-202608140006",
+    "title": "부산 AI 페스티벌 - AI 콘텐츠 공모전",
     "organizer": "원본 확인 필요",
     "grades": [
       "초",
@@ -5029,53 +4819,52 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
       "고"
     ],
     "regions": [
-      "강원",
       "경기",
-      "대구",
+      "경북",
       "대전",
+      "부산",
       "서울",
-      "온라인",
-      "충북"
+      "충남"
     ],
     "category": "과학·SW·창의",
-    "start": "2026-08-07",
+    "start": "2026-08-13",
     "deadline": "2026-08-28",
-    "dday": 21,
+    "dday": 14,
     "status": "접수중",
     "prize": null,
     "free": true,
-    "officialUrl": "https://www.blaybus.com/activities/1003/landing",
-    "summary": "[과제전형 리허설] 실전 모의고사 · 사업기획 직무 후보입니다. 참가대상·마감일·접수방법은 기관 원본 공고에서 확인하세요.",
+    "officialUrl": "https://www.twitter.com/contestkorea",
+    "summary": "부산 AI 페스티벌 - AI 콘텐츠 공모전 후보입니다. 참가대상·마감일·접수방법은 기관 원본 공고에서 확인하세요.",
     "conflict": false,
     "academyRecommendation": {
       "subjectTags": [
         "과학",
-        "코딩/SW"
+        "코딩/SW",
+        "영상/미디어"
       ],
       "careerTags": [
         "이공계",
-        "IT/SW"
+        "IT/SW",
+        "미디어"
       ],
       "useCaseTags": [
         "수업연계",
         "결과물있음",
-        "특강가능",
         "학부모안내",
-        "개별추천",
         "심화도전"
       ],
       "confidence": "높음",
-      "confidenceScore": 92,
+      "confidenceScore": 89,
       "reasons": [
-        "마감까지 3주 이상 남아 결과물 제작형 수업이나 단기 특강으로 연결하기 좋습니다.",
         "과학·코딩/SW 수업과 연결해 학생별 결과물 제작 과제로 활용할 수 있습니다.",
-        "기관 원본 공고가 확인되어 학부모 안내 자료로 사용하기 전 검토 부담이 낮습니다."
+        "기관 원본 공고가 확인되어 학부모 안내 자료로 사용하기 전 검토 부담이 낮습니다.",
+        "준비 부담이 있는 산출물 또는 전문 분야 단서가 있어 관심 학생의 심화 프로젝트 후보로 적합합니다."
       ],
       "evidence": [
         "참가대상: 초·중·고",
         "분야: 과학·SW·창의",
-        "마감까지 21일",
-        "지역/방식: 전국 또는 온라인",
+        "마감까지 14일",
+        "지역: 경기·경북·대전·부산·서울·충남",
         "참가비: 무료",
         "기관 원본 공고 확인"
       ],
@@ -5083,7 +4872,8 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
         "제출 형식은 원본 공고에서 확인 필요"
       ],
       "programIdeas": [
-        "SW 심화반 문제풀이 또는 미니 프로젝트"
+        "SW 심화반 문제풀이 또는 미니 프로젝트",
+        "기획안 작성부터 촬영·편집까지 이어지는 영상 제작 특강"
       ]
     }
   },
@@ -5102,7 +4892,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
     "category": "미술·디자인·영상",
     "start": "2026-08-13",
     "deadline": "2026-08-28",
-    "dday": 21,
+    "dday": 14,
     "status": "접수예정",
     "prize": "다양한 혜택",
     "free": true,
@@ -5121,7 +4911,6 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
       "useCaseTags": [
         "수업연계",
         "결과물있음",
-        "특강가능",
         "학부모안내",
         "개별추천",
         "심화도전"
@@ -5129,14 +4918,14 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
       "confidence": "높음",
       "confidenceScore": 100,
       "reasons": [
-        "마감까지 3주 이상 남아 결과물 제작형 수업이나 단기 특강으로 연결하기 좋습니다.",
         "미술/디자인·영상/미디어 수업과 연결해 학생별 결과물 제작 과제로 활용할 수 있습니다.",
-        "기관 원본 공고가 확인되어 학부모 안내 자료로 사용하기 전 검토 부담이 낮습니다."
+        "기관 원본 공고가 확인되어 학부모 안내 자료로 사용하기 전 검토 부담이 낮습니다.",
+        "준비 부담이 있는 산출물 또는 전문 분야 단서가 있어 관심 학생의 심화 프로젝트 후보로 적합합니다."
       ],
       "evidence": [
         "참가대상: 초·중·고",
         "분야: 미술·디자인·영상",
-        "마감까지 21일",
+        "마감까지 14일",
         "지역/방식: 전국 또는 온라인",
         "참가비: 무료",
         "기관 원본 공고 확인"
@@ -5149,8 +4938,8 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
     }
   },
   {
-    "id": "contestkorea-202608070087",
-    "title": "2026 서울 영아티스트 전국 음악 콩쿠르",
+    "id": "contestkorea-202608130050",
+    "title": "박카스 얼박사 '우리는(We Are)' 댄스 챌린지",
     "organizer": "원본 확인 필요",
     "grades": [
       "초",
@@ -5158,25 +4947,21 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
       "고"
     ],
     "regions": [
-      "강원",
       "경기",
-      "대구",
-      "대전",
+      "경북",
       "서울",
-      "온라인",
-      "충남",
-      "충북"
+      "온라인"
     ],
     "category": "과학·SW·창의",
-    "start": "2026-07-25",
-    "deadline": "2026-08-29",
-    "dday": 22,
+    "start": "2026-08-12",
+    "deadline": "2026-09-02",
+    "dday": 19,
     "status": "접수중",
     "prize": null,
     "free": true,
-    "officialUrl": "https://seoulyoungartist.com/온라인-신청/",
-    "summary": "2026 서울 영아티스트 전국 음악 콩쿠르 후보입니다. 참가대상·마감일·접수방법은 기관 원본 공고에서 확인하세요.",
-    "conflict": true,
+    "officialUrl": "https://www.twitter.com/contestkorea",
+    "summary": "박카스 얼박사 '우리는(We Are)' 댄스 챌린지 후보입니다. 참가대상·마감일·접수방법은 기관 원본 공고에서 확인하세요.",
+    "conflict": false,
     "academyRecommendation": {
       "subjectTags": [
         "과학",
@@ -5185,6 +4970,65 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
       "careerTags": [
         "이공계",
         "IT/SW"
+      ],
+      "useCaseTags": [
+        "수업연계",
+        "결과물있음",
+        "학부모안내",
+        "개별추천",
+        "심화도전"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 92,
+      "reasons": [
+        "과학·코딩/SW 수업과 연결해 학생별 결과물 제작 과제로 활용할 수 있습니다.",
+        "기관 원본 공고가 확인되어 학부모 안내 자료로 사용하기 전 검토 부담이 낮습니다.",
+        "준비 부담이 있는 산출물 또는 전문 분야 단서가 있어 관심 학생의 심화 프로젝트 후보로 적합합니다."
+      ],
+      "evidence": [
+        "참가대상: 초·중·고",
+        "분야: 과학·SW·창의",
+        "마감까지 19일",
+        "지역/방식: 전국 또는 온라인",
+        "참가비: 무료",
+        "기관 원본 공고 확인"
+      ],
+      "warnings": [
+        "제출 형식은 원본 공고에서 확인 필요"
+      ],
+      "programIdeas": [
+        "SW 심화반 문제풀이 또는 미니 프로젝트"
+      ]
+    }
+  },
+  {
+    "id": "wevity-108508",
+    "title": "2026년 전국 청소년 농업 아이디어 공모전 - 틴저린 챌린지",
+    "organizer": "틴저린프로젝트",
+    "grades": [
+      "중",
+      "고"
+    ],
+    "regions": [
+      "전국"
+    ],
+    "category": "진로·경제·아이디어",
+    "start": "2026-06-10",
+    "deadline": "2026-09-10",
+    "dday": 27,
+    "status": "접수중",
+    "prize": "1천만원이하",
+    "free": true,
+    "officialUrl": null,
+    "summary": "틴저린프로젝트 주최. 참가대상 고등·중등. 대상지역 전국. 자세한 내용은 기관 원본 공고 확인.",
+    "conflict": true,
+    "academyRecommendation": {
+      "subjectTags": [
+        "진로/경제"
+      ],
+      "careerTags": [
+        "창업/경제",
+        "인문사회"
       ],
       "useCaseTags": [
         "수업연계",
@@ -5194,31 +5038,32 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
         "심화도전"
       ],
       "confidence": "중간",
-      "confidenceScore": 78,
+      "confidenceScore": 86,
       "reasons": [
         "마감까지 3주 이상 남아 결과물 제작형 수업이나 단기 특강으로 연결하기 좋습니다.",
-        "과학·코딩/SW 수업과 연결해 학생별 결과물 제작 과제로 활용할 수 있습니다.",
+        "진로/경제 수업과 연결해 학생별 결과물 제작 과제로 활용할 수 있습니다.",
         "준비 부담이 있는 산출물 또는 전문 분야 단서가 있어 관심 학생의 심화 프로젝트 후보로 적합합니다."
       ],
       "evidence": [
-        "참가대상: 초·중·고",
-        "분야: 과학·SW·창의",
-        "마감까지 22일",
+        "참가대상: 중·고",
+        "분야: 진로·경제·아이디어",
+        "마감까지 27일",
         "지역/방식: 전국 또는 온라인",
-        "참가비: 무료"
+        "참가비: 무료",
+        "제출물 단서: 글/그림/아이디어 등 비교적 가벼운 산출물"
       ],
       "warnings": [
         "기관 원본 링크 또는 검수상태 확인 필요",
-        "제출 형식은 원본 공고에서 확인 필요"
+        "가벼운 산출물 단서와 고난도 단서가 함께 있어 난이도 확인 필요"
       ],
       "programIdeas": [
-        "SW 심화반 문제풀이 또는 미니 프로젝트"
+        "아이디어 발굴과 발표자료 제작 진로 프로젝트"
       ]
     }
   },
   {
-    "id": "contestkorea-202608040019",
-    "title": "오리진서울 2026 공식 서포터즈 모집",
+    "id": "contestkorea-202608070080",
+    "title": "강남세움복지관 디지털 리터러시 서포터즈",
     "organizer": "원본 확인 필요",
     "grades": [
       "초",
@@ -5226,375 +5071,26 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
       "고"
     ],
     "regions": [
-      "강원",
       "경기",
-      "대구",
-      "대전",
+      "경북",
       "서울",
-      "온라인",
-      "충북"
-    ],
-    "category": "과학·SW·창의",
-    "start": "2026-07-29",
-    "deadline": "2026-08-31",
-    "dday": 24,
-    "status": "접수중",
-    "prize": null,
-    "free": true,
-    "officialUrl": "https://forms.gle/gRSDdFaj1LomTGMA9",
-    "summary": "오리진서울 2026 공식 서포터즈 모집 후보입니다. 참가대상·마감일·접수방법은 기관 원본 공고에서 확인하세요.",
-    "conflict": false,
-    "academyRecommendation": {
-      "subjectTags": [
-        "과학",
-        "코딩/SW"
-      ],
-      "careerTags": [
-        "이공계",
-        "IT/SW"
-      ],
-      "useCaseTags": [
-        "수업연계",
-        "결과물있음",
-        "특강가능",
-        "학부모안내",
-        "개별추천",
-        "심화도전"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 92,
-      "reasons": [
-        "마감까지 3주 이상 남아 결과물 제작형 수업이나 단기 특강으로 연결하기 좋습니다.",
-        "과학·코딩/SW 수업과 연결해 학생별 결과물 제작 과제로 활용할 수 있습니다.",
-        "기관 원본 공고가 확인되어 학부모 안내 자료로 사용하기 전 검토 부담이 낮습니다."
-      ],
-      "evidence": [
-        "참가대상: 초·중·고",
-        "분야: 과학·SW·창의",
-        "마감까지 24일",
-        "지역/방식: 전국 또는 온라인",
-        "참가비: 무료",
-        "기관 원본 공고 확인"
-      ],
-      "warnings": [
-        "제출 형식은 원본 공고에서 확인 필요"
-      ],
-      "programIdeas": [
-        "SW 심화반 문제풀이 또는 미니 프로젝트"
-      ]
-    }
-  },
-  {
-    "id": "contestkorea-202608070070",
-    "title": "제4회 전국 청소년모의주식투자대회",
-    "organizer": "원본 확인 필요",
-    "grades": [
-      "중",
-      "고"
-    ],
-    "regions": [
-      "강원",
-      "경기",
-      "대구",
-      "대전",
-      "서울",
-      "온라인",
-      "충남",
-      "충북"
-    ],
-    "category": "과학·SW·창의",
-    "start": "2026-08-01",
-    "deadline": "2026-08-31",
-    "dday": 24,
-    "status": "접수중",
-    "prize": null,
-    "free": true,
-    "officialUrl": "https://forms.gle/DsyBcNykNsAMybCg6",
-    "summary": "제4회 전국 청소년모의주식투자대회 후보입니다. 참가대상·마감일·접수방법은 기관 원본 공고에서 확인하세요.",
-    "conflict": false,
-    "academyRecommendation": {
-      "subjectTags": [
-        "과학",
-        "코딩/SW"
-      ],
-      "careerTags": [
-        "이공계",
-        "IT/SW"
-      ],
-      "useCaseTags": [
-        "수업연계",
-        "결과물있음",
-        "특강가능",
-        "학부모안내",
-        "개별추천",
-        "심화도전"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 92,
-      "reasons": [
-        "마감까지 3주 이상 남아 결과물 제작형 수업이나 단기 특강으로 연결하기 좋습니다.",
-        "과학·코딩/SW 수업과 연결해 학생별 결과물 제작 과제로 활용할 수 있습니다.",
-        "기관 원본 공고가 확인되어 학부모 안내 자료로 사용하기 전 검토 부담이 낮습니다."
-      ],
-      "evidence": [
-        "참가대상: 중·고",
-        "분야: 과학·SW·창의",
-        "마감까지 24일",
-        "지역/방식: 전국 또는 온라인",
-        "참가비: 무료",
-        "기관 원본 공고 확인"
-      ],
-      "warnings": [
-        "제출 형식은 원본 공고에서 확인 필요"
-      ],
-      "programIdeas": [
-        "SW 심화반 문제풀이 또는 미니 프로젝트"
-      ]
-    }
-  },
-  {
-    "id": "contestkorea-202608070073",
-    "title": "천안 성성호수공원 미디어아트 영상 공모전",
-    "organizer": "원본 확인 필요",
-    "grades": [
-      "초",
-      "중",
-      "고"
-    ],
-    "regions": [
-      "강원",
-      "경기",
-      "대구",
-      "대전",
-      "서울",
-      "온라인",
-      "충남",
-      "충북"
-    ],
-    "category": "과학·SW·창의",
-    "start": "2026-03-06",
-    "deadline": "2026-08-31",
-    "dday": 24,
-    "status": "접수중",
-    "prize": null,
-    "free": true,
-    "officialUrl": "https://www.twitter.com/contestkorea",
-    "summary": "천안 성성호수공원 미디어아트 영상 공모전 후보입니다. 참가대상·마감일·접수방법은 기관 원본 공고에서 확인하세요.",
-    "conflict": false,
-    "academyRecommendation": {
-      "subjectTags": [
-        "과학",
-        "코딩/SW",
-        "미술/디자인",
-        "영상/미디어"
-      ],
-      "careerTags": [
-        "이공계",
-        "IT/SW",
-        "미디어"
-      ],
-      "useCaseTags": [
-        "수업연계",
-        "결과물있음",
-        "특강가능",
-        "학부모안내",
-        "개별추천",
-        "심화도전"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 100,
-      "reasons": [
-        "마감까지 3주 이상 남아 결과물 제작형 수업이나 단기 특강으로 연결하기 좋습니다.",
-        "과학·코딩/SW 수업과 연결해 학생별 결과물 제작 과제로 활용할 수 있습니다.",
-        "기관 원본 공고가 확인되어 학부모 안내 자료로 사용하기 전 검토 부담이 낮습니다."
-      ],
-      "evidence": [
-        "참가대상: 초·중·고",
-        "분야: 과학·SW·창의",
-        "마감까지 24일",
-        "지역/방식: 전국 또는 온라인",
-        "참가비: 무료",
-        "기관 원본 공고 확인"
-      ],
-      "warnings": [],
-      "programIdeas": [
-        "SW 심화반 문제풀이 또는 미니 프로젝트",
-        "포스터·웹툰·디자인 작품 제작 특강",
-        "기획안 작성부터 촬영·편집까지 이어지는 영상 제작 특강"
-      ]
-    }
-  },
-  {
-    "id": "contestkorea-202608070041",
-    "title": "2026 KOREA GBDF 미용 뷰티 온라인 공모전 대회 (Global Beauty Design Festa)",
-    "organizer": "원본 확인 필요",
-    "grades": [
-      "초",
-      "중",
-      "고"
-    ],
-    "regions": [
-      "강원",
-      "경기",
-      "대구",
-      "대전",
-      "서울",
-      "온라인",
-      "충남",
-      "충북"
+      "온라인"
     ],
     "category": "과학·SW·창의",
     "start": "2026-08-07",
-    "deadline": "2026-09-02",
-    "dday": 26,
-    "status": "접수중",
-    "prize": null,
-    "free": true,
-    "officialUrl": "https://kbga.co.kr/competition/competition_sub02.html",
-    "summary": "2026 KOREA GBDF 미용 뷰티 온라인 공모전 대회 (Global Beauty Design Festa) 후보입니다. 참가대상·마감일·접수방법은 기관 원본 공고에서 확인하세요.",
-    "conflict": false,
-    "academyRecommendation": {
-      "subjectTags": [
-        "과학",
-        "코딩/SW"
-      ],
-      "careerTags": [
-        "이공계",
-        "IT/SW"
-      ],
-      "useCaseTags": [
-        "수업연계",
-        "결과물있음",
-        "특강가능",
-        "학부모안내",
-        "개별추천",
-        "심화도전"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 92,
-      "reasons": [
-        "마감까지 3주 이상 남아 결과물 제작형 수업이나 단기 특강으로 연결하기 좋습니다.",
-        "과학·코딩/SW 수업과 연결해 학생별 결과물 제작 과제로 활용할 수 있습니다.",
-        "기관 원본 공고가 확인되어 학부모 안내 자료로 사용하기 전 검토 부담이 낮습니다."
-      ],
-      "evidence": [
-        "참가대상: 초·중·고",
-        "분야: 과학·SW·창의",
-        "마감까지 26일",
-        "지역/방식: 전국 또는 온라인",
-        "참가비: 무료",
-        "기관 원본 공고 확인"
-      ],
-      "warnings": [
-        "제출 형식은 원본 공고에서 확인 필요"
-      ],
-      "programIdeas": [
-        "SW 심화반 문제풀이 또는 미니 프로젝트"
-      ]
-    }
-  },
-  {
-    "id": "contestkorea-202608070018",
-    "title": "2026 대한민국 SF판타지 웹소설 공모전",
-    "organizer": "원본 확인 필요",
-    "grades": [
-      "중",
-      "고"
-    ],
-    "regions": [
-      "강원",
-      "경기",
-      "대구",
-      "대전",
-      "서울",
-      "온라인",
-      "충남",
-      "충북"
-    ],
-    "category": "과학·SW·창의",
-    "start": "2026-09-02",
-    "deadline": "2026-09-02",
-    "dday": 26,
-    "status": "접수예정",
-    "prize": null,
-    "free": true,
-    "officialUrl": "https://www.twitter.com/contestkorea",
-    "summary": "2026 대한민국 SF판타지 웹소설 공모전 후보입니다. 참가대상·마감일·접수방법은 기관 원본 공고에서 확인하세요.",
-    "conflict": false,
-    "academyRecommendation": {
-      "subjectTags": [
-        "과학",
-        "코딩/SW"
-      ],
-      "careerTags": [
-        "이공계",
-        "IT/SW"
-      ],
-      "useCaseTags": [
-        "수업연계",
-        "결과물있음",
-        "특강가능",
-        "학부모안내",
-        "개별추천",
-        "심화도전"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 92,
-      "reasons": [
-        "마감까지 3주 이상 남아 결과물 제작형 수업이나 단기 특강으로 연결하기 좋습니다.",
-        "과학·코딩/SW 수업과 연결해 학생별 결과물 제작 과제로 활용할 수 있습니다.",
-        "기관 원본 공고가 확인되어 학부모 안내 자료로 사용하기 전 검토 부담이 낮습니다."
-      ],
-      "evidence": [
-        "참가대상: 중·고",
-        "분야: 과학·SW·창의",
-        "마감까지 26일",
-        "지역/방식: 전국 또는 온라인",
-        "참가비: 무료",
-        "기관 원본 공고 확인"
-      ],
-      "warnings": [
-        "제출 형식은 원본 공고에서 확인 필요"
-      ],
-      "programIdeas": [
-        "SW 심화반 문제풀이 또는 미니 프로젝트"
-      ]
-    }
-  },
-  {
-    "id": "contestkorea-202608060010",
-    "title": "제18회 부천시민어울림한마당&제26회 부천복사골청소년예술제 <예술체험 프로그램 및 아트마켓> 모집",
-    "organizer": "원본 확인 필요",
-    "grades": [
-      "초",
-      "중",
-      "고"
-    ],
-    "regions": [
-      "강원",
-      "경기",
-      "대구",
-      "대전",
-      "서울",
-      "온라인",
-      "충북"
-    ],
-    "category": "과학·SW·창의",
-    "start": "2026-08-03",
-    "deadline": "2026-09-04",
+    "deadline": "2026-09-11",
     "dday": 28,
     "status": "접수중",
     "prize": null,
     "free": true,
-    "officialUrl": "https://www.twitter.com/contestkorea",
-    "summary": "제18회 부천시민어울림한마당&제26회 부천복사골청소년예술제 <예술체험 프로그램 및 아트마켓> 모집 후보입니다. 참가대상·마감일·접수방법은 기관 원본 공고에서 확인하세요.",
+    "officialUrl": "https://answer.moaform.com/answers/MPn3ko",
+    "summary": "강남세움복지관 디지털 리터러시 서포터즈 후보입니다. 참가대상·마감일·접수방법은 기관 원본 공고에서 확인하세요.",
     "conflict": false,
     "academyRecommendation": {
       "subjectTags": [
         "과학",
         "코딩/SW",
-        "국어/논술",
-        "미술/디자인"
+        "국어/논술"
       ],
       "careerTags": [
         "이공계",
@@ -5627,204 +5123,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
       ],
       "programIdeas": [
         "독서·글쓰기 수업의 2~4주 결과물 프로젝트",
-        "SW 심화반 문제풀이 또는 미니 프로젝트",
-        "포스터·웹툰·디자인 작품 제작 특강"
-      ]
-    }
-  },
-  {
-    "id": "contestkorea-202608040027",
-    "title": "[국비지원] 셀링에 강한 크리에이터! 현대홈쇼핑 K-뉴딜아카데미 라이브커머스 과정 부트캠프 1기 모집",
-    "organizer": "원본 확인 필요",
-    "grades": [
-      "고"
-    ],
-    "regions": [
-      "강원",
-      "경기",
-      "대구",
-      "대전",
-      "서울",
-      "온라인",
-      "충북"
-    ],
-    "category": "과학·SW·창의",
-    "start": "2026-07-06",
-    "deadline": "2026-09-07",
-    "dday": 31,
-    "status": "접수중",
-    "prize": null,
-    "free": true,
-    "officialUrl": "https://www.twitter.com/contestkorea",
-    "summary": "[국비지원] 셀링에 강한 크리에이터! 현대홈쇼핑 K-뉴딜아카데미 라이브커머스 과정 부트캠프 1기 모집 후보입니다. 참가대상·마감일·접수방법은 기관 원본 공고에서 확인하세요.",
-    "conflict": false,
-    "academyRecommendation": {
-      "subjectTags": [
-        "과학",
-        "코딩/SW"
-      ],
-      "careerTags": [
-        "이공계",
-        "IT/SW"
-      ],
-      "useCaseTags": [
-        "수업연계",
-        "결과물있음",
-        "특강가능",
-        "학부모안내",
-        "개별추천",
-        "심화도전"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 92,
-      "reasons": [
-        "마감까지 3주 이상 남아 결과물 제작형 수업이나 단기 특강으로 연결하기 좋습니다.",
-        "과학·코딩/SW 수업과 연결해 학생별 결과물 제작 과제로 활용할 수 있습니다.",
-        "기관 원본 공고가 확인되어 학부모 안내 자료로 사용하기 전 검토 부담이 낮습니다."
-      ],
-      "evidence": [
-        "참가대상: 고",
-        "분야: 과학·SW·창의",
-        "마감까지 31일",
-        "지역/방식: 전국 또는 온라인",
-        "참가비: 무료",
-        "기관 원본 공고 확인"
-      ],
-      "warnings": [
-        "제출 형식은 원본 공고에서 확인 필요"
-      ],
-      "programIdeas": [
         "SW 심화반 문제풀이 또는 미니 프로젝트"
-      ]
-    }
-  },
-  {
-    "id": "contestkorea-202608070063",
-    "title": "날씨요괴단 모여라! <날씨 숏폼 공모전>",
-    "organizer": "원본 확인 필요",
-    "grades": [
-      "초",
-      "중",
-      "고"
-    ],
-    "regions": [
-      "강원",
-      "경기",
-      "대구",
-      "대전",
-      "서울",
-      "온라인",
-      "충남",
-      "충북"
-    ],
-    "category": "과학·SW·창의",
-    "start": "2026-08-10",
-    "deadline": "2026-09-07",
-    "dday": 31,
-    "status": "접수예정",
-    "prize": null,
-    "free": true,
-    "officialUrl": "https://forms.gle/tbpV1FAmszF9bSF3A",
-    "summary": "날씨요괴단 모여라! <날씨 숏폼 공모전> 후보입니다. 참가대상·마감일·접수방법은 기관 원본 공고에서 확인하세요.",
-    "conflict": false,
-    "academyRecommendation": {
-      "subjectTags": [
-        "과학",
-        "코딩/SW",
-        "영상/미디어"
-      ],
-      "careerTags": [
-        "이공계",
-        "IT/SW",
-        "미디어"
-      ],
-      "useCaseTags": [
-        "수업연계",
-        "결과물있음",
-        "특강가능",
-        "학부모안내",
-        "개별추천",
-        "심화도전"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 100,
-      "reasons": [
-        "마감까지 3주 이상 남아 결과물 제작형 수업이나 단기 특강으로 연결하기 좋습니다.",
-        "과학·코딩/SW 수업과 연결해 학생별 결과물 제작 과제로 활용할 수 있습니다.",
-        "기관 원본 공고가 확인되어 학부모 안내 자료로 사용하기 전 검토 부담이 낮습니다."
-      ],
-      "evidence": [
-        "참가대상: 초·중·고",
-        "분야: 과학·SW·창의",
-        "마감까지 31일",
-        "지역/방식: 전국 또는 온라인",
-        "참가비: 무료",
-        "기관 원본 공고 확인"
-      ],
-      "warnings": [],
-      "programIdeas": [
-        "SW 심화반 문제풀이 또는 미니 프로젝트",
-        "기획안 작성부터 촬영·편집까지 이어지는 영상 제작 특강"
-      ]
-    }
-  },
-  {
-    "id": "wevity-108508",
-    "title": "2026년 전국 청소년 농업 아이디어 공모전 - 틴저린 챌린지",
-    "organizer": "틴저린프로젝트",
-    "grades": [
-      "중",
-      "고"
-    ],
-    "regions": [
-      "전국"
-    ],
-    "category": "진로·경제·아이디어",
-    "start": "2026-06-10",
-    "deadline": "2026-09-10",
-    "dday": 34,
-    "status": "접수중",
-    "prize": "1천만원이하",
-    "free": true,
-    "officialUrl": null,
-    "summary": "틴저린프로젝트 주최. 참가대상 고등·중등. 대상지역 전국. 자세한 내용은 기관 원본 공고 확인.",
-    "conflict": true,
-    "academyRecommendation": {
-      "subjectTags": [
-        "진로/경제"
-      ],
-      "careerTags": [
-        "창업/경제",
-        "인문사회"
-      ],
-      "useCaseTags": [
-        "수업연계",
-        "결과물있음",
-        "특강가능",
-        "개별추천",
-        "심화도전"
-      ],
-      "confidence": "중간",
-      "confidenceScore": 86,
-      "reasons": [
-        "마감까지 3주 이상 남아 결과물 제작형 수업이나 단기 특강으로 연결하기 좋습니다.",
-        "진로/경제 수업과 연결해 학생별 결과물 제작 과제로 활용할 수 있습니다.",
-        "준비 부담이 있는 산출물 또는 전문 분야 단서가 있어 관심 학생의 심화 프로젝트 후보로 적합합니다."
-      ],
-      "evidence": [
-        "참가대상: 중·고",
-        "분야: 진로·경제·아이디어",
-        "마감까지 34일",
-        "지역/방식: 전국 또는 온라인",
-        "참가비: 무료",
-        "제출물 단서: 글/그림/아이디어 등 비교적 가벼운 산출물"
-      ],
-      "warnings": [
-        "기관 원본 링크 또는 검수상태 확인 필요",
-        "가벼운 산출물 단서와 고난도 단서가 함께 있어 난이도 확인 필요"
-      ],
-      "programIdeas": [
-        "아이디어 발굴과 발표자료 제작 진로 프로젝트"
       ]
     }
   },
@@ -5838,19 +5137,15 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
       "고"
     ],
     "regions": [
-      "강원",
       "경기",
-      "대구",
+      "경북",
       "대전",
-      "서울",
-      "온라인",
-      "충남",
-      "충북"
+      "서울"
     ],
     "category": "과학·SW·창의",
     "start": "2026-07-20",
     "deadline": "2026-09-11",
-    "dday": 35,
+    "dday": 28,
     "status": "접수중",
     "prize": null,
     "free": true,
@@ -5872,21 +5167,20 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
         "결과물있음",
         "특강가능",
         "학부모안내",
-        "초보도전",
         "심화도전"
       ],
       "confidence": "높음",
-      "confidenceScore": 100,
+      "confidenceScore": 97,
       "reasons": [
-        "참가대상·마감여유·무료/전국 조건과 가벼운 제출물 단서가 있어 첫 도전 후보로 검토할 수 있습니다.",
         "마감까지 3주 이상 남아 결과물 제작형 수업이나 단기 특강으로 연결하기 좋습니다.",
-        "과학·코딩/SW 수업과 연결해 학생별 결과물 제작 과제로 활용할 수 있습니다."
+        "과학·코딩/SW 수업과 연결해 학생별 결과물 제작 과제로 활용할 수 있습니다.",
+        "기관 원본 공고가 확인되어 학부모 안내 자료로 사용하기 전 검토 부담이 낮습니다."
       ],
       "evidence": [
         "참가대상: 초·중·고",
         "분야: 과학·SW·창의",
-        "마감까지 35일",
-        "지역/방식: 전국 또는 온라인",
+        "마감까지 28일",
+        "지역: 경기·경북·대전·서울",
         "참가비: 무료",
         "기관 원본 공고 확인"
       ],
@@ -5898,78 +5192,8 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
     }
   },
   {
-    "id": "contestkorea-202607130006",
-    "title": "2026 인문가치 영상 공모전",
-    "organizer": "원본 확인 필요",
-    "grades": [
-      "중",
-      "고"
-    ],
-    "regions": [
-      "강원",
-      "경기",
-      "경북",
-      "대구",
-      "대전",
-      "서울",
-      "온라인",
-      "충남",
-      "충북"
-    ],
-    "category": "과학·SW·창의",
-    "start": "2026-09-07",
-    "deadline": "2026-09-14",
-    "dday": 38,
-    "status": "접수예정",
-    "prize": null,
-    "free": true,
-    "officialUrl": "https://forms.gle/uKkFZFk9H3AZP3im6 ",
-    "summary": "2026 인문가치 영상 공모전 후보입니다. 참가대상·마감일·접수방법은 기관 원본 공고에서 확인하세요.",
-    "conflict": false,
-    "academyRecommendation": {
-      "subjectTags": [
-        "과학",
-        "코딩/SW",
-        "영상/미디어"
-      ],
-      "careerTags": [
-        "이공계",
-        "IT/SW",
-        "미디어"
-      ],
-      "useCaseTags": [
-        "수업연계",
-        "결과물있음",
-        "특강가능",
-        "학부모안내",
-        "개별추천",
-        "심화도전"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 100,
-      "reasons": [
-        "마감까지 3주 이상 남아 결과물 제작형 수업이나 단기 특강으로 연결하기 좋습니다.",
-        "과학·코딩/SW 수업과 연결해 학생별 결과물 제작 과제로 활용할 수 있습니다.",
-        "기관 원본 공고가 확인되어 학부모 안내 자료로 사용하기 전 검토 부담이 낮습니다."
-      ],
-      "evidence": [
-        "참가대상: 중·고",
-        "분야: 과학·SW·창의",
-        "마감까지 38일",
-        "지역/방식: 전국 또는 온라인",
-        "참가비: 무료",
-        "기관 원본 공고 확인"
-      ],
-      "warnings": [],
-      "programIdeas": [
-        "SW 심화반 문제풀이 또는 미니 프로젝트",
-        "기획안 작성부터 촬영·편집까지 이어지는 영상 제작 특강"
-      ]
-    }
-  },
-  {
-    "id": "contestkorea-202608050001",
-    "title": "제51회 대한민국전승공예대전",
+    "id": "contestkorea-202608140004",
+    "title": "KG그룹과 함께하는 독립운동가 최재형 선생 순국 106주년 기념 제10회 독후감 공모 대회",
     "organizer": "원본 확인 필요",
     "grades": [
       "초",
@@ -5977,24 +5201,84 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
       "고"
     ],
     "regions": [
-      "강원",
       "경기",
-      "대구",
-      "대전",
-      "서울",
-      "온라인",
-      "충남",
-      "충북"
+      "경북",
+      "서울"
     ],
     "category": "과학·SW·창의",
-    "start": "2026-09-14",
-    "deadline": "2026-09-14",
-    "dday": 38,
-    "status": "접수예정",
+    "start": "2026-08-10",
+    "deadline": "2026-09-13",
+    "dday": 30,
+    "status": "접수중",
     "prize": null,
     "free": true,
     "officialUrl": "https://www.twitter.com/contestkorea",
-    "summary": "제51회 대한민국전승공예대전 후보입니다. 참가대상·마감일·접수방법은 기관 원본 공고에서 확인하세요.",
+    "summary": "KG그룹과 함께하는 독립운동가 최재형 선생 순국 106주년 기념 제10회 독후감 공모 대회 후보입니다. 참가대상·마감일·접수방법은 기관 원본 공고에서 확인하세요.",
+    "conflict": false,
+    "academyRecommendation": {
+      "subjectTags": [
+        "과학",
+        "코딩/SW",
+        "국어/논술"
+      ],
+      "careerTags": [
+        "이공계",
+        "IT/SW"
+      ],
+      "useCaseTags": [
+        "수업연계",
+        "결과물있음",
+        "특강가능",
+        "학부모안내",
+        "심화도전"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 97,
+      "reasons": [
+        "마감까지 3주 이상 남아 결과물 제작형 수업이나 단기 특강으로 연결하기 좋습니다.",
+        "과학·코딩/SW 수업과 연결해 학생별 결과물 제작 과제로 활용할 수 있습니다.",
+        "기관 원본 공고가 확인되어 학부모 안내 자료로 사용하기 전 검토 부담이 낮습니다."
+      ],
+      "evidence": [
+        "참가대상: 초·중·고",
+        "분야: 과학·SW·창의",
+        "마감까지 30일",
+        "지역: 경기·경북·서울",
+        "참가비: 무료",
+        "기관 원본 공고 확인"
+      ],
+      "warnings": [],
+      "programIdeas": [
+        "독서·글쓰기 수업의 2~4주 결과물 프로젝트",
+        "SW 심화반 문제풀이 또는 미니 프로젝트"
+      ]
+    }
+  },
+  {
+    "id": "contestkorea-202608140005",
+    "title": "2026 OYE AI 숏드라마 챌린지 : EP.01",
+    "organizer": "원본 확인 필요",
+    "grades": [
+      "중",
+      "고"
+    ],
+    "regions": [
+      "경기",
+      "경북",
+      "대전",
+      "서울",
+      "온라인",
+      "충남"
+    ],
+    "category": "과학·SW·창의",
+    "start": "2026-08-12",
+    "deadline": "2026-09-16",
+    "dday": 33,
+    "status": "접수중",
+    "prize": null,
+    "free": true,
+    "officialUrl": "https://forms.gle/PKjYyMsFdP2huFd37",
+    "summary": "2026 OYE AI 숏드라마 챌린지 : EP.01 후보입니다. 참가대상·마감일·접수방법은 기관 원본 공고에서 확인하세요.",
     "conflict": false,
     "academyRecommendation": {
       "subjectTags": [
@@ -6021,9 +5305,9 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
         "기관 원본 공고가 확인되어 학부모 안내 자료로 사용하기 전 검토 부담이 낮습니다."
       ],
       "evidence": [
-        "참가대상: 초·중·고",
+        "참가대상: 중·고",
         "분야: 과학·SW·창의",
-        "마감까지 38일",
+        "마감까지 33일",
         "지역/방식: 전국 또는 온라인",
         "참가비: 무료",
         "기관 원본 공고 확인"
@@ -6045,20 +5329,15 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
       "고"
     ],
     "regions": [
-      "강원",
       "경기",
       "경북",
-      "대구",
-      "대전",
       "서울",
-      "온라인",
-      "충남",
-      "충북"
+      "온라인"
     ],
     "category": "과학·SW·창의",
     "start": "2026-08-24",
     "deadline": "2026-09-18",
-    "dday": 42,
+    "dday": 35,
     "status": "접수예정",
     "prize": null,
     "free": true,
@@ -6093,7 +5372,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
       "evidence": [
         "참가대상: 중·고",
         "분야: 과학·SW·창의",
-        "마감까지 42일",
+        "마감까지 35일",
         "지역/방식: 전국 또는 온라인",
         "참가비: 무료",
         "기관 원본 공고 확인"
@@ -6108,6 +5387,136 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
     }
   },
   {
+    "id": "contestkorea-202608140009",
+    "title": "2026년 NABIS 브랜드 대국민 아이디어 공모전",
+    "organizer": "원본 확인 필요",
+    "grades": [
+      "초",
+      "중",
+      "고"
+    ],
+    "regions": [
+      "경기",
+      "경북",
+      "서울",
+      "온라인"
+    ],
+    "category": "과학·SW·창의",
+    "start": "2026-08-13",
+    "deadline": "2026-09-21",
+    "dday": 38,
+    "status": "접수중",
+    "prize": null,
+    "free": true,
+    "officialUrl": "https://www.nabis.go.kr/competitionList.do?menucd=455&menuFlag=Y",
+    "summary": "2026년 NABIS 브랜드 대국민 아이디어 공모전 후보입니다. 참가대상·마감일·접수방법은 기관 원본 공고에서 확인하세요.",
+    "conflict": false,
+    "academyRecommendation": {
+      "subjectTags": [
+        "과학",
+        "코딩/SW",
+        "진로/경제"
+      ],
+      "careerTags": [
+        "이공계",
+        "IT/SW"
+      ],
+      "useCaseTags": [
+        "수업연계",
+        "결과물있음",
+        "특강가능",
+        "학부모안내",
+        "초보도전",
+        "심화도전"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 100,
+      "reasons": [
+        "참가대상·마감여유·무료/전국 조건과 가벼운 제출물 단서가 있어 첫 도전 후보로 검토할 수 있습니다.",
+        "마감까지 3주 이상 남아 결과물 제작형 수업이나 단기 특강으로 연결하기 좋습니다.",
+        "과학·코딩/SW 수업과 연결해 학생별 결과물 제작 과제로 활용할 수 있습니다."
+      ],
+      "evidence": [
+        "참가대상: 초·중·고",
+        "분야: 과학·SW·창의",
+        "마감까지 38일",
+        "지역/방식: 전국 또는 온라인",
+        "참가비: 무료",
+        "기관 원본 공고 확인"
+      ],
+      "warnings": [],
+      "programIdeas": [
+        "SW 심화반 문제풀이 또는 미니 프로젝트",
+        "아이디어 발굴과 발표자료 제작 진로 프로젝트"
+      ]
+    }
+  },
+  {
+    "id": "contestkorea-202608130041",
+    "title": "[고우해커스]활동비 최대 60만원 멘토&특파원 모집!",
+    "organizer": "원본 확인 필요",
+    "grades": [
+      "초",
+      "중",
+      "고"
+    ],
+    "regions": [
+      "경기",
+      "경북",
+      "서울",
+      "온라인"
+    ],
+    "category": "과학·SW·창의",
+    "start": "2026-09-13",
+    "deadline": "2026-09-28",
+    "dday": 45,
+    "status": "접수예정",
+    "prize": null,
+    "free": true,
+    "officialUrl": "https://gouk.kr/TOpDz7",
+    "summary": "[고우해커스]활동비 최대 60만원 멘토&특파원 모집! 후보입니다. 참가대상·마감일·접수방법은 기관 원본 공고에서 확인하세요.",
+    "conflict": false,
+    "academyRecommendation": {
+      "subjectTags": [
+        "과학",
+        "코딩/SW"
+      ],
+      "careerTags": [
+        "이공계",
+        "IT/SW"
+      ],
+      "useCaseTags": [
+        "수업연계",
+        "결과물있음",
+        "특강가능",
+        "학부모안내",
+        "개별추천",
+        "심화도전"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 92,
+      "reasons": [
+        "마감까지 3주 이상 남아 결과물 제작형 수업이나 단기 특강으로 연결하기 좋습니다.",
+        "과학·코딩/SW 수업과 연결해 학생별 결과물 제작 과제로 활용할 수 있습니다.",
+        "기관 원본 공고가 확인되어 학부모 안내 자료로 사용하기 전 검토 부담이 낮습니다."
+      ],
+      "evidence": [
+        "참가대상: 초·중·고",
+        "분야: 과학·SW·창의",
+        "마감까지 45일",
+        "지역/방식: 전국 또는 온라인",
+        "참가비: 무료",
+        "기관 원본 공고 확인"
+      ],
+      "warnings": [
+        "제출 형식은 원본 공고에서 확인 필요"
+      ],
+      "programIdeas": [
+        "SW 심화반 문제풀이 또는 미니 프로젝트"
+      ]
+    }
+  },
+  {
     "id": "contestkorea-202604130002",
     "title": "2026년 충남관광 사진·영상 공모전",
     "organizer": "원본 확인 필요",
@@ -6117,19 +5526,16 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
       "고"
     ],
     "regions": [
-      "강원",
       "경기",
-      "대구",
+      "경북",
       "대전",
       "서울",
-      "온라인",
-      "충남",
-      "충북"
+      "충남"
     ],
     "category": "과학·SW·창의",
     "start": "2026-04-13",
     "deadline": "2026-09-30",
-    "dday": 54,
+    "dday": 47,
     "status": "접수중",
     "prize": null,
     "free": true,
@@ -6156,7 +5562,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
         "심화도전"
       ],
       "confidence": "높음",
-      "confidenceScore": 100,
+      "confidenceScore": 97,
       "reasons": [
         "마감까지 3주 이상 남아 결과물 제작형 수업이나 단기 특강으로 연결하기 좋습니다.",
         "과학·코딩/SW 수업과 연결해 학생별 결과물 제작 과제로 활용할 수 있습니다.",
@@ -6165,84 +5571,14 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
       "evidence": [
         "참가대상: 초·중·고",
         "분야: 과학·SW·창의",
-        "마감까지 54일",
-        "지역/방식: 전국 또는 온라인",
+        "마감까지 47일",
+        "지역: 경기·경북·대전·서울·충남",
         "참가비: 무료",
         "기관 원본 공고 확인"
       ],
       "warnings": [
         "가벼운 산출물 단서와 고난도 단서가 함께 있어 난이도 확인 필요"
       ],
-      "programIdeas": [
-        "SW 심화반 문제풀이 또는 미니 프로젝트",
-        "기획안 작성부터 촬영·편집까지 이어지는 영상 제작 특강"
-      ]
-    }
-  },
-  {
-    "id": "contestkorea-202607240034",
-    "title": "제3회 영등포전국사진공모전",
-    "organizer": "원본 확인 필요",
-    "grades": [
-      "초",
-      "중",
-      "고"
-    ],
-    "regions": [
-      "강원",
-      "경기",
-      "대구",
-      "대전",
-      "서울",
-      "온라인",
-      "충남",
-      "충북"
-    ],
-    "category": "과학·SW·창의",
-    "start": "2026-09-01",
-    "deadline": "2026-09-30",
-    "dday": 54,
-    "status": "접수예정",
-    "prize": null,
-    "free": true,
-    "officialUrl": "https://www.twitter.com/contestkorea",
-    "summary": "제3회 영등포전국사진공모전 후보입니다. 참가대상·마감일·접수방법은 기관 원본 공고에서 확인하세요.",
-    "conflict": false,
-    "academyRecommendation": {
-      "subjectTags": [
-        "과학",
-        "코딩/SW",
-        "영상/미디어"
-      ],
-      "careerTags": [
-        "이공계",
-        "IT/SW",
-        "미디어"
-      ],
-      "useCaseTags": [
-        "수업연계",
-        "결과물있음",
-        "특강가능",
-        "학부모안내",
-        "초보도전",
-        "심화도전"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 100,
-      "reasons": [
-        "참가대상·마감여유·무료/전국 조건과 가벼운 제출물 단서가 있어 첫 도전 후보로 검토할 수 있습니다.",
-        "마감까지 3주 이상 남아 결과물 제작형 수업이나 단기 특강으로 연결하기 좋습니다.",
-        "과학·코딩/SW 수업과 연결해 학생별 결과물 제작 과제로 활용할 수 있습니다."
-      ],
-      "evidence": [
-        "참가대상: 초·중·고",
-        "분야: 과학·SW·창의",
-        "마감까지 54일",
-        "지역/방식: 전국 또는 온라인",
-        "참가비: 무료",
-        "기관 원본 공고 확인"
-      ],
-      "warnings": [],
       "programIdeas": [
         "SW 심화반 문제풀이 또는 미니 프로젝트",
         "기획안 작성부터 촬영·편집까지 이어지는 영상 제작 특강"
@@ -6272,7 +5608,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
     "category": "과학·SW·창의",
     "start": "2026-10-01",
     "deadline": "2026-10-01",
-    "dday": 55,
+    "dday": 48,
     "status": "접수예정",
     "prize": null,
     "free": true,
@@ -6309,7 +5645,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
       "evidence": [
         "참가대상: 초·중·고",
         "분야: 과학·SW·창의",
-        "마감까지 55일",
+        "마감까지 48일",
         "지역/방식: 전국 또는 온라인",
         "참가비: 무료",
         "기관 원본 공고 확인"
@@ -6319,6 +5655,71 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
         "독서·글쓰기 수업의 2~4주 결과물 프로젝트",
         "SW 심화반 문제풀이 또는 미니 프로젝트",
         "기획안 작성부터 촬영·편집까지 이어지는 영상 제작 특강"
+      ]
+    }
+  },
+  {
+    "id": "contestkorea-202608110039",
+    "title": "2026 평생학습 런케이션 학습여행단 모집",
+    "organizer": "원본 확인 필요",
+    "grades": [
+      "초",
+      "중",
+      "고"
+    ],
+    "regions": [
+      "경기",
+      "경북",
+      "서울",
+      "온라인"
+    ],
+    "category": "과학·SW·창의",
+    "start": "2026-08-11",
+    "deadline": "2026-10-09",
+    "dday": 56,
+    "status": "접수중",
+    "prize": null,
+    "free": true,
+    "officialUrl": "https://naver.me/FgELMzUU",
+    "summary": "2026 평생학습 런케이션 학습여행단 모집 후보입니다. 참가대상·마감일·접수방법은 기관 원본 공고에서 확인하세요.",
+    "conflict": false,
+    "academyRecommendation": {
+      "subjectTags": [
+        "과학",
+        "코딩/SW"
+      ],
+      "careerTags": [
+        "이공계",
+        "IT/SW"
+      ],
+      "useCaseTags": [
+        "수업연계",
+        "결과물있음",
+        "특강가능",
+        "학부모안내",
+        "개별추천",
+        "심화도전"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 92,
+      "reasons": [
+        "마감까지 3주 이상 남아 결과물 제작형 수업이나 단기 특강으로 연결하기 좋습니다.",
+        "과학·코딩/SW 수업과 연결해 학생별 결과물 제작 과제로 활용할 수 있습니다.",
+        "기관 원본 공고가 확인되어 학부모 안내 자료로 사용하기 전 검토 부담이 낮습니다."
+      ],
+      "evidence": [
+        "참가대상: 초·중·고",
+        "분야: 과학·SW·창의",
+        "마감까지 56일",
+        "지역/방식: 전국 또는 온라인",
+        "참가비: 무료",
+        "기관 원본 공고 확인"
+      ],
+      "warnings": [
+        "제출 형식은 원본 공고에서 확인 필요"
+      ],
+      "programIdeas": [
+        "SW 심화반 문제풀이 또는 미니 프로젝트"
       ]
     }
   },
@@ -6344,12 +5745,211 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
     "category": "과학·SW·창의",
     "start": "2026-06-25",
     "deadline": "2026-10-10",
-    "dday": 64,
+    "dday": 57,
     "status": "접수중",
     "prize": null,
     "free": true,
     "officialUrl": "https://naver.me/FhuCKnXb",
     "summary": "2026 대전 중구 북페스티벌 '책으로 잇는 중구 이야기' 에세이 공모전 후보입니다. 참가대상·마감일·접수방법은 기관 원본 공고에서 확인하세요.",
+    "conflict": false,
+    "academyRecommendation": {
+      "subjectTags": [
+        "과학",
+        "코딩/SW"
+      ],
+      "careerTags": [
+        "이공계",
+        "IT/SW"
+      ],
+      "useCaseTags": [
+        "수업연계",
+        "결과물있음",
+        "특강가능",
+        "학부모안내",
+        "개별추천",
+        "심화도전"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 92,
+      "reasons": [
+        "마감까지 3주 이상 남아 결과물 제작형 수업이나 단기 특강으로 연결하기 좋습니다.",
+        "과학·코딩/SW 수업과 연결해 학생별 결과물 제작 과제로 활용할 수 있습니다.",
+        "기관 원본 공고가 확인되어 학부모 안내 자료로 사용하기 전 검토 부담이 낮습니다."
+      ],
+      "evidence": [
+        "참가대상: 초·중·고",
+        "분야: 과학·SW·창의",
+        "마감까지 57일",
+        "지역/방식: 전국 또는 온라인",
+        "참가비: 무료",
+        "기관 원본 공고 확인"
+      ],
+      "warnings": [
+        "제출 형식은 원본 공고에서 확인 필요"
+      ],
+      "programIdeas": [
+        "SW 심화반 문제풀이 또는 미니 프로젝트"
+      ]
+    }
+  },
+  {
+    "id": "contestkorea-202608130008",
+    "title": "제5회 서울영상고 SVM 전국 중학생 작품 공모전",
+    "organizer": "원본 확인 필요",
+    "grades": [
+      "중"
+    ],
+    "regions": [
+      "경기",
+      "경북",
+      "대전",
+      "서울",
+      "온라인",
+      "충남"
+    ],
+    "category": "과학·SW·창의",
+    "start": "2026-09-21",
+    "deadline": "2026-10-12",
+    "dday": 59,
+    "status": "접수예정",
+    "prize": null,
+    "free": true,
+    "officialUrl": "https://sen1144-my.sharepoint.com/:f:/g/personal/stoby27_youngsang_sen_hs_kr/IgBEcMSZYE1FSZTI8csL7W83Ad2f1hU5agPLOlCm_ji_u1g",
+    "summary": "제5회 서울영상고 SVM 전국 중학생 작품 공모전 후보입니다. 참가대상·마감일·접수방법은 기관 원본 공고에서 확인하세요.",
+    "conflict": false,
+    "academyRecommendation": {
+      "subjectTags": [
+        "과학",
+        "코딩/SW",
+        "영상/미디어"
+      ],
+      "careerTags": [
+        "이공계",
+        "IT/SW",
+        "미디어"
+      ],
+      "useCaseTags": [
+        "수업연계",
+        "결과물있음",
+        "특강가능",
+        "학부모안내",
+        "개별추천",
+        "심화도전"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 100,
+      "reasons": [
+        "마감까지 3주 이상 남아 결과물 제작형 수업이나 단기 특강으로 연결하기 좋습니다.",
+        "과학·코딩/SW 수업과 연결해 학생별 결과물 제작 과제로 활용할 수 있습니다.",
+        "기관 원본 공고가 확인되어 학부모 안내 자료로 사용하기 전 검토 부담이 낮습니다."
+      ],
+      "evidence": [
+        "참가대상: 중",
+        "분야: 과학·SW·창의",
+        "마감까지 59일",
+        "지역/방식: 전국 또는 온라인",
+        "참가비: 무료",
+        "기관 원본 공고 확인"
+      ],
+      "warnings": [],
+      "programIdeas": [
+        "SW 심화반 문제풀이 또는 미니 프로젝트",
+        "기획안 작성부터 촬영·편집까지 이어지는 영상 제작 특강"
+      ]
+    }
+  },
+  {
+    "id": "contestkorea-202606010035",
+    "title": "2026 새마을 숏폼 영상 콘테스트",
+    "organizer": "원본 확인 필요",
+    "grades": [
+      "초",
+      "중",
+      "고"
+    ],
+    "regions": [
+      "경기",
+      "경북",
+      "대전",
+      "서울",
+      "온라인",
+      "충남"
+    ],
+    "category": "과학·SW·창의",
+    "start": "2026-06-01",
+    "deadline": "2026-10-16",
+    "dday": 63,
+    "status": "접수중",
+    "prize": null,
+    "free": true,
+    "officialUrl": "https://www.twitter.com/contestkorea",
+    "summary": "2026 새마을 숏폼 영상 콘테스트 후보입니다. 참가대상·마감일·접수방법은 기관 원본 공고에서 확인하세요.",
+    "conflict": false,
+    "academyRecommendation": {
+      "subjectTags": [
+        "과학",
+        "코딩/SW",
+        "영상/미디어"
+      ],
+      "careerTags": [
+        "이공계",
+        "IT/SW",
+        "미디어"
+      ],
+      "useCaseTags": [
+        "수업연계",
+        "결과물있음",
+        "특강가능",
+        "학부모안내",
+        "개별추천",
+        "심화도전"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 100,
+      "reasons": [
+        "마감까지 3주 이상 남아 결과물 제작형 수업이나 단기 특강으로 연결하기 좋습니다.",
+        "과학·코딩/SW 수업과 연결해 학생별 결과물 제작 과제로 활용할 수 있습니다.",
+        "기관 원본 공고가 확인되어 학부모 안내 자료로 사용하기 전 검토 부담이 낮습니다."
+      ],
+      "evidence": [
+        "참가대상: 초·중·고",
+        "분야: 과학·SW·창의",
+        "마감까지 63일",
+        "지역/방식: 전국 또는 온라인",
+        "참가비: 무료",
+        "기관 원본 공고 확인"
+      ],
+      "warnings": [],
+      "programIdeas": [
+        "SW 심화반 문제풀이 또는 미니 프로젝트",
+        "기획안 작성부터 촬영·편집까지 이어지는 영상 제작 특강"
+      ]
+    }
+  },
+  {
+    "id": "contestkorea-202608030028",
+    "title": "제17회 파주 장단삼백요리 전국 경연대회",
+    "organizer": "원본 확인 필요",
+    "grades": [
+      "초",
+      "중",
+      "고"
+    ],
+    "regions": [
+      "경기",
+      "경북",
+      "서울",
+      "온라인"
+    ],
+    "category": "과학·SW·창의",
+    "start": "2026-08-03",
+    "deadline": "2026-10-17",
+    "dday": 64,
+    "status": "접수중",
+    "prize": null,
+    "free": true,
+    "officialUrl": "https://yori.or.kr/page/?pid=food_contest&fvno=26&w=",
+    "summary": "제17회 파주 장단삼백요리 전국 경연대회 후보입니다. 참가대상·마감일·접수방법은 기관 원본 공고에서 확인하세요.",
     "conflict": false,
     "academyRecommendation": {
       "subjectTags": [
@@ -6392,8 +5992,8 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
     }
   },
   {
-    "id": "contestkorea-202606010035",
-    "title": "2026 새마을 숏폼 영상 콘테스트",
+    "id": "contestkorea-202608140003",
+    "title": "[한국산림복지진흥원] 산림복지 10주년, 콘텐츠 공모전",
     "organizer": "원본 확인 필요",
     "grades": [
       "초",
@@ -6401,24 +6001,20 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
       "고"
     ],
     "regions": [
-      "강원",
       "경기",
-      "대구",
-      "대전",
+      "경북",
       "서울",
-      "온라인",
-      "충남",
-      "충북"
+      "온라인"
     ],
     "category": "과학·SW·창의",
-    "start": "2026-06-01",
-    "deadline": "2026-10-16",
-    "dday": 70,
+    "start": "2026-07-20",
+    "deadline": "2026-10-26",
+    "dday": 73,
     "status": "접수중",
     "prize": null,
     "free": true,
-    "officialUrl": "https://www.twitter.com/contestkorea",
-    "summary": "2026 새마을 숏폼 영상 콘테스트 후보입니다. 참가대상·마감일·접수방법은 기관 원본 공고에서 확인하세요.",
+    "officialUrl": "https://forms.gle/LQF88Xkx271xvTkM8",
+    "summary": "[한국산림복지진흥원] 산림복지 10주년, 콘텐츠 공모전 후보입니다. 참가대상·마감일·접수방법은 기관 원본 공고에서 확인하세요.",
     "conflict": false,
     "academyRecommendation": {
       "subjectTags": [
@@ -6436,11 +6032,10 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
         "결과물있음",
         "특강가능",
         "학부모안내",
-        "개별추천",
         "심화도전"
       ],
       "confidence": "높음",
-      "confidenceScore": 100,
+      "confidenceScore": 92,
       "reasons": [
         "마감까지 3주 이상 남아 결과물 제작형 수업이나 단기 특강으로 연결하기 좋습니다.",
         "과학·코딩/SW 수업과 연결해 학생별 결과물 제작 과제로 활용할 수 있습니다.",
@@ -6449,12 +6044,14 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
       "evidence": [
         "참가대상: 초·중·고",
         "분야: 과학·SW·창의",
-        "마감까지 70일",
+        "마감까지 73일",
         "지역/방식: 전국 또는 온라인",
         "참가비: 무료",
         "기관 원본 공고 확인"
       ],
-      "warnings": [],
+      "warnings": [
+        "제출 형식은 원본 공고에서 확인 필요"
+      ],
       "programIdeas": [
         "SW 심화반 문제풀이 또는 미니 프로젝트",
         "기획안 작성부터 촬영·편집까지 이어지는 영상 제작 특강"
@@ -6462,8 +6059,8 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
     }
   },
   {
-    "id": "contestkorea-202608040034",
-    "title": "[옥스팜 트레일워커 서울] 서울에서 처음 열리는 20K 기부 트레킹 페스티벌",
+    "id": "contestkorea-202608140024",
+    "title": "국제 어린이 및 청소년 미술공모전 (International Children & Youth Art Competition)",
     "organizer": "원본 확인 필요",
     "grades": [
       "초",
@@ -6471,24 +6068,84 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
       "고"
     ],
     "regions": [
-      "강원",
       "경기",
-      "대구",
-      "대전",
-      "서울",
-      "세종",
-      "온라인",
-      "충북"
+      "경북",
+      "서울"
     ],
     "category": "과학·SW·창의",
-    "start": "2026-10-17",
-    "deadline": "2026-10-17",
-    "dday": 71,
+    "start": "2026-10-26",
+    "deadline": "2026-10-30",
+    "dday": 77,
     "status": "접수예정",
     "prize": null,
     "free": true,
-    "officialUrl": "https://www.oxfamtrailwalker.or.kr/ko/login",
-    "summary": "[옥스팜 트레일워커 서울] 서울에서 처음 열리는 20K 기부 트레킹 페스티벌 후보입니다. 참가대상·마감일·접수방법은 기관 원본 공고에서 확인하세요.",
+    "officialUrl": "https://www.twitter.com/contestkorea",
+    "summary": "국제 어린이 및 청소년 미술공모전 (International Children & Youth Art Competition) 후보입니다. 참가대상·마감일·접수방법은 기관 원본 공고에서 확인하세요.",
+    "conflict": false,
+    "academyRecommendation": {
+      "subjectTags": [
+        "과학",
+        "코딩/SW",
+        "미술/디자인"
+      ],
+      "careerTags": [
+        "이공계",
+        "IT/SW"
+      ],
+      "useCaseTags": [
+        "수업연계",
+        "결과물있음",
+        "특강가능",
+        "학부모안내",
+        "심화도전"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 89,
+      "reasons": [
+        "마감까지 3주 이상 남아 결과물 제작형 수업이나 단기 특강으로 연결하기 좋습니다.",
+        "과학·코딩/SW 수업과 연결해 학생별 결과물 제작 과제로 활용할 수 있습니다.",
+        "기관 원본 공고가 확인되어 학부모 안내 자료로 사용하기 전 검토 부담이 낮습니다."
+      ],
+      "evidence": [
+        "참가대상: 초·중·고",
+        "분야: 과학·SW·창의",
+        "마감까지 77일",
+        "지역: 경기·경북·서울",
+        "참가비: 무료",
+        "기관 원본 공고 확인"
+      ],
+      "warnings": [
+        "제출 형식은 원본 공고에서 확인 필요"
+      ],
+      "programIdeas": [
+        "SW 심화반 문제풀이 또는 미니 프로젝트",
+        "포스터·웹툰·디자인 작품 제작 특강"
+      ]
+    }
+  },
+  {
+    "id": "contestkorea-202608130009",
+    "title": "제5회 전국들깨요리경연대회",
+    "organizer": "원본 확인 필요",
+    "grades": [
+      "중",
+      "고"
+    ],
+    "regions": [
+      "경기",
+      "경북",
+      "서울",
+      "충남"
+    ],
+    "category": "과학·SW·창의",
+    "start": "2026-09-14",
+    "deadline": "2026-10-31",
+    "dday": 78,
+    "status": "접수예정",
+    "prize": null,
+    "free": true,
+    "officialUrl": "https://www.twitter.com/contestkorea",
+    "summary": "제5회 전국들깨요리경연대회 후보입니다. 참가대상·마감일·접수방법은 기관 원본 공고에서 확인하세요.",
     "conflict": false,
     "academyRecommendation": {
       "subjectTags": [
@@ -6508,17 +6165,17 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
         "심화도전"
       ],
       "confidence": "높음",
-      "confidenceScore": 92,
+      "confidenceScore": 89,
       "reasons": [
         "마감까지 3주 이상 남아 결과물 제작형 수업이나 단기 특강으로 연결하기 좋습니다.",
         "과학·코딩/SW 수업과 연결해 학생별 결과물 제작 과제로 활용할 수 있습니다.",
         "기관 원본 공고가 확인되어 학부모 안내 자료로 사용하기 전 검토 부담이 낮습니다."
       ],
       "evidence": [
-        "참가대상: 초·중·고",
+        "참가대상: 중·고",
         "분야: 과학·SW·창의",
-        "마감까지 71일",
-        "지역/방식: 전국 또는 온라인",
+        "마감까지 78일",
+        "지역: 경기·경북·서울·충남",
         "참가비: 무료",
         "기관 원본 공고 확인"
       ],
@@ -6540,19 +6197,17 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
       "고"
     ],
     "regions": [
-      "강원",
       "경기",
-      "대구",
+      "경북",
       "대전",
       "서울",
       "온라인",
-      "충남",
-      "충북"
+      "충남"
     ],
     "category": "과학·SW·창의",
     "start": "2026-06-15",
     "deadline": "2026-11-18",
-    "dday": 103,
+    "dday": 96,
     "status": "접수중",
     "prize": null,
     "free": true,
@@ -6589,7 +6244,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
       "evidence": [
         "참가대상: 초·중·고",
         "분야: 과학·SW·창의",
-        "마감까지 103일",
+        "마감까지 96일",
         "지역/방식: 전국 또는 온라인",
         "참가비: 무료",
         "기관 원본 공고 확인"
@@ -6600,6 +6255,73 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
       "programIdeas": [
         "SW 심화반 문제풀이 또는 미니 프로젝트",
         "포스터·웹툰·디자인 작품 제작 특강",
+        "기획안 작성부터 촬영·편집까지 이어지는 영상 제작 특강"
+      ]
+    }
+  },
+  {
+    "id": "contestkorea-202608140029",
+    "title": "65일 만에 끝내는 '생성형 AI 광고 콘텐츠 제작' 전문가 과정[국비지원교육]",
+    "organizer": "원본 확인 필요",
+    "grades": [
+      "초",
+      "중",
+      "고"
+    ],
+    "regions": [
+      "경기",
+      "경북",
+      "서울",
+      "온라인"
+    ],
+    "category": "과학·SW·창의",
+    "start": "2026-08-31",
+    "deadline": "2026-12-03",
+    "dday": 111,
+    "status": "접수예정",
+    "prize": null,
+    "free": true,
+    "officialUrl": "https://www.work24.go.kr/hr/a/a/3100/selectTracseDetl.do?tracseId=AIG20263001414704&tracseTme=1&cstmConsTme=&crseTracseSe=C0061&trainstCstmrId=500020056026&tracseReqstsCd=&focusId=",
+    "summary": "65일 만에 끝내는 '생성형 AI 광고 콘텐츠 제작' 전문가 과정[국비지원교육] 후보입니다. 참가대상·마감일·접수방법은 기관 원본 공고에서 확인하세요.",
+    "conflict": false,
+    "academyRecommendation": {
+      "subjectTags": [
+        "과학",
+        "코딩/SW",
+        "영상/미디어"
+      ],
+      "careerTags": [
+        "이공계",
+        "IT/SW",
+        "미디어"
+      ],
+      "useCaseTags": [
+        "수업연계",
+        "결과물있음",
+        "특강가능",
+        "학부모안내",
+        "심화도전"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 92,
+      "reasons": [
+        "마감까지 3주 이상 남아 결과물 제작형 수업이나 단기 특강으로 연결하기 좋습니다.",
+        "과학·코딩/SW 수업과 연결해 학생별 결과물 제작 과제로 활용할 수 있습니다.",
+        "기관 원본 공고가 확인되어 학부모 안내 자료로 사용하기 전 검토 부담이 낮습니다."
+      ],
+      "evidence": [
+        "참가대상: 초·중·고",
+        "분야: 과학·SW·창의",
+        "마감까지 111일",
+        "지역/방식: 전국 또는 온라인",
+        "참가비: 무료",
+        "기관 원본 공고 확인"
+      ],
+      "warnings": [
+        "제출 형식은 원본 공고에서 확인 필요"
+      ],
+      "programIdeas": [
+        "SW 심화반 문제풀이 또는 미니 프로젝트",
         "기획안 작성부터 촬영·편집까지 이어지는 영상 제작 특강"
       ]
     }
@@ -6625,7 +6347,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
     "category": "과학·SW·창의",
     "start": "2026-07-27",
     "deadline": "2027-01-28",
-    "dday": 174,
+    "dday": 167,
     "status": "접수예정",
     "prize": null,
     "free": true,
@@ -6659,7 +6381,7 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
       "evidence": [
         "참가대상: 초·중·고",
         "분야: 과학·SW·창의",
-        "마감까지 174일",
+        "마감까지 167일",
         "지역/방식: 전국 또는 온라인",
         "참가비: 무료",
         "기관 원본 공고 확인"
@@ -6669,71 +6391,6 @@ export const SAMPLE_EVENTS: ContestEvent[] = [
       ],
       "programIdeas": [
         "독서·글쓰기 수업의 2~4주 결과물 프로젝트",
-        "SW 심화반 문제풀이 또는 미니 프로젝트"
-      ]
-    }
-  },
-  {
-    "id": "contestkorea-202608030003",
-    "title": "단 6개월 만에 데이터 전문가로! 데이터 분석 부트캠프 58기 실무 밀착형 커리큘럼",
-    "organizer": "원본 확인 필요",
-    "grades": [
-      "고"
-    ],
-    "regions": [
-      "강원",
-      "경기",
-      "대구",
-      "대전",
-      "서울",
-      "온라인",
-      "충북"
-    ],
-    "category": "과학·SW·창의",
-    "start": "2026-08-27",
-    "deadline": "2027-02-15",
-    "dday": 192,
-    "status": "접수예정",
-    "prize": null,
-    "free": true,
-    "officialUrl": "https://www.itwill.co.kr/cmn/eduCrseMain/1000000/all/CRSE_00000000000856eduCrseMainDetail.do?utm_source=contestkorea",
-    "summary": "단 6개월 만에 데이터 전문가로! 데이터 분석 부트캠프 58기 실무 밀착형 커리큘럼 후보입니다. 참가대상·마감일·접수방법은 기관 원본 공고에서 확인하세요.",
-    "conflict": true,
-    "academyRecommendation": {
-      "subjectTags": [
-        "과학",
-        "코딩/SW",
-        "수학"
-      ],
-      "careerTags": [
-        "이공계",
-        "IT/SW"
-      ],
-      "useCaseTags": [
-        "수업연계",
-        "결과물있음",
-        "특강가능",
-        "심화도전"
-      ],
-      "confidence": "중간",
-      "confidenceScore": 78,
-      "reasons": [
-        "마감까지 3주 이상 남아 결과물 제작형 수업이나 단기 특강으로 연결하기 좋습니다.",
-        "과학·코딩/SW 수업과 연결해 학생별 결과물 제작 과제로 활용할 수 있습니다.",
-        "준비 부담이 있는 산출물 또는 전문 분야 단서가 있어 관심 학생의 심화 프로젝트 후보로 적합합니다."
-      ],
-      "evidence": [
-        "참가대상: 고",
-        "분야: 과학·SW·창의",
-        "마감까지 192일",
-        "지역/방식: 전국 또는 온라인",
-        "참가비: 무료"
-      ],
-      "warnings": [
-        "기관 원본 링크 또는 검수상태 확인 필요",
-        "제출 형식은 원본 공고에서 확인 필요"
-      ],
-      "programIdeas": [
         "SW 심화반 문제풀이 또는 미니 프로젝트"
       ]
     }
