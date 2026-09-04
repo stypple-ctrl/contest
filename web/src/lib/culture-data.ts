@@ -1,6 +1,6 @@
 import type { CultureEvent } from "@/types/culture";
 
-export const CULTURE_DATA_DATE = "2026-08-29";
+export const CULTURE_DATA_DATE = "2026-09-04";
 
 export const CULTURE_EVENTS: CultureEvent[] = [
   {
@@ -18,7 +18,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2019-01-27",
     "endDate": "2026-06-28",
-    "dday": -62,
+    "dday": -68,
     "runtime": "1시간 10분",
     "priceText": "전석 30,000원",
     "free": false,
@@ -49,7 +49,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -62일"
+        "시작까지 -68일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -76,7 +76,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2022-12-03",
     "endDate": "2026-06-28",
-    "dday": -62,
+    "dday": -68,
     "runtime": "60분",
     "priceText": "전석 50,000원",
     "free": false,
@@ -107,7 +107,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -62일"
+        "시작까지 -68일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -134,7 +134,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2023-04-22",
     "endDate": "2026-07-19",
-    "dday": -41,
+    "dday": -47,
     "runtime": "1시간 10분",
     "priceText": "전석 30,000원",
     "free": false,
@@ -165,7 +165,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -41일"
+        "시작까지 -47일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -192,7 +192,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2023-05-05",
     "endDate": "2026-07-26",
-    "dday": -34,
+    "dday": -40,
     "runtime": "1시간",
     "priceText": "24개월 이상 30,000원, 18~23개월 10,000원",
     "free": false,
@@ -223,7 +223,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -34일"
+        "시작까지 -40일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -250,7 +250,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2023-12-09",
     "endDate": "2026-07-31",
-    "dday": -29,
+    "dday": -35,
     "runtime": "1시간",
     "priceText": "전석 23,000원",
     "free": false,
@@ -281,7 +281,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -29일"
+        "시작까지 -35일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -308,7 +308,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2024-03-23",
     "endDate": "2026-06-28",
-    "dday": -62,
+    "dday": -68,
     "runtime": "1시간",
     "priceText": "전석 50,000원",
     "free": false,
@@ -339,7 +339,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -62일"
+        "시작까지 -68일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -366,7 +366,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2024-07-14",
     "endDate": "2026-07-26",
-    "dday": -34,
+    "dday": -40,
     "runtime": "1시간",
     "priceText": "전석 50,000원",
     "free": false,
@@ -397,7 +397,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -34일"
+        "시작까지 -40일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -424,7 +424,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2024-07-20",
     "endDate": "2026-06-28",
-    "dday": -62,
+    "dday": -68,
     "runtime": "50분",
     "priceText": "전석 28,000원",
     "free": false,
@@ -455,7 +455,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -62일"
+        "시작까지 -68일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -482,7 +482,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2024-12-14",
     "endDate": "2026-07-04",
-    "dday": -56,
+    "dday": -62,
     "runtime": "1시간",
     "priceText": "전석 50,000원",
     "free": false,
@@ -513,7 +513,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 36개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -56일"
+        "시작까지 -62일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -540,7 +540,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2025-01-01",
     "endDate": "2026-06-30",
-    "dday": -60,
+    "dday": -66,
     "runtime": "1시간 10분",
     "priceText": "전석 25,000원",
     "free": false,
@@ -571,7 +571,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -60일"
+        "시작까지 -66일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -598,7 +598,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2025-01-11",
     "endDate": "2026-06-28",
-    "dday": -62,
+    "dday": -68,
     "runtime": "50분",
     "priceText": "전석 35,000원",
     "free": false,
@@ -629,7 +629,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -62일"
+        "시작까지 -68일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -656,7 +656,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2025-02-15",
     "endDate": "2026-06-28",
-    "dday": -62,
+    "dday": -68,
     "runtime": "45분",
     "priceText": "전석 20,000원",
     "free": false,
@@ -687,7 +687,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 12개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -62일"
+        "시작까지 -68일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -712,7 +712,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": "서울특별시 성북구 성북로 134 성북구립미술관",
     "startDate": "2025-02-26",
     "endDate": "2026-06-30",
-    "dday": -60,
+    "dday": -66,
     "runtime": null,
     "priceText": "무료",
     "free": true,
@@ -744,7 +744,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "유형: 전시",
         "분야: 전시",
         "지역: 서울",
-        "시작까지 -60일",
+        "시작까지 -66일",
         "가격: 무료"
       ],
       "warnings": [
@@ -772,7 +772,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2025-03-01",
     "endDate": "2026-08-17",
-    "dday": -12,
+    "dday": -18,
     "runtime": "50분",
     "priceText": "전석 40,000원",
     "free": false,
@@ -803,7 +803,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -12일"
+        "시작까지 -18일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -828,7 +828,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": "경기도 안산시 단원구 동산로 268 경기도미술관",
     "startDate": "2025-03-20",
     "endDate": "2026-06-28",
-    "dday": -62,
+    "dday": -68,
     "runtime": null,
     "priceText": "무료",
     "free": true,
@@ -861,7 +861,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "유형: 전시",
         "분야: 전시",
         "지역: 경기",
-        "시작까지 -62일",
+        "시작까지 -68일",
         "가격: 무료",
         "원본/예매 링크 확인"
       ],
@@ -890,7 +890,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2025-03-29",
     "endDate": "2026-08-09",
-    "dday": -20,
+    "dday": -26,
     "runtime": "1시간",
     "priceText": "동동이석 66,000원",
     "free": false,
@@ -923,7 +923,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 12개월 이상",
         "학생대상 후보: 초등",
         "지역: 서울",
-        "시작까지 -20일"
+        "시작까지 -26일"
       ],
       "warnings": [],
       "programIdeas": [
@@ -946,7 +946,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": "충청남도 부여군 부여읍 금성로 5 국립부여박물관",
     "startDate": "2025-04-08",
     "endDate": "2026-06-28",
-    "dday": -62,
+    "dday": -68,
     "runtime": null,
     "priceText": "무료",
     "free": true,
@@ -979,7 +979,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "유형: 전시",
         "분야: 전시",
         "지역: 충남",
-        "시작까지 -62일",
+        "시작까지 -68일",
         "가격: 무료",
         "원본/예매 링크 확인"
       ],
@@ -1006,7 +1006,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": "경상남도 창원시 마산합포구 문신길 147 창원시립마산문신미술관",
     "startDate": "2025-04-22",
     "endDate": "2026-08-30",
-    "dday": 0,
+    "dday": -5,
     "runtime": null,
     "priceText": "성인 500원 / 어린이, 청소년, 군인, 대학생, 예술인 200원",
     "free": false,
@@ -1014,7 +1014,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "officialUrl": "https://www.changwon.go.kr/moonshin/exhibition/view.php?case=N&amp%3Bidx=48&amp%3Bpageno=1",
     "summary": "문신연대기 Moon Shin Chronology 문화행사 정보입니다.",
     "status": "예정/진행",
-    "conflict": true,
+    "conflict": false,
     "recommendation": {
       "subjectTags": [
         "국어/논술",
@@ -1023,22 +1023,23 @@ export const CULTURE_EVENTS: CultureEvent[] = [
       ],
       "useCaseTags": [
         "장기전시",
-        "이번주관람",
         "주말관람",
-        "박물관/미술관"
+        "박물관/미술관",
+        "원본확인"
       ],
-      "confidence": "중간",
-      "confidenceScore": 72,
+      "confidence": "높음",
+      "confidenceScore": 86,
       "reasons": [
         "운영 기간이 길어 학원 일정에 맞춰 안내하기 쉽습니다.",
-        "이번 주 바로 안내할 수 있는 가까운 일정입니다.",
-        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
+        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다.",
+        "박물관·미술관 장소 특성상 사전 배경지식 수업과 연결하기 좋습니다."
       ],
       "evidence": [
         "유형: 전시",
         "분야: 전시",
         "지역: 경남",
-        "시작까지 0일"
+        "시작까지 -5일",
+        "원본/예매 링크 확인"
       ],
       "warnings": [
         "관람연령 또는 학생대상 확인 필요"
@@ -1065,7 +1066,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": "울산광역시 울주군 두동면 반구대안길 254 울산암각화박물관",
     "startDate": "2025-07-01",
     "endDate": "2026-06-30",
-    "dday": -60,
+    "dday": -66,
     "runtime": null,
     "priceText": "무료",
     "free": true,
@@ -1073,7 +1074,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "officialUrl": "https://www.ulsan.go.kr/s/bangudae/bbs/view.do?bbsId=BBS_0000000000000094&mId=001002002000000000&dataId=50329",
     "summary": "2025년 어린이실 테마전시 &#39;반구천의 암각화로 놀러 와!&#39; 문화행사 정보입니다.",
     "status": "예정/진행",
-    "conflict": true,
+    "conflict": false,
     "recommendation": {
       "subjectTags": [
         "국어/논술",
@@ -1084,10 +1085,11 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "무료전시",
         "장기전시",
         "주말관람",
-        "박물관/미술관"
+        "박물관/미술관",
+        "원본확인"
       ],
       "confidence": "높음",
-      "confidenceScore": 86,
+      "confidenceScore": 100,
       "reasons": [
         "무료 전시라 학부모 안내 시 비용 부담이 낮습니다.",
         "운영 기간이 길어 학원 일정에 맞춰 안내하기 쉽습니다.",
@@ -1098,7 +1100,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "분야: 전시",
         "학생대상 후보: 초등",
         "지역: 울산",
-        "시작까지 -60일",
+        "시작까지 -66일",
         "가격: 무료"
       ],
       "warnings": [],
@@ -1122,7 +1124,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": "제주특별자치도 제주시 1100로 2894-78 제주도립미술관",
     "startDate": "2025-07-25",
     "endDate": "2026-06-30",
-    "dday": -60,
+    "dday": -66,
     "runtime": null,
     "priceText": "무료",
     "free": true,
@@ -1155,7 +1157,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "유형: 전시",
         "분야: 전시",
         "지역: 제주",
-        "시작까지 -60일",
+        "시작까지 -66일",
         "가격: 무료",
         "원본/예매 링크 확인"
       ],
@@ -1182,7 +1184,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": "충청북도 청주시 청원구 상당로 314 국립현대미술관 청주관",
     "startDate": "2025-08-08",
     "endDate": "2026-07-31",
-    "dday": -29,
+    "dday": -35,
     "runtime": null,
     "priceText": "무료",
     "free": true,
@@ -1190,7 +1192,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "officialUrl": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhFlag=1&exhId=202508060001987",
     "summary": "미술은행 20주년 특별전《돌아온 미래: 형태와 생각의 발현》 문화행사 정보입니다.",
     "status": "예정/진행",
-    "conflict": true,
+    "conflict": false,
     "recommendation": {
       "subjectTags": [
         "국어/논술",
@@ -1201,10 +1203,11 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "무료전시",
         "장기전시",
         "주말관람",
-        "박물관/미술관"
+        "박물관/미술관",
+        "원본확인"
       ],
-      "confidence": "중간",
-      "confidenceScore": 72,
+      "confidence": "높음",
+      "confidenceScore": 86,
       "reasons": [
         "무료 전시라 학부모 안내 시 비용 부담이 낮습니다.",
         "운영 기간이 길어 학원 일정에 맞춰 안내하기 쉽습니다.",
@@ -1214,8 +1217,9 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "유형: 전시",
         "분야: 전시",
         "지역: 충북",
-        "시작까지 -29일",
-        "가격: 무료"
+        "시작까지 -35일",
+        "가격: 무료",
+        "원본/예매 링크 확인"
       ],
       "warnings": [
         "관람연령 또는 학생대상 확인 필요"
@@ -1240,7 +1244,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": "제주특별자치도 서귀포시 안덕면 산록남로 788 포도뮤지엄",
     "startDate": "2025-08-09",
     "endDate": "2026-08-08",
-    "dday": -21,
+    "dday": -27,
     "runtime": null,
     "priceText": "유료 3,000~10,000원",
     "free": false,
@@ -1270,7 +1274,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "유형: 전시",
         "분야: 전시",
         "지역: 제주",
-        "시작까지 -21일",
+        "시작까지 -27일",
         "원본/예매 링크 확인"
       ],
       "warnings": [
@@ -1296,7 +1300,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": "서울특별시 종로구 송월길 162 경찰박물관",
     "startDate": "2025-08-12",
     "endDate": "2026-06-28",
-    "dday": -62,
+    "dday": -68,
     "runtime": null,
     "priceText": "무료",
     "free": true,
@@ -1304,7 +1308,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "officialUrl": "https://www.policemuseum.go.kr/pm_museum_new/special_museum_view.asp?board_type=EX&amp%3Bidx=3603",
     "summary": "2025 국립경찰박물관 특별전 &lt;나의 영웅, 우리의 경찰&gt; 문화행사 정보입니다.",
     "status": "예정/진행",
-    "conflict": true,
+    "conflict": false,
     "recommendation": {
       "subjectTags": [
         "국어/논술",
@@ -1316,10 +1320,11 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "무료전시",
         "장기전시",
         "주말관람",
-        "박물관/미술관"
+        "박물관/미술관",
+        "원본확인"
       ],
-      "confidence": "중간",
-      "confidenceScore": 72,
+      "confidence": "높음",
+      "confidenceScore": 86,
       "reasons": [
         "무료 전시라 학부모 안내 시 비용 부담이 낮습니다.",
         "운영 기간이 길어 학원 일정에 맞춰 안내하기 쉽습니다.",
@@ -1329,8 +1334,9 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "유형: 전시",
         "분야: 전시",
         "지역: 서울",
-        "시작까지 -62일",
-        "가격: 무료"
+        "시작까지 -68일",
+        "가격: 무료",
+        "원본/예매 링크 확인"
       ],
       "warnings": [
         "관람연령 또는 학생대상 확인 필요"
@@ -1355,7 +1361,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": "경기도 파주시 탄현면 헤이리로 30 국립민속박물관 파주",
     "startDate": "2025-08-26",
     "endDate": "2026-08-23",
-    "dday": -6,
+    "dday": -12,
     "runtime": null,
     "priceText": "무료",
     "free": true,
@@ -1363,7 +1369,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "officialUrl": "https://www.nfm.go.kr/user/planexhibition/home/62/selectPlanExhibitionNView.do?planExhibitionIdx=1591&page=1",
     "summary": "만인산: 보존과 해체의 기록 문화행사 정보입니다.",
     "status": "예정/진행",
-    "conflict": true,
+    "conflict": false,
     "recommendation": {
       "subjectTags": [
         "국어/논술",
@@ -1374,10 +1380,11 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "무료전시",
         "장기전시",
         "주말관람",
-        "박물관/미술관"
+        "박물관/미술관",
+        "원본확인"
       ],
-      "confidence": "중간",
-      "confidenceScore": 72,
+      "confidence": "높음",
+      "confidenceScore": 86,
       "reasons": [
         "무료 전시라 학부모 안내 시 비용 부담이 낮습니다.",
         "운영 기간이 길어 학원 일정에 맞춰 안내하기 쉽습니다.",
@@ -1387,8 +1394,9 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "유형: 전시",
         "분야: 전시",
         "지역: 경기",
-        "시작까지 -6일",
-        "가격: 무료"
+        "시작까지 -12일",
+        "가격: 무료",
+        "원본/예매 링크 확인"
       ],
       "warnings": [
         "관람연령 또는 학생대상 확인 필요"
@@ -1415,7 +1423,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2025-09-13",
     "endDate": "2026-06-28",
-    "dday": -62,
+    "dday": -68,
     "runtime": "50분",
     "priceText": "전석 44,000원",
     "free": false,
@@ -1446,7 +1454,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -62일"
+        "시작까지 -68일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -1471,7 +1479,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": "대전광역시 서구 대덕대로175번길 16 지하층 B101호",
     "startDate": "2025-09-16",
     "endDate": "2026-08-30",
-    "dday": 0,
+    "dday": -5,
     "runtime": null,
     "priceText": "정가 40,000원",
     "free": false,
@@ -1486,21 +1494,19 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "예술"
       ],
       "useCaseTags": [
-        "이번주관람",
         "주말관람",
         "원본확인"
       ],
       "confidence": "높음",
       "confidenceScore": 86,
       "reasons": [
-        "이번 주 바로 안내할 수 있는 가까운 일정입니다.",
         "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
       ],
       "evidence": [
         "유형: 뮤지컬/오페라",
         "분야: 뮤지컬/오페라",
         "지역: 대전",
-        "시작까지 0일",
+        "시작까지 -5일",
         "원본/예매 링크 확인"
       ],
       "warnings": [
@@ -1526,7 +1532,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": "경상북도 상주시 사벌국면 경천로 684 상주박물관",
     "startDate": "2025-09-24",
     "endDate": "2026-07-26",
-    "dday": -34,
+    "dday": -40,
     "runtime": null,
     "priceText": "무료",
     "free": true,
@@ -1534,7 +1540,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "officialUrl": "https://www.sangju.go.kr/museum/tabBoard/detail.tc?mn=2384&viewType=sub&mngNo=1&pageIndex=1&boardName=&boardNo=811&pageSeq=5007&preview=&previewTempl=&tabBoardSeq=4&type=B&tabOrder=0&searchYear=&searchCondition=0&searchKeyword=",
     "summary": "2025 상주박물관 특별기회전 &#39;화령, 백두대간이 품은 마을&#39; 문화행사 정보입니다.",
     "status": "예정/진행",
-    "conflict": true,
+    "conflict": false,
     "recommendation": {
       "subjectTags": [
         "국어/논술",
@@ -1546,10 +1552,11 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "무료전시",
         "장기전시",
         "주말관람",
-        "박물관/미술관"
+        "박물관/미술관",
+        "원본확인"
       ],
-      "confidence": "중간",
-      "confidenceScore": 72,
+      "confidence": "높음",
+      "confidenceScore": 86,
       "reasons": [
         "무료 전시라 학부모 안내 시 비용 부담이 낮습니다.",
         "운영 기간이 길어 학원 일정에 맞춰 안내하기 쉽습니다.",
@@ -1559,8 +1566,9 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "유형: 전시",
         "분야: 전시",
         "지역: 경북",
-        "시작까지 -34일",
-        "가격: 무료"
+        "시작까지 -40일",
+        "가격: 무료",
+        "원본/예매 링크 확인"
       ],
       "warnings": [
         "관람연령 또는 학생대상 확인 필요"
@@ -1587,7 +1595,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2025-09-27",
     "endDate": "2026-07-18",
-    "dday": -42,
+    "dday": -48,
     "runtime": "1시간",
     "priceText": "전석 45,000원",
     "free": false,
@@ -1618,7 +1626,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -42일"
+        "시작까지 -48일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -1702,7 +1710,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": "충청남도 부여군 부여읍 금성로 5 국립부여박물관",
     "startDate": "2025-09-30",
     "endDate": "2026-06-28",
-    "dday": -62,
+    "dday": -68,
     "runtime": null,
     "priceText": "무료",
     "free": true,
@@ -1735,7 +1743,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "유형: 전시",
         "분야: 전시",
         "지역: 충남",
-        "시작까지 -62일",
+        "시작까지 -68일",
         "가격: 무료",
         "원본/예매 링크 확인"
       ],
@@ -1764,7 +1772,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2025-10-24",
     "endDate": "2026-08-09",
-    "dday": -20,
+    "dday": -26,
     "runtime": "1시간",
     "priceText": "전석 66,000원",
     "free": false,
@@ -1795,7 +1803,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 12개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -20일"
+        "시작까지 -26일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -1820,7 +1828,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": "서울특별시 중랑구 망우로 353 지하2층 중랑아트센터",
     "startDate": "2025-10-28",
     "endDate": "2026-07-04",
-    "dday": -56,
+    "dday": -62,
     "runtime": null,
     "priceText": "무료",
     "free": true,
@@ -1828,7 +1836,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "officialUrl": "https://www.jnfac.or.kr/art/show/view/11476",
     "summary": "AI 기반 미디어아트 전시 《뉴-미디어의 재해-석》 문화행사 정보입니다.",
     "status": "예정/진행",
-    "conflict": false,
+    "conflict": true,
     "recommendation": {
       "subjectTags": [
         "국어/논술",
@@ -1838,11 +1846,10 @@ export const CULTURE_EVENTS: CultureEvent[] = [
       "useCaseTags": [
         "무료전시",
         "장기전시",
-        "주말관람",
-        "원본확인"
+        "주말관람"
       ],
-      "confidence": "높음",
-      "confidenceScore": 86,
+      "confidence": "중간",
+      "confidenceScore": 72,
       "reasons": [
         "무료 전시라 학부모 안내 시 비용 부담이 낮습니다.",
         "운영 기간이 길어 학원 일정에 맞춰 안내하기 쉽습니다.",
@@ -1852,9 +1859,8 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "유형: 전시",
         "분야: 전시",
         "지역: 서울",
-        "시작까지 -56일",
-        "가격: 무료",
-        "원본/예매 링크 확인"
+        "시작까지 -62일",
+        "가격: 무료"
       ],
       "warnings": [
         "관람연령 또는 학생대상 확인 필요"
@@ -1879,7 +1885,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": "서울특별시 용산구 서빙고로 137 국립중앙박물관",
     "startDate": "2025-10-28",
     "endDate": "2026-06-30",
-    "dday": -60,
+    "dday": -66,
     "runtime": null,
     "priceText": "무료",
     "free": true,
@@ -1913,7 +1919,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "유형: 전시",
         "분야: 전시",
         "지역: 서울",
-        "시작까지 -60일",
+        "시작까지 -66일",
         "가격: 무료",
         "원본/예매 링크 확인"
       ],
@@ -1942,7 +1948,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2025-11-21",
     "endDate": "2026-07-12",
-    "dday": -48,
+    "dday": -54,
     "runtime": "1시간",
     "priceText": "애벌레석 66,000원, 신한카드 특별석 66,000원",
     "free": false,
@@ -1973,7 +1979,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 12개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -48일"
+        "시작까지 -54일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -1998,7 +2004,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": "서울특별시 성북구 성북로 96 성북선잠박물관",
     "startDate": "2025-11-25",
     "endDate": "2026-06-28",
-    "dday": -62,
+    "dday": -68,
     "runtime": null,
     "priceText": "무료",
     "free": true,
@@ -2031,7 +2037,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "유형: 전시",
         "분야: 전시",
         "지역: 서울",
-        "시작까지 -62일",
+        "시작까지 -68일",
         "가격: 무료",
         "원본/예매 링크 확인"
       ],
@@ -2058,7 +2064,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": "서울특별시 종로구 동숭길 47 나인진홀",
     "startDate": "2026-01-07",
     "endDate": "2026-07-05",
-    "dday": -55,
+    "dday": -61,
     "runtime": null,
     "priceText": "평일 10,000원 / 주말 11,000원",
     "free": false,
@@ -2085,7 +2091,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "유형: 연극",
         "분야: 연극",
         "지역: 서울",
-        "시작까지 -55일",
+        "시작까지 -61일",
         "원본/예매 링크 확인"
       ],
       "warnings": [
@@ -2293,7 +2299,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-03-14",
     "endDate": "2026-08-09",
-    "dday": -20,
+    "dday": -26,
     "runtime": "1시간",
     "priceText": "전석 66,000원",
     "free": false,
@@ -2324,7 +2330,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 12개월 이상",
         "학생대상 후보: 초등",
         "지역: 서울",
-        "시작까지 -20일"
+        "시작까지 -26일"
       ],
       "warnings": [],
       "programIdeas": [
@@ -2347,7 +2353,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-03-16",
     "endDate": "2026-07-03",
-    "dday": -57,
+    "dday": -63,
     "runtime": null,
     "priceText": null,
     "free": false,
@@ -2373,7 +2379,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "유형: 교육/체험",
         "분야: 교육/체험",
         "지역: 경북",
-        "시작까지 -57일",
+        "시작까지 -63일",
         "원본/예매 링크 확인"
       ],
       "warnings": [
@@ -2402,7 +2408,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-03-19",
     "endDate": "2026-06-28",
-    "dday": -62,
+    "dday": -68,
     "runtime": "1시간",
     "priceText": "전석 40,000원",
     "free": false,
@@ -2433,7 +2439,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 만 5세 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -62일"
+        "시작까지 -68일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -2520,7 +2526,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-03-21",
     "endDate": "2026-07-12",
-    "dday": -48,
+    "dday": -54,
     "runtime": "1시간",
     "priceText": "전석 66,000원",
     "free": false,
@@ -2553,7 +2559,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 12개월 이상",
         "학생대상 후보: 초등",
         "지역: 서울",
-        "시작까지 -48일"
+        "시작까지 -54일"
       ],
       "warnings": [],
       "programIdeas": [
@@ -2578,7 +2584,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": "송파구",
     "startDate": "2026-03-24",
     "endDate": "2026-07-01",
-    "dday": -59,
+    "dday": -65,
     "runtime": null,
     "priceText": null,
     "free": false,
@@ -2607,7 +2613,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "분야: 교육/체험",
         "학생대상 후보: 초등",
         "지역: 서울",
-        "시작까지 -59일",
+        "시작까지 -65일",
         "원본/예매 링크 확인"
       ],
       "warnings": [
@@ -2635,7 +2641,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": "송파구",
     "startDate": "2026-03-24",
     "endDate": "2026-07-01",
-    "dday": -59,
+    "dday": -65,
     "runtime": null,
     "priceText": null,
     "free": false,
@@ -2664,7 +2670,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "분야: 교육/체험",
         "학생대상 후보: 초등",
         "지역: 서울",
-        "시작까지 -59일",
+        "시작까지 -65일",
         "원본/예매 링크 확인"
       ],
       "warnings": [
@@ -2690,7 +2696,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": "강원특별자치도 강릉시 원대로 45 (교동) 강릉시립미술관 솔올",
     "startDate": "2026-04-01",
     "endDate": "2026-07-05",
-    "dday": -55,
+    "dday": -61,
     "runtime": null,
     "priceText": "성인 10,000원 / 청소년 7,000원 / 어린이 5,000원",
     "free": false,
@@ -2698,7 +2704,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "officialUrl": "https://www.gn.go.kr/mu/selectMoonhwainView.do?pageUnit=8&amp%3BpageIndex=1&amp%3BsearchCnd=all&amp%3Bkey=6614&amp%3BsearchMoon_p_team=gnmu&amp%3BsearchSiteId=mu&amp%3BsearchMoon_p_kind=gallery&amp%3BsearchMoon_p_idx=147",
     "summary": "장욱진의 대화: 서로가 된 풍경 문화행사 정보입니다.",
     "status": "예정/진행",
-    "conflict": true,
+    "conflict": false,
     "recommendation": {
       "subjectTags": [
         "국어/논술",
@@ -2708,10 +2714,11 @@ export const CULTURE_EVENTS: CultureEvent[] = [
       "useCaseTags": [
         "장기전시",
         "주말관람",
-        "박물관/미술관"
+        "박물관/미술관",
+        "원본확인"
       ],
-      "confidence": "중간",
-      "confidenceScore": 72,
+      "confidence": "높음",
+      "confidenceScore": 86,
       "reasons": [
         "운영 기간이 길어 학원 일정에 맞춰 안내하기 쉽습니다.",
         "주말 관람 가능성이 있어 가족 참여 안내 후보입니다.",
@@ -2721,7 +2728,8 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "유형: 전시",
         "분야: 전시",
         "지역: 강원",
-        "시작까지 -55일"
+        "시작까지 -61일",
+        "원본/예매 링크 확인"
       ],
       "warnings": [
         "관람연령 또는 학생대상 확인 필요"
@@ -2868,7 +2876,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-04-04",
     "endDate": "2026-06-28",
-    "dday": -62,
+    "dday": -68,
     "runtime": "50분",
     "priceText": "전석 40,000원",
     "free": false,
@@ -2899,7 +2907,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -62일"
+        "시작까지 -68일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -2984,7 +2992,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": "서울특별시 중구 퇴계로 387 충무아트센터",
     "startDate": "2026-04-16",
     "endDate": "2026-07-05",
-    "dday": -55,
+    "dday": -61,
     "runtime": null,
     "priceText": "VIP석 170,000원, R석 140,000원, S석 110,000원, A석 80,000원",
     "free": false,
@@ -3010,7 +3018,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "유형: 뮤지컬/오페라",
         "분야: 뮤지컬/오페라",
         "지역: 서울",
-        "시작까지 -55일",
+        "시작까지 -61일",
         "원본/예매 링크 확인"
       ],
       "warnings": [
@@ -3036,7 +3044,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": "부산광역시 동구 자성로133번길 10 가온아트홀",
     "startDate": "2026-05-01",
     "endDate": "2026-07-05",
-    "dday": -55,
+    "dday": -61,
     "runtime": null,
     "priceText": "전석 50,000원",
     "free": false,
@@ -3062,7 +3070,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "유형: 뮤지컬/오페라",
         "분야: 뮤지컬/오페라",
         "지역: 부산",
-        "시작까지 -55일",
+        "시작까지 -61일",
         "원본/예매 링크 확인"
       ],
       "warnings": [
@@ -3090,7 +3098,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-05-01",
     "endDate": "2026-06-28",
-    "dday": -62,
+    "dday": -68,
     "runtime": "45분",
     "priceText": "전석 35,000원",
     "free": false,
@@ -3121,7 +3129,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -62일"
+        "시작까지 -68일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -3146,7 +3154,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": "서울특별시 종로구 대학로8가길 52 대학로 스카이씨어터 6층",
     "startDate": "2026-05-02",
     "endDate": "2026-07-05",
-    "dday": -55,
+    "dday": -61,
     "runtime": null,
     "priceText": "R석 55,000원",
     "free": false,
@@ -3173,7 +3181,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "유형: 연극",
         "분야: 연극",
         "지역: 서울",
-        "시작까지 -55일",
+        "시작까지 -61일",
         "원본/예매 링크 확인"
       ],
       "warnings": [
@@ -3201,7 +3209,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-05-02",
     "endDate": "2026-07-25",
-    "dday": -35,
+    "dday": -41,
     "runtime": "1시간 10분",
     "priceText": "전석 30,000원",
     "free": false,
@@ -3232,7 +3240,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 부산",
-        "시작까지 -35일"
+        "시작까지 -41일"
       ],
       "warnings": [],
       "programIdeas": [
@@ -3257,7 +3265,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-05-06",
     "endDate": "2026-06-30",
-    "dday": -60,
+    "dday": -66,
     "runtime": "40분",
     "priceText": "아동 16,000원, 성인 8,000원",
     "free": false,
@@ -3288,7 +3296,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 30개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -60일"
+        "시작까지 -66일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -3315,7 +3323,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-05-09",
     "endDate": "2026-07-05",
-    "dday": -55,
+    "dday": -61,
     "runtime": "50분",
     "priceText": "전석 25,000원",
     "free": false,
@@ -3346,7 +3354,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -55일"
+        "시작까지 -61일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -3373,7 +3381,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-05-13",
     "endDate": "2026-07-19",
-    "dday": -41,
+    "dday": -47,
     "runtime": "1시간",
     "priceText": "전석 50,000원",
     "free": false,
@@ -3404,7 +3412,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -41일"
+        "시작까지 -47일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -3431,7 +3439,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-05-17",
     "endDate": "2026-06-28",
-    "dday": -62,
+    "dday": -68,
     "runtime": "45분",
     "priceText": "전석 15,000원",
     "free": false,
@@ -3462,7 +3470,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -62일"
+        "시작까지 -68일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -3487,7 +3495,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": "서울특별시 관악구 남부순환로 2076 서울시립미술관 남서울미술관",
     "startDate": "2026-05-20",
     "endDate": "2026-07-05",
-    "dday": -55,
+    "dday": -61,
     "runtime": null,
     "priceText": "무료",
     "free": true,
@@ -3520,7 +3528,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "유형: 전시",
         "분야: 전시",
         "지역: 서울",
-        "시작까지 -55일",
+        "시작까지 -61일",
         "가격: 무료",
         "원본/예매 링크 확인"
       ],
@@ -3549,7 +3557,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-05-22",
     "endDate": "2026-06-28",
-    "dday": -62,
+    "dday": -68,
     "runtime": "50분",
     "priceText": "전석 30,000원",
     "free": false,
@@ -3580,7 +3588,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -62일"
+        "시작까지 -68일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -3607,7 +3615,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-05-23",
     "endDate": "2026-07-05",
-    "dday": -55,
+    "dday": -61,
     "runtime": "45분",
     "priceText": "전석 15,000원",
     "free": false,
@@ -3638,7 +3646,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -55일"
+        "시작까지 -61일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -3665,7 +3673,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-05-23",
     "endDate": "2026-07-19",
-    "dday": -41,
+    "dday": -47,
     "runtime": "45분",
     "priceText": "전석 18,000원",
     "free": false,
@@ -3696,7 +3704,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -41일"
+        "시작까지 -47일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -3781,7 +3789,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-05-28",
     "endDate": "2026-06-28",
-    "dday": -62,
+    "dday": -68,
     "runtime": "35분",
     "priceText": "전석 10,000원, 사전예약 9,000원",
     "free": false,
@@ -3812,7 +3820,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -62일"
+        "시작까지 -68일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -3839,7 +3847,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-05-30",
     "endDate": "2026-06-28",
-    "dday": -62,
+    "dday": -68,
     "runtime": "50분",
     "priceText": "전석 18,000원",
     "free": false,
@@ -3870,7 +3878,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -62일"
+        "시작까지 -68일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -3897,7 +3905,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-06-02",
     "endDate": "2026-06-30",
-    "dday": -60,
+    "dday": -66,
     "runtime": "50분",
     "priceText": "전석 25,000원",
     "free": false,
@@ -3928,7 +3936,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -60일"
+        "시작까지 -66일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -3955,7 +3963,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-06-03",
     "endDate": "2026-06-28",
-    "dday": -62,
+    "dday": -68,
     "runtime": "1시간 20분",
     "priceText": "전석 30,000원",
     "free": false,
@@ -3986,7 +3994,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 만 3세 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -62일"
+        "시작까지 -68일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -4013,7 +4021,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-06-03",
     "endDate": "2026-06-28",
-    "dday": -62,
+    "dday": -68,
     "runtime": "55분",
     "priceText": "전석 40,000원",
     "free": false,
@@ -4044,7 +4052,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -62일"
+        "시작까지 -68일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -4071,7 +4079,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-06-06",
     "endDate": "2026-07-11",
-    "dday": -49,
+    "dday": -55,
     "runtime": "50분",
     "priceText": "전석 20,000원",
     "free": false,
@@ -4102,7 +4110,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 울산",
-        "시작까지 -49일"
+        "시작까지 -55일"
       ],
       "warnings": [],
       "programIdeas": [
@@ -4127,7 +4135,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-06-06",
     "endDate": "2026-06-28",
-    "dday": -62,
+    "dday": -68,
     "runtime": "45분",
     "priceText": "전석 18,000원",
     "free": false,
@@ -4158,7 +4166,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -62일"
+        "시작까지 -68일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -4245,7 +4253,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-06-06",
     "endDate": "2026-07-04",
-    "dday": -56,
+    "dday": -62,
     "runtime": "50분",
     "priceText": "전석 17,000원",
     "free": false,
@@ -4276,7 +4284,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -56일"
+        "시작까지 -62일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -4303,7 +4311,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-06-07",
     "endDate": "2026-07-19",
-    "dday": -41,
+    "dday": -47,
     "runtime": "1시간",
     "priceText": "전석 25,000원",
     "free": false,
@@ -4334,7 +4342,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 인천",
-        "시작까지 -41일"
+        "시작까지 -47일"
       ],
       "warnings": [],
       "programIdeas": [
@@ -4359,7 +4367,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-06-11",
     "endDate": "2026-07-12",
-    "dday": -48,
+    "dday": -54,
     "runtime": "1시간",
     "priceText": "전석 11,000원",
     "free": false,
@@ -4390,7 +4398,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -48일"
+        "시작까지 -54일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -4417,7 +4425,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-06-11",
     "endDate": "2026-07-12",
-    "dday": -48,
+    "dday": -54,
     "runtime": "50분",
     "priceText": "전석 17,000원",
     "free": false,
@@ -4448,7 +4456,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -48일"
+        "시작까지 -54일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -4475,7 +4483,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-06-13",
     "endDate": "2026-07-05",
-    "dday": -55,
+    "dday": -61,
     "runtime": "50분",
     "priceText": "전석 30,000원",
     "free": false,
@@ -4506,7 +4514,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -55일"
+        "시작까지 -61일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -4533,7 +4541,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-06-13",
     "endDate": "2026-07-12",
-    "dday": -48,
+    "dday": -54,
     "runtime": "45분",
     "priceText": "전석 15,000원",
     "free": false,
@@ -4564,7 +4572,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -48일"
+        "시작까지 -54일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -4591,7 +4599,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-06-17",
     "endDate": "2026-07-26",
-    "dday": -34,
+    "dday": -40,
     "runtime": "50분",
     "priceText": "전석 35,000원",
     "free": false,
@@ -4622,7 +4630,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -34일"
+        "시작까지 -40일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -4649,7 +4657,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-06-17",
     "endDate": "2026-07-18",
-    "dday": -42,
+    "dday": -48,
     "runtime": "1시간",
     "priceText": "전석 40,000원",
     "free": false,
@@ -4680,7 +4688,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -42일"
+        "시작까지 -48일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -4707,7 +4715,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-06-18",
     "endDate": "2026-08-13",
-    "dday": -16,
+    "dday": -22,
     "runtime": "50분",
     "priceText": "전석 20,000원",
     "free": false,
@@ -4738,7 +4746,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 세종",
-        "시작까지 -16일"
+        "시작까지 -22일"
       ],
       "warnings": [],
       "programIdeas": [
@@ -4763,7 +4771,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-06-19",
     "endDate": "2026-06-28",
-    "dday": -62,
+    "dday": -68,
     "runtime": "45분",
     "priceText": "전석 3,000원",
     "free": false,
@@ -4794,7 +4802,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -62일"
+        "시작까지 -68일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -4821,7 +4829,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-06-20",
     "endDate": "2026-06-28",
-    "dday": -62,
+    "dday": -68,
     "runtime": "1시간 20분",
     "priceText": "강심장석(VIP)  66,000원, 새가슴석(R)  50,000원",
     "free": false,
@@ -4852,7 +4860,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -62일"
+        "시작까지 -68일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -4879,7 +4887,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-06-20",
     "endDate": "2026-06-28",
-    "dday": -62,
+    "dday": -68,
     "runtime": "1시간 10분",
     "priceText": "전석 60,000원",
     "free": false,
@@ -4910,7 +4918,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -62일"
+        "시작까지 -68일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -4937,7 +4945,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-06-20",
     "endDate": "2026-07-19",
-    "dday": -41,
+    "dday": -47,
     "runtime": "50분",
     "priceText": "전석 22,000원",
     "free": false,
@@ -4968,7 +4976,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -41일"
+        "시작까지 -47일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -4995,7 +5003,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-06-20",
     "endDate": "2026-08-16",
-    "dday": -13,
+    "dday": -19,
     "runtime": "50분",
     "priceText": "전석 15,000원",
     "free": false,
@@ -5026,7 +5034,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -13일"
+        "시작까지 -19일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -5051,7 +5059,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": "전북특별자치도 완주군 구이면 모악산길 111-6 전북도립미술관",
     "startDate": "2026-06-22",
     "endDate": "2026-07-03",
-    "dday": -57,
+    "dday": -63,
     "runtime": null,
     "priceText": "무료",
     "free": true,
@@ -5059,7 +5067,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "officialUrl": "https://www.jma.go.kr/web/page.php?pcode=AA01&amp%3Bexhibit_code=26062410382078&amp%3B=&amp%3Bs_ecate=all",
     "summary": "찾아가는 미술관 《시가 되고, 그림이 되어》 문화행사 정보입니다.",
     "status": "예정/진행",
-    "conflict": false,
+    "conflict": true,
     "recommendation": {
       "subjectTags": [
         "국어/논술",
@@ -5069,11 +5077,10 @@ export const CULTURE_EVENTS: CultureEvent[] = [
       "useCaseTags": [
         "무료전시",
         "주말관람",
-        "박물관/미술관",
-        "원본확인"
+        "박물관/미술관"
       ],
-      "confidence": "높음",
-      "confidenceScore": 86,
+      "confidence": "중간",
+      "confidenceScore": 72,
       "reasons": [
         "무료 전시라 학부모 안내 시 비용 부담이 낮습니다.",
         "주말 관람 가능성이 있어 가족 참여 안내 후보입니다.",
@@ -5083,9 +5090,8 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "유형: 전시",
         "분야: 전시",
         "지역: 전북",
-        "시작까지 -57일",
-        "가격: 무료",
-        "원본/예매 링크 확인"
+        "시작까지 -63일",
+        "가격: 무료"
       ],
       "warnings": [
         "관람연령 또는 학생대상 확인 필요"
@@ -5112,7 +5118,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-06-25",
     "endDate": "2026-06-28",
-    "dday": -62,
+    "dday": -68,
     "runtime": "1시간 10분",
     "priceText": "전석무료",
     "free": true,
@@ -5143,7 +5149,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 만 2세 이상",
         "학생대상 후보: 초등",
         "지역: 세종",
-        "시작까지 -62일"
+        "시작까지 -68일"
       ],
       "warnings": [],
       "programIdeas": [
@@ -5166,7 +5172,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": "서울특별시 강남구 도산대로 153 갤러리 9.5 서울",
     "startDate": "2026-06-26",
     "endDate": "2026-07-05",
-    "dday": -55,
+    "dday": -61,
     "runtime": null,
     "priceText": "무료",
     "free": true,
@@ -5198,7 +5204,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "유형: 전시",
         "분야: 전시",
         "지역: 서울",
-        "시작까지 -55일",
+        "시작까지 -61일",
         "가격: 무료",
         "원본/예매 링크 확인"
       ],
@@ -5227,7 +5233,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-06-27",
     "endDate": "2026-06-28",
-    "dday": -62,
+    "dday": -68,
     "runtime": "1시간 10분",
     "priceText": "R석 50,000원, S석 30,000원",
     "free": false,
@@ -5258,7 +5264,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 만 5세 이상",
         "학생대상 후보: 초등",
         "지역: 인천",
-        "시작까지 -62일"
+        "시작까지 -68일"
       ],
       "warnings": [],
       "programIdeas": [
@@ -5283,7 +5289,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-06-27",
     "endDate": "2026-06-28",
-    "dday": -62,
+    "dday": -68,
     "runtime": "",
     "priceText": "전석 15,000원",
     "free": false,
@@ -5314,7 +5320,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 36개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -62일"
+        "시작까지 -68일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -5341,7 +5347,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-06-27",
     "endDate": "2026-06-28",
-    "dday": -62,
+    "dday": -68,
     "runtime": "1시간 15분",
     "priceText": "R석 70,000원, S석 60,000원",
     "free": false,
@@ -5372,7 +5378,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 부산",
-        "시작까지 -62일"
+        "시작까지 -68일"
       ],
       "warnings": [],
       "programIdeas": [
@@ -5397,7 +5403,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-06-27",
     "endDate": "2026-06-28",
-    "dday": -62,
+    "dday": -68,
     "runtime": "55분",
     "priceText": "전석 30,000원",
     "free": false,
@@ -5428,7 +5434,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -62일"
+        "시작까지 -68일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -5455,7 +5461,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-06-27",
     "endDate": "2026-06-28",
-    "dday": -62,
+    "dday": -68,
     "runtime": "1시간",
     "priceText": "전석 50,000원",
     "free": false,
@@ -5486,7 +5492,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 울산",
-        "시작까지 -62일"
+        "시작까지 -68일"
       ],
       "warnings": [],
       "programIdeas": [
@@ -5511,7 +5517,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-06-27",
     "endDate": "2026-06-28",
-    "dday": -62,
+    "dday": -68,
     "runtime": "55분",
     "priceText": "전석 40,000원",
     "free": false,
@@ -5542,7 +5548,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -62일"
+        "시작까지 -68일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -5627,7 +5633,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-06-27",
     "endDate": "2026-06-28",
-    "dday": -62,
+    "dday": -68,
     "runtime": "1시간",
     "priceText": "전석 25,000원",
     "free": false,
@@ -5658,7 +5664,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 36개월 이상",
         "학생대상 후보: 초등",
         "지역: 인천",
-        "시작까지 -62일"
+        "시작까지 -68일"
       ],
       "warnings": [],
       "programIdeas": [
@@ -5683,7 +5689,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-06-27",
     "endDate": "2026-06-28",
-    "dday": -62,
+    "dday": -68,
     "runtime": "1시간 10분",
     "priceText": "전석 70,000원, 사전예약 39,600원",
     "free": false,
@@ -5714,7 +5720,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 20개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -62일"
+        "시작까지 -68일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -5741,7 +5747,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-06-27",
     "endDate": "2026-06-28",
-    "dday": -62,
+    "dday": -68,
     "runtime": "1시간",
     "priceText": "전석 40,000원",
     "free": false,
@@ -5772,7 +5778,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -62일"
+        "시작까지 -68일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -5799,7 +5805,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-06-27",
     "endDate": "2026-06-28",
-    "dday": -62,
+    "dday": -68,
     "runtime": "1시간 10분",
     "priceText": "전석 70,000원",
     "free": false,
@@ -5830,7 +5836,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -62일"
+        "시작까지 -68일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -5857,7 +5863,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-06-27",
     "endDate": "2026-06-28",
-    "dday": -62,
+    "dday": -68,
     "runtime": "1시간 5분",
     "priceText": "R석 60,000원",
     "free": false,
@@ -5888,7 +5894,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -62일"
+        "시작까지 -68일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -5915,7 +5921,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-06-27",
     "endDate": "2026-06-28",
-    "dday": -62,
+    "dday": -68,
     "runtime": "1시간 30분",
     "priceText": "전석 66,000원",
     "free": false,
@@ -5946,7 +5952,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -62일"
+        "시작까지 -68일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -5973,7 +5979,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-06-27",
     "endDate": "2026-06-28",
-    "dday": -62,
+    "dday": -68,
     "runtime": "55분",
     "priceText": "전석 30,000원",
     "free": false,
@@ -6004,7 +6010,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -62일"
+        "시작까지 -68일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -6031,7 +6037,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-06-27",
     "endDate": "2026-06-28",
-    "dday": -62,
+    "dday": -68,
     "runtime": "55분",
     "priceText": "전석 10,000원",
     "free": false,
@@ -6062,7 +6068,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -62일"
+        "시작까지 -68일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -6089,7 +6095,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-06-27",
     "endDate": "2026-06-28",
-    "dday": -62,
+    "dday": -68,
     "runtime": "1시간",
     "priceText": "전석 40,000원",
     "free": false,
@@ -6120,7 +6126,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 대전",
-        "시작까지 -62일"
+        "시작까지 -68일"
       ],
       "warnings": [],
       "programIdeas": [
@@ -6145,7 +6151,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-06-27",
     "endDate": "2026-06-28",
-    "dday": -62,
+    "dday": -68,
     "runtime": "1시간",
     "priceText": "전석 50,000원",
     "free": false,
@@ -6176,7 +6182,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -62일"
+        "시작까지 -68일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -6203,7 +6209,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-06-27",
     "endDate": "2026-07-19",
-    "dday": -41,
+    "dday": -47,
     "runtime": "55분",
     "priceText": "전석 30,000원",
     "free": false,
@@ -6234,7 +6240,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 광주",
-        "시작까지 -41일"
+        "시작까지 -47일"
       ],
       "warnings": [],
       "programIdeas": [
@@ -6259,7 +6265,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-06-27",
     "endDate": "2026-07-11",
-    "dday": -49,
+    "dday": -55,
     "runtime": "50분",
     "priceText": "전석 35,000원",
     "free": false,
@@ -6290,7 +6296,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -49일"
+        "시작까지 -55일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -6317,7 +6323,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-06-27",
     "endDate": "2026-06-28",
-    "dday": -62,
+    "dday": -68,
     "runtime": "50분",
     "priceText": "전석 15,000원",
     "free": false,
@@ -6348,7 +6354,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 36개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -62일"
+        "시작까지 -68일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -6375,7 +6381,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-06-27",
     "endDate": "2026-06-28",
-    "dday": -62,
+    "dday": -68,
     "runtime": "1시간 10분",
     "priceText": "전석 66,000원, 사전예약 36,900원",
     "free": false,
@@ -6406,7 +6412,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 20개월 이상",
         "학생대상 후보: 초등",
         "지역: 부산",
-        "시작까지 -62일"
+        "시작까지 -68일"
       ],
       "warnings": [],
       "programIdeas": [
@@ -6431,7 +6437,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-06-27",
     "endDate": "2026-06-28",
-    "dday": -62,
+    "dday": -68,
     "runtime": "1시간 20분",
     "priceText": "전석 10,000원",
     "free": false,
@@ -6462,7 +6468,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 만 5세 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -62일"
+        "시작까지 -68일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -6489,7 +6495,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-06-27",
     "endDate": "2026-06-28",
-    "dday": -62,
+    "dday": -68,
     "runtime": "1시간",
     "priceText": "전석 50,000원",
     "free": false,
@@ -6521,7 +6527,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -62일"
+        "시작까지 -68일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -6548,7 +6554,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-06-27",
     "endDate": "2026-06-28",
-    "dday": -62,
+    "dday": -68,
     "runtime": "40분",
     "priceText": "전석무료",
     "free": true,
@@ -6579,7 +6585,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 48개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -62일"
+        "시작까지 -68일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -6606,7 +6612,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-06-27",
     "endDate": "2026-06-28",
-    "dday": -62,
+    "dday": -68,
     "runtime": "1시간 10분",
     "priceText": "R석 70,000원",
     "free": false,
@@ -6637,7 +6643,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 대구",
-        "시작까지 -62일"
+        "시작까지 -68일"
       ],
       "warnings": [],
       "programIdeas": [
@@ -6662,7 +6668,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-06-27",
     "endDate": "2026-06-28",
-    "dday": -62,
+    "dday": -68,
     "runtime": "1시간",
     "priceText": "전석 40,000원",
     "free": false,
@@ -6693,7 +6699,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 인천",
-        "시작까지 -62일"
+        "시작까지 -68일"
       ],
       "warnings": [],
       "programIdeas": [
@@ -6718,7 +6724,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-06-27",
     "endDate": "2026-06-28",
-    "dday": -62,
+    "dday": -68,
     "runtime": "1시간",
     "priceText": "R석 50,000원, S석 30,000원",
     "free": false,
@@ -6749,7 +6755,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 48개월 이상",
         "학생대상 후보: 초등",
         "지역: 서울",
-        "시작까지 -62일"
+        "시작까지 -68일"
       ],
       "warnings": [],
       "programIdeas": [
@@ -6774,7 +6780,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-06-27",
     "endDate": "2026-06-28",
-    "dday": -62,
+    "dday": -68,
     "runtime": "55분",
     "priceText": "전석 35,000원",
     "free": false,
@@ -6805,7 +6811,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -62일"
+        "시작까지 -68일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -6832,7 +6838,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-06-27",
     "endDate": "2026-06-28",
-    "dday": -62,
+    "dday": -68,
     "runtime": "1시간 10분",
     "priceText": "R석 25,000원, S석 15,000원",
     "free": false,
@@ -6863,7 +6869,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -62일"
+        "시작까지 -68일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -6890,7 +6896,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-06-28",
     "endDate": "2026-06-28",
-    "dday": -62,
+    "dday": -68,
     "runtime": "1시간",
     "priceText": "전석 40,000원",
     "free": false,
@@ -6921,7 +6927,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -62일"
+        "시작까지 -68일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -6948,7 +6954,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-06-28",
     "endDate": "2026-06-28",
-    "dday": -62,
+    "dday": -68,
     "runtime": "55분",
     "priceText": "전석 50,000원",
     "free": false,
@@ -6979,7 +6985,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -62일"
+        "시작까지 -68일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -7006,7 +7012,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-06-28",
     "endDate": "2026-06-28",
-    "dday": -62,
+    "dday": -68,
     "runtime": "50분",
     "priceText": "전석 30,000원",
     "free": false,
@@ -7037,7 +7043,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -62일"
+        "시작까지 -68일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -7064,7 +7070,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-06-28",
     "endDate": "2026-06-28",
-    "dday": -62,
+    "dday": -68,
     "runtime": "50분",
     "priceText": "전석 30,000원",
     "free": false,
@@ -7095,7 +7101,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -62일"
+        "시작까지 -68일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -7122,7 +7128,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-06-28",
     "endDate": "2026-06-28",
-    "dday": -62,
+    "dday": -68,
     "runtime": "55분",
     "priceText": "현장판매 40,000원, 사전예약 10,000원",
     "free": false,
@@ -7153,7 +7159,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -62일"
+        "시작까지 -68일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -7180,7 +7186,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-06-28",
     "endDate": "2026-06-28",
-    "dday": -62,
+    "dday": -68,
     "runtime": "50분",
     "priceText": "전석 20,000원",
     "free": false,
@@ -7211,7 +7217,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -62일"
+        "시작까지 -68일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -7238,7 +7244,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-06-28",
     "endDate": "2026-06-28",
-    "dday": -62,
+    "dday": -68,
     "runtime": "1시간",
     "priceText": "사전예약 10,000원",
     "free": false,
@@ -7269,7 +7275,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -62일"
+        "시작까지 -68일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -7296,7 +7302,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-06-28",
     "endDate": "2026-06-28",
-    "dday": -62,
+    "dday": -68,
     "runtime": "50분",
     "priceText": "사전예약 9,900원",
     "free": false,
@@ -7327,7 +7333,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -62일"
+        "시작까지 -68일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -7354,7 +7360,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-06-28",
     "endDate": "2026-06-28",
-    "dday": -62,
+    "dday": -68,
     "runtime": "50분",
     "priceText": "현장판매 14,900원, 사전예약 9,900원",
     "free": false,
@@ -7385,7 +7391,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -62일"
+        "시작까지 -68일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -7412,7 +7418,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-06-29",
     "endDate": "2026-06-29",
-    "dday": -61,
+    "dday": -67,
     "runtime": "50분",
     "priceText": "전석 5,000원",
     "free": false,
@@ -7441,7 +7447,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -61일"
+        "시작까지 -67일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -7466,7 +7472,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": "경상남도 창원시 의창구 중앙대로 181 성산아트홀",
     "startDate": "2026-06-30",
     "endDate": "2026-06-30",
-    "dday": -60,
+    "dday": -66,
     "runtime": null,
     "priceText": "1층석 20,000원, 2층석 10,000원",
     "free": false,
@@ -7492,7 +7498,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "유형: 공연",
         "분야: 음악/콘서트",
         "지역: 경남",
-        "시작까지 -60일",
+        "시작까지 -66일",
         "원본/예매 링크 확인"
       ],
       "warnings": [
@@ -7520,7 +7526,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-01",
     "endDate": "2026-08-30",
-    "dday": 0,
+    "dday": -5,
     "runtime": "1시간 20분",
     "priceText": "전석 30,000원",
     "free": false,
@@ -7536,7 +7542,6 @@ export const CULTURE_EVENTS: CultureEvent[] = [
       ],
       "useCaseTags": [
         "아동공연",
-        "이번주관람",
         "주말관람",
         "원본확인"
       ],
@@ -7544,7 +7549,6 @@ export const CULTURE_EVENTS: CultureEvent[] = [
       "confidenceScore": 86,
       "reasons": [
         "36개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "이번 주 바로 안내할 수 있는 가까운 일정입니다.",
         "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
       ],
       "evidence": [
@@ -7553,7 +7557,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 36개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 0일"
+        "시작까지 -5일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -7580,7 +7584,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-01",
     "endDate": "2026-07-12",
-    "dday": -48,
+    "dday": -54,
     "runtime": "50분",
     "priceText": "전석 30,000원",
     "free": false,
@@ -7611,7 +7615,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 48개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -48일"
+        "시작까지 -54일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -7698,7 +7702,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-01",
     "endDate": "2026-08-02",
-    "dday": -27,
+    "dday": -33,
     "runtime": "55분",
     "priceText": "전석 40,000원",
     "free": false,
@@ -7729,7 +7733,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -27일"
+        "시작까지 -33일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -7756,7 +7760,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-01",
     "endDate": "2026-07-26",
-    "dday": -34,
+    "dday": -40,
     "runtime": "35분",
     "priceText": "전석 10,000원",
     "free": false,
@@ -7787,7 +7791,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -34일"
+        "시작까지 -40일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -7812,7 +7816,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": "대전광역시 서구 둔산대로 135 대전예술의전당",
     "startDate": "2026-07-02",
     "endDate": "2026-07-02",
-    "dday": -58,
+    "dday": -64,
     "runtime": null,
     "priceText": "R석 10,000원, S석 7,000원, A석 5,000원",
     "free": false,
@@ -7839,7 +7843,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "유형: 전시",
         "분야: 음악/콘서트",
         "지역: 대전",
-        "시작까지 -58일",
+        "시작까지 -64일",
         "원본/예매 링크 확인"
       ],
       "warnings": [
@@ -7865,7 +7869,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": "서울특별시 종로구 혜화로 10-3 성인빌딩",
     "startDate": "2026-07-02",
     "endDate": "2026-07-12",
-    "dday": -48,
+    "dday": -54,
     "runtime": null,
     "priceText": "전석 30,000원",
     "free": false,
@@ -7891,7 +7895,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "유형: 연극",
         "분야: 연극",
         "지역: 서울",
-        "시작까지 -48일",
+        "시작까지 -54일",
         "원본/예매 링크 확인"
       ],
       "warnings": [
@@ -7919,7 +7923,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-02",
     "endDate": "2026-07-04",
-    "dday": -56,
+    "dday": -62,
     "runtime": "1시간",
     "priceText": "전석 15,000원",
     "free": false,
@@ -7950,7 +7954,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -56일"
+        "시작까지 -62일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -7975,7 +7979,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": "서울특별시 성동구 상원6나길 24 지하1층 헤르만 아트홀",
     "startDate": "2026-07-02",
     "endDate": "2026-07-02",
-    "dday": -58,
+    "dday": -64,
     "runtime": null,
     "priceText": "전석 30,000원",
     "free": false,
@@ -8001,7 +8005,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "유형: 공연",
         "분야: 음악/콘서트",
         "지역: 서울",
-        "시작까지 -58일",
+        "시작까지 -64일",
         "원본/예매 링크 확인"
       ],
       "warnings": [
@@ -8029,7 +8033,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-03",
     "endDate": "2026-07-05",
-    "dday": -55,
+    "dday": -61,
     "runtime": "50분",
     "priceText": "금요일(11시) 10,000원, 토요일(11시) 30,000원, 토요일(15시), 일요일(14시) 20,000원",
     "free": false,
@@ -8060,7 +8064,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 만 5세 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -55일"
+        "시작까지 -61일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -8087,7 +8091,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-03",
     "endDate": "2026-07-05",
-    "dday": -55,
+    "dday": -61,
     "runtime": "1시간",
     "priceText": "전석 30,000원",
     "free": false,
@@ -8118,7 +8122,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -55일"
+        "시작까지 -61일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -8145,7 +8149,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-03",
     "endDate": "2026-07-04",
-    "dday": -56,
+    "dday": -62,
     "runtime": "55분",
     "priceText": "R석 20,000원, S석 10,000원",
     "free": false,
@@ -8176,7 +8180,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 36개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -56일"
+        "시작까지 -62일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -8203,7 +8207,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-03",
     "endDate": "2026-08-17",
-    "dday": -12,
+    "dday": -18,
     "runtime": "1시간 10분",
     "priceText": "VIP석 77,000원, R석 66,000원",
     "free": false,
@@ -8234,7 +8238,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 20개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -12일"
+        "시작까지 -18일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -8261,7 +8265,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-03",
     "endDate": "2026-08-29",
-    "dday": 0,
+    "dday": -6,
     "runtime": "40분",
     "priceText": "전석 16,000원",
     "free": false,
@@ -8277,7 +8281,6 @@ export const CULTURE_EVENTS: CultureEvent[] = [
       ],
       "useCaseTags": [
         "아동공연",
-        "이번주관람",
         "주말관람",
         "원본확인"
       ],
@@ -8285,7 +8288,6 @@ export const CULTURE_EVENTS: CultureEvent[] = [
       "confidenceScore": 86,
       "reasons": [
         "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "이번 주 바로 안내할 수 있는 가까운 일정입니다.",
         "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
       ],
       "evidence": [
@@ -8294,7 +8296,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 0일"
+        "시작까지 -6일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -8321,7 +8323,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-03",
     "endDate": "2026-07-04",
-    "dday": -56,
+    "dday": -62,
     "runtime": "50분",
     "priceText": "전석 20,000원",
     "free": false,
@@ -8352,7 +8354,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 36개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -56일"
+        "시작까지 -62일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -8379,7 +8381,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-03",
     "endDate": "2026-07-04",
-    "dday": -56,
+    "dday": -62,
     "runtime": "50분",
     "priceText": "전석무료",
     "free": true,
@@ -8410,7 +8412,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 36개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -56일"
+        "시작까지 -62일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -8437,7 +8439,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-04",
     "endDate": "2026-07-05",
-    "dday": -55,
+    "dday": -61,
     "runtime": "1시간",
     "priceText": "전석 10,000원",
     "free": false,
@@ -8468,7 +8470,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 36개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -55일"
+        "시작까지 -61일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -8493,7 +8495,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": "전라남도 순천시 삼산로 16 순천문화예술회관",
     "startDate": "2026-07-04",
     "endDate": "2026-07-04",
-    "dday": -56,
+    "dday": -62,
     "runtime": null,
     "priceText": "R석 20,000원, S석 10,000원",
     "free": false,
@@ -8519,7 +8521,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "유형: 연극",
         "분야: 연극",
         "지역: 전남",
-        "시작까지 -56일",
+        "시작까지 -62일",
         "원본/예매 링크 확인"
       ],
       "warnings": [
@@ -8547,7 +8549,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-04",
     "endDate": "2026-07-04",
-    "dday": -56,
+    "dday": -62,
     "runtime": "50분",
     "priceText": "전석 10,000원",
     "free": false,
@@ -8578,7 +8580,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 36개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -56일"
+        "시작까지 -62일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -8605,7 +8607,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-04",
     "endDate": "2026-07-04",
-    "dday": -56,
+    "dday": -62,
     "runtime": "1시간",
     "priceText": "R석 20,000원, S석 10,000원",
     "free": false,
@@ -8636,7 +8638,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -56일"
+        "시작까지 -62일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -8663,7 +8665,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-04",
     "endDate": "2026-07-05",
-    "dday": -55,
+    "dday": -61,
     "runtime": "1시간 10분",
     "priceText": "R석 70,000원",
     "free": false,
@@ -8694,7 +8696,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -55일"
+        "시작까지 -61일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -8721,7 +8723,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-04",
     "endDate": "2026-07-26",
-    "dday": -34,
+    "dday": -40,
     "runtime": "50분",
     "priceText": "전석 18,000원",
     "free": false,
@@ -8752,7 +8754,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -34일"
+        "시작까지 -40일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -8779,7 +8781,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-04",
     "endDate": "2026-07-04",
-    "dday": -56,
+    "dday": -62,
     "runtime": "1시간",
     "priceText": "현장판매 35,000원, 사전예약 13,000원",
     "free": false,
@@ -8810,7 +8812,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -56일"
+        "시작까지 -62일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -8837,7 +8839,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-04",
     "endDate": "2026-07-04",
-    "dday": -56,
+    "dday": -62,
     "runtime": "1시간 10분",
     "priceText": "전석 60,000원",
     "free": false,
@@ -8868,7 +8870,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -56일"
+        "시작까지 -62일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -8895,7 +8897,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-04",
     "endDate": "2026-07-04",
-    "dday": -56,
+    "dday": -62,
     "runtime": "1시간 20분",
     "priceText": "전석 10,000원",
     "free": false,
@@ -8926,7 +8928,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 36개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -56일"
+        "시작까지 -62일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -8953,7 +8955,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-04",
     "endDate": "2026-07-05",
-    "dday": -55,
+    "dday": -61,
     "runtime": "1시간 10분",
     "priceText": "전석 35,000원",
     "free": false,
@@ -8984,7 +8986,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -55일"
+        "시작까지 -61일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -9011,7 +9013,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-04",
     "endDate": "2026-07-04",
-    "dday": -56,
+    "dday": -62,
     "runtime": "1시간",
     "priceText": "전석 40,000원",
     "free": false,
@@ -9042,7 +9044,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -56일"
+        "시작까지 -62일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -9069,7 +9071,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-04",
     "endDate": "2026-07-04",
-    "dday": -56,
+    "dday": -62,
     "runtime": "1시간 20분",
     "priceText": "전석 20,000원",
     "free": false,
@@ -9100,7 +9102,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 만 4세 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -56일"
+        "시작까지 -62일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -9127,7 +9129,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-04",
     "endDate": "2026-07-04",
-    "dday": -56,
+    "dday": -62,
     "runtime": "40분",
     "priceText": "전석 30,000원",
     "free": false,
@@ -9158,7 +9160,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 30개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -56일"
+        "시작까지 -62일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -9185,7 +9187,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-04",
     "endDate": "2026-07-05",
-    "dday": -55,
+    "dday": -61,
     "runtime": "1시간 10분",
     "priceText": "전석 70,000원",
     "free": false,
@@ -9216,7 +9218,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -55일"
+        "시작까지 -61일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -9243,7 +9245,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-04",
     "endDate": "2026-07-04",
-    "dday": -56,
+    "dday": -62,
     "runtime": "50분",
     "priceText": "네이버 1인권 14,900원, 사전예약(특가) 9,900원",
     "free": false,
@@ -9274,7 +9276,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 인천",
-        "시작까지 -56일"
+        "시작까지 -62일"
       ],
       "warnings": [],
       "programIdeas": [
@@ -9299,7 +9301,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-04",
     "endDate": "2026-07-04",
-    "dday": -56,
+    "dday": -62,
     "runtime": "50분",
     "priceText": "현장판매 35,000원, 사전예약 9,900원",
     "free": false,
@@ -9330,7 +9332,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -56일"
+        "시작까지 -62일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -9357,7 +9359,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-04",
     "endDate": "2026-07-04",
-    "dday": -56,
+    "dday": -62,
     "runtime": "1시간",
     "priceText": "전석 35,000원, 사전예약 12,000원",
     "free": false,
@@ -9388,7 +9390,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -56일"
+        "시작까지 -62일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -9415,7 +9417,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-04",
     "endDate": "2026-07-05",
-    "dday": -55,
+    "dday": -61,
     "runtime": "1시간 10분",
     "priceText": "VIP석 77,000원",
     "free": false,
@@ -9446,7 +9448,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -55일"
+        "시작까지 -61일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -9473,7 +9475,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-04",
     "endDate": "2026-07-04",
-    "dday": -56,
+    "dday": -62,
     "runtime": "1시간",
     "priceText": "전석 10,000원",
     "free": false,
@@ -9504,7 +9506,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 36개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -56일"
+        "시작까지 -62일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -9531,7 +9533,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-04",
     "endDate": "2026-07-05",
-    "dday": -55,
+    "dday": -61,
     "runtime": "1시간",
     "priceText": "전석 20,000원",
     "free": false,
@@ -9562,7 +9564,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 12개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -55일"
+        "시작까지 -61일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -9589,7 +9591,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-04",
     "endDate": "2026-07-05",
-    "dday": -55,
+    "dday": -61,
     "runtime": "50분",
     "priceText": "전석 30,000원",
     "free": false,
@@ -9620,7 +9622,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -55일"
+        "시작까지 -61일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -9647,7 +9649,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-04",
     "endDate": "2026-07-05",
-    "dday": -55,
+    "dday": -61,
     "runtime": "55분",
     "priceText": "전석 30,000원",
     "free": false,
@@ -9678,7 +9680,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -55일"
+        "시작까지 -61일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -9705,7 +9707,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-04",
     "endDate": "2026-07-05",
-    "dday": -55,
+    "dday": -61,
     "runtime": "1시간 10분",
     "priceText": "전석 5,000원",
     "free": false,
@@ -9736,7 +9738,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 울산",
-        "시작까지 -55일"
+        "시작까지 -61일"
       ],
       "warnings": [],
       "programIdeas": [
@@ -9761,7 +9763,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-04",
     "endDate": "2026-07-05",
-    "dday": -55,
+    "dday": -61,
     "runtime": "1시간",
     "priceText": "전석 50,000원",
     "free": false,
@@ -9792,7 +9794,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -55일"
+        "시작까지 -61일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -9819,7 +9821,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-04",
     "endDate": "2026-07-04",
-    "dday": -56,
+    "dday": -62,
     "runtime": "1시간 30분",
     "priceText": "R석 35,000원",
     "free": false,
@@ -9850,7 +9852,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -56일"
+        "시작까지 -62일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -9877,7 +9879,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-04",
     "endDate": "2026-07-04",
-    "dday": -56,
+    "dday": -62,
     "runtime": "55분",
     "priceText": "전석 10,000원",
     "free": false,
@@ -9908,7 +9910,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 36개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -56일"
+        "시작까지 -62일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -9935,7 +9937,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-04",
     "endDate": "2026-07-04",
-    "dday": -56,
+    "dday": -62,
     "runtime": "1시간",
     "priceText": "사전예약 12,000원",
     "free": false,
@@ -9966,7 +9968,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -56일"
+        "시작까지 -62일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -9993,7 +9995,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-04",
     "endDate": "2026-07-05",
-    "dday": -55,
+    "dday": -61,
     "runtime": "1시간 15분",
     "priceText": "R석 70,000원, S석 60,000원",
     "free": false,
@@ -10024,7 +10026,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -55일"
+        "시작까지 -61일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -10051,7 +10053,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-04",
     "endDate": "2026-07-05",
-    "dday": -55,
+    "dday": -61,
     "runtime": "55분",
     "priceText": "전석 50,000원",
     "free": false,
@@ -10082,7 +10084,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 20개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -55일"
+        "시작까지 -61일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -10109,7 +10111,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-04",
     "endDate": "2026-07-04",
-    "dday": -56,
+    "dday": -62,
     "runtime": "1시간",
     "priceText": "전석 40,000원",
     "free": false,
@@ -10140,7 +10142,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 대전",
-        "시작까지 -56일"
+        "시작까지 -62일"
       ],
       "warnings": [],
       "programIdeas": [
@@ -10165,7 +10167,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-04",
     "endDate": "2026-07-05",
-    "dday": -55,
+    "dday": -61,
     "runtime": "1시간 10분",
     "priceText": "R석 70,000원",
     "free": false,
@@ -10196,7 +10198,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 대전",
-        "시작까지 -55일"
+        "시작까지 -61일"
       ],
       "warnings": [],
       "programIdeas": [
@@ -10221,7 +10223,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-04",
     "endDate": "2026-07-05",
-    "dday": -55,
+    "dday": -61,
     "runtime": "1시간",
     "priceText": "전석 20,000원",
     "free": false,
@@ -10252,7 +10254,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 만 5세 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -55일"
+        "시작까지 -61일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -10279,7 +10281,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-04",
     "endDate": "2026-07-04",
-    "dday": -56,
+    "dday": -62,
     "runtime": "50분",
     "priceText": "네이버 1인권 14,900원, 사전예약 9,900원",
     "free": false,
@@ -10310,7 +10312,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -56일"
+        "시작까지 -62일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -10337,7 +10339,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-04",
     "endDate": "2026-07-05",
-    "dday": -55,
+    "dday": -61,
     "runtime": "55분",
     "priceText": "전석 40,000원",
     "free": false,
@@ -10368,7 +10370,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -55일"
+        "시작까지 -61일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -10395,7 +10397,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-04",
     "endDate": "2026-07-04",
-    "dday": -56,
+    "dday": -62,
     "runtime": "55분",
     "priceText": "전석 40,000원",
     "free": false,
@@ -10426,7 +10428,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -56일"
+        "시작까지 -62일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -10453,7 +10455,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-04",
     "endDate": "2026-07-05",
-    "dday": -55,
+    "dday": -61,
     "runtime": "45분",
     "priceText": "전석 18,000원",
     "free": false,
@@ -10484,7 +10486,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -55일"
+        "시작까지 -61일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -10511,7 +10513,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-04",
     "endDate": "2026-07-05",
-    "dday": -55,
+    "dday": -61,
     "runtime": "1시간",
     "priceText": "R석 40,000원, S석 30,000원",
     "free": false,
@@ -10542,7 +10544,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -55일"
+        "시작까지 -61일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -10569,7 +10571,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-04",
     "endDate": "2026-07-05",
-    "dday": -55,
+    "dday": -61,
     "runtime": "1시간 5분",
     "priceText": "덕지석(1층) 66,000원, 선녀님석(2층) 44,000원",
     "free": false,
@@ -10600,7 +10602,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -55일"
+        "시작까지 -61일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -10627,7 +10629,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-04",
     "endDate": "2026-07-05",
-    "dday": -55,
+    "dday": -61,
     "runtime": "1시간",
     "priceText": "전석 55,000원",
     "free": false,
@@ -10658,7 +10660,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -55일"
+        "시작까지 -61일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -10683,7 +10685,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": "서울특별시 광진구 능동로 76 나루아트센터",
     "startDate": "2026-07-04",
     "endDate": "2026-07-04",
-    "dday": -56,
+    "dday": -62,
     "runtime": null,
     "priceText": "전석 20,000원",
     "free": false,
@@ -10709,7 +10711,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "유형: 무용/발레",
         "분야: 무용/발레",
         "지역: 서울",
-        "시작까지 -56일",
+        "시작까지 -62일",
         "원본/예매 링크 확인"
       ],
       "warnings": [
@@ -10737,7 +10739,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-04",
     "endDate": "2026-07-05",
-    "dday": -55,
+    "dday": -61,
     "runtime": "1시간 5분",
     "priceText": "전석 40,000원",
     "free": false,
@@ -10768,7 +10770,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 만 5세 이상",
         "학생대상 후보: 초등",
         "지역: 대구",
-        "시작까지 -55일"
+        "시작까지 -61일"
       ],
       "warnings": [],
       "programIdeas": [
@@ -10793,7 +10795,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-04",
     "endDate": "2026-07-04",
-    "dday": -56,
+    "dday": -62,
     "runtime": "1시간 10분",
     "priceText": "전석 20,000원",
     "free": false,
@@ -10824,7 +10826,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 48개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -56일"
+        "시작까지 -62일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -10851,7 +10853,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-04",
     "endDate": "2026-07-04",
-    "dday": -56,
+    "dday": -62,
     "runtime": "1시간",
     "priceText": "전석 35,000원",
     "free": false,
@@ -10882,7 +10884,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -56일"
+        "시작까지 -62일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -10909,7 +10911,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-04",
     "endDate": "2026-07-26",
-    "dday": -34,
+    "dday": -40,
     "runtime": "50분",
     "priceText": "전석 30,000원",
     "free": false,
@@ -10940,7 +10942,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -34일"
+        "시작까지 -40일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -10967,7 +10969,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-04",
     "endDate": "2026-07-04",
-    "dday": -56,
+    "dday": -62,
     "runtime": "1시간",
     "priceText": "전석 10,000원, 휠체어석 5,000원",
     "free": false,
@@ -10998,7 +11000,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -56일"
+        "시작까지 -62일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -11025,7 +11027,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-04",
     "endDate": "2026-07-05",
-    "dday": -55,
+    "dday": -61,
     "runtime": "55분",
     "priceText": "전석 40,000원",
     "free": false,
@@ -11056,7 +11058,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -55일"
+        "시작까지 -61일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -11083,7 +11085,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-04",
     "endDate": "2026-07-05",
-    "dday": -55,
+    "dday": -61,
     "runtime": "1시간 10분",
     "priceText": "R석 70,000원, S석 60,000원",
     "free": false,
@@ -11114,7 +11116,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -55일"
+        "시작까지 -61일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -11141,7 +11143,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-04",
     "endDate": "2026-07-04",
-    "dday": -56,
+    "dday": -62,
     "runtime": "55분",
     "priceText": "사전예약 10,000원",
     "free": false,
@@ -11172,7 +11174,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -56일"
+        "시작까지 -62일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -11199,7 +11201,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-04",
     "endDate": "2026-08-30",
-    "dday": 0,
+    "dday": -5,
     "runtime": "1시간 15분",
     "priceText": "VIP석 77,000원, R석 66,000원, S석 44,000원",
     "free": false,
@@ -11215,7 +11217,6 @@ export const CULTURE_EVENTS: CultureEvent[] = [
       ],
       "useCaseTags": [
         "아동공연",
-        "이번주관람",
         "주말관람",
         "박물관/미술관",
         "원본확인"
@@ -11224,8 +11225,8 @@ export const CULTURE_EVENTS: CultureEvent[] = [
       "confidenceScore": 86,
       "reasons": [
         "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "이번 주 바로 안내할 수 있는 가까운 일정입니다.",
-        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
+        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다.",
+        "박물관·미술관 장소 특성상 사전 배경지식 수업과 연결하기 좋습니다."
       ],
       "evidence": [
         "유형: 공연",
@@ -11233,7 +11234,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 0일"
+        "시작까지 -5일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -11260,7 +11261,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-05",
     "endDate": "2026-07-05",
-    "dday": -55,
+    "dday": -61,
     "runtime": "1시간",
     "priceText": "전석 40,000원",
     "free": false,
@@ -11291,7 +11292,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -55일"
+        "시작까지 -61일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -11318,7 +11319,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-05",
     "endDate": "2026-07-05",
-    "dday": -55,
+    "dday": -61,
     "runtime": "50분",
     "priceText": "현장판매 35,000원, 사전예약 9,900원",
     "free": false,
@@ -11349,7 +11350,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -55일"
+        "시작까지 -61일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -11376,7 +11377,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-05",
     "endDate": "2026-07-05",
-    "dday": -55,
+    "dday": -61,
     "runtime": "1시간",
     "priceText": "전석 40,000원",
     "free": false,
@@ -11407,7 +11408,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -55일"
+        "시작까지 -61일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -11434,7 +11435,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-05",
     "endDate": "2026-07-05",
-    "dday": -55,
+    "dday": -61,
     "runtime": "1시간",
     "priceText": "전석 40,000원",
     "free": false,
@@ -11465,7 +11466,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -55일"
+        "시작까지 -61일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -11492,7 +11493,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-05",
     "endDate": "2026-07-05",
-    "dday": -55,
+    "dday": -61,
     "runtime": "1시간 10분",
     "priceText": "전석무료",
     "free": true,
@@ -11523,7 +11524,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 48개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -55일"
+        "시작까지 -61일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -11550,7 +11551,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-05",
     "endDate": "2026-07-05",
-    "dday": -55,
+    "dday": -61,
     "runtime": "50분",
     "priceText": "현장판매 14,900원, 사전예약 9,900원",
     "free": false,
@@ -11581,7 +11582,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -55일"
+        "시작까지 -61일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -11608,7 +11609,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-05",
     "endDate": "2026-07-05",
-    "dday": -55,
+    "dday": -61,
     "runtime": "1시간",
     "priceText": "사전예약 10,000원",
     "free": false,
@@ -11639,7 +11640,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -55일"
+        "시작까지 -61일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -11666,7 +11667,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-05",
     "endDate": "2026-07-05",
-    "dday": -55,
+    "dday": -61,
     "runtime": "50분",
     "priceText": "네이버 1인권 14,900원, 사전예약 9,900원",
     "free": false,
@@ -11697,7 +11698,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -55일"
+        "시작까지 -61일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -11724,7 +11725,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-05",
     "endDate": "2026-07-05",
-    "dday": -55,
+    "dday": -61,
     "runtime": "1시간",
     "priceText": "전석 40,000원",
     "free": false,
@@ -11755,7 +11756,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 경기",
-        "시작까지 -55일"
+        "시작까지 -61일"
       ],
       "warnings": [],
       "programIdeas": [
@@ -11780,7 +11781,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-09",
     "endDate": "2026-07-09",
-    "dday": -51,
+    "dday": -57,
     "runtime": "40분",
     "priceText": "전석 15,000원",
     "free": false,
@@ -11809,7 +11810,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -51일"
+        "시작까지 -57일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -11836,7 +11837,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-09",
     "endDate": "2026-07-26",
-    "dday": -34,
+    "dday": -40,
     "runtime": "50분",
     "priceText": "아동 10,000원, 성인(보호자) 9,000원",
     "free": false,
@@ -11867,7 +11868,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 36개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -34일"
+        "시작까지 -40일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -11894,7 +11895,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-10",
     "endDate": "2026-08-23",
-    "dday": -6,
+    "dday": -12,
     "runtime": "1시간 20분",
     "priceText": "VIP석 77,000원, R석 66,000원, S석 55,000원",
     "free": false,
@@ -11925,7 +11926,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 36개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -6일"
+        "시작까지 -12일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -11952,7 +11953,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-10",
     "endDate": "2026-08-23",
-    "dday": -6,
+    "dday": -12,
     "runtime": "1시간 15분",
     "priceText": "VIP석 99,000원, R석 77,000원, S석 55,000원",
     "free": false,
@@ -11983,7 +11984,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 36개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -6일"
+        "시작까지 -12일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -12010,7 +12011,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-10",
     "endDate": "2026-07-12",
-    "dday": -48,
+    "dday": -54,
     "runtime": "50분",
     "priceText": "전석 35,000원",
     "free": false,
@@ -12043,7 +12044,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -48일"
+        "시작까지 -54일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -12070,7 +12071,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-10",
     "endDate": "2026-07-10",
-    "dday": -50,
+    "dday": -56,
     "runtime": "1시간",
     "priceText": "전석무료",
     "free": true,
@@ -12099,7 +12100,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 만 3세 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -50일"
+        "시작까지 -56일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -12126,7 +12127,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-11",
     "endDate": "2026-07-12",
-    "dday": -48,
+    "dday": -54,
     "runtime": "55분",
     "priceText": "전석 15,000원",
     "free": false,
@@ -12157,7 +12158,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 만 4세 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -48일"
+        "시작까지 -54일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -12184,7 +12185,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-11",
     "endDate": "2026-07-12",
-    "dday": -48,
+    "dday": -54,
     "runtime": "1시간 10분",
     "priceText": "전석 66,000원, 사전예약 39,600원",
     "free": false,
@@ -12215,7 +12216,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -48일"
+        "시작까지 -54일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -12242,7 +12243,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-11",
     "endDate": "2026-07-11",
-    "dday": -49,
+    "dday": -55,
     "runtime": "50분",
     "priceText": "전석 10,000원",
     "free": false,
@@ -12273,7 +12274,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 36개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -49일"
+        "시작까지 -55일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -12300,7 +12301,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-11",
     "endDate": "2026-07-12",
-    "dday": -48,
+    "dday": -54,
     "runtime": "1시간 10분",
     "priceText": "R석 70,000원",
     "free": false,
@@ -12331,7 +12332,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -48일"
+        "시작까지 -54일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -12358,7 +12359,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-11",
     "endDate": "2026-07-11",
-    "dday": -49,
+    "dday": -55,
     "runtime": "1시간",
     "priceText": "전석 30,000원, 사전예약 15,000원",
     "free": false,
@@ -12389,7 +12390,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -49일"
+        "시작까지 -55일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -12416,7 +12417,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-11",
     "endDate": "2026-07-11",
-    "dday": -49,
+    "dday": -55,
     "runtime": "1시간",
     "priceText": "전석 35,000원",
     "free": false,
@@ -12447,7 +12448,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -49일"
+        "시작까지 -55일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -12474,7 +12475,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-11",
     "endDate": "2026-07-11",
-    "dday": -49,
+    "dday": -55,
     "runtime": "1시간",
     "priceText": "전석 10,000원",
     "free": false,
@@ -12505,7 +12506,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 36개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -49일"
+        "시작까지 -55일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -12532,7 +12533,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-11",
     "endDate": "2026-07-11",
-    "dday": -49,
+    "dday": -55,
     "runtime": "1시간",
     "priceText": "전석 10,000원",
     "free": false,
@@ -12563,7 +12564,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 36개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -49일"
+        "시작까지 -55일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -12590,7 +12591,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-11",
     "endDate": "2026-07-11",
-    "dday": -49,
+    "dday": -55,
     "runtime": "1시간",
     "priceText": "현장판매 40,000원, 사전예약 10,000원",
     "free": false,
@@ -12621,7 +12622,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -49일"
+        "시작까지 -55일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -12648,7 +12649,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-11",
     "endDate": "2026-07-11",
-    "dday": -49,
+    "dday": -55,
     "runtime": "1시간",
     "priceText": "R석 30,000원, S석 20,000원",
     "free": false,
@@ -12679,7 +12680,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -49일"
+        "시작까지 -55일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -12706,7 +12707,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-11",
     "endDate": "2026-07-11",
-    "dday": -49,
+    "dday": -55,
     "runtime": "50분",
     "priceText": "현장판매 14,900원, 사전예약 9,900원",
     "free": false,
@@ -12737,7 +12738,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -49일"
+        "시작까지 -55일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -12764,7 +12765,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-11",
     "endDate": "2026-07-12",
-    "dday": -48,
+    "dday": -54,
     "runtime": "1시간 5분",
     "priceText": "전석 70,000원",
     "free": false,
@@ -12795,7 +12796,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -48일"
+        "시작까지 -54일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -12822,7 +12823,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-11",
     "endDate": "2026-07-11",
-    "dday": -49,
+    "dday": -55,
     "runtime": "55분",
     "priceText": "R석 30,000원",
     "free": false,
@@ -12853,7 +12854,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -49일"
+        "시작까지 -55일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -12880,7 +12881,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-11",
     "endDate": "2026-07-11",
-    "dday": -49,
+    "dday": -55,
     "runtime": "50분",
     "priceText": "R석 23,000원, S석 20,000원, 휠체어석 15,000원",
     "free": false,
@@ -12911,7 +12912,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -49일"
+        "시작까지 -55일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -12938,7 +12939,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-11",
     "endDate": "2026-07-11",
-    "dday": -49,
+    "dday": -55,
     "runtime": "50분",
     "priceText": "현장판매 35,000원, 사전예약 9,900원",
     "free": false,
@@ -12969,7 +12970,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -49일"
+        "시작까지 -55일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -12996,7 +12997,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-11",
     "endDate": "2026-07-12",
-    "dday": -48,
+    "dday": -54,
     "runtime": "1시간 10분",
     "priceText": "VIP석 77,000원, R석 55,000원",
     "free": false,
@@ -13027,7 +13028,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -48일"
+        "시작까지 -54일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -13054,7 +13055,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-11",
     "endDate": "2026-07-12",
-    "dday": -48,
+    "dday": -54,
     "runtime": "1시간",
     "priceText": "전석 30,000원",
     "free": false,
@@ -13085,7 +13086,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -48일"
+        "시작까지 -54일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -13112,7 +13113,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-11",
     "endDate": "2026-07-11",
-    "dday": -49,
+    "dday": -55,
     "runtime": "1시간",
     "priceText": "전석 35,000원",
     "free": false,
@@ -13143,7 +13144,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 대구",
-        "시작까지 -49일"
+        "시작까지 -55일"
       ],
       "warnings": [],
       "programIdeas": [
@@ -13168,7 +13169,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-11",
     "endDate": "2026-07-12",
-    "dday": -48,
+    "dday": -54,
     "runtime": "1시간",
     "priceText": "전석 40,000원",
     "free": false,
@@ -13199,7 +13200,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -48일"
+        "시작까지 -54일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -13226,7 +13227,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-11",
     "endDate": "2026-07-11",
-    "dday": -49,
+    "dday": -55,
     "runtime": "50분",
     "priceText": "전석 35,000원, 사전예약 9,900원",
     "free": false,
@@ -13257,7 +13258,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 광주",
-        "시작까지 -49일"
+        "시작까지 -55일"
       ],
       "warnings": [],
       "programIdeas": [
@@ -13282,7 +13283,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-11",
     "endDate": "2026-07-12",
-    "dday": -48,
+    "dday": -54,
     "runtime": "1시간 15분",
     "priceText": "R석 70,000원, S석 60,000원",
     "free": false,
@@ -13313,7 +13314,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -48일"
+        "시작까지 -54일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -13340,7 +13341,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-11",
     "endDate": "2026-07-11",
-    "dday": -49,
+    "dday": -55,
     "runtime": "1시간",
     "priceText": "전석 35,000원, 사전예약 12,000원",
     "free": false,
@@ -13371,7 +13372,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -49일"
+        "시작까지 -55일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -13398,7 +13399,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-11",
     "endDate": "2026-07-11",
-    "dday": -49,
+    "dday": -55,
     "runtime": "50분",
     "priceText": "전석 40,000원",
     "free": false,
@@ -13429,7 +13430,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -49일"
+        "시작까지 -55일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -13456,7 +13457,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-11",
     "endDate": "2026-07-11",
-    "dday": -49,
+    "dday": -55,
     "runtime": "1시간",
     "priceText": "전석 20,000원",
     "free": false,
@@ -13487,7 +13488,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 36개월 이상",
         "학생대상 후보: 초등",
         "지역: 인천",
-        "시작까지 -49일"
+        "시작까지 -55일"
       ],
       "warnings": [],
       "programIdeas": [
@@ -13512,7 +13513,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-11",
     "endDate": "2026-07-11",
-    "dday": -49,
+    "dday": -55,
     "runtime": "55분",
     "priceText": "전석 10,000원",
     "free": false,
@@ -13543,7 +13544,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 20개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -49일"
+        "시작까지 -55일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -13570,7 +13571,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-11",
     "endDate": "2026-07-11",
-    "dday": -49,
+    "dday": -55,
     "runtime": "1시간",
     "priceText": "전석 40,000원",
     "free": false,
@@ -13601,7 +13602,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 대구",
-        "시작까지 -49일"
+        "시작까지 -55일"
       ],
       "warnings": [],
       "programIdeas": [
@@ -13626,7 +13627,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-11",
     "endDate": "2026-07-11",
-    "dday": -49,
+    "dday": -55,
     "runtime": "55분",
     "priceText": "전석 10,000원",
     "free": false,
@@ -13657,7 +13658,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -49일"
+        "시작까지 -55일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -13684,7 +13685,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-11",
     "endDate": "2026-07-11",
-    "dday": -49,
+    "dday": -55,
     "runtime": "55분",
     "priceText": "전석 40,000원",
     "free": false,
@@ -13715,7 +13716,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -49일"
+        "시작까지 -55일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -13742,7 +13743,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-11",
     "endDate": "2026-07-11",
-    "dday": -49,
+    "dday": -55,
     "runtime": "50분",
     "priceText": "현장판매 14,900원, 사전예약 9,900원",
     "free": false,
@@ -13773,7 +13774,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -49일"
+        "시작까지 -55일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -13800,7 +13801,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-11",
     "endDate": "2026-08-17",
-    "dday": -12,
+    "dday": -18,
     "runtime": "45분",
     "priceText": "전석 30,000원",
     "free": false,
@@ -13831,7 +13832,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -12일"
+        "시작까지 -18일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -13856,7 +13857,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": "서울특별시 서초구 남부순환로 2406 예술의전당",
     "startDate": "2026-07-11",
     "endDate": "2026-07-11",
-    "dday": -49,
+    "dday": -55,
     "runtime": null,
     "priceText": "전석 30,000원",
     "free": false,
@@ -13883,7 +13884,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "유형: 공연",
         "분야: 음악/콘서트",
         "지역: 서울",
-        "시작까지 -49일",
+        "시작까지 -55일",
         "원본/예매 링크 확인"
       ],
       "warnings": [
@@ -13911,7 +13912,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-11",
     "endDate": "2026-07-11",
-    "dday": -49,
+    "dday": -55,
     "runtime": "55분",
     "priceText": "전석 40,000원",
     "free": false,
@@ -13942,7 +13943,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 대전",
-        "시작까지 -49일"
+        "시작까지 -55일"
       ],
       "warnings": [],
       "programIdeas": [
@@ -13967,7 +13968,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-11",
     "endDate": "2026-07-11",
-    "dday": -49,
+    "dday": -55,
     "runtime": "1시간 10분",
     "priceText": "전석 10,000원",
     "free": false,
@@ -13998,7 +13999,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 48개월 이상",
         "학생대상 후보: 초등",
         "지역: 인천",
-        "시작까지 -49일"
+        "시작까지 -55일"
       ],
       "warnings": [],
       "programIdeas": [
@@ -14023,7 +14024,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-11",
     "endDate": "2026-07-11",
-    "dday": -49,
+    "dday": -55,
     "runtime": "1시간",
     "priceText": "전석 40,000원",
     "free": false,
@@ -14054,7 +14055,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -49일"
+        "시작까지 -55일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -14081,7 +14082,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-11",
     "endDate": "2026-07-12",
-    "dday": -48,
+    "dday": -54,
     "runtime": "1시간 10분",
     "priceText": "1층석 70,000원, 2층석 60,000원",
     "free": false,
@@ -14112,7 +14113,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -48일"
+        "시작까지 -54일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -14139,7 +14140,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-11",
     "endDate": "2026-07-11",
-    "dday": -49,
+    "dday": -55,
     "runtime": "55분",
     "priceText": "전석 40,000원",
     "free": false,
@@ -14170,7 +14171,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -49일"
+        "시작까지 -55일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -14197,7 +14198,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-11",
     "endDate": "2026-07-12",
-    "dday": -48,
+    "dday": -54,
     "runtime": "55분",
     "priceText": "전석 40,000원",
     "free": false,
@@ -14228,7 +14229,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -48일"
+        "시작까지 -54일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -14255,7 +14256,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-11",
     "endDate": "2026-07-12",
-    "dday": -48,
+    "dday": -54,
     "runtime": "1시간 5분",
     "priceText": "R석 66,000원, S석 55,000원",
     "free": false,
@@ -14286,7 +14287,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -48일"
+        "시작까지 -54일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -14313,7 +14314,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-12",
     "endDate": "2026-07-12",
-    "dday": -48,
+    "dday": -54,
     "runtime": "55분",
     "priceText": "전석 50,000원",
     "free": false,
@@ -14344,7 +14345,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 인천",
-        "시작까지 -48일"
+        "시작까지 -54일"
       ],
       "warnings": [],
       "programIdeas": [
@@ -14369,7 +14370,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-12",
     "endDate": "2026-07-12",
-    "dday": -48,
+    "dday": -54,
     "runtime": "1시간",
     "priceText": "전석 40,000원",
     "free": false,
@@ -14400,7 +14401,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 대전",
-        "시작까지 -48일"
+        "시작까지 -54일"
       ],
       "warnings": [],
       "programIdeas": [
@@ -14425,7 +14426,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-12",
     "endDate": "2026-07-12",
-    "dday": -48,
+    "dday": -54,
     "runtime": "50분",
     "priceText": "사전예약 9,900원",
     "free": false,
@@ -14456,7 +14457,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -48일"
+        "시작까지 -54일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -14483,7 +14484,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-12",
     "endDate": "2026-07-12",
-    "dday": -48,
+    "dday": -54,
     "runtime": "50분",
     "priceText": "현장판매 35,000원, 사전예약 9,900원",
     "free": false,
@@ -14514,7 +14515,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -48일"
+        "시작까지 -54일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -14541,7 +14542,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-12",
     "endDate": "2026-07-12",
-    "dday": -48,
+    "dday": -54,
     "runtime": "1시간",
     "priceText": "전석 40,000원, 사전예약 15,000원",
     "free": false,
@@ -14572,7 +14573,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -48일"
+        "시작까지 -54일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -14599,7 +14600,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-12",
     "endDate": "2026-07-12",
-    "dday": -48,
+    "dday": -54,
     "runtime": "1시간 10분",
     "priceText": "전석 20,000원",
     "free": false,
@@ -14630,7 +14631,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 36개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -48일"
+        "시작까지 -54일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -14657,7 +14658,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-12",
     "endDate": "2026-07-12",
-    "dday": -48,
+    "dday": -54,
     "runtime": "1시간",
     "priceText": "R석 50,000원",
     "free": false,
@@ -14688,7 +14689,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -48일"
+        "시작까지 -54일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -14715,7 +14716,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-12",
     "endDate": "2026-07-12",
-    "dday": -48,
+    "dday": -54,
     "runtime": "55분",
     "priceText": "현장판매 40,000원, 사전예약 10,000원",
     "free": false,
@@ -14746,7 +14747,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -48일"
+        "시작까지 -54일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -14773,7 +14774,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-12",
     "endDate": "2026-07-12",
-    "dday": -48,
+    "dday": -54,
     "runtime": "1시간",
     "priceText": "사전예약 14,900원",
     "free": false,
@@ -14804,7 +14805,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 20개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -48일"
+        "시작까지 -54일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -14831,7 +14832,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-12",
     "endDate": "2026-07-12",
-    "dday": -48,
+    "dday": -54,
     "runtime": "1시간",
     "priceText": "전석 25,000원",
     "free": false,
@@ -14862,7 +14863,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -48일"
+        "시작까지 -54일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -14889,7 +14890,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-12",
     "endDate": "2026-07-12",
-    "dday": -48,
+    "dday": -54,
     "runtime": "55분",
     "priceText": "사전예약 10,000원",
     "free": false,
@@ -14920,7 +14921,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -48일"
+        "시작까지 -54일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -14947,7 +14948,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-12",
     "endDate": "2026-07-12",
-    "dday": -48,
+    "dday": -54,
     "runtime": "50분",
     "priceText": "네이버 1인권 14,900원, 사전예약 9,900원",
     "free": false,
@@ -14978,7 +14979,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -48일"
+        "시작까지 -54일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -15005,7 +15006,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-12",
     "endDate": "2026-07-12",
-    "dday": -48,
+    "dday": -54,
     "runtime": "50분",
     "priceText": "전석 35,000원",
     "free": false,
@@ -15036,7 +15037,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -48일"
+        "시작까지 -54일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -15063,7 +15064,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-12",
     "endDate": "2026-07-12",
-    "dday": -48,
+    "dday": -54,
     "runtime": "1시간",
     "priceText": "전석 30,000원",
     "free": false,
@@ -15094,7 +15095,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 광주",
-        "시작까지 -48일"
+        "시작까지 -54일"
       ],
       "warnings": [],
       "programIdeas": [
@@ -15119,7 +15120,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-12",
     "endDate": "2026-07-12",
-    "dday": -48,
+    "dday": -54,
     "runtime": "1시간",
     "priceText": "전석 30,000원, 사전예약 10,000원",
     "free": false,
@@ -15150,7 +15151,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -48일"
+        "시작까지 -54일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -15177,7 +15178,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-15",
     "endDate": "2026-07-19",
-    "dday": -41,
+    "dday": -47,
     "runtime": "50분",
     "priceText": "전석 30,000원",
     "free": false,
@@ -15208,7 +15209,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 36개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -41일"
+        "시작까지 -47일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -15235,7 +15236,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-15",
     "endDate": "2026-07-15",
-    "dday": -45,
+    "dday": -51,
     "runtime": "1시간 15분",
     "priceText": "전석 10,000원",
     "free": false,
@@ -15264,7 +15265,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 36개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -45일"
+        "시작까지 -51일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -15291,7 +15292,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-16",
     "endDate": "2026-07-19",
-    "dday": -41,
+    "dday": -47,
     "runtime": "50분",
     "priceText": "전석 30,000원",
     "free": false,
@@ -15322,7 +15323,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 36개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -41일"
+        "시작까지 -47일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -15349,7 +15350,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-16",
     "endDate": "2026-08-17",
-    "dday": -12,
+    "dday": -18,
     "runtime": "1시간",
     "priceText": "사전예약 11,000원",
     "free": false,
@@ -15380,7 +15381,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -12일"
+        "시작까지 -18일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -15467,7 +15468,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-16",
     "endDate": "2026-07-17",
-    "dday": -43,
+    "dday": -49,
     "runtime": "50분",
     "priceText": "전석 20,000원",
     "free": false,
@@ -15496,7 +15497,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 36개월 이상",
         "학생대상 후보: 초등",
         "지역: 경기",
-        "시작까지 -43일"
+        "시작까지 -49일"
       ],
       "warnings": [],
       "programIdeas": [
@@ -15521,7 +15522,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-16",
     "endDate": "2026-07-18",
-    "dday": -42,
+    "dday": -48,
     "runtime": "1시간",
     "priceText": "전석 10,000원",
     "free": false,
@@ -15552,7 +15553,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -42일"
+        "시작까지 -48일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -15579,7 +15580,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-17",
     "endDate": "2026-07-18",
-    "dday": -42,
+    "dday": -48,
     "runtime": "1시간 10분",
     "priceText": "전석 10,000원",
     "free": false,
@@ -15610,7 +15611,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 36개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -42일"
+        "시작까지 -48일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -15637,7 +15638,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-17",
     "endDate": "2026-07-17",
-    "dday": -43,
+    "dday": -49,
     "runtime": "45분",
     "priceText": "전석 10,000원",
     "free": false,
@@ -15666,7 +15667,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 12개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -43일"
+        "시작까지 -49일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -15693,7 +15694,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-17",
     "endDate": "2026-08-23",
-    "dday": -6,
+    "dday": -12,
     "runtime": "1시간 20분",
     "priceText": "어린이 24,000원, 성인 14,000원",
     "free": false,
@@ -15724,7 +15725,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -6일"
+        "시작까지 -12일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -15751,7 +15752,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-17",
     "endDate": "2026-07-17",
-    "dday": -43,
+    "dday": -49,
     "runtime": "50분",
     "priceText": "전석 35,000원",
     "free": false,
@@ -15780,7 +15781,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -43일"
+        "시작까지 -49일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -15807,7 +15808,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-17",
     "endDate": "2026-07-17",
-    "dday": -43,
+    "dday": -49,
     "runtime": "55분",
     "priceText": "전석 30,000원, 사전예약 19,900원",
     "free": false,
@@ -15836,7 +15837,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -43일"
+        "시작까지 -49일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -15863,7 +15864,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-17",
     "endDate": "2026-07-25",
-    "dday": -35,
+    "dday": -41,
     "runtime": "50분",
     "priceText": "전석 30,000원",
     "free": false,
@@ -15894,7 +15895,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -35일"
+        "시작까지 -41일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -15921,7 +15922,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-17",
     "endDate": "2026-08-23",
-    "dday": -6,
+    "dday": -12,
     "runtime": "55분",
     "priceText": "전석 40,000원",
     "free": false,
@@ -15952,7 +15953,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 36개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -6일"
+        "시작까지 -12일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -15979,7 +15980,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-17",
     "endDate": "2026-07-18",
-    "dday": -42,
+    "dday": -48,
     "runtime": "1시간",
     "priceText": "R석 40,000원",
     "free": false,
@@ -16010,7 +16011,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -42일"
+        "시작까지 -48일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -16037,7 +16038,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-17",
     "endDate": "2026-07-18",
-    "dday": -42,
+    "dday": -48,
     "runtime": "45분",
     "priceText": "전석 30,000원",
     "free": false,
@@ -16068,7 +16069,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 18개월 이상",
         "학생대상 후보: 초등",
         "지역: 경기",
-        "시작까지 -42일"
+        "시작까지 -48일"
       ],
       "warnings": [],
       "programIdeas": [
@@ -16093,13 +16094,5133 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-17",
     "endDate": "2026-07-27",
-    "dday": -33,
+    "dday": -39,
     "runtime": "1시간 10분",
     "priceText": "전석 70,000원",
     "free": false,
     "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF291353_260514_111408.gif",
     "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF291353",
     "summary": "집사TV 시즌2, Part.2: 대저택 끝 없는 문 [서울 서대문]은(는) 연세대학교 백주년기념관에서 진행되는 뮤지컬 행사입니다.",
+    "status": "예정",
+    "conflict": false,
+    "recommendation": {
+      "subjectTags": [
+        "국어/논술",
+        "예술"
+      ],
+      "useCaseTags": [
+        "아동공연",
+        "주말관람",
+        "원본확인"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 86,
+      "reasons": [
+        "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
+        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
+      ],
+      "evidence": [
+        "유형: 공연",
+        "분야: 뮤지컬",
+        "관람연령: 24개월 이상",
+        "학생대상 후보: 초등",
+        "지역: 확인필요",
+        "시작까지 -39일"
+      ],
+      "warnings": [
+        "장소 또는 지역 확인 필요"
+      ],
+      "programIdeas": [
+        "관람 전 배경지식 10분 브리핑",
+        "관람 후 한 문단 감상 기록",
+        "학부모 주말 문화체험 안내"
+      ]
+    }
+  },
+  {
+    "id": "kopis-PF292976",
+    "source": "kopis",
+    "title": "NAC 문화예술교육 공연 및 체험, 악기체험 클클클 Ⅲ. 친구들이 놀러왔어 [부산]",
+    "eventType": "공연",
+    "category": "서양음악(클래식)",
+    "grades": [
+      "초등"
+    ],
+    "ageText": "전체 관람가",
+    "region": "확인필요",
+    "venueName": "낙동아트센터",
+    "venueAddress": null,
+    "startDate": "2026-07-18",
+    "endDate": "2026-07-18",
+    "dday": -48,
+    "runtime": "1시간",
+    "priceText": "전석 10,000원",
+    "free": false,
+    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF292976_260605_113547.jpg",
+    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF292976",
+    "summary": "NAC 문화예술교육 공연 및 체험, 악기체험 클클클 Ⅲ. 친구들이 놀러왔어 [부산]은(는) 낙동아트센터에서 진행되는 서양음악(클래식) 행사입니다.",
+    "status": "예정",
+    "conflict": false,
+    "recommendation": {
+      "subjectTags": [
+        "국어/논술",
+        "예술"
+      ],
+      "useCaseTags": [
+        "아동공연",
+        "주말관람",
+        "원본확인"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 86,
+      "reasons": [
+        "전체 관람가 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
+        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
+      ],
+      "evidence": [
+        "유형: 공연",
+        "분야: 서양음악(클래식)",
+        "관람연령: 전체 관람가",
+        "학생대상 후보: 초등",
+        "지역: 확인필요",
+        "시작까지 -48일"
+      ],
+      "warnings": [
+        "장소 또는 지역 확인 필요"
+      ],
+      "programIdeas": [
+        "관람 전 배경지식 10분 브리핑",
+        "관람 후 한 문단 감상 기록",
+        "학부모 주말 문화체험 안내"
+      ]
+    }
+  },
+  {
+    "id": "kopis-PF293647",
+    "source": "kopis",
+    "title": "강북Festa, 디어 산타",
+    "eventType": "공연",
+    "category": "연극",
+    "grades": [
+      "초등"
+    ],
+    "ageText": "36개월 이상",
+    "region": "확인필요",
+    "venueName": "강북문화예술회관",
+    "venueAddress": null,
+    "startDate": "2026-07-18",
+    "endDate": "2026-07-18",
+    "dday": -48,
+    "runtime": "1시간 20분",
+    "priceText": "전석 10,000원",
+    "free": false,
+    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF293647_260615_102458.jpg",
+    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF293647",
+    "summary": "강북Festa, 디어 산타은(는) 강북문화예술회관에서 진행되는 연극 행사입니다.",
+    "status": "예정",
+    "conflict": false,
+    "recommendation": {
+      "subjectTags": [
+        "국어/논술",
+        "예술"
+      ],
+      "useCaseTags": [
+        "아동공연",
+        "주말관람",
+        "원본확인"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 86,
+      "reasons": [
+        "36개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
+        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
+      ],
+      "evidence": [
+        "유형: 공연",
+        "분야: 연극",
+        "관람연령: 36개월 이상",
+        "학생대상 후보: 초등",
+        "지역: 확인필요",
+        "시작까지 -48일"
+      ],
+      "warnings": [
+        "장소 또는 지역 확인 필요"
+      ],
+      "programIdeas": [
+        "관람 전 배경지식 10분 브리핑",
+        "관람 후 한 문단 감상 기록",
+        "학부모 주말 문화체험 안내"
+      ]
+    }
+  },
+  {
+    "id": "kopis-PF292404",
+    "source": "kopis",
+    "title": "개구쟁이 특공대: 마녀저택 [전주]",
+    "eventType": "공연",
+    "category": "뮤지컬",
+    "grades": [
+      "초등"
+    ],
+    "ageText": "24개월 이상",
+    "region": "확인필요",
+    "venueName": "한국소리문화의전당",
+    "venueAddress": null,
+    "startDate": "2026-07-18",
+    "endDate": "2026-07-19",
+    "dday": -47,
+    "runtime": "1시간 10분",
+    "priceText": "전석 70,000원",
+    "free": false,
+    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF292404_260528_110759.gif",
+    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF292404",
+    "summary": "개구쟁이 특공대: 마녀저택 [전주]은(는) 한국소리문화의전당에서 진행되는 뮤지컬 행사입니다.",
+    "status": "예정",
+    "conflict": false,
+    "recommendation": {
+      "subjectTags": [
+        "국어/논술",
+        "예술"
+      ],
+      "useCaseTags": [
+        "아동공연",
+        "주말관람",
+        "원본확인"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 86,
+      "reasons": [
+        "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
+        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
+      ],
+      "evidence": [
+        "유형: 공연",
+        "분야: 뮤지컬",
+        "관람연령: 24개월 이상",
+        "학생대상 후보: 초등",
+        "지역: 확인필요",
+        "시작까지 -47일"
+      ],
+      "warnings": [
+        "장소 또는 지역 확인 필요"
+      ],
+      "programIdeas": [
+        "관람 전 배경지식 10분 브리핑",
+        "관람 후 한 문단 감상 기록",
+        "학부모 주말 문화체험 안내"
+      ]
+    }
+  },
+  {
+    "id": "kopis-PF292953",
+    "source": "kopis",
+    "title": "겨울왕국: 겨울이야기 [부천]",
+    "eventType": "공연",
+    "category": "뮤지컬",
+    "grades": [
+      "초등"
+    ],
+    "ageText": "24개월 이상",
+    "region": "확인필요",
+    "venueName": "복사골문화센터",
+    "venueAddress": null,
+    "startDate": "2026-07-18",
+    "endDate": "2026-07-19",
+    "dday": -47,
+    "runtime": "1시간 5분",
+    "priceText": "R석 50,000원",
+    "free": false,
+    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF292953_260605_103628.jpg",
+    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF292953",
+    "summary": "겨울왕국: 겨울이야기 [부천]은(는) 복사골문화센터에서 진행되는 뮤지컬 행사입니다.",
+    "status": "예정",
+    "conflict": false,
+    "recommendation": {
+      "subjectTags": [
+        "국어/논술",
+        "예술"
+      ],
+      "useCaseTags": [
+        "아동공연",
+        "주말관람",
+        "원본확인"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 86,
+      "reasons": [
+        "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
+        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
+      ],
+      "evidence": [
+        "유형: 공연",
+        "분야: 뮤지컬",
+        "관람연령: 24개월 이상",
+        "학생대상 후보: 초등",
+        "지역: 확인필요",
+        "시작까지 -47일"
+      ],
+      "warnings": [
+        "장소 또는 지역 확인 필요"
+      ],
+      "programIdeas": [
+        "관람 전 배경지식 10분 브리핑",
+        "관람 후 한 문단 감상 기록",
+        "학부모 주말 문화체험 안내"
+      ]
+    }
+  },
+  {
+    "id": "kopis-PF292512",
+    "source": "kopis",
+    "title": "넘버블록스 [하남 (앵콜) ]",
+    "eventType": "공연",
+    "category": "뮤지컬",
+    "grades": [
+      "초등"
+    ],
+    "ageText": "24개월 이상",
+    "region": "확인필요",
+    "venueName": "하남문화예술회관",
+    "venueAddress": null,
+    "startDate": "2026-07-18",
+    "endDate": "2026-07-19",
+    "dday": -47,
+    "runtime": "1시간 10분",
+    "priceText": "R석 70,000원, S석 60,000원",
+    "free": false,
+    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF292512_260529_114548.jpg",
+    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF292512",
+    "summary": "넘버블록스 [하남 (앵콜) ]은(는) 하남문화예술회관에서 진행되는 뮤지컬 행사입니다.",
+    "status": "예정",
+    "conflict": false,
+    "recommendation": {
+      "subjectTags": [
+        "국어/논술",
+        "예술"
+      ],
+      "useCaseTags": [
+        "아동공연",
+        "주말관람",
+        "원본확인"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 86,
+      "reasons": [
+        "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
+        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
+      ],
+      "evidence": [
+        "유형: 공연",
+        "분야: 뮤지컬",
+        "관람연령: 24개월 이상",
+        "학생대상 후보: 초등",
+        "지역: 확인필요",
+        "시작까지 -47일"
+      ],
+      "warnings": [
+        "장소 또는 지역 확인 필요"
+      ],
+      "programIdeas": [
+        "관람 전 배경지식 10분 브리핑",
+        "관람 후 한 문단 감상 기록",
+        "학부모 주말 문화체험 안내"
+      ]
+    }
+  },
+  {
+    "id": "kopis-PF294249",
+    "source": "kopis",
+    "title": "도깨비 운동회 [서울 종로]",
+    "eventType": "공연",
+    "category": "무용(서양/한국무용)",
+    "grades": [
+      "초등"
+    ],
+    "ageText": "36개월 이상",
+    "region": "서울",
+    "venueName": "서울돈화문국악당",
+    "venueAddress": null,
+    "startDate": "2026-07-18",
+    "endDate": "2026-07-18",
+    "dday": -48,
+    "runtime": "1시간",
+    "priceText": "전석 20,000원",
+    "free": false,
+    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF294249_260622_111939.gif",
+    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF294249",
+    "summary": "도깨비 운동회 [서울 종로]은(는) 서울돈화문국악당에서 진행되는 무용(서양/한국무용) 행사입니다.",
+    "status": "예정",
+    "conflict": false,
+    "recommendation": {
+      "subjectTags": [
+        "국어/논술",
+        "예술"
+      ],
+      "useCaseTags": [
+        "아동공연",
+        "주말관람",
+        "원본확인"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 100,
+      "reasons": [
+        "36개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
+        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
+      ],
+      "evidence": [
+        "유형: 공연",
+        "분야: 무용(서양/한국무용)",
+        "관람연령: 36개월 이상",
+        "학생대상 후보: 초등",
+        "지역: 서울",
+        "시작까지 -48일"
+      ],
+      "warnings": [],
+      "programIdeas": [
+        "관람 전 배경지식 10분 브리핑",
+        "관람 후 한 문단 감상 기록",
+        "학부모 주말 문화체험 안내"
+      ]
+    }
+  },
+  {
+    "id": "kopis-PF294664",
+    "source": "kopis",
+    "title": "똥벼락 [목포]",
+    "eventType": "공연",
+    "category": "한국음악(국악)",
+    "grades": [
+      "초등"
+    ],
+    "ageText": "만 4세 이상",
+    "region": "확인필요",
+    "venueName": "목포문화예술회관",
+    "venueAddress": null,
+    "startDate": "2026-07-18",
+    "endDate": "2026-07-18",
+    "dday": -48,
+    "runtime": "1시간",
+    "priceText": "전석 10,000원",
+    "free": false,
+    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF294664_260626_103515.jpg",
+    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF294664",
+    "summary": "똥벼락 [목포]은(는) 목포문화예술회관에서 진행되는 한국음악(국악) 행사입니다.",
+    "status": "예정",
+    "conflict": false,
+    "recommendation": {
+      "subjectTags": [
+        "국어/논술",
+        "예술"
+      ],
+      "useCaseTags": [
+        "아동공연",
+        "주말관람",
+        "원본확인"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 86,
+      "reasons": [
+        "만 4세 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
+        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
+      ],
+      "evidence": [
+        "유형: 공연",
+        "분야: 한국음악(국악)",
+        "관람연령: 만 4세 이상",
+        "학생대상 후보: 초등",
+        "지역: 확인필요",
+        "시작까지 -48일"
+      ],
+      "warnings": [
+        "장소 또는 지역 확인 필요"
+      ],
+      "programIdeas": [
+        "관람 전 배경지식 10분 브리핑",
+        "관람 후 한 문단 감상 기록",
+        "학부모 주말 문화체험 안내"
+      ]
+    }
+  },
+  {
+    "id": "kopis-PF292467",
+    "source": "kopis",
+    "title": "바다탐험대 옥토넛 시즌4: 숨겨진 보물을 찾아라! [과천]",
+    "eventType": "공연",
+    "category": "뮤지컬",
+    "grades": [
+      "초등"
+    ],
+    "ageText": "전체 관람가",
+    "region": "확인필요",
+    "venueName": "국립과천과학관",
+    "venueAddress": null,
+    "startDate": "2026-07-18",
+    "endDate": "2026-07-19",
+    "dday": -47,
+    "runtime": "1시간 5분",
+    "priceText": "전석 70,000원",
+    "free": false,
+    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF292467_260528_143951.gif",
+    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF292467",
+    "summary": "바다탐험대 옥토넛 시즌4: 숨겨진 보물을 찾아라! [과천]은(는) 국립과천과학관에서 진행되는 뮤지컬 행사입니다.",
+    "status": "예정",
+    "conflict": false,
+    "recommendation": {
+      "subjectTags": [
+        "국어/논술",
+        "예술"
+      ],
+      "useCaseTags": [
+        "아동공연",
+        "주말관람",
+        "원본확인"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 86,
+      "reasons": [
+        "전체 관람가 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
+        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
+      ],
+      "evidence": [
+        "유형: 공연",
+        "분야: 뮤지컬",
+        "관람연령: 전체 관람가",
+        "학생대상 후보: 초등",
+        "지역: 확인필요",
+        "시작까지 -47일"
+      ],
+      "warnings": [
+        "장소 또는 지역 확인 필요"
+      ],
+      "programIdeas": [
+        "관람 전 배경지식 10분 브리핑",
+        "관람 후 한 문단 감상 기록",
+        "학부모 주말 문화체험 안내"
+      ]
+    }
+  },
+  {
+    "id": "kopis-PF291847",
+    "source": "kopis",
+    "title": "백설공주 [광양]",
+    "eventType": "공연",
+    "category": "뮤지컬",
+    "grades": [
+      "초등"
+    ],
+    "ageText": "전체 관람가",
+    "region": "확인필요",
+    "venueName": "광양시문화예술회관",
+    "venueAddress": null,
+    "startDate": "2026-07-18",
+    "endDate": "2026-07-18",
+    "dday": -48,
+    "runtime": "50분",
+    "priceText": "현장판매 35,000원, 사전예약 9,900원",
+    "free": false,
+    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF291847_260520_133210.jpg",
+    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF291847",
+    "summary": "백설공주 [광양]은(는) 광양시문화예술회관에서 진행되는 뮤지컬 행사입니다.",
+    "status": "예정",
+    "conflict": false,
+    "recommendation": {
+      "subjectTags": [
+        "국어/논술",
+        "예술"
+      ],
+      "useCaseTags": [
+        "아동공연",
+        "주말관람",
+        "원본확인"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 86,
+      "reasons": [
+        "전체 관람가 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
+        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
+      ],
+      "evidence": [
+        "유형: 공연",
+        "분야: 뮤지컬",
+        "관람연령: 전체 관람가",
+        "학생대상 후보: 초등",
+        "지역: 확인필요",
+        "시작까지 -48일"
+      ],
+      "warnings": [
+        "장소 또는 지역 확인 필요"
+      ],
+      "programIdeas": [
+        "관람 전 배경지식 10분 브리핑",
+        "관람 후 한 문단 감상 기록",
+        "학부모 주말 문화체험 안내"
+      ]
+    }
+  },
+  {
+    "id": "kopis-PF290713",
+    "source": "kopis",
+    "title": "베베핀, 두근두근 새친구 [안산]",
+    "eventType": "공연",
+    "category": "뮤지컬",
+    "grades": [
+      "초등"
+    ],
+    "ageText": "12개월 이상",
+    "region": "확인필요",
+    "venueName": "안산문화예술의전당",
+    "venueAddress": null,
+    "startDate": "2026-07-18",
+    "endDate": "2026-07-19",
+    "dday": -47,
+    "runtime": "1시간 10분",
+    "priceText": "VIP석 77,000원, R석 55,000원",
+    "free": false,
+    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF290713_260506_131200.gif",
+    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF290713",
+    "summary": "베베핀, 두근두근 새친구 [안산]은(는) 안산문화예술의전당에서 진행되는 뮤지컬 행사입니다.",
+    "status": "예정",
+    "conflict": false,
+    "recommendation": {
+      "subjectTags": [
+        "국어/논술",
+        "예술"
+      ],
+      "useCaseTags": [
+        "아동공연",
+        "주말관람",
+        "원본확인"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 86,
+      "reasons": [
+        "12개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
+        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
+      ],
+      "evidence": [
+        "유형: 공연",
+        "분야: 뮤지컬",
+        "관람연령: 12개월 이상",
+        "학생대상 후보: 초등",
+        "지역: 확인필요",
+        "시작까지 -47일"
+      ],
+      "warnings": [
+        "장소 또는 지역 확인 필요"
+      ],
+      "programIdeas": [
+        "관람 전 배경지식 10분 브리핑",
+        "관람 후 한 문단 감상 기록",
+        "학부모 주말 문화체험 안내"
+      ]
+    }
+  },
+  {
+    "id": "kopis-PF294038",
+    "source": "kopis",
+    "title": "사과가 쿵! [서울 노원]",
+    "eventType": "공연",
+    "category": "뮤지컬",
+    "grades": [
+      "초등"
+    ],
+    "ageText": "24개월 이상",
+    "region": "확인필요",
+    "venueName": "노원구민의전당(구. 노원구민회관)",
+    "venueAddress": null,
+    "startDate": "2026-07-18",
+    "endDate": "2026-07-18",
+    "dday": -48,
+    "runtime": "50분",
+    "priceText": "전석 40,000원, 사전예약 10,000원",
+    "free": false,
+    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF294038_260618_145321.jpg",
+    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF294038",
+    "summary": "사과가 쿵! [서울 노원]은(는) 노원구민의전당(구. 노원구민회관)에서 진행되는 뮤지컬 행사입니다.",
+    "status": "예정",
+    "conflict": false,
+    "recommendation": {
+      "subjectTags": [
+        "국어/논술",
+        "예술"
+      ],
+      "useCaseTags": [
+        "아동공연",
+        "주말관람",
+        "원본확인"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 86,
+      "reasons": [
+        "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
+        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
+      ],
+      "evidence": [
+        "유형: 공연",
+        "분야: 뮤지컬",
+        "관람연령: 24개월 이상",
+        "학생대상 후보: 초등",
+        "지역: 확인필요",
+        "시작까지 -48일"
+      ],
+      "warnings": [
+        "장소 또는 지역 확인 필요"
+      ],
+      "programIdeas": [
+        "관람 전 배경지식 10분 브리핑",
+        "관람 후 한 문단 감상 기록",
+        "학부모 주말 문화체험 안내"
+      ]
+    }
+  },
+  {
+    "id": "kopis-PF292176",
+    "source": "kopis",
+    "title": "신데렐라 [파주]",
+    "eventType": "공연",
+    "category": "뮤지컬",
+    "grades": [
+      "초등"
+    ],
+    "ageText": "24개월 이상",
+    "region": "확인필요",
+    "venueName": "파주시민회관",
+    "venueAddress": null,
+    "startDate": "2026-07-18",
+    "endDate": "2026-07-18",
+    "dday": -48,
+    "runtime": "1시간",
+    "priceText": "현장판매 40,000원, 사전예약 11,900원",
+    "free": false,
+    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF292176_260526_125011.jpg",
+    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF292176",
+    "summary": "신데렐라 [파주]은(는) 파주시민회관에서 진행되는 뮤지컬 행사입니다.",
+    "status": "예정",
+    "conflict": false,
+    "recommendation": {
+      "subjectTags": [
+        "국어/논술",
+        "예술"
+      ],
+      "useCaseTags": [
+        "아동공연",
+        "주말관람",
+        "원본확인"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 86,
+      "reasons": [
+        "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
+        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
+      ],
+      "evidence": [
+        "유형: 공연",
+        "분야: 뮤지컬",
+        "관람연령: 24개월 이상",
+        "학생대상 후보: 초등",
+        "지역: 확인필요",
+        "시작까지 -48일"
+      ],
+      "warnings": [
+        "장소 또는 지역 확인 필요"
+      ],
+      "programIdeas": [
+        "관람 전 배경지식 10분 브리핑",
+        "관람 후 한 문단 감상 기록",
+        "학부모 주말 문화체험 안내"
+      ]
+    }
+  },
+  {
+    "id": "kopis-PF292580",
+    "source": "kopis",
+    "title": "신데렐라 [평택]",
+    "eventType": "공연",
+    "category": "뮤지컬",
+    "grades": [
+      "초등"
+    ],
+    "ageText": "24개월 이상",
+    "region": "확인필요",
+    "venueName": "평택시서부문예회관",
+    "venueAddress": null,
+    "startDate": "2026-07-18",
+    "endDate": "2026-07-18",
+    "dday": -48,
+    "runtime": "55분",
+    "priceText": "사전예약 10,000원",
+    "free": false,
+    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF292580_260601_102922.png",
+    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF292580",
+    "summary": "신데렐라 [평택]은(는) 평택시서부문예회관에서 진행되는 뮤지컬 행사입니다.",
+    "status": "예정",
+    "conflict": false,
+    "recommendation": {
+      "subjectTags": [
+        "국어/논술",
+        "예술"
+      ],
+      "useCaseTags": [
+        "아동공연",
+        "주말관람",
+        "원본확인"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 86,
+      "reasons": [
+        "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
+        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
+      ],
+      "evidence": [
+        "유형: 공연",
+        "분야: 뮤지컬",
+        "관람연령: 24개월 이상",
+        "학생대상 후보: 초등",
+        "지역: 확인필요",
+        "시작까지 -48일"
+      ],
+      "warnings": [
+        "장소 또는 지역 확인 필요"
+      ],
+      "programIdeas": [
+        "관람 전 배경지식 10분 브리핑",
+        "관람 후 한 문단 감상 기록",
+        "학부모 주말 문화체험 안내"
+      ]
+    }
+  },
+  {
+    "id": "kopis-PF291145",
+    "source": "kopis",
+    "title": "아쿠아쇼: 바닷 속 버블왕국 [서울 영등포]",
+    "eventType": "공연",
+    "category": "서커스/마술",
+    "grades": [
+      "초등"
+    ],
+    "ageText": "전체 관람가",
+    "region": "확인필요",
+    "venueName": "영등포아트홀",
+    "venueAddress": null,
+    "startDate": "2026-07-18",
+    "endDate": "2026-07-18",
+    "dday": -48,
+    "runtime": "1시간",
+    "priceText": "전석 50,000원",
+    "free": false,
+    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF291145_260512_095111.gif",
+    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF291145",
+    "summary": "아쿠아쇼: 바닷 속 버블왕국 [서울 영등포]은(는) 영등포아트홀에서 진행되는 서커스/마술 행사입니다.",
+    "status": "예정",
+    "conflict": false,
+    "recommendation": {
+      "subjectTags": [
+        "국어/논술",
+        "예술"
+      ],
+      "useCaseTags": [
+        "아동공연",
+        "주말관람",
+        "원본확인"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 86,
+      "reasons": [
+        "전체 관람가 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
+        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
+      ],
+      "evidence": [
+        "유형: 공연",
+        "분야: 서커스/마술",
+        "관람연령: 전체 관람가",
+        "학생대상 후보: 초등",
+        "지역: 확인필요",
+        "시작까지 -48일"
+      ],
+      "warnings": [
+        "장소 또는 지역 확인 필요"
+      ],
+      "programIdeas": [
+        "관람 전 배경지식 10분 브리핑",
+        "관람 후 한 문단 감상 기록",
+        "학부모 주말 문화체험 안내"
+      ]
+    }
+  },
+  {
+    "id": "kopis-PF291124",
+    "source": "kopis",
+    "title": "알파블록스 [전주]",
+    "eventType": "공연",
+    "category": "뮤지컬",
+    "grades": [
+      "초등"
+    ],
+    "ageText": "24개월 이상",
+    "region": "전북",
+    "venueName": "전북대학교 삼성문화회관",
+    "venueAddress": null,
+    "startDate": "2026-07-18",
+    "endDate": "2026-07-19",
+    "dday": -47,
+    "runtime": "1시간 15분",
+    "priceText": "R석 70,000원, S석 60,000원",
+    "free": false,
+    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF291124_260511_150917.gif",
+    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF291124",
+    "summary": "알파블록스 [전주]은(는) 전북대학교 삼성문화회관에서 진행되는 뮤지컬 행사입니다.",
+    "status": "예정",
+    "conflict": false,
+    "recommendation": {
+      "subjectTags": [
+        "국어/논술",
+        "예술"
+      ],
+      "useCaseTags": [
+        "아동공연",
+        "주말관람",
+        "원본확인"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 100,
+      "reasons": [
+        "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
+        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
+      ],
+      "evidence": [
+        "유형: 공연",
+        "분야: 뮤지컬",
+        "관람연령: 24개월 이상",
+        "학생대상 후보: 초등",
+        "지역: 전북",
+        "시작까지 -47일"
+      ],
+      "warnings": [],
+      "programIdeas": [
+        "관람 전 배경지식 10분 브리핑",
+        "관람 후 한 문단 감상 기록",
+        "학부모 주말 문화체험 안내"
+      ]
+    }
+  },
+  {
+    "id": "kopis-PF292885",
+    "source": "kopis",
+    "title": "어린이 마술쇼 [진주]",
+    "eventType": "공연",
+    "category": "서커스/마술",
+    "grades": [
+      "초등"
+    ],
+    "ageText": "전체 관람가",
+    "region": "확인필요",
+    "venueName": "경상대학교 칠암캠퍼스",
+    "venueAddress": null,
+    "startDate": "2026-07-18",
+    "endDate": "2026-07-18",
+    "dday": -48,
+    "runtime": "1시간",
+    "priceText": "전석 10,000원",
+    "free": false,
+    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF292885_260604_140614.jpg",
+    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF292885",
+    "summary": "어린이 마술쇼 [진주]은(는) 경상대학교 칠암캠퍼스에서 진행되는 서커스/마술 행사입니다.",
+    "status": "예정",
+    "conflict": false,
+    "recommendation": {
+      "subjectTags": [
+        "국어/논술",
+        "예술"
+      ],
+      "useCaseTags": [
+        "아동공연",
+        "주말관람",
+        "원본확인"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 86,
+      "reasons": [
+        "전체 관람가 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
+        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
+      ],
+      "evidence": [
+        "유형: 공연",
+        "분야: 서커스/마술",
+        "관람연령: 전체 관람가",
+        "학생대상 후보: 초등",
+        "지역: 확인필요",
+        "시작까지 -48일"
+      ],
+      "warnings": [
+        "장소 또는 지역 확인 필요"
+      ],
+      "programIdeas": [
+        "관람 전 배경지식 10분 브리핑",
+        "관람 후 한 문단 감상 기록",
+        "학부모 주말 문화체험 안내"
+      ]
+    }
+  },
+  {
+    "id": "kopis-PF294360",
+    "source": "kopis",
+    "title": "어린이 서커스쇼 [남양주]",
+    "eventType": "공연",
+    "category": "서커스/마술",
+    "grades": [
+      "초등"
+    ],
+    "ageText": "24개월 이상",
+    "region": "확인필요",
+    "venueName": "남양주 어린이비전센터",
+    "venueAddress": null,
+    "startDate": "2026-07-18",
+    "endDate": "2026-07-18",
+    "dday": -48,
+    "runtime": "1시간",
+    "priceText": "현장판매 35,000원, 사전예약 10,000원",
+    "free": false,
+    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF294360_260622_161632.png",
+    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF294360",
+    "summary": "어린이 서커스쇼 [남양주]은(는) 남양주 어린이비전센터에서 진행되는 서커스/마술 행사입니다.",
+    "status": "예정",
+    "conflict": false,
+    "recommendation": {
+      "subjectTags": [
+        "국어/논술",
+        "예술"
+      ],
+      "useCaseTags": [
+        "아동공연",
+        "주말관람",
+        "원본확인"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 86,
+      "reasons": [
+        "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
+        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
+      ],
+      "evidence": [
+        "유형: 공연",
+        "분야: 서커스/마술",
+        "관람연령: 24개월 이상",
+        "학생대상 후보: 초등",
+        "지역: 확인필요",
+        "시작까지 -48일"
+      ],
+      "warnings": [
+        "장소 또는 지역 확인 필요"
+      ],
+      "programIdeas": [
+        "관람 전 배경지식 10분 브리핑",
+        "관람 후 한 문단 감상 기록",
+        "학부모 주말 문화체험 안내"
+      ]
+    }
+  },
+  {
+    "id": "kopis-PF291990",
+    "source": "kopis",
+    "title": "어린이 캣프렌즈 [부산]",
+    "eventType": "공연",
+    "category": "뮤지컬",
+    "grades": [
+      "초등"
+    ],
+    "ageText": "24개월 이상",
+    "region": "확인필요",
+    "venueName": "신세계 문화홀 [센텀시티]",
+    "venueAddress": null,
+    "startDate": "2026-07-18",
+    "endDate": "2026-07-19",
+    "dday": -47,
+    "runtime": "55분",
+    "priceText": "전석 40,000원",
+    "free": false,
+    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF291990_260521_142711.png",
+    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF291990",
+    "summary": "어린이 캣프렌즈 [부산]은(는) 신세계 문화홀 [센텀시티]에서 진행되는 뮤지컬 행사입니다.",
+    "status": "예정",
+    "conflict": false,
+    "recommendation": {
+      "subjectTags": [
+        "국어/논술",
+        "예술"
+      ],
+      "useCaseTags": [
+        "아동공연",
+        "주말관람",
+        "원본확인"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 86,
+      "reasons": [
+        "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
+        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
+      ],
+      "evidence": [
+        "유형: 공연",
+        "분야: 뮤지컬",
+        "관람연령: 24개월 이상",
+        "학생대상 후보: 초등",
+        "지역: 확인필요",
+        "시작까지 -47일"
+      ],
+      "warnings": [
+        "장소 또는 지역 확인 필요"
+      ],
+      "programIdeas": [
+        "관람 전 배경지식 10분 브리핑",
+        "관람 후 한 문단 감상 기록",
+        "학부모 주말 문화체험 안내"
+      ]
+    }
+  },
+  {
+    "id": "kopis-PF291905",
+    "source": "kopis",
+    "title": "엄마까투리: 유치원도, 도시도 처음이야 [경주]",
+    "eventType": "공연",
+    "category": "뮤지컬",
+    "grades": [
+      "초등"
+    ],
+    "ageText": "전체 관람가",
+    "region": "확인필요",
+    "venueName": "경주예술의전당",
+    "venueAddress": null,
+    "startDate": "2026-07-18",
+    "endDate": "2026-07-18",
+    "dday": -48,
+    "runtime": "1시간 10분",
+    "priceText": "사전예약 35,000원",
+    "free": false,
+    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF291905_260521_100625.jpg",
+    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF291905",
+    "summary": "엄마까투리: 유치원도, 도시도 처음이야 [경주]은(는) 경주예술의전당에서 진행되는 뮤지컬 행사입니다.",
+    "status": "예정",
+    "conflict": false,
+    "recommendation": {
+      "subjectTags": [
+        "국어/논술",
+        "예술"
+      ],
+      "useCaseTags": [
+        "아동공연",
+        "주말관람",
+        "원본확인"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 86,
+      "reasons": [
+        "전체 관람가 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
+        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
+      ],
+      "evidence": [
+        "유형: 공연",
+        "분야: 뮤지컬",
+        "관람연령: 전체 관람가",
+        "학생대상 후보: 초등",
+        "지역: 확인필요",
+        "시작까지 -48일"
+      ],
+      "warnings": [
+        "장소 또는 지역 확인 필요"
+      ],
+      "programIdeas": [
+        "관람 전 배경지식 10분 브리핑",
+        "관람 후 한 문단 감상 기록",
+        "학부모 주말 문화체험 안내"
+      ]
+    }
+  },
+  {
+    "id": "kopis-PF292770",
+    "source": "kopis",
+    "title": "엉뚱발랄 콩순이: 슈퍼콘서트 [대구]",
+    "eventType": "공연",
+    "category": "뮤지컬",
+    "grades": [
+      "초등"
+    ],
+    "ageText": "전체 관람가",
+    "region": "대구",
+    "venueName": "대구어린이회관 꾀꼬리극장",
+    "venueAddress": null,
+    "startDate": "2026-07-18",
+    "endDate": "2026-07-19",
+    "dday": -47,
+    "runtime": "1시간 10분",
+    "priceText": "R석 66,000원",
+    "free": false,
+    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF292770_260602_113959.gif",
+    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF292770",
+    "summary": "엉뚱발랄 콩순이: 슈퍼콘서트 [대구]은(는) 대구어린이회관 꾀꼬리극장에서 진행되는 뮤지컬 행사입니다.",
+    "status": "예정",
+    "conflict": false,
+    "recommendation": {
+      "subjectTags": [
+        "국어/논술",
+        "예술"
+      ],
+      "useCaseTags": [
+        "아동공연",
+        "주말관람",
+        "원본확인"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 100,
+      "reasons": [
+        "전체 관람가 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
+        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
+      ],
+      "evidence": [
+        "유형: 공연",
+        "분야: 뮤지컬",
+        "관람연령: 전체 관람가",
+        "학생대상 후보: 초등",
+        "지역: 대구",
+        "시작까지 -47일"
+      ],
+      "warnings": [],
+      "programIdeas": [
+        "관람 전 배경지식 10분 브리핑",
+        "관람 후 한 문단 감상 기록",
+        "학부모 주말 문화체험 안내"
+      ]
+    }
+  },
+  {
+    "id": "kopis-PF291028",
+    "source": "kopis",
+    "title": "우주매직쇼 [안산]",
+    "eventType": "공연",
+    "category": "서커스/마술",
+    "grades": [
+      "초등"
+    ],
+    "ageText": "24개월 이상",
+    "region": "확인필요",
+    "venueName": "보노마루",
+    "venueAddress": null,
+    "startDate": "2026-07-18",
+    "endDate": "2026-08-16",
+    "dday": -19,
+    "runtime": "1시간",
+    "priceText": "전석 40,000원",
+    "free": false,
+    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF291028_260511_111502.png",
+    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF291028",
+    "summary": "우주매직쇼 [안산]은(는) 보노마루에서 진행되는 서커스/마술 행사입니다.",
+    "status": "예정",
+    "conflict": false,
+    "recommendation": {
+      "subjectTags": [
+        "국어/논술",
+        "예술"
+      ],
+      "useCaseTags": [
+        "아동공연",
+        "주말관람",
+        "원본확인"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 86,
+      "reasons": [
+        "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
+        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
+      ],
+      "evidence": [
+        "유형: 공연",
+        "분야: 서커스/마술",
+        "관람연령: 24개월 이상",
+        "학생대상 후보: 초등",
+        "지역: 확인필요",
+        "시작까지 -19일"
+      ],
+      "warnings": [
+        "장소 또는 지역 확인 필요"
+      ],
+      "programIdeas": [
+        "관람 전 배경지식 10분 브리핑",
+        "관람 후 한 문단 감상 기록",
+        "학부모 주말 문화체험 안내"
+      ]
+    }
+  },
+  {
+    "id": "kopis-PF292409",
+    "source": "kopis",
+    "title": "인어공주 [고양]",
+    "eventType": "공연",
+    "category": "뮤지컬",
+    "grades": [
+      "초등"
+    ],
+    "ageText": "24개월 이상",
+    "region": "확인필요",
+    "venueName": "고양어울림누리",
+    "venueAddress": null,
+    "startDate": "2026-07-18",
+    "endDate": "2026-07-18",
+    "dday": -48,
+    "runtime": "1시간",
+    "priceText": "R석 35,000원, 고양나눔특별할인석 9,500원",
+    "free": false,
+    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF292409_260528_112337.gif",
+    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF292409",
+    "summary": "인어공주 [고양]은(는) 고양어울림누리에서 진행되는 뮤지컬 행사입니다.",
+    "status": "예정",
+    "conflict": false,
+    "recommendation": {
+      "subjectTags": [
+        "국어/논술",
+        "예술"
+      ],
+      "useCaseTags": [
+        "아동공연",
+        "주말관람",
+        "원본확인"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 86,
+      "reasons": [
+        "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
+        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
+      ],
+      "evidence": [
+        "유형: 공연",
+        "분야: 뮤지컬",
+        "관람연령: 24개월 이상",
+        "학생대상 후보: 초등",
+        "지역: 확인필요",
+        "시작까지 -48일"
+      ],
+      "warnings": [
+        "장소 또는 지역 확인 필요"
+      ],
+      "programIdeas": [
+        "관람 전 배경지식 10분 브리핑",
+        "관람 후 한 문단 감상 기록",
+        "학부모 주말 문화체험 안내"
+      ]
+    }
+  },
+  {
+    "id": "kopis-PF291765",
+    "source": "kopis",
+    "title": "인어공주 [인천]",
+    "eventType": "공연",
+    "category": "뮤지컬",
+    "grades": [
+      "초등"
+    ],
+    "ageText": "24개월 이상",
+    "region": "확인필요",
+    "venueName": "부평아트센터",
+    "venueAddress": null,
+    "startDate": "2026-07-18",
+    "endDate": "2026-07-19",
+    "dday": -47,
+    "runtime": "1시간",
+    "priceText": "전석 40,000원",
+    "free": false,
+    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF291765_260519_142553.gif",
+    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF291765",
+    "summary": "인어공주 [인천]은(는) 부평아트센터에서 진행되는 뮤지컬 행사입니다.",
+    "status": "예정",
+    "conflict": false,
+    "recommendation": {
+      "subjectTags": [
+        "국어/논술",
+        "예술"
+      ],
+      "useCaseTags": [
+        "아동공연",
+        "주말관람",
+        "원본확인"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 86,
+      "reasons": [
+        "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
+        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
+      ],
+      "evidence": [
+        "유형: 공연",
+        "분야: 뮤지컬",
+        "관람연령: 24개월 이상",
+        "학생대상 후보: 초등",
+        "지역: 확인필요",
+        "시작까지 -47일"
+      ],
+      "warnings": [
+        "장소 또는 지역 확인 필요"
+      ],
+      "programIdeas": [
+        "관람 전 배경지식 10분 브리핑",
+        "관람 후 한 문단 감상 기록",
+        "학부모 주말 문화체험 안내"
+      ]
+    }
+  },
+  {
+    "id": "kopis-PF291052",
+    "source": "kopis",
+    "title": "인어공주 [제주 서귀포]",
+    "eventType": "공연",
+    "category": "뮤지컬",
+    "grades": [
+      "초등"
+    ],
+    "ageText": "24개월 이상",
+    "region": "확인필요",
+    "venueName": "서귀포예술의전당",
+    "venueAddress": null,
+    "startDate": "2026-07-18",
+    "endDate": "2026-07-18",
+    "dday": -48,
+    "runtime": "1시간",
+    "priceText": "전석 40,000원",
+    "free": false,
+    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF291052_260511_124755.jpg",
+    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF291052",
+    "summary": "인어공주 [제주 서귀포]은(는) 서귀포예술의전당에서 진행되는 뮤지컬 행사입니다.",
+    "status": "예정",
+    "conflict": false,
+    "recommendation": {
+      "subjectTags": [
+        "국어/논술",
+        "예술"
+      ],
+      "useCaseTags": [
+        "아동공연",
+        "주말관람",
+        "원본확인"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 86,
+      "reasons": [
+        "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
+        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
+      ],
+      "evidence": [
+        "유형: 공연",
+        "분야: 뮤지컬",
+        "관람연령: 24개월 이상",
+        "학생대상 후보: 초등",
+        "지역: 확인필요",
+        "시작까지 -48일"
+      ],
+      "warnings": [
+        "장소 또는 지역 확인 필요"
+      ],
+      "programIdeas": [
+        "관람 전 배경지식 10분 브리핑",
+        "관람 후 한 문단 감상 기록",
+        "학부모 주말 문화체험 안내"
+      ]
+    }
+  },
+  {
+    "id": "kopis-PF291791",
+    "source": "kopis",
+    "title": "잠자는 숲속의 공주 [수원]",
+    "eventType": "공연",
+    "category": "뮤지컬",
+    "grades": [
+      "초등"
+    ],
+    "ageText": "24개월 이상",
+    "region": "확인필요",
+    "venueName": "장안구민회관 한누리아트홀",
+    "venueAddress": null,
+    "startDate": "2026-07-18",
+    "endDate": "2026-07-18",
+    "dday": -48,
+    "runtime": "1시간",
+    "priceText": "전석 40,000원",
+    "free": false,
+    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF291791_260520_102126.gif",
+    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF291791",
+    "summary": "잠자는 숲속의 공주 [수원]은(는) 장안구민회관 한누리아트홀에서 진행되는 뮤지컬 행사입니다.",
+    "status": "예정",
+    "conflict": false,
+    "recommendation": {
+      "subjectTags": [
+        "국어/논술",
+        "예술"
+      ],
+      "useCaseTags": [
+        "아동공연",
+        "주말관람",
+        "원본확인"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 86,
+      "reasons": [
+        "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
+        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
+      ],
+      "evidence": [
+        "유형: 공연",
+        "분야: 뮤지컬",
+        "관람연령: 24개월 이상",
+        "학생대상 후보: 초등",
+        "지역: 확인필요",
+        "시작까지 -48일"
+      ],
+      "warnings": [
+        "장소 또는 지역 확인 필요"
+      ],
+      "programIdeas": [
+        "관람 전 배경지식 10분 브리핑",
+        "관람 후 한 문단 감상 기록",
+        "학부모 주말 문화체험 안내"
+      ]
+    }
+  },
+  {
+    "id": "kopis-PF290959",
+    "source": "kopis",
+    "title": "정글북 [부산]",
+    "eventType": "공연",
+    "category": "뮤지컬",
+    "grades": [
+      "초등"
+    ],
+    "ageText": "전체 관람가",
+    "region": "부산",
+    "venueName": "부산북구문화예술회관 (구.북구문화빙상센터)",
+    "venueAddress": null,
+    "startDate": "2026-07-18",
+    "endDate": "2026-07-18",
+    "dday": -48,
+    "runtime": "50분",
+    "priceText": "사전예약 9,900원",
+    "free": false,
+    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF290959_260508_134731.jpg",
+    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF290959",
+    "summary": "정글북 [부산]은(는) 부산북구문화예술회관 (구.북구문화빙상센터)에서 진행되는 뮤지컬 행사입니다.",
+    "status": "예정",
+    "conflict": false,
+    "recommendation": {
+      "subjectTags": [
+        "국어/논술",
+        "예술"
+      ],
+      "useCaseTags": [
+        "아동공연",
+        "주말관람",
+        "원본확인"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 100,
+      "reasons": [
+        "전체 관람가 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
+        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
+      ],
+      "evidence": [
+        "유형: 공연",
+        "분야: 뮤지컬",
+        "관람연령: 전체 관람가",
+        "학생대상 후보: 초등",
+        "지역: 부산",
+        "시작까지 -48일"
+      ],
+      "warnings": [],
+      "programIdeas": [
+        "관람 전 배경지식 10분 브리핑",
+        "관람 후 한 문단 감상 기록",
+        "학부모 주말 문화체험 안내"
+      ]
+    }
+  },
+  {
+    "id": "kopis-PF294341",
+    "source": "kopis",
+    "title": "제24회 경기인형극제, 망태할아버지가 온다 [수원]",
+    "eventType": "공연",
+    "category": "연극",
+    "grades": [
+      "초등"
+    ],
+    "ageText": "만 2세 이상",
+    "region": "경기",
+    "venueName": "(재)경기문화재단",
+    "venueAddress": null,
+    "startDate": "2026-07-18",
+    "endDate": "2026-07-18",
+    "dday": -48,
+    "runtime": "50분",
+    "priceText": "전석 20,000원",
+    "free": false,
+    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF294341_260622_152946.jpg",
+    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF294341",
+    "summary": "제24회 경기인형극제, 망태할아버지가 온다 [수원]은(는) (재)경기문화재단에서 진행되는 연극 행사입니다.",
+    "status": "예정",
+    "conflict": false,
+    "recommendation": {
+      "subjectTags": [
+        "국어/논술",
+        "예술"
+      ],
+      "useCaseTags": [
+        "아동공연",
+        "주말관람",
+        "원본확인"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 100,
+      "reasons": [
+        "만 2세 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
+        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
+      ],
+      "evidence": [
+        "유형: 공연",
+        "분야: 연극",
+        "관람연령: 만 2세 이상",
+        "학생대상 후보: 초등",
+        "지역: 경기",
+        "시작까지 -48일"
+      ],
+      "warnings": [],
+      "programIdeas": [
+        "관람 전 배경지식 10분 브리핑",
+        "관람 후 한 문단 감상 기록",
+        "학부모 주말 문화체험 안내"
+      ]
+    }
+  },
+  {
+    "id": "kopis-PF293456",
+    "source": "kopis",
+    "title": "창작오페라 collection No.3, 보칼리제 오페라: 달사람 [인천]",
+    "eventType": "공연",
+    "category": "서양음악(클래식)",
+    "grades": [
+      "초등"
+    ],
+    "ageText": "36개월 이상",
+    "region": "확인필요",
+    "venueName": "부평아트센터",
+    "venueAddress": null,
+    "startDate": "2026-07-18",
+    "endDate": "2026-07-18",
+    "dday": -48,
+    "runtime": "1시간",
+    "priceText": "전석무료",
+    "free": true,
+    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF293456_260611_142835.jpg",
+    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF293456",
+    "summary": "창작오페라 collection No.3, 보칼리제 오페라: 달사람 [인천]은(는) 부평아트센터에서 진행되는 서양음악(클래식) 행사입니다.",
+    "status": "예정",
+    "conflict": false,
+    "recommendation": {
+      "subjectTags": [
+        "국어/논술",
+        "예술"
+      ],
+      "useCaseTags": [
+        "아동공연",
+        "주말관람",
+        "원본확인"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 86,
+      "reasons": [
+        "36개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
+        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
+      ],
+      "evidence": [
+        "유형: 공연",
+        "분야: 서양음악(클래식)",
+        "관람연령: 36개월 이상",
+        "학생대상 후보: 초등",
+        "지역: 확인필요",
+        "시작까지 -48일"
+      ],
+      "warnings": [
+        "장소 또는 지역 확인 필요"
+      ],
+      "programIdeas": [
+        "관람 전 배경지식 10분 브리핑",
+        "관람 후 한 문단 감상 기록",
+        "학부모 주말 문화체험 안내"
+      ]
+    }
+  },
+  {
+    "id": "kopis-PF283670",
+    "source": "kopis",
+    "title": "키즈 마티네 콘서트: 요들요들 알프스 소년 [김포] (7월)",
+    "eventType": "공연",
+    "category": "서양음악(클래식)",
+    "grades": [
+      "초등"
+    ],
+    "ageText": "36개월 이상",
+    "region": "확인필요",
+    "venueName": "김포아트홀",
+    "venueAddress": null,
+    "startDate": "2026-07-18",
+    "endDate": "2026-07-18",
+    "dday": -48,
+    "runtime": "1시간",
+    "priceText": "전석 10,000원",
+    "free": false,
+    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF283670_260122_134512.gif",
+    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF283670",
+    "summary": "키즈 마티네 콘서트: 요들요들 알프스 소년 [김포] (7월)은(는) 김포아트홀에서 진행되는 서양음악(클래식) 행사입니다.",
+    "status": "예정",
+    "conflict": false,
+    "recommendation": {
+      "subjectTags": [
+        "국어/논술",
+        "예술"
+      ],
+      "useCaseTags": [
+        "아동공연",
+        "주말관람",
+        "원본확인"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 86,
+      "reasons": [
+        "36개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
+        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
+      ],
+      "evidence": [
+        "유형: 공연",
+        "분야: 서양음악(클래식)",
+        "관람연령: 36개월 이상",
+        "학생대상 후보: 초등",
+        "지역: 확인필요",
+        "시작까지 -48일"
+      ],
+      "warnings": [
+        "장소 또는 지역 확인 필요"
+      ],
+      "programIdeas": [
+        "관람 전 배경지식 10분 브리핑",
+        "관람 후 한 문단 감상 기록",
+        "학부모 주말 문화체험 안내"
+      ]
+    }
+  },
+  {
+    "id": "kopis-PF292938",
+    "source": "kopis",
+    "title": "키즈 바로크: 텔레만 아저씨의 이야기 보따리 [인천]",
+    "eventType": "공연",
+    "category": "서양음악(클래식)",
+    "grades": [
+      "초등"
+    ],
+    "ageText": "48개월 이상",
+    "region": "확인필요",
+    "venueName": "제물포구문화체육센터(구. 동구문화체육센터)",
+    "venueAddress": null,
+    "startDate": "2026-07-18",
+    "endDate": "2026-07-18",
+    "dday": -48,
+    "runtime": "1시간 10분",
+    "priceText": "전석 10,000원",
+    "free": false,
+    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF292938_260605_100737.jpg",
+    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF292938",
+    "summary": "키즈 바로크: 텔레만 아저씨의 이야기 보따리 [인천]은(는) 제물포구문화체육센터(구. 동구문화체육센터)에서 진행되는 서양음악(클래식) 행사입니다.",
+    "status": "예정",
+    "conflict": false,
+    "recommendation": {
+      "subjectTags": [
+        "국어/논술",
+        "예술"
+      ],
+      "useCaseTags": [
+        "아동공연",
+        "주말관람",
+        "원본확인"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 86,
+      "reasons": [
+        "48개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
+        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
+      ],
+      "evidence": [
+        "유형: 공연",
+        "분야: 서양음악(클래식)",
+        "관람연령: 48개월 이상",
+        "학생대상 후보: 초등",
+        "지역: 확인필요",
+        "시작까지 -48일"
+      ],
+      "warnings": [
+        "장소 또는 지역 확인 필요"
+      ],
+      "programIdeas": [
+        "관람 전 배경지식 10분 브리핑",
+        "관람 후 한 문단 감상 기록",
+        "학부모 주말 문화체험 안내"
+      ]
+    }
+  },
+  {
+    "id": "kopis-PF290813",
+    "source": "kopis",
+    "title": "포켓다이노 [청주]",
+    "eventType": "공연",
+    "category": "뮤지컬",
+    "grades": [
+      "초등"
+    ],
+    "ageText": "24개월 이상",
+    "region": "확인필요",
+    "venueName": "청주아트홀 (구. 청주시민회관)",
+    "venueAddress": null,
+    "startDate": "2026-07-18",
+    "endDate": "2026-07-18",
+    "dday": -48,
+    "runtime": "1시간",
+    "priceText": "전석 40,000원",
+    "free": false,
+    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF290813_260507_131924.jpg",
+    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF290813",
+    "summary": "포켓다이노 [청주]은(는) 청주아트홀 (구. 청주시민회관)에서 진행되는 뮤지컬 행사입니다.",
+    "status": "예정",
+    "conflict": false,
+    "recommendation": {
+      "subjectTags": [
+        "국어/논술",
+        "예술"
+      ],
+      "useCaseTags": [
+        "아동공연",
+        "주말관람",
+        "원본확인"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 86,
+      "reasons": [
+        "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
+        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
+      ],
+      "evidence": [
+        "유형: 공연",
+        "분야: 뮤지컬",
+        "관람연령: 24개월 이상",
+        "학생대상 후보: 초등",
+        "지역: 확인필요",
+        "시작까지 -48일"
+      ],
+      "warnings": [
+        "장소 또는 지역 확인 필요"
+      ],
+      "programIdeas": [
+        "관람 전 배경지식 10분 브리핑",
+        "관람 후 한 문단 감상 기록",
+        "학부모 주말 문화체험 안내"
+      ]
+    }
+  },
+  {
+    "id": "kopis-PF291818",
+    "source": "kopis",
+    "title": "프린세스 공주 [인천]",
+    "eventType": "공연",
+    "category": "뮤지컬",
+    "grades": [
+      "초등"
+    ],
+    "ageText": "24개월 이상",
+    "region": "인천",
+    "venueName": "인천문화예술회관",
+    "venueAddress": null,
+    "startDate": "2026-07-18",
+    "endDate": "2026-07-19",
+    "dday": -47,
+    "runtime": "1시간",
+    "priceText": "전석 40,000원",
+    "free": false,
+    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF291818_260520_110843.gif",
+    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF291818",
+    "summary": "프린세스 공주 [인천]은(는) 인천문화예술회관에서 진행되는 뮤지컬 행사입니다.",
+    "status": "예정",
+    "conflict": false,
+    "recommendation": {
+      "subjectTags": [
+        "국어/논술",
+        "예술"
+      ],
+      "useCaseTags": [
+        "아동공연",
+        "주말관람",
+        "원본확인"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 100,
+      "reasons": [
+        "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
+        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
+      ],
+      "evidence": [
+        "유형: 공연",
+        "분야: 뮤지컬",
+        "관람연령: 24개월 이상",
+        "학생대상 후보: 초등",
+        "지역: 인천",
+        "시작까지 -47일"
+      ],
+      "warnings": [],
+      "programIdeas": [
+        "관람 전 배경지식 10분 브리핑",
+        "관람 후 한 문단 감상 기록",
+        "학부모 주말 문화체험 안내"
+      ]
+    }
+  },
+  {
+    "id": "kopis-PF291836",
+    "source": "kopis",
+    "title": "프린세스 캐치! 티니핑 [수원]",
+    "eventType": "공연",
+    "category": "뮤지컬",
+    "grades": [
+      "초등"
+    ],
+    "ageText": "24개월 이상",
+    "region": "경기",
+    "venueName": "경기아트센터(구. 경기도문화의전당)",
+    "venueAddress": null,
+    "startDate": "2026-07-18",
+    "endDate": "2026-07-19",
+    "dday": -47,
+    "runtime": "1시간 10분",
+    "priceText": "R석 70,000원, S석 60,000원, 만원의 행복석 10,000원",
+    "free": false,
+    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF291836_260520_130303.gif",
+    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF291836",
+    "summary": "프린세스 캐치! 티니핑 [수원]은(는) 경기아트센터(구. 경기도문화의전당)에서 진행되는 뮤지컬 행사입니다.",
+    "status": "예정",
+    "conflict": false,
+    "recommendation": {
+      "subjectTags": [
+        "국어/논술",
+        "예술"
+      ],
+      "useCaseTags": [
+        "아동공연",
+        "주말관람",
+        "원본확인"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 100,
+      "reasons": [
+        "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
+        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
+      ],
+      "evidence": [
+        "유형: 공연",
+        "분야: 뮤지컬",
+        "관람연령: 24개월 이상",
+        "학생대상 후보: 초등",
+        "지역: 경기",
+        "시작까지 -47일"
+      ],
+      "warnings": [],
+      "programIdeas": [
+        "관람 전 배경지식 10분 브리핑",
+        "관람 후 한 문단 감상 기록",
+        "학부모 주말 문화체험 안내"
+      ]
+    }
+  },
+  {
+    "id": "kopis-PF293639",
+    "source": "kopis",
+    "title": "피노키오야 노올자~! [서울 구로]",
+    "eventType": "공연",
+    "category": "뮤지컬",
+    "grades": [
+      "초등"
+    ],
+    "ageText": "36개월 이상",
+    "region": "확인필요",
+    "venueName": "꿈나무극장",
+    "venueAddress": null,
+    "startDate": "2026-07-18",
+    "endDate": "2026-07-18",
+    "dday": -48,
+    "runtime": "1시간",
+    "priceText": "전석 10,000원",
+    "free": false,
+    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF293639_260612_174133.gif",
+    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF293639",
+    "summary": "피노키오야 노올자~! [서울 구로]은(는) 꿈나무극장에서 진행되는 뮤지컬 행사입니다.",
+    "status": "예정",
+    "conflict": false,
+    "recommendation": {
+      "subjectTags": [
+        "국어/논술",
+        "예술"
+      ],
+      "useCaseTags": [
+        "아동공연",
+        "주말관람",
+        "원본확인"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 86,
+      "reasons": [
+        "36개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
+        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
+      ],
+      "evidence": [
+        "유형: 공연",
+        "분야: 뮤지컬",
+        "관람연령: 36개월 이상",
+        "학생대상 후보: 초등",
+        "지역: 확인필요",
+        "시작까지 -48일"
+      ],
+      "warnings": [
+        "장소 또는 지역 확인 필요"
+      ],
+      "programIdeas": [
+        "관람 전 배경지식 10분 브리핑",
+        "관람 후 한 문단 감상 기록",
+        "학부모 주말 문화체험 안내"
+      ]
+    }
+  },
+  {
+    "id": "kopis-PF293741",
+    "source": "kopis",
+    "title": "피터팬 [서울 구로]",
+    "eventType": "공연",
+    "category": "뮤지컬",
+    "grades": [
+      "초등"
+    ],
+    "ageText": "24개월 이상",
+    "region": "확인필요",
+    "venueName": "구로구민회관",
+    "venueAddress": null,
+    "startDate": "2026-07-18",
+    "endDate": "2026-07-18",
+    "dday": -48,
+    "runtime": "1시간",
+    "priceText": "사전예약 12,900원",
+    "free": false,
+    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF293741_260615_142504.jpg",
+    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF293741",
+    "summary": "피터팬 [서울 구로]은(는) 구로구민회관에서 진행되는 뮤지컬 행사입니다.",
+    "status": "예정",
+    "conflict": false,
+    "recommendation": {
+      "subjectTags": [
+        "국어/논술",
+        "예술"
+      ],
+      "useCaseTags": [
+        "아동공연",
+        "주말관람",
+        "원본확인"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 86,
+      "reasons": [
+        "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
+        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
+      ],
+      "evidence": [
+        "유형: 공연",
+        "분야: 뮤지컬",
+        "관람연령: 24개월 이상",
+        "학생대상 후보: 초등",
+        "지역: 확인필요",
+        "시작까지 -48일"
+      ],
+      "warnings": [
+        "장소 또는 지역 확인 필요"
+      ],
+      "programIdeas": [
+        "관람 전 배경지식 10분 브리핑",
+        "관람 후 한 문단 감상 기록",
+        "학부모 주말 문화체험 안내"
+      ]
+    }
+  },
+  {
+    "id": "kopis-PF290952",
+    "source": "kopis",
+    "title": "피터팬 [화성]",
+    "eventType": "공연",
+    "category": "뮤지컬",
+    "grades": [
+      "초등"
+    ],
+    "ageText": "전체 관람가",
+    "region": "확인필요",
+    "venueName": "화성시어린이문화센터",
+    "venueAddress": null,
+    "startDate": "2026-07-18",
+    "endDate": "2026-07-18",
+    "dday": -48,
+    "runtime": "50분",
+    "priceText": "사전예약(특가 판매석) 9,900원, 사전예약(1인권 판매석) 14,900원",
+    "free": false,
+    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF290952_260508_134258.jpg",
+    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF290952",
+    "summary": "피터팬 [화성]은(는) 화성시어린이문화센터에서 진행되는 뮤지컬 행사입니다.",
+    "status": "예정",
+    "conflict": false,
+    "recommendation": {
+      "subjectTags": [
+        "국어/논술",
+        "예술"
+      ],
+      "useCaseTags": [
+        "아동공연",
+        "주말관람",
+        "원본확인"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 86,
+      "reasons": [
+        "전체 관람가 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
+        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
+      ],
+      "evidence": [
+        "유형: 공연",
+        "분야: 뮤지컬",
+        "관람연령: 전체 관람가",
+        "학생대상 후보: 초등",
+        "지역: 확인필요",
+        "시작까지 -48일"
+      ],
+      "warnings": [
+        "장소 또는 지역 확인 필요"
+      ],
+      "programIdeas": [
+        "관람 전 배경지식 10분 브리핑",
+        "관람 후 한 문단 감상 기록",
+        "학부모 주말 문화체험 안내"
+      ]
+    }
+  },
+  {
+    "id": "kopis-PF292383",
+    "source": "kopis",
+    "title": "겨울왕국: 겨울이야기 [대전]",
+    "eventType": "공연",
+    "category": "뮤지컬",
+    "grades": [
+      "초등"
+    ],
+    "ageText": "24개월 이상",
+    "region": "대전",
+    "venueName": "대전평송청소년문화센터",
+    "venueAddress": null,
+    "startDate": "2026-07-19",
+    "endDate": "2026-07-19",
+    "dday": -47,
+    "runtime": "1시간",
+    "priceText": "현장판매 40,000원, 사전예약 10,000원",
+    "free": false,
+    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF292383_260528_102844.jpg",
+    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF292383",
+    "summary": "겨울왕국: 겨울이야기 [대전]은(는) 대전평송청소년문화센터에서 진행되는 뮤지컬 행사입니다.",
+    "status": "예정",
+    "conflict": false,
+    "recommendation": {
+      "subjectTags": [
+        "국어/논술",
+        "예술"
+      ],
+      "useCaseTags": [
+        "아동공연",
+        "주말관람",
+        "원본확인"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 100,
+      "reasons": [
+        "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
+        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
+      ],
+      "evidence": [
+        "유형: 공연",
+        "분야: 뮤지컬",
+        "관람연령: 24개월 이상",
+        "학생대상 후보: 초등",
+        "지역: 대전",
+        "시작까지 -47일"
+      ],
+      "warnings": [],
+      "programIdeas": [
+        "관람 전 배경지식 10분 브리핑",
+        "관람 후 한 문단 감상 기록",
+        "학부모 주말 문화체험 안내"
+      ]
+    }
+  },
+  {
+    "id": "kopis-PF293064",
+    "source": "kopis",
+    "title": "미녀와 야수 [시흥]",
+    "eventType": "공연",
+    "category": "뮤지컬",
+    "grades": [
+      "초등"
+    ],
+    "ageText": "전체 관람가",
+    "region": "확인필요",
+    "venueName": "시흥ABC행복학습센터",
+    "venueAddress": null,
+    "startDate": "2026-07-19",
+    "endDate": "2026-07-19",
+    "dday": -47,
+    "runtime": "50분",
+    "priceText": "네이버 1인권 14,900원, 사전예약(특가) 9,900원",
+    "free": false,
+    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF293064_260608_133037.jpg",
+    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF293064",
+    "summary": "미녀와 야수 [시흥]은(는) 시흥ABC행복학습센터에서 진행되는 뮤지컬 행사입니다.",
+    "status": "예정",
+    "conflict": false,
+    "recommendation": {
+      "subjectTags": [
+        "국어/논술",
+        "예술"
+      ],
+      "useCaseTags": [
+        "아동공연",
+        "주말관람",
+        "원본확인"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 86,
+      "reasons": [
+        "전체 관람가 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
+        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
+      ],
+      "evidence": [
+        "유형: 공연",
+        "분야: 뮤지컬",
+        "관람연령: 전체 관람가",
+        "학생대상 후보: 초등",
+        "지역: 확인필요",
+        "시작까지 -47일"
+      ],
+      "warnings": [
+        "장소 또는 지역 확인 필요"
+      ],
+      "programIdeas": [
+        "관람 전 배경지식 10분 브리핑",
+        "관람 후 한 문단 감상 기록",
+        "학부모 주말 문화체험 안내"
+      ]
+    }
+  },
+  {
+    "id": "kopis-PF291906",
+    "source": "kopis",
+    "title": "백설공주 [보령]",
+    "eventType": "공연",
+    "category": "뮤지컬",
+    "grades": [
+      "초등"
+    ],
+    "ageText": "전체 관람가",
+    "region": "확인필요",
+    "venueName": "보령문화의전당",
+    "venueAddress": null,
+    "startDate": "2026-07-19",
+    "endDate": "2026-07-19",
+    "dday": -47,
+    "runtime": "50분",
+    "priceText": "현장판매 35,000원, 사전예약 9,900원",
+    "free": false,
+    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF291906_260521_100625.jpg",
+    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF291906",
+    "summary": "백설공주 [보령]은(는) 보령문화의전당에서 진행되는 뮤지컬 행사입니다.",
+    "status": "예정",
+    "conflict": false,
+    "recommendation": {
+      "subjectTags": [
+        "국어/논술",
+        "예술"
+      ],
+      "useCaseTags": [
+        "아동공연",
+        "주말관람",
+        "원본확인"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 86,
+      "reasons": [
+        "전체 관람가 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
+        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
+      ],
+      "evidence": [
+        "유형: 공연",
+        "분야: 뮤지컬",
+        "관람연령: 전체 관람가",
+        "학생대상 후보: 초등",
+        "지역: 확인필요",
+        "시작까지 -47일"
+      ],
+      "warnings": [
+        "장소 또는 지역 확인 필요"
+      ],
+      "programIdeas": [
+        "관람 전 배경지식 10분 브리핑",
+        "관람 후 한 문단 감상 기록",
+        "학부모 주말 문화체험 안내"
+      ]
+    }
+  },
+  {
+    "id": "kopis-PF294141",
+    "source": "kopis",
+    "title": "서커스디랩 기획공연: 더블 빌 [인천]",
+    "eventType": "공연",
+    "category": "서커스/마술",
+    "grades": [
+      "초등"
+    ],
+    "ageText": "만 5세 이상",
+    "region": "인천",
+    "venueName": "인천아트플랫폼",
+    "venueAddress": null,
+    "startDate": "2026-07-19",
+    "endDate": "2026-07-19",
+    "dday": -47,
+    "runtime": "1시간",
+    "priceText": "전석 10,000원",
+    "free": false,
+    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF294141_260619_134402.jpg",
+    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF294141",
+    "summary": "서커스디랩 기획공연: 더블 빌 [인천]은(는) 인천아트플랫폼에서 진행되는 서커스/마술 행사입니다.",
+    "status": "예정",
+    "conflict": false,
+    "recommendation": {
+      "subjectTags": [
+        "국어/논술",
+        "예술"
+      ],
+      "useCaseTags": [
+        "아동공연",
+        "주말관람",
+        "원본확인"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 100,
+      "reasons": [
+        "만 5세 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
+        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
+      ],
+      "evidence": [
+        "유형: 공연",
+        "분야: 서커스/마술",
+        "관람연령: 만 5세 이상",
+        "학생대상 후보: 초등",
+        "지역: 인천",
+        "시작까지 -47일"
+      ],
+      "warnings": [],
+      "programIdeas": [
+        "관람 전 배경지식 10분 브리핑",
+        "관람 후 한 문단 감상 기록",
+        "학부모 주말 문화체험 안내"
+      ]
+    }
+  },
+  {
+    "id": "kopis-PF289786",
+    "source": "kopis",
+    "title": "어린이 서커스 쇼 [원주]",
+    "eventType": "공연",
+    "category": "서커스/마술",
+    "grades": [
+      "초등"
+    ],
+    "ageText": "24개월 이상",
+    "region": "확인필요",
+    "venueName": "원주치악예술관",
+    "venueAddress": null,
+    "startDate": "2026-07-19",
+    "endDate": "2026-07-19",
+    "dday": -47,
+    "runtime": "55분",
+    "priceText": "전석 35,000원",
+    "free": false,
+    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF289786_260420_151647.jpg",
+    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF289786",
+    "summary": "어린이 서커스 쇼 [원주]은(는) 원주치악예술관에서 진행되는 서커스/마술 행사입니다.",
+    "status": "예정",
+    "conflict": false,
+    "recommendation": {
+      "subjectTags": [
+        "국어/논술",
+        "예술"
+      ],
+      "useCaseTags": [
+        "아동공연",
+        "주말관람",
+        "원본확인"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 86,
+      "reasons": [
+        "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
+        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
+      ],
+      "evidence": [
+        "유형: 공연",
+        "분야: 서커스/마술",
+        "관람연령: 24개월 이상",
+        "학생대상 후보: 초등",
+        "지역: 확인필요",
+        "시작까지 -47일"
+      ],
+      "warnings": [
+        "장소 또는 지역 확인 필요"
+      ],
+      "programIdeas": [
+        "관람 전 배경지식 10분 브리핑",
+        "관람 후 한 문단 감상 기록",
+        "학부모 주말 문화체험 안내"
+      ]
+    }
+  },
+  {
+    "id": "kopis-PF292627",
+    "source": "kopis",
+    "title": "워터버블쇼 [광주]",
+    "eventType": "공연",
+    "category": "서커스/마술",
+    "grades": [
+      "초등"
+    ],
+    "ageText": "24개월 이상",
+    "region": "확인필요",
+    "venueName": "빛고을시민문화관",
+    "venueAddress": null,
+    "startDate": "2026-07-19",
+    "endDate": "2026-07-19",
+    "dday": -47,
+    "runtime": "1시간",
+    "priceText": "전석 10,000원",
+    "free": false,
+    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF292627_260601_125421.png",
+    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF292627",
+    "summary": "워터버블쇼 [광주]은(는) 빛고을시민문화관에서 진행되는 서커스/마술 행사입니다.",
+    "status": "예정",
+    "conflict": false,
+    "recommendation": {
+      "subjectTags": [
+        "국어/논술",
+        "예술"
+      ],
+      "useCaseTags": [
+        "아동공연",
+        "주말관람",
+        "원본확인"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 86,
+      "reasons": [
+        "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
+        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
+      ],
+      "evidence": [
+        "유형: 공연",
+        "분야: 서커스/마술",
+        "관람연령: 24개월 이상",
+        "학생대상 후보: 초등",
+        "지역: 확인필요",
+        "시작까지 -47일"
+      ],
+      "warnings": [
+        "장소 또는 지역 확인 필요"
+      ],
+      "programIdeas": [
+        "관람 전 배경지식 10분 브리핑",
+        "관람 후 한 문단 감상 기록",
+        "학부모 주말 문화체험 안내"
+      ]
+    }
+  },
+  {
+    "id": "kopis-PF292443",
+    "source": "kopis",
+    "title": "워터버블쇼 [양주]",
+    "eventType": "공연",
+    "category": "서커스/마술",
+    "grades": [
+      "초등"
+    ],
+    "ageText": "24개월 이상",
+    "region": "경기",
+    "venueName": "경기섬유종합지원센터",
+    "venueAddress": null,
+    "startDate": "2026-07-19",
+    "endDate": "2026-07-19",
+    "dday": -47,
+    "runtime": "55분",
+    "priceText": "전석 10,000원",
+    "free": false,
+    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF292443_260528_134401.jpg",
+    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF292443",
+    "summary": "워터버블쇼 [양주]은(는) 경기섬유종합지원센터에서 진행되는 서커스/마술 행사입니다.",
+    "status": "예정",
+    "conflict": false,
+    "recommendation": {
+      "subjectTags": [
+        "국어/논술",
+        "예술"
+      ],
+      "useCaseTags": [
+        "아동공연",
+        "주말관람",
+        "원본확인"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 100,
+      "reasons": [
+        "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
+        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
+      ],
+      "evidence": [
+        "유형: 공연",
+        "분야: 서커스/마술",
+        "관람연령: 24개월 이상",
+        "학생대상 후보: 초등",
+        "지역: 경기",
+        "시작까지 -47일"
+      ],
+      "warnings": [],
+      "programIdeas": [
+        "관람 전 배경지식 10분 브리핑",
+        "관람 후 한 문단 감상 기록",
+        "학부모 주말 문화체험 안내"
+      ]
+    }
+  },
+  {
+    "id": "kopis-PF290877",
+    "source": "kopis",
+    "title": "인어공주 [제주 제주]",
+    "eventType": "공연",
+    "category": "뮤지컬",
+    "grades": [
+      "초등"
+    ],
+    "ageText": "만 2세 이상",
+    "region": "제주",
+    "venueName": "제주특별자치도 설문대여성문화센터",
+    "venueAddress": null,
+    "startDate": "2026-07-19",
+    "endDate": "2026-07-19",
+    "dday": -47,
+    "runtime": "1시간",
+    "priceText": "전석 40,000원",
+    "free": false,
+    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF290877_260508_101021.jpg",
+    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF290877",
+    "summary": "인어공주 [제주 제주]은(는) 제주특별자치도 설문대여성문화센터에서 진행되는 뮤지컬 행사입니다.",
+    "status": "예정",
+    "conflict": false,
+    "recommendation": {
+      "subjectTags": [
+        "국어/논술",
+        "예술"
+      ],
+      "useCaseTags": [
+        "아동공연",
+        "주말관람",
+        "원본확인"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 100,
+      "reasons": [
+        "만 2세 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
+        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
+      ],
+      "evidence": [
+        "유형: 공연",
+        "분야: 뮤지컬",
+        "관람연령: 만 2세 이상",
+        "학생대상 후보: 초등",
+        "지역: 제주",
+        "시작까지 -47일"
+      ],
+      "warnings": [],
+      "programIdeas": [
+        "관람 전 배경지식 10분 브리핑",
+        "관람 후 한 문단 감상 기록",
+        "학부모 주말 문화체험 안내"
+      ]
+    }
+  },
+  {
+    "id": "kopis-PF292931",
+    "source": "kopis",
+    "title": "정글북 [울산 중구]",
+    "eventType": "공연",
+    "category": "뮤지컬",
+    "grades": [
+      "초등"
+    ],
+    "ageText": "전체 관람가",
+    "region": "울산",
+    "venueName": "울산중구문화의전당",
+    "venueAddress": null,
+    "startDate": "2026-07-19",
+    "endDate": "2026-07-19",
+    "dday": -47,
+    "runtime": "50분",
+    "priceText": "네이버 1인권 14,900원, 사전예약(특가) 9,900원",
+    "free": false,
+    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF292931_260605_094937.jpg",
+    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF292931",
+    "summary": "정글북 [울산 중구]은(는) 울산중구문화의전당에서 진행되는 뮤지컬 행사입니다.",
+    "status": "예정",
+    "conflict": false,
+    "recommendation": {
+      "subjectTags": [
+        "국어/논술",
+        "예술"
+      ],
+      "useCaseTags": [
+        "아동공연",
+        "주말관람",
+        "원본확인"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 100,
+      "reasons": [
+        "전체 관람가 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
+        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
+      ],
+      "evidence": [
+        "유형: 공연",
+        "분야: 뮤지컬",
+        "관람연령: 전체 관람가",
+        "학생대상 후보: 초등",
+        "지역: 울산",
+        "시작까지 -47일"
+      ],
+      "warnings": [],
+      "programIdeas": [
+        "관람 전 배경지식 10분 브리핑",
+        "관람 후 한 문단 감상 기록",
+        "학부모 주말 문화체험 안내"
+      ]
+    }
+  },
+  {
+    "id": "kopis-PF291987",
+    "source": "kopis",
+    "title": "프린세스 공주 [창원 진해]",
+    "eventType": "공연",
+    "category": "뮤지컬",
+    "grades": [
+      "초등"
+    ],
+    "ageText": "24개월 이상",
+    "region": "확인필요",
+    "venueName": "진해문화센터 (진해구민회관)",
+    "venueAddress": null,
+    "startDate": "2026-07-19",
+    "endDate": "2026-07-19",
+    "dday": -47,
+    "runtime": "1시간",
+    "priceText": "전석 40,000원",
+    "free": false,
+    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF291987_260521_142057.png",
+    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF291987",
+    "summary": "프린세스 공주 [창원 진해]은(는) 진해문화센터 (진해구민회관)에서 진행되는 뮤지컬 행사입니다.",
+    "status": "예정",
+    "conflict": false,
+    "recommendation": {
+      "subjectTags": [
+        "국어/논술",
+        "예술"
+      ],
+      "useCaseTags": [
+        "아동공연",
+        "주말관람",
+        "원본확인"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 86,
+      "reasons": [
+        "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
+        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
+      ],
+      "evidence": [
+        "유형: 공연",
+        "분야: 뮤지컬",
+        "관람연령: 24개월 이상",
+        "학생대상 후보: 초등",
+        "지역: 확인필요",
+        "시작까지 -47일"
+      ],
+      "warnings": [
+        "장소 또는 지역 확인 필요"
+      ],
+      "programIdeas": [
+        "관람 전 배경지식 10분 브리핑",
+        "관람 후 한 문단 감상 기록",
+        "학부모 주말 문화체험 안내"
+      ]
+    }
+  },
+  {
+    "id": "kopis-PF292240",
+    "source": "kopis",
+    "title": "피노키오 [아산]",
+    "eventType": "공연",
+    "category": "뮤지컬",
+    "grades": [
+      "초등"
+    ],
+    "ageText": "전체 관람가",
+    "region": "확인필요",
+    "venueName": "아산시 평생학습관(아산아트홀)",
+    "venueAddress": null,
+    "startDate": "2026-07-19",
+    "endDate": "2026-07-19",
+    "dday": -47,
+    "runtime": "1시간",
+    "priceText": "전석 40,000원",
+    "free": false,
+    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF292240_260526_151913.jpg",
+    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF292240",
+    "summary": "피노키오 [아산]은(는) 아산시 평생학습관(아산아트홀)에서 진행되는 뮤지컬 행사입니다.",
+    "status": "예정",
+    "conflict": false,
+    "recommendation": {
+      "subjectTags": [
+        "국어/논술",
+        "예술"
+      ],
+      "useCaseTags": [
+        "아동공연",
+        "주말관람",
+        "원본확인"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 86,
+      "reasons": [
+        "전체 관람가 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
+        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
+      ],
+      "evidence": [
+        "유형: 공연",
+        "분야: 뮤지컬",
+        "관람연령: 전체 관람가",
+        "학생대상 후보: 초등",
+        "지역: 확인필요",
+        "시작까지 -47일"
+      ],
+      "warnings": [
+        "장소 또는 지역 확인 필요"
+      ],
+      "programIdeas": [
+        "관람 전 배경지식 10분 브리핑",
+        "관람 후 한 문단 감상 기록",
+        "학부모 주말 문화체험 안내"
+      ]
+    }
+  },
+  {
+    "id": "kopis-PF293122",
+    "source": "kopis",
+    "title": "피터팬 [평택]",
+    "eventType": "공연",
+    "category": "뮤지컬",
+    "grades": [
+      "초등"
+    ],
+    "ageText": "24개월 이상",
+    "region": "확인필요",
+    "venueName": "평택시남부문예회관",
+    "venueAddress": null,
+    "startDate": "2026-07-19",
+    "endDate": "2026-07-19",
+    "dday": -47,
+    "runtime": "1시간",
+    "priceText": "전석 30,000원",
+    "free": false,
+    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF293122_260608_152343.jpg",
+    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF293122",
+    "summary": "피터팬 [평택]은(는) 평택시남부문예회관에서 진행되는 뮤지컬 행사입니다.",
+    "status": "예정",
+    "conflict": false,
+    "recommendation": {
+      "subjectTags": [
+        "국어/논술",
+        "예술"
+      ],
+      "useCaseTags": [
+        "아동공연",
+        "주말관람",
+        "원본확인"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 86,
+      "reasons": [
+        "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
+        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
+      ],
+      "evidence": [
+        "유형: 공연",
+        "분야: 뮤지컬",
+        "관람연령: 24개월 이상",
+        "학생대상 후보: 초등",
+        "지역: 확인필요",
+        "시작까지 -47일"
+      ],
+      "warnings": [
+        "장소 또는 지역 확인 필요"
+      ],
+      "programIdeas": [
+        "관람 전 배경지식 10분 브리핑",
+        "관람 후 한 문단 감상 기록",
+        "학부모 주말 문화체험 안내"
+      ]
+    }
+  },
+  {
+    "id": "kopis-PF294349",
+    "source": "kopis",
+    "title": "동동마을을 구해주세요! [인천]",
+    "eventType": "공연",
+    "category": "한국음악(국악)",
+    "grades": [
+      "초등"
+    ],
+    "ageText": "만 3세 이상",
+    "region": "확인필요",
+    "venueName": "국악전용극장 잔치마당",
+    "venueAddress": null,
+    "startDate": "2026-07-20",
+    "endDate": "2026-07-24",
+    "dday": -42,
+    "runtime": "50분",
+    "priceText": "전석 1,000원",
+    "free": false,
+    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF294349_260622_154137.jpg",
+    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF294349",
+    "summary": "동동마을을 구해주세요! [인천]은(는) 국악전용극장 잔치마당에서 진행되는 한국음악(국악) 행사입니다.",
+    "status": "예정",
+    "conflict": false,
+    "recommendation": {
+      "subjectTags": [
+        "국어/논술",
+        "예술"
+      ],
+      "useCaseTags": [
+        "아동공연",
+        "원본확인"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 86,
+      "reasons": [
+        "만 3세 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다."
+      ],
+      "evidence": [
+        "유형: 공연",
+        "분야: 한국음악(국악)",
+        "관람연령: 만 3세 이상",
+        "학생대상 후보: 초등",
+        "지역: 확인필요",
+        "시작까지 -42일"
+      ],
+      "warnings": [
+        "장소 또는 지역 확인 필요"
+      ],
+      "programIdeas": [
+        "관람 전 배경지식 10분 브리핑",
+        "관람 후 한 문단 감상 기록",
+        "학부모 주말 문화체험 안내"
+      ]
+    }
+  },
+  {
+    "id": "kopis-PF294367",
+    "source": "kopis",
+    "title": "제24회 경기인형극제 수원, 여우 까마귀 그리고 사자",
+    "eventType": "공연",
+    "category": "연극",
+    "grades": [
+      "초등"
+    ],
+    "ageText": "36개월 이상",
+    "region": "경기",
+    "venueName": "경기아트센터(구. 경기도문화의전당)",
+    "venueAddress": null,
+    "startDate": "2026-07-21",
+    "endDate": "2026-07-22",
+    "dday": -44,
+    "runtime": "50분",
+    "priceText": "전석 20,000원",
+    "free": false,
+    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF294367_260622_171745.jpg",
+    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF294367",
+    "summary": "제24회 경기인형극제 수원, 여우 까마귀 그리고 사자은(는) 경기아트센터(구. 경기도문화의전당)에서 진행되는 연극 행사입니다.",
+    "status": "예정",
+    "conflict": false,
+    "recommendation": {
+      "subjectTags": [
+        "국어/논술",
+        "예술"
+      ],
+      "useCaseTags": [
+        "아동공연",
+        "원본확인"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 100,
+      "reasons": [
+        "36개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다."
+      ],
+      "evidence": [
+        "유형: 공연",
+        "분야: 연극",
+        "관람연령: 36개월 이상",
+        "학생대상 후보: 초등",
+        "지역: 경기",
+        "시작까지 -44일"
+      ],
+      "warnings": [],
+      "programIdeas": [
+        "관람 전 배경지식 10분 브리핑",
+        "관람 후 한 문단 감상 기록",
+        "학부모 주말 문화체험 안내"
+      ]
+    }
+  },
+  {
+    "id": "kopis-PF294471",
+    "source": "kopis",
+    "title": "팡팡 벌룬 일루전 [하남]",
+    "eventType": "공연",
+    "category": "서커스/마술",
+    "grades": [
+      "초등"
+    ],
+    "ageText": "24개월 이상",
+    "region": "확인필요",
+    "venueName": "한홀 소극장",
+    "venueAddress": null,
+    "startDate": "2026-07-21",
+    "endDate": "2026-08-17",
+    "dday": -18,
+    "runtime": "50분",
+    "priceText": "전석 40,000원",
+    "free": false,
+    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF294471_260624_100723.jpg",
+    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF294471",
+    "summary": "팡팡 벌룬 일루전 [하남]은(는) 한홀 소극장에서 진행되는 서커스/마술 행사입니다.",
+    "status": "예정",
+    "conflict": false,
+    "recommendation": {
+      "subjectTags": [
+        "국어/논술",
+        "예술"
+      ],
+      "useCaseTags": [
+        "아동공연",
+        "주말관람",
+        "원본확인"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 86,
+      "reasons": [
+        "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
+        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
+      ],
+      "evidence": [
+        "유형: 공연",
+        "분야: 서커스/마술",
+        "관람연령: 24개월 이상",
+        "학생대상 후보: 초등",
+        "지역: 확인필요",
+        "시작까지 -18일"
+      ],
+      "warnings": [
+        "장소 또는 지역 확인 필요"
+      ],
+      "programIdeas": [
+        "관람 전 배경지식 10분 브리핑",
+        "관람 후 한 문단 감상 기록",
+        "학부모 주말 문화체험 안내"
+      ]
+    }
+  },
+  {
+    "id": "kopis-PF290425",
+    "source": "kopis",
+    "title": "피터팬 [성남]",
+    "eventType": "공연",
+    "category": "뮤지컬",
+    "grades": [
+      "초등"
+    ],
+    "ageText": "전체 관람가",
+    "region": "확인필요",
+    "venueName": "잡월드 나래울극장",
+    "venueAddress": null,
+    "startDate": "2026-07-21",
+    "endDate": "2026-08-17",
+    "dday": -18,
+    "runtime": "55분",
+    "priceText": "전석 40,000원",
+    "free": false,
+    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF290425_260430_104640.jpg",
+    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF290425",
+    "summary": "피터팬 [성남]은(는) 잡월드 나래울극장에서 진행되는 뮤지컬 행사입니다.",
+    "status": "예정",
+    "conflict": false,
+    "recommendation": {
+      "subjectTags": [
+        "국어/논술",
+        "예술"
+      ],
+      "useCaseTags": [
+        "아동공연",
+        "주말관람",
+        "원본확인"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 86,
+      "reasons": [
+        "전체 관람가 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
+        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
+      ],
+      "evidence": [
+        "유형: 공연",
+        "분야: 뮤지컬",
+        "관람연령: 전체 관람가",
+        "학생대상 후보: 초등",
+        "지역: 확인필요",
+        "시작까지 -18일"
+      ],
+      "warnings": [
+        "장소 또는 지역 확인 필요"
+      ],
+      "programIdeas": [
+        "관람 전 배경지식 10분 브리핑",
+        "관람 후 한 문단 감상 기록",
+        "학부모 주말 문화체험 안내"
+      ]
+    }
+  },
+  {
+    "id": "kopis-PF294715",
+    "source": "kopis",
+    "title": "어린이 놀이터: 극장 [파주]",
+    "eventType": "공연",
+    "category": "연극",
+    "grades": [
+      "초등"
+    ],
+    "ageText": "전체 관람가",
+    "region": "확인필요",
+    "venueName": "파주시민회관",
+    "venueAddress": null,
+    "startDate": "2026-07-22",
+    "endDate": "2026-07-22",
+    "dday": -44,
+    "runtime": "1시간",
+    "priceText": "전석무료",
+    "free": true,
+    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF294715_260626_141310.png",
+    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF294715",
+    "summary": "어린이 놀이터: 극장 [파주]은(는) 파주시민회관에서 진행되는 연극 행사입니다.",
+    "status": "예정",
+    "conflict": false,
+    "recommendation": {
+      "subjectTags": [
+        "국어/논술",
+        "예술"
+      ],
+      "useCaseTags": [
+        "아동공연",
+        "원본확인"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 86,
+      "reasons": [
+        "전체 관람가 기준이라 초등 학생 안내 후보로 검토할 수 있습니다."
+      ],
+      "evidence": [
+        "유형: 공연",
+        "분야: 연극",
+        "관람연령: 전체 관람가",
+        "학생대상 후보: 초등",
+        "지역: 확인필요",
+        "시작까지 -44일"
+      ],
+      "warnings": [
+        "장소 또는 지역 확인 필요"
+      ],
+      "programIdeas": [
+        "관람 전 배경지식 10분 브리핑",
+        "관람 후 한 문단 감상 기록",
+        "학부모 주말 문화체험 안내"
+      ]
+    }
+  },
+  {
+    "id": "kopis-PF293693",
+    "source": "kopis",
+    "title": "꼬마 오즈 [군포]",
+    "eventType": "공연",
+    "category": "연극",
+    "grades": [
+      "초등"
+    ],
+    "ageText": "36개월 이상",
+    "region": "확인필요",
+    "venueName": "군포시평생학습원",
+    "venueAddress": null,
+    "startDate": "2026-07-23",
+    "endDate": "2026-07-25",
+    "dday": -41,
+    "runtime": "1시간",
+    "priceText": "전석 10,000원",
+    "free": false,
+    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF293693_260615_123534.gif",
+    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF293693",
+    "summary": "꼬마 오즈 [군포]은(는) 군포시평생학습원에서 진행되는 연극 행사입니다.",
+    "status": "예정",
+    "conflict": false,
+    "recommendation": {
+      "subjectTags": [
+        "국어/논술",
+        "예술"
+      ],
+      "useCaseTags": [
+        "아동공연",
+        "주말관람",
+        "원본확인"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 86,
+      "reasons": [
+        "36개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
+        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
+      ],
+      "evidence": [
+        "유형: 공연",
+        "분야: 연극",
+        "관람연령: 36개월 이상",
+        "학생대상 후보: 초등",
+        "지역: 확인필요",
+        "시작까지 -41일"
+      ],
+      "warnings": [
+        "장소 또는 지역 확인 필요"
+      ],
+      "programIdeas": [
+        "관람 전 배경지식 10분 브리핑",
+        "관람 후 한 문단 감상 기록",
+        "학부모 주말 문화체험 안내"
+      ]
+    }
+  },
+  {
+    "id": "kopis-PF293275",
+    "source": "kopis",
+    "title": "아시테지 국제여름축제, 완벽한 하루",
+    "eventType": "공연",
+    "category": "연극",
+    "grades": [
+      "초등"
+    ],
+    "ageText": "36개월 이상",
+    "region": "확인필요",
+    "venueName": "아르코 꿈밭극장",
+    "venueAddress": null,
+    "startDate": "2026-07-23",
+    "endDate": "2026-07-25",
+    "dday": -41,
+    "runtime": "45분",
+    "priceText": "전석 35,000원",
+    "free": false,
+    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF293275_260610_132258.jpg",
+    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF293275",
+    "summary": "아시테지 국제여름축제, 완벽한 하루은(는) 아르코 꿈밭극장에서 진행되는 연극 행사입니다.",
+    "status": "예정",
+    "conflict": false,
+    "recommendation": {
+      "subjectTags": [
+        "국어/논술",
+        "예술"
+      ],
+      "useCaseTags": [
+        "아동공연",
+        "주말관람",
+        "원본확인"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 86,
+      "reasons": [
+        "36개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
+        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
+      ],
+      "evidence": [
+        "유형: 공연",
+        "분야: 연극",
+        "관람연령: 36개월 이상",
+        "학생대상 후보: 초등",
+        "지역: 확인필요",
+        "시작까지 -41일"
+      ],
+      "warnings": [
+        "장소 또는 지역 확인 필요"
+      ],
+      "programIdeas": [
+        "관람 전 배경지식 10분 브리핑",
+        "관람 후 한 문단 감상 기록",
+        "학부모 주말 문화체험 안내"
+      ]
+    }
+  },
+  {
+    "id": "kopis-PF293264",
+    "source": "kopis",
+    "title": "아시테지 국제여름축제, 잠들고 싶지 않아!",
+    "eventType": "공연",
+    "category": "연극",
+    "grades": [
+      "초등"
+    ],
+    "ageText": "36개월 이상",
+    "region": "확인필요",
+    "venueName": "아르코예술극장",
+    "venueAddress": null,
+    "startDate": "2026-07-23",
+    "endDate": "2026-07-26",
+    "dday": -40,
+    "runtime": "45분",
+    "priceText": "전석 50,000원",
+    "free": false,
+    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF293264_260610_125414.png",
+    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF293264",
+    "summary": "아시테지 국제여름축제, 잠들고 싶지 않아!은(는) 아르코예술극장에서 진행되는 연극 행사입니다.",
+    "status": "예정",
+    "conflict": false,
+    "recommendation": {
+      "subjectTags": [
+        "국어/논술",
+        "예술"
+      ],
+      "useCaseTags": [
+        "아동공연",
+        "주말관람",
+        "원본확인"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 86,
+      "reasons": [
+        "36개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
+        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
+      ],
+      "evidence": [
+        "유형: 공연",
+        "분야: 연극",
+        "관람연령: 36개월 이상",
+        "학생대상 후보: 초등",
+        "지역: 확인필요",
+        "시작까지 -40일"
+      ],
+      "warnings": [
+        "장소 또는 지역 확인 필요"
+      ],
+      "programIdeas": [
+        "관람 전 배경지식 10분 브리핑",
+        "관람 후 한 문단 감상 기록",
+        "학부모 주말 문화체험 안내"
+      ]
+    }
+  },
+  {
+    "id": "kopis-PF294002",
+    "source": "kopis",
+    "title": "강치전 [포항]",
+    "eventType": "공연",
+    "category": "뮤지컬",
+    "grades": [
+      "초등"
+    ],
+    "ageText": "24개월 이상",
+    "region": "확인필요",
+    "venueName": "포항문화예술회관",
+    "venueAddress": null,
+    "startDate": "2026-07-24",
+    "endDate": "2026-07-25",
+    "dday": -41,
+    "runtime": "1시간",
+    "priceText": "전석 30,000원",
+    "free": false,
+    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF294002_260617_172454.jpg",
+    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF294002",
+    "summary": "강치전 [포항]은(는) 포항문화예술회관에서 진행되는 뮤지컬 행사입니다.",
+    "status": "예정",
+    "conflict": false,
+    "recommendation": {
+      "subjectTags": [
+        "국어/논술",
+        "예술"
+      ],
+      "useCaseTags": [
+        "아동공연",
+        "주말관람",
+        "원본확인"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 86,
+      "reasons": [
+        "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
+        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
+      ],
+      "evidence": [
+        "유형: 공연",
+        "분야: 뮤지컬",
+        "관람연령: 24개월 이상",
+        "학생대상 후보: 초등",
+        "지역: 확인필요",
+        "시작까지 -41일"
+      ],
+      "warnings": [
+        "장소 또는 지역 확인 필요"
+      ],
+      "programIdeas": [
+        "관람 전 배경지식 10분 브리핑",
+        "관람 후 한 문단 감상 기록",
+        "학부모 주말 문화체험 안내"
+      ]
+    }
+  },
+  {
+    "id": "kopis-PF290332",
+    "source": "kopis",
+    "title": "고래밥: 바다 대운동회 [서울 마포]",
+    "eventType": "공연",
+    "category": "뮤지컬",
+    "grades": [
+      "초등"
+    ],
+    "ageText": "20개월 이상",
+    "region": "확인필요",
+    "venueName": "마포아트센터",
+    "venueAddress": null,
+    "startDate": "2026-07-24",
+    "endDate": "2026-08-16",
+    "dday": -19,
+    "runtime": "1시간 10분",
+    "priceText": "R석 70,000원, S석 50,000원",
+    "free": false,
+    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF290332_260429_105537.gif",
+    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF290332",
+    "summary": "고래밥: 바다 대운동회 [서울 마포]은(는) 마포아트센터에서 진행되는 뮤지컬 행사입니다.",
+    "status": "예정",
+    "conflict": false,
+    "recommendation": {
+      "subjectTags": [
+        "국어/논술",
+        "예술"
+      ],
+      "useCaseTags": [
+        "아동공연",
+        "주말관람",
+        "원본확인"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 86,
+      "reasons": [
+        "20개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
+        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
+      ],
+      "evidence": [
+        "유형: 공연",
+        "분야: 뮤지컬",
+        "관람연령: 20개월 이상",
+        "학생대상 후보: 초등",
+        "지역: 확인필요",
+        "시작까지 -19일"
+      ],
+      "warnings": [
+        "장소 또는 지역 확인 필요"
+      ],
+      "programIdeas": [
+        "관람 전 배경지식 10분 브리핑",
+        "관람 후 한 문단 감상 기록",
+        "학부모 주말 문화체험 안내"
+      ]
+    }
+  },
+  {
+    "id": "kopis-PF290455",
+    "source": "kopis",
+    "title": "꼬마마법사 주니토니: 아클라타 마법책 대소동 [서울]",
+    "eventType": "공연",
+    "category": "뮤지컬",
+    "grades": [
+      "초등"
+    ],
+    "ageText": "24개월 이상",
+    "region": "확인필요",
+    "venueName": "NOL 씨어터 합정(구, 신한카드 SOL페이 스퀘어)",
+    "venueAddress": null,
+    "startDate": "2026-07-24",
+    "endDate": "2026-08-09",
+    "dday": -26,
+    "runtime": "1시간 5분",
+    "priceText": "VIP석 70,000원, R석 60,000원",
+    "free": false,
+    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF290455_260430_130327.gif",
+    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF290455",
+    "summary": "꼬마마법사 주니토니: 아클라타 마법책 대소동 [서울]은(는) NOL 씨어터 합정(구, 신한카드 SOL페이 스퀘어)에서 진행되는 뮤지컬 행사입니다.",
+    "status": "예정",
+    "conflict": false,
+    "recommendation": {
+      "subjectTags": [
+        "국어/논술",
+        "예술"
+      ],
+      "useCaseTags": [
+        "아동공연",
+        "주말관람",
+        "원본확인"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 86,
+      "reasons": [
+        "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
+        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
+      ],
+      "evidence": [
+        "유형: 공연",
+        "분야: 뮤지컬",
+        "관람연령: 24개월 이상",
+        "학생대상 후보: 초등",
+        "지역: 확인필요",
+        "시작까지 -26일"
+      ],
+      "warnings": [
+        "장소 또는 지역 확인 필요"
+      ],
+      "programIdeas": [
+        "관람 전 배경지식 10분 브리핑",
+        "관람 후 한 문단 감상 기록",
+        "학부모 주말 문화체험 안내"
+      ]
+    }
+  },
+  {
+    "id": "kopis-PF292077",
+    "source": "kopis",
+    "title": "시크릿쥬쥬: 별의보석, 잃어버린 빛을 찾아서 [서울]",
+    "eventType": "공연",
+    "category": "뮤지컬",
+    "grades": [
+      "초등"
+    ],
+    "ageText": "24개월 이상",
+    "region": "확인필요",
+    "venueName": "NOL 씨어터 합정(구, 신한카드 SOL페이 스퀘어)",
+    "venueAddress": null,
+    "startDate": "2026-07-24",
+    "endDate": "2026-08-09",
+    "dday": -26,
+    "runtime": "1시간 5분",
+    "priceText": "VIP석 70,000원, R석 50,000원",
+    "free": false,
+    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF292077_260522_144032.gif",
+    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF292077",
+    "summary": "시크릿쥬쥬: 별의보석, 잃어버린 빛을 찾아서 [서울]은(는) NOL 씨어터 합정(구, 신한카드 SOL페이 스퀘어)에서 진행되는 뮤지컬 행사입니다.",
+    "status": "예정",
+    "conflict": false,
+    "recommendation": {
+      "subjectTags": [
+        "국어/논술",
+        "예술"
+      ],
+      "useCaseTags": [
+        "아동공연",
+        "주말관람",
+        "원본확인"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 86,
+      "reasons": [
+        "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
+        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
+      ],
+      "evidence": [
+        "유형: 공연",
+        "분야: 뮤지컬",
+        "관람연령: 24개월 이상",
+        "학생대상 후보: 초등",
+        "지역: 확인필요",
+        "시작까지 -26일"
+      ],
+      "warnings": [
+        "장소 또는 지역 확인 필요"
+      ],
+      "programIdeas": [
+        "관람 전 배경지식 10분 브리핑",
+        "관람 후 한 문단 감상 기록",
+        "학부모 주말 문화체험 안내"
+      ]
+    }
+  },
+  {
+    "id": "kopis-PF293270",
+    "source": "kopis",
+    "title": "아시테지 국제여름축제, 타나: 작은 동굴",
+    "eventType": "공연",
+    "category": "무용(서양/한국무용)",
+    "grades": [
+      "초등"
+    ],
+    "ageText": "12개월 이상",
+    "region": "확인필요",
+    "venueName": "종로아이들극장",
+    "venueAddress": null,
+    "startDate": "2026-07-24",
+    "endDate": "2026-07-26",
+    "dday": -40,
+    "runtime": "40분",
+    "priceText": "전석 50,000원",
+    "free": false,
+    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF293270_260610_131156.jpg",
+    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF293270",
+    "summary": "아시테지 국제여름축제, 타나: 작은 동굴은(는) 종로아이들극장에서 진행되는 무용(서양/한국무용) 행사입니다.",
+    "status": "예정",
+    "conflict": false,
+    "recommendation": {
+      "subjectTags": [
+        "국어/논술",
+        "예술"
+      ],
+      "useCaseTags": [
+        "아동공연",
+        "주말관람",
+        "원본확인"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 86,
+      "reasons": [
+        "12개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
+        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
+      ],
+      "evidence": [
+        "유형: 공연",
+        "분야: 무용(서양/한국무용)",
+        "관람연령: 12개월 이상",
+        "학생대상 후보: 초등",
+        "지역: 확인필요",
+        "시작까지 -40일"
+      ],
+      "warnings": [
+        "장소 또는 지역 확인 필요"
+      ],
+      "programIdeas": [
+        "관람 전 배경지식 10분 브리핑",
+        "관람 후 한 문단 감상 기록",
+        "학부모 주말 문화체험 안내"
+      ]
+    }
+  },
+  {
+    "id": "kopis-PF292338",
+    "source": "kopis",
+    "title": "아쿠아쇼: 바닷 속 버블왕국 [성남]",
+    "eventType": "공연",
+    "category": "서커스/마술",
+    "grades": [
+      "초등"
+    ],
+    "ageText": "24개월 이상",
+    "region": "확인필요",
+    "venueName": "성남아트리움 (구. 성남시민회관)",
+    "venueAddress": null,
+    "startDate": "2026-07-24",
+    "endDate": "2026-07-26",
+    "dday": -40,
+    "runtime": "1시간",
+    "priceText": "전석 50,000원",
+    "free": false,
+    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF292338_260527_132230.gif",
+    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF292338",
+    "summary": "아쿠아쇼: 바닷 속 버블왕국 [성남]은(는) 성남아트리움 (구. 성남시민회관)에서 진행되는 서커스/마술 행사입니다.",
+    "status": "예정",
+    "conflict": false,
+    "recommendation": {
+      "subjectTags": [
+        "국어/논술",
+        "예술"
+      ],
+      "useCaseTags": [
+        "아동공연",
+        "주말관람",
+        "원본확인"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 86,
+      "reasons": [
+        "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
+        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
+      ],
+      "evidence": [
+        "유형: 공연",
+        "분야: 서커스/마술",
+        "관람연령: 24개월 이상",
+        "학생대상 후보: 초등",
+        "지역: 확인필요",
+        "시작까지 -40일"
+      ],
+      "warnings": [
+        "장소 또는 지역 확인 필요"
+      ],
+      "programIdeas": [
+        "관람 전 배경지식 10분 브리핑",
+        "관람 후 한 문단 감상 기록",
+        "학부모 주말 문화체험 안내"
+      ]
+    }
+  },
+  {
+    "id": "kopis-PF293502",
+    "source": "kopis",
+    "title": "이상하고 아름다운 하얀 숲",
+    "eventType": "공연",
+    "category": "뮤지컬",
+    "grades": [
+      "초등"
+    ],
+    "ageText": "48개월 이상",
+    "region": "확인필요",
+    "venueName": "모두예술극장",
+    "venueAddress": null,
+    "startDate": "2026-07-24",
+    "endDate": "2026-07-26",
+    "dday": -40,
+    "runtime": "1시간",
+    "priceText": "전석 35,000원",
+    "free": false,
+    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF293502_260611_164031.jpg",
+    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF293502",
+    "summary": "이상하고 아름다운 하얀 숲은(는) 모두예술극장에서 진행되는 뮤지컬 행사입니다.",
+    "status": "예정",
+    "conflict": false,
+    "recommendation": {
+      "subjectTags": [
+        "국어/논술",
+        "예술"
+      ],
+      "useCaseTags": [
+        "아동공연",
+        "주말관람",
+        "원본확인"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 86,
+      "reasons": [
+        "48개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
+        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
+      ],
+      "evidence": [
+        "유형: 공연",
+        "분야: 뮤지컬",
+        "관람연령: 48개월 이상",
+        "학생대상 후보: 초등",
+        "지역: 확인필요",
+        "시작까지 -40일"
+      ],
+      "warnings": [
+        "장소 또는 지역 확인 필요"
+      ],
+      "programIdeas": [
+        "관람 전 배경지식 10분 브리핑",
+        "관람 후 한 문단 감상 기록",
+        "학부모 주말 문화체험 안내"
+      ]
+    }
+  },
+  {
+    "id": "kopis-PF291085",
+    "source": "kopis",
+    "title": "MBC 심야괴담회x니니키즈: 학교에서 살아남기 [광주]",
+    "eventType": "공연",
+    "category": "뮤지컬",
+    "grades": [
+      "초등"
+    ],
+    "ageText": "24개월 이상",
+    "region": "광주",
+    "venueName": "광주 예술의 전당",
+    "venueAddress": null,
+    "startDate": "2026-07-25",
+    "endDate": "2026-07-26",
+    "dday": -40,
+    "runtime": "1시간 10분",
+    "priceText": "전석 66,000원",
+    "free": false,
+    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF291085_260511_135508.gif",
+    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF291085",
+    "summary": "MBC 심야괴담회x니니키즈: 학교에서 살아남기 [광주]은(는) 광주 예술의 전당에서 진행되는 뮤지컬 행사입니다.",
+    "status": "예정",
+    "conflict": false,
+    "recommendation": {
+      "subjectTags": [
+        "국어/논술",
+        "예술"
+      ],
+      "useCaseTags": [
+        "아동공연",
+        "주말관람",
+        "원본확인"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 100,
+      "reasons": [
+        "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
+        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
+      ],
+      "evidence": [
+        "유형: 공연",
+        "분야: 뮤지컬",
+        "관람연령: 24개월 이상",
+        "학생대상 후보: 초등",
+        "지역: 광주",
+        "시작까지 -40일"
+      ],
+      "warnings": [],
+      "programIdeas": [
+        "관람 전 배경지식 10분 브리핑",
+        "관람 후 한 문단 감상 기록",
+        "학부모 주말 문화체험 안내"
+      ]
+    }
+  },
+  {
+    "id": "kopis-PF293489",
+    "source": "kopis",
+    "title": "강북Festa, 어둑시니",
+    "eventType": "공연",
+    "category": "연극",
+    "grades": [
+      "초등"
+    ],
+    "ageText": "36개월 이상",
+    "region": "확인필요",
+    "venueName": "강북문화예술회관",
+    "venueAddress": null,
+    "startDate": "2026-07-25",
+    "endDate": "2026-07-25",
+    "dday": -41,
+    "runtime": "50분",
+    "priceText": "전석 10,000원",
+    "free": false,
+    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF293489_260611_153740.gif",
+    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF293489",
+    "summary": "강북Festa, 어둑시니은(는) 강북문화예술회관에서 진행되는 연극 행사입니다.",
+    "status": "예정",
+    "conflict": false,
+    "recommendation": {
+      "subjectTags": [
+        "국어/논술",
+        "예술"
+      ],
+      "useCaseTags": [
+        "아동공연",
+        "주말관람",
+        "원본확인"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 86,
+      "reasons": [
+        "36개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
+        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
+      ],
+      "evidence": [
+        "유형: 공연",
+        "분야: 연극",
+        "관람연령: 36개월 이상",
+        "학생대상 후보: 초등",
+        "지역: 확인필요",
+        "시작까지 -41일"
+      ],
+      "warnings": [
+        "장소 또는 지역 확인 필요"
+      ],
+      "programIdeas": [
+        "관람 전 배경지식 10분 브리핑",
+        "관람 후 한 문단 감상 기록",
+        "학부모 주말 문화체험 안내"
+      ]
+    }
+  },
+  {
+    "id": "kopis-PF293637",
+    "source": "kopis",
+    "title": "개구쟁이 특공대: 마녀저택 [서울 양천]",
+    "eventType": "공연",
+    "category": "뮤지컬",
+    "grades": [
+      "초등"
+    ],
+    "ageText": "24개월 이상",
+    "region": "확인필요",
+    "venueName": "양천문화회관",
+    "venueAddress": null,
+    "startDate": "2026-07-25",
+    "endDate": "2026-07-26",
+    "dday": -40,
+    "runtime": "1시간 10분",
+    "priceText": "R석 70,000원",
+    "free": false,
+    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF293637_260612_173144.jpg",
+    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF293637",
+    "summary": "개구쟁이 특공대: 마녀저택 [서울 양천]은(는) 양천문화회관에서 진행되는 뮤지컬 행사입니다.",
+    "status": "예정",
+    "conflict": false,
+    "recommendation": {
+      "subjectTags": [
+        "국어/논술",
+        "예술"
+      ],
+      "useCaseTags": [
+        "아동공연",
+        "주말관람",
+        "원본확인"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 86,
+      "reasons": [
+        "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
+        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
+      ],
+      "evidence": [
+        "유형: 공연",
+        "분야: 뮤지컬",
+        "관람연령: 24개월 이상",
+        "학생대상 후보: 초등",
+        "지역: 확인필요",
+        "시작까지 -40일"
+      ],
+      "warnings": [
+        "장소 또는 지역 확인 필요"
+      ],
+      "programIdeas": [
+        "관람 전 배경지식 10분 브리핑",
+        "관람 후 한 문단 감상 기록",
+        "학부모 주말 문화체험 안내"
+      ]
+    }
+  },
+  {
+    "id": "kopis-PF294093",
+    "source": "kopis",
+    "title": "공룡 애니멀 쇼 [대구 달성]",
+    "eventType": "공연",
+    "category": "서커스/마술",
+    "grades": [
+      "초등"
+    ],
+    "ageText": "만 2세 이상",
+    "region": "확인필요",
+    "venueName": "달성문화원",
+    "venueAddress": null,
+    "startDate": "2026-07-25",
+    "endDate": "2026-07-25",
+    "dday": -41,
+    "runtime": "1시간",
+    "priceText": "전석 35,000원",
+    "free": false,
+    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF294093_260619_104637.jpg",
+    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF294093",
+    "summary": "공룡 애니멀 쇼 [대구 달성]은(는) 달성문화원에서 진행되는 서커스/마술 행사입니다.",
+    "status": "예정",
+    "conflict": false,
+    "recommendation": {
+      "subjectTags": [
+        "국어/논술",
+        "예술"
+      ],
+      "useCaseTags": [
+        "아동공연",
+        "주말관람",
+        "원본확인"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 86,
+      "reasons": [
+        "만 2세 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
+        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
+      ],
+      "evidence": [
+        "유형: 공연",
+        "분야: 서커스/마술",
+        "관람연령: 만 2세 이상",
+        "학생대상 후보: 초등",
+        "지역: 확인필요",
+        "시작까지 -41일"
+      ],
+      "warnings": [
+        "장소 또는 지역 확인 필요"
+      ],
+      "programIdeas": [
+        "관람 전 배경지식 10분 브리핑",
+        "관람 후 한 문단 감상 기록",
+        "학부모 주말 문화체험 안내"
+      ]
+    }
+  },
+  {
+    "id": "kopis-PF293390",
+    "source": "kopis",
+    "title": "누가 내 머리에 똥 쌌어? [광주]",
+    "eventType": "공연",
+    "category": "뮤지컬",
+    "grades": [
+      "초등"
+    ],
+    "ageText": "24개월 이상",
+    "region": "확인필요",
+    "venueName": "5.18기념문화센터",
+    "venueAddress": null,
+    "startDate": "2026-07-25",
+    "endDate": "2026-07-25",
+    "dday": -41,
+    "runtime": "55분",
+    "priceText": "전석 40,000원",
+    "free": false,
+    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF293390_260611_110848.png",
+    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF293390",
+    "summary": "누가 내 머리에 똥 쌌어? [광주]은(는) 5.18기념문화센터에서 진행되는 뮤지컬 행사입니다.",
+    "status": "예정",
+    "conflict": false,
+    "recommendation": {
+      "subjectTags": [
+        "국어/논술",
+        "예술"
+      ],
+      "useCaseTags": [
+        "아동공연",
+        "주말관람",
+        "원본확인"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 86,
+      "reasons": [
+        "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
+        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
+      ],
+      "evidence": [
+        "유형: 공연",
+        "분야: 뮤지컬",
+        "관람연령: 24개월 이상",
+        "학생대상 후보: 초등",
+        "지역: 확인필요",
+        "시작까지 -41일"
+      ],
+      "warnings": [
+        "장소 또는 지역 확인 필요"
+      ],
+      "programIdeas": [
+        "관람 전 배경지식 10분 브리핑",
+        "관람 후 한 문단 감상 기록",
+        "학부모 주말 문화체험 안내"
+      ]
+    }
+  },
+  {
+    "id": "kopis-PF293843",
+    "source": "kopis",
+    "title": "누가 내 머리에 똥 쌌어? [대구]",
+    "eventType": "공연",
+    "category": "뮤지컬",
+    "grades": [
+      "초등"
+    ],
+    "ageText": "36개월 이상",
+    "region": "확인필요",
+    "venueName": "대덕문화전당",
+    "venueAddress": null,
+    "startDate": "2026-07-25",
+    "endDate": "2026-07-25",
+    "dday": -41,
+    "runtime": "1시간",
+    "priceText": "전석 30,000원",
+    "free": false,
+    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF293843_260616_134157.jpg",
+    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF293843",
+    "summary": "누가 내 머리에 똥 쌌어? [대구]은(는) 대덕문화전당에서 진행되는 뮤지컬 행사입니다.",
+    "status": "예정",
+    "conflict": false,
+    "recommendation": {
+      "subjectTags": [
+        "국어/논술",
+        "예술"
+      ],
+      "useCaseTags": [
+        "아동공연",
+        "주말관람",
+        "원본확인"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 86,
+      "reasons": [
+        "36개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
+        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
+      ],
+      "evidence": [
+        "유형: 공연",
+        "분야: 뮤지컬",
+        "관람연령: 36개월 이상",
+        "학생대상 후보: 초등",
+        "지역: 확인필요",
+        "시작까지 -41일"
+      ],
+      "warnings": [
+        "장소 또는 지역 확인 필요"
+      ],
+      "programIdeas": [
+        "관람 전 배경지식 10분 브리핑",
+        "관람 후 한 문단 감상 기록",
+        "학부모 주말 문화체험 안내"
+      ]
+    }
+  },
+  {
+    "id": "kopis-PF292167",
+    "source": "kopis",
+    "title": "더: 매직서커스 [창원 진해]",
+    "eventType": "공연",
+    "category": "서커스/마술",
+    "grades": [
+      "초등"
+    ],
+    "ageText": "24개월 이상",
+    "region": "확인필요",
+    "venueName": "진해문화센터 (진해구민회관)",
+    "venueAddress": null,
+    "startDate": "2026-07-25",
+    "endDate": "2026-07-25",
+    "dday": -41,
+    "runtime": "1시간",
+    "priceText": "전석 50,000원",
+    "free": false,
+    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF292167_260526_122407.gif",
+    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF292167",
+    "summary": "더: 매직서커스 [창원 진해]은(는) 진해문화센터 (진해구민회관)에서 진행되는 서커스/마술 행사입니다.",
+    "status": "예정",
+    "conflict": false,
+    "recommendation": {
+      "subjectTags": [
+        "국어/논술",
+        "예술"
+      ],
+      "useCaseTags": [
+        "아동공연",
+        "주말관람",
+        "원본확인"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 86,
+      "reasons": [
+        "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
+        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
+      ],
+      "evidence": [
+        "유형: 공연",
+        "분야: 서커스/마술",
+        "관람연령: 24개월 이상",
+        "학생대상 후보: 초등",
+        "지역: 확인필요",
+        "시작까지 -41일"
+      ],
+      "warnings": [
+        "장소 또는 지역 확인 필요"
+      ],
+      "programIdeas": [
+        "관람 전 배경지식 10분 브리핑",
+        "관람 후 한 문단 감상 기록",
+        "학부모 주말 문화체험 안내"
+      ]
+    }
+  },
+  {
+    "id": "kopis-PF292046",
+    "source": "kopis",
+    "title": "똥볶이 할멈: 정의의 맛 [강릉]",
+    "eventType": "공연",
+    "category": "뮤지컬",
+    "grades": [
+      "초등"
+    ],
+    "ageText": "전체 관람가",
+    "region": "확인필요",
+    "venueName": "강릉원주대학교 해람문화관",
+    "venueAddress": null,
+    "startDate": "2026-07-25",
+    "endDate": "2026-07-25",
+    "dday": -41,
+    "runtime": "1시간 10분",
+    "priceText": "전석 35,000원",
+    "free": false,
+    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF292046_260522_125315.jpg",
+    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF292046",
+    "summary": "똥볶이 할멈: 정의의 맛 [강릉]은(는) 강릉원주대학교 해람문화관에서 진행되는 뮤지컬 행사입니다.",
+    "status": "예정",
+    "conflict": false,
+    "recommendation": {
+      "subjectTags": [
+        "국어/논술",
+        "예술"
+      ],
+      "useCaseTags": [
+        "아동공연",
+        "주말관람",
+        "원본확인"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 86,
+      "reasons": [
+        "전체 관람가 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
+        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
+      ],
+      "evidence": [
+        "유형: 공연",
+        "분야: 뮤지컬",
+        "관람연령: 전체 관람가",
+        "학생대상 후보: 초등",
+        "지역: 확인필요",
+        "시작까지 -41일"
+      ],
+      "warnings": [
+        "장소 또는 지역 확인 필요"
+      ],
+      "programIdeas": [
+        "관람 전 배경지식 10분 브리핑",
+        "관람 후 한 문단 감상 기록",
+        "학부모 주말 문화체험 안내"
+      ]
+    }
+  },
+  {
+    "id": "kopis-PF290812",
+    "source": "kopis",
+    "title": "로보카폴리: 브룸스타운의 에너지를 지켜라! [인천]",
+    "eventType": "공연",
+    "category": "뮤지컬",
+    "grades": [
+      "초등"
+    ],
+    "ageText": "24개월 이상",
+    "region": "확인필요",
+    "venueName": "부평아트센터",
+    "venueAddress": null,
+    "startDate": "2026-07-25",
+    "endDate": "2026-07-26",
+    "dday": -40,
+    "runtime": "1시간 5분",
+    "priceText": "R석 66,000원",
+    "free": false,
+    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF290812_260507_131649.gif",
+    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF290812",
+    "summary": "로보카폴리: 브룸스타운의 에너지를 지켜라! [인천]은(는) 부평아트센터에서 진행되는 뮤지컬 행사입니다.",
+    "status": "예정",
+    "conflict": false,
+    "recommendation": {
+      "subjectTags": [
+        "국어/논술",
+        "예술"
+      ],
+      "useCaseTags": [
+        "아동공연",
+        "주말관람",
+        "원본확인"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 86,
+      "reasons": [
+        "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
+        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
+      ],
+      "evidence": [
+        "유형: 공연",
+        "분야: 뮤지컬",
+        "관람연령: 24개월 이상",
+        "학생대상 후보: 초등",
+        "지역: 확인필요",
+        "시작까지 -40일"
+      ],
+      "warnings": [
+        "장소 또는 지역 확인 필요"
+      ],
+      "programIdeas": [
+        "관람 전 배경지식 10분 브리핑",
+        "관람 후 한 문단 감상 기록",
+        "학부모 주말 문화체험 안내"
+      ]
+    }
+  },
+  {
+    "id": "kopis-PF294699",
+    "source": "kopis",
+    "title": "매직 인 버블랜드 [인천]",
+    "eventType": "공연",
+    "category": "서커스/마술",
+    "grades": [
+      "초등"
+    ],
+    "ageText": "20개월 이상",
+    "region": "인천",
+    "venueName": "인천어린이과학관",
+    "venueAddress": null,
+    "startDate": "2026-07-25",
+    "endDate": "2026-08-16",
+    "dday": -19,
+    "runtime": "50분",
+    "priceText": "현장판매 25,000원, 사전예약 15,000원",
+    "free": false,
+    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF294699_260626_132828.png",
+    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF294699",
+    "summary": "매직 인 버블랜드 [인천]은(는) 인천어린이과학관에서 진행되는 서커스/마술 행사입니다.",
+    "status": "예정",
+    "conflict": false,
+    "recommendation": {
+      "subjectTags": [
+        "국어/논술",
+        "예술"
+      ],
+      "useCaseTags": [
+        "아동공연",
+        "주말관람",
+        "원본확인"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 100,
+      "reasons": [
+        "20개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
+        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
+      ],
+      "evidence": [
+        "유형: 공연",
+        "분야: 서커스/마술",
+        "관람연령: 20개월 이상",
+        "학생대상 후보: 초등",
+        "지역: 인천",
+        "시작까지 -19일"
+      ],
+      "warnings": [],
+      "programIdeas": [
+        "관람 전 배경지식 10분 브리핑",
+        "관람 후 한 문단 감상 기록",
+        "학부모 주말 문화체험 안내"
+      ]
+    }
+  },
+  {
+    "id": "kopis-PF290802",
+    "source": "kopis",
+    "title": "멜로우TV: Run it up, 팀 나빠 [대전]",
+    "eventType": "공연",
+    "category": "뮤지컬",
+    "grades": [
+      "초등"
+    ],
+    "ageText": "24개월 이상",
+    "region": "대전",
+    "venueName": "대전평송청소년문화센터",
+    "venueAddress": null,
+    "startDate": "2026-07-25",
+    "endDate": "2026-07-26",
+    "dday": -40,
+    "runtime": "1시간 10분",
+    "priceText": "R석 70,000원",
+    "free": false,
+    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF290802_260507_114444.gif",
+    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF290802",
+    "summary": "멜로우TV: Run it up, 팀 나빠 [대전]은(는) 대전평송청소년문화센터에서 진행되는 뮤지컬 행사입니다.",
+    "status": "예정",
+    "conflict": false,
+    "recommendation": {
+      "subjectTags": [
+        "국어/논술",
+        "예술"
+      ],
+      "useCaseTags": [
+        "아동공연",
+        "주말관람",
+        "원본확인"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 100,
+      "reasons": [
+        "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
+        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
+      ],
+      "evidence": [
+        "유형: 공연",
+        "분야: 뮤지컬",
+        "관람연령: 24개월 이상",
+        "학생대상 후보: 초등",
+        "지역: 대전",
+        "시작까지 -40일"
+      ],
+      "warnings": [],
+      "programIdeas": [
+        "관람 전 배경지식 10분 브리핑",
+        "관람 후 한 문단 감상 기록",
+        "학부모 주말 문화체험 안내"
+      ]
+    }
+  },
+  {
+    "id": "kopis-PF280986",
+    "source": "kopis",
+    "title": "무지개 물고기 [세종]",
+    "eventType": "공연",
+    "category": "뮤지컬",
+    "grades": [
+      "초등"
+    ],
+    "ageText": "24개월 이상",
+    "region": "확인필요",
+    "venueName": "비오케이아트센터(BOK아트센터)",
+    "venueAddress": null,
+    "startDate": "2026-07-25",
+    "endDate": "2026-07-26",
+    "dday": -40,
+    "runtime": "1시간",
+    "priceText": "전석 50,000원",
+    "free": false,
+    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF280986_251205_122022.jpg",
+    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF280986",
+    "summary": "무지개 물고기 [세종]은(는) 비오케이아트센터(BOK아트센터)에서 진행되는 뮤지컬 행사입니다.",
+    "status": "예정",
+    "conflict": false,
+    "recommendation": {
+      "subjectTags": [
+        "국어/논술",
+        "예술"
+      ],
+      "useCaseTags": [
+        "아동공연",
+        "주말관람",
+        "원본확인"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 86,
+      "reasons": [
+        "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
+        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
+      ],
+      "evidence": [
+        "유형: 공연",
+        "분야: 뮤지컬",
+        "관람연령: 24개월 이상",
+        "학생대상 후보: 초등",
+        "지역: 확인필요",
+        "시작까지 -40일"
+      ],
+      "warnings": [
+        "장소 또는 지역 확인 필요"
+      ],
+      "programIdeas": [
+        "관람 전 배경지식 10분 브리핑",
+        "관람 후 한 문단 감상 기록",
+        "학부모 주말 문화체험 안내"
+      ]
+    }
+  },
+  {
+    "id": "kopis-PF293968",
+    "source": "kopis",
+    "title": "백설공주 [구미]",
+    "eventType": "공연",
+    "category": "뮤지컬",
+    "grades": [
+      "초등"
+    ],
+    "ageText": "전체 관람가",
+    "region": "확인필요",
+    "venueName": "롯데마트 어린이소극장 [구미]",
+    "venueAddress": null,
+    "startDate": "2026-07-25",
+    "endDate": "2026-08-23",
+    "dday": -12,
+    "runtime": "50분",
+    "priceText": "전석 22,000원",
+    "free": false,
+    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF293968_260617_145522.jpg",
+    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF293968",
+    "summary": "백설공주 [구미]은(는) 롯데마트 어린이소극장 [구미]에서 진행되는 뮤지컬 행사입니다.",
+    "status": "예정",
+    "conflict": false,
+    "recommendation": {
+      "subjectTags": [
+        "국어/논술",
+        "예술"
+      ],
+      "useCaseTags": [
+        "아동공연",
+        "주말관람",
+        "원본확인"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 86,
+      "reasons": [
+        "전체 관람가 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
+        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
+      ],
+      "evidence": [
+        "유형: 공연",
+        "분야: 뮤지컬",
+        "관람연령: 전체 관람가",
+        "학생대상 후보: 초등",
+        "지역: 확인필요",
+        "시작까지 -12일"
+      ],
+      "warnings": [
+        "장소 또는 지역 확인 필요"
+      ],
+      "programIdeas": [
+        "관람 전 배경지식 10분 브리핑",
+        "관람 후 한 문단 감상 기록",
+        "학부모 주말 문화체험 안내"
+      ]
+    }
+  },
+  {
+    "id": "kopis-PF294429",
+    "source": "kopis",
+    "title": "베베핀, 두근두근 새친구 [이천]",
+    "eventType": "공연",
+    "category": "뮤지컬",
+    "grades": [
+      "초등"
+    ],
+    "ageText": "12개월 이상",
+    "region": "확인필요",
+    "venueName": "이천아트홀",
+    "venueAddress": null,
+    "startDate": "2026-07-25",
+    "endDate": "2026-07-25",
+    "dday": -41,
+    "runtime": "1시간 10분",
+    "priceText": "VIP석 77,000원",
+    "free": false,
+    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF294429_260623_131459.gif",
+    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF294429",
+    "summary": "베베핀, 두근두근 새친구 [이천]은(는) 이천아트홀에서 진행되는 뮤지컬 행사입니다.",
+    "status": "예정",
+    "conflict": false,
+    "recommendation": {
+      "subjectTags": [
+        "국어/논술",
+        "예술"
+      ],
+      "useCaseTags": [
+        "아동공연",
+        "주말관람",
+        "원본확인"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 86,
+      "reasons": [
+        "12개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
+        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
+      ],
+      "evidence": [
+        "유형: 공연",
+        "분야: 뮤지컬",
+        "관람연령: 12개월 이상",
+        "학생대상 후보: 초등",
+        "지역: 확인필요",
+        "시작까지 -41일"
+      ],
+      "warnings": [
+        "장소 또는 지역 확인 필요"
+      ],
+      "programIdeas": [
+        "관람 전 배경지식 10분 브리핑",
+        "관람 후 한 문단 감상 기록",
+        "학부모 주말 문화체험 안내"
+      ]
+    }
+  },
+  {
+    "id": "kopis-PF294380",
+    "source": "kopis",
+    "title": "부엉이의 안경 [남양주]",
+    "eventType": "공연",
+    "category": "무용(서양/한국무용)",
+    "grades": [
+      "초등"
+    ],
+    "ageText": "전체 관람가",
+    "region": "확인필요",
+    "venueName": "다산아트홀",
+    "venueAddress": null,
+    "startDate": "2026-07-25",
+    "endDate": "2026-07-25",
+    "dday": -41,
+    "runtime": "50분",
+    "priceText": "전석 10,000원",
+    "free": false,
+    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF294380_260623_102940.gif",
+    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF294380",
+    "summary": "부엉이의 안경 [남양주]은(는) 다산아트홀에서 진행되는 무용(서양/한국무용) 행사입니다.",
+    "status": "예정",
+    "conflict": false,
+    "recommendation": {
+      "subjectTags": [
+        "국어/논술",
+        "예술"
+      ],
+      "useCaseTags": [
+        "아동공연",
+        "주말관람",
+        "원본확인"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 86,
+      "reasons": [
+        "전체 관람가 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
+        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
+      ],
+      "evidence": [
+        "유형: 공연",
+        "분야: 무용(서양/한국무용)",
+        "관람연령: 전체 관람가",
+        "학생대상 후보: 초등",
+        "지역: 확인필요",
+        "시작까지 -41일"
+      ],
+      "warnings": [
+        "장소 또는 지역 확인 필요"
+      ],
+      "programIdeas": [
+        "관람 전 배경지식 10분 브리핑",
+        "관람 후 한 문단 감상 기록",
+        "학부모 주말 문화체험 안내"
+      ]
+    }
+  },
+  {
+    "id": "kopis-PF292142",
+    "source": "kopis",
+    "title": "사과가 쿵! [대전]",
+    "eventType": "공연",
+    "category": "뮤지컬",
+    "grades": [
+      "초등"
+    ],
+    "ageText": "24개월 이상",
+    "region": "대전",
+    "venueName": "대전평송청소년문화센터",
+    "venueAddress": null,
+    "startDate": "2026-07-25",
+    "endDate": "2026-07-25",
+    "dday": -41,
+    "runtime": "55분",
+    "priceText": "전석 40,000원",
+    "free": false,
+    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF292142_260526_104904.gif",
+    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF292142",
+    "summary": "사과가 쿵! [대전]은(는) 대전평송청소년문화센터에서 진행되는 뮤지컬 행사입니다.",
+    "status": "예정",
+    "conflict": false,
+    "recommendation": {
+      "subjectTags": [
+        "국어/논술",
+        "예술"
+      ],
+      "useCaseTags": [
+        "아동공연",
+        "주말관람",
+        "원본확인"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 100,
+      "reasons": [
+        "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
+        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
+      ],
+      "evidence": [
+        "유형: 공연",
+        "분야: 뮤지컬",
+        "관람연령: 24개월 이상",
+        "학생대상 후보: 초등",
+        "지역: 대전",
+        "시작까지 -41일"
+      ],
+      "warnings": [],
+      "programIdeas": [
+        "관람 전 배경지식 10분 브리핑",
+        "관람 후 한 문단 감상 기록",
+        "학부모 주말 문화체험 안내"
+      ]
+    }
+  },
+  {
+    "id": "kopis-PF292495",
+    "source": "kopis",
+    "title": "사과가 쿵! [예산]",
+    "eventType": "공연",
+    "category": "뮤지컬",
+    "grades": [
+      "초등"
+    ],
+    "ageText": "20개월 이상",
+    "region": "충남",
+    "venueName": "충남도청 문예회관",
+    "venueAddress": null,
+    "startDate": "2026-07-25",
+    "endDate": "2026-07-25",
+    "dday": -41,
+    "runtime": "1시간",
+    "priceText": "전석 50,000원",
+    "free": false,
+    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF292495_260529_104931.png",
+    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF292495",
+    "summary": "사과가 쿵! [예산]은(는) 충남도청 문예회관에서 진행되는 뮤지컬 행사입니다.",
+    "status": "예정",
+    "conflict": false,
+    "recommendation": {
+      "subjectTags": [
+        "국어/논술",
+        "예술"
+      ],
+      "useCaseTags": [
+        "아동공연",
+        "주말관람",
+        "원본확인"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 100,
+      "reasons": [
+        "20개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
+        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
+      ],
+      "evidence": [
+        "유형: 공연",
+        "분야: 뮤지컬",
+        "관람연령: 20개월 이상",
+        "학생대상 후보: 초등",
+        "지역: 충남",
+        "시작까지 -41일"
+      ],
+      "warnings": [],
+      "programIdeas": [
+        "관람 전 배경지식 10분 브리핑",
+        "관람 후 한 문단 감상 기록",
+        "학부모 주말 문화체험 안내"
+      ]
+    }
+  },
+  {
+    "id": "kopis-PF294422",
+    "source": "kopis",
+    "title": "세이프키즈 명곡시리즈, 헨젤과 그레텔 [서울 은평]",
+    "eventType": "공연",
+    "category": "뮤지컬",
+    "grades": [
+      "초등"
+    ],
+    "ageText": "전체 관람가",
+    "region": "확인필요",
+    "venueName": "은평문화예술회관",
+    "venueAddress": null,
+    "startDate": "2026-07-25",
+    "endDate": "2026-07-25",
+    "dday": -41,
+    "runtime": "1시간 10분",
+    "priceText": "VIP석 30,000원, R석 20,000원, S석 10,000원",
+    "free": false,
+    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF294422_260623_125114.gif",
+    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF294422",
+    "summary": "세이프키즈 명곡시리즈, 헨젤과 그레텔 [서울 은평]은(는) 은평문화예술회관에서 진행되는 뮤지컬 행사입니다.",
+    "status": "예정",
+    "conflict": false,
+    "recommendation": {
+      "subjectTags": [
+        "국어/논술",
+        "예술"
+      ],
+      "useCaseTags": [
+        "아동공연",
+        "주말관람",
+        "원본확인"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 86,
+      "reasons": [
+        "전체 관람가 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
+        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
+      ],
+      "evidence": [
+        "유형: 공연",
+        "분야: 뮤지컬",
+        "관람연령: 전체 관람가",
+        "학생대상 후보: 초등",
+        "지역: 확인필요",
+        "시작까지 -41일"
+      ],
+      "warnings": [
+        "장소 또는 지역 확인 필요"
+      ],
+      "programIdeas": [
+        "관람 전 배경지식 10분 브리핑",
+        "관람 후 한 문단 감상 기록",
+        "학부모 주말 문화체험 안내"
+      ]
+    }
+  },
+  {
+    "id": "kopis-PF291801",
+    "source": "kopis",
+    "title": "신데렐라 [진주]",
+    "eventType": "공연",
+    "category": "뮤지컬",
+    "grades": [
+      "초등"
+    ],
+    "ageText": "전체 관람가",
+    "region": "확인필요",
+    "venueName": "경상대학교 칠암캠퍼스",
+    "venueAddress": null,
+    "startDate": "2026-07-25",
+    "endDate": "2026-07-25",
+    "dday": -41,
+    "runtime": "50분",
+    "priceText": "사전예약 9,900원",
+    "free": false,
+    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF291801_260520_103716.jpg",
+    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF291801",
+    "summary": "신데렐라 [진주]은(는) 경상대학교 칠암캠퍼스에서 진행되는 뮤지컬 행사입니다.",
+    "status": "예정",
+    "conflict": false,
+    "recommendation": {
+      "subjectTags": [
+        "국어/논술",
+        "예술"
+      ],
+      "useCaseTags": [
+        "아동공연",
+        "주말관람",
+        "원본확인"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 86,
+      "reasons": [
+        "전체 관람가 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
+        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
+      ],
+      "evidence": [
+        "유형: 공연",
+        "분야: 뮤지컬",
+        "관람연령: 전체 관람가",
+        "학생대상 후보: 초등",
+        "지역: 확인필요",
+        "시작까지 -41일"
+      ],
+      "warnings": [
+        "장소 또는 지역 확인 필요"
+      ],
+      "programIdeas": [
+        "관람 전 배경지식 10분 브리핑",
+        "관람 후 한 문단 감상 기록",
+        "학부모 주말 문화체험 안내"
+      ]
+    }
+  },
+  {
+    "id": "kopis-PF294712",
+    "source": "kopis",
+    "title": "안녕, 잠!",
+    "eventType": "공연",
+    "category": "연극",
+    "grades": [
+      "초등"
+    ],
+    "ageText": "36개월 이상",
+    "region": "확인필요",
+    "venueName": "북아현아트홀",
+    "venueAddress": null,
+    "startDate": "2026-07-25",
+    "endDate": "2026-07-25",
+    "dday": -41,
+    "runtime": "1시간",
+    "priceText": "전석 30,000원",
+    "free": false,
+    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF294712_260626_140225.png",
+    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF294712",
+    "summary": "안녕, 잠!은(는) 북아현아트홀에서 진행되는 연극 행사입니다.",
+    "status": "예정",
+    "conflict": false,
+    "recommendation": {
+      "subjectTags": [
+        "국어/논술",
+        "예술"
+      ],
+      "useCaseTags": [
+        "아동공연",
+        "주말관람",
+        "원본확인"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 86,
+      "reasons": [
+        "36개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
+        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
+      ],
+      "evidence": [
+        "유형: 공연",
+        "분야: 연극",
+        "관람연령: 36개월 이상",
+        "학생대상 후보: 초등",
+        "지역: 확인필요",
+        "시작까지 -41일"
+      ],
+      "warnings": [
+        "장소 또는 지역 확인 필요"
+      ],
+      "programIdeas": [
+        "관람 전 배경지식 10분 브리핑",
+        "관람 후 한 문단 감상 기록",
+        "학부모 주말 문화체험 안내"
+      ]
+    }
+  },
+  {
+    "id": "kopis-PF291081",
+    "source": "kopis",
+    "title": "알파블록스 [대구]",
+    "eventType": "공연",
+    "category": "뮤지컬",
+    "grades": [
+      "초등"
+    ],
+    "ageText": "24개월 이상",
+    "region": "확인필요",
+    "venueName": "천마아트센터",
+    "venueAddress": null,
+    "startDate": "2026-07-25",
+    "endDate": "2026-07-26",
+    "dday": -40,
+    "runtime": "1시간 15분",
+    "priceText": "R석 70,000원, S석 60,000원",
+    "free": false,
+    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF291081_260511_134850.gif",
+    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF291081",
+    "summary": "알파블록스 [대구]은(는) 천마아트센터에서 진행되는 뮤지컬 행사입니다.",
+    "status": "예정",
+    "conflict": false,
+    "recommendation": {
+      "subjectTags": [
+        "국어/논술",
+        "예술"
+      ],
+      "useCaseTags": [
+        "아동공연",
+        "주말관람",
+        "원본확인"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 86,
+      "reasons": [
+        "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
+        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
+      ],
+      "evidence": [
+        "유형: 공연",
+        "분야: 뮤지컬",
+        "관람연령: 24개월 이상",
+        "학생대상 후보: 초등",
+        "지역: 확인필요",
+        "시작까지 -40일"
+      ],
+      "warnings": [
+        "장소 또는 지역 확인 필요"
+      ],
+      "programIdeas": [
+        "관람 전 배경지식 10분 브리핑",
+        "관람 후 한 문단 감상 기록",
+        "학부모 주말 문화체험 안내"
+      ]
+    }
+  },
+  {
+    "id": "kopis-PF293182",
+    "source": "kopis",
+    "title": "어린이 마술쇼 [김해]",
+    "eventType": "공연",
+    "category": "서커스/마술",
+    "grades": [
+      "초등"
+    ],
+    "ageText": "24개월 이상",
+    "region": "확인필요",
+    "venueName": "김해 장유문화센터",
+    "venueAddress": null,
+    "startDate": "2026-07-25",
+    "endDate": "2026-07-25",
+    "dday": -41,
+    "runtime": "1시간",
+    "priceText": "전석 30,000원",
+    "free": false,
+    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF293182_260609_102742.jpg",
+    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF293182",
+    "summary": "어린이 마술쇼 [김해]은(는) 김해 장유문화센터에서 진행되는 서커스/마술 행사입니다.",
+    "status": "예정",
+    "conflict": false,
+    "recommendation": {
+      "subjectTags": [
+        "국어/논술",
+        "예술"
+      ],
+      "useCaseTags": [
+        "아동공연",
+        "주말관람",
+        "원본확인"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 86,
+      "reasons": [
+        "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
+        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
+      ],
+      "evidence": [
+        "유형: 공연",
+        "분야: 서커스/마술",
+        "관람연령: 24개월 이상",
+        "학생대상 후보: 초등",
+        "지역: 확인필요",
+        "시작까지 -41일"
+      ],
+      "warnings": [
+        "장소 또는 지역 확인 필요"
+      ],
+      "programIdeas": [
+        "관람 전 배경지식 10분 브리핑",
+        "관람 후 한 문단 감상 기록",
+        "학부모 주말 문화체험 안내"
+      ]
+    }
+  },
+  {
+    "id": "kopis-PF294561",
+    "source": "kopis",
+    "title": "어린이 아트스테이지, 일장일딴 컬렉션 [김포]",
+    "eventType": "공연",
+    "category": "연극",
+    "grades": [
+      "초등"
+    ],
+    "ageText": "48개월 이상",
+    "region": "확인필요",
+    "venueName": "통진두레문화센터",
+    "venueAddress": null,
+    "startDate": "2026-07-25",
+    "endDate": "2026-07-26",
+    "dday": -40,
+    "runtime": "55분",
+    "priceText": "전석 15,000원",
+    "free": false,
+    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF294561_260624_141844.gif",
+    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF294561",
+    "summary": "어린이 아트스테이지, 일장일딴 컬렉션 [김포]은(는) 통진두레문화센터에서 진행되는 연극 행사입니다.",
+    "status": "예정",
+    "conflict": false,
+    "recommendation": {
+      "subjectTags": [
+        "국어/논술",
+        "예술"
+      ],
+      "useCaseTags": [
+        "아동공연",
+        "주말관람",
+        "원본확인"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 86,
+      "reasons": [
+        "48개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
+        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
+      ],
+      "evidence": [
+        "유형: 공연",
+        "분야: 연극",
+        "관람연령: 48개월 이상",
+        "학생대상 후보: 초등",
+        "지역: 확인필요",
+        "시작까지 -40일"
+      ],
+      "warnings": [
+        "장소 또는 지역 확인 필요"
+      ],
+      "programIdeas": [
+        "관람 전 배경지식 10분 브리핑",
+        "관람 후 한 문단 감상 기록",
+        "학부모 주말 문화체험 안내"
+      ]
+    }
+  },
+  {
+    "id": "kopis-PF294606",
+    "source": "kopis",
+    "title": "에어리얼 매직쇼 [춘천]",
+    "eventType": "공연",
+    "category": "서커스/마술",
+    "grades": [
+      "초등"
+    ],
+    "ageText": "48개월 이상",
+    "region": "확인필요",
+    "venueName": "춘천인형극장",
+    "venueAddress": null,
+    "startDate": "2026-07-25",
+    "endDate": "2026-07-25",
+    "dday": -41,
+    "runtime": "50분",
+    "priceText": "전석 40,000원",
+    "free": false,
+    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF294606_260625_113452.png",
+    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF294606",
+    "summary": "에어리얼 매직쇼 [춘천]은(는) 춘천인형극장에서 진행되는 서커스/마술 행사입니다.",
+    "status": "예정",
+    "conflict": false,
+    "recommendation": {
+      "subjectTags": [
+        "국어/논술",
+        "예술"
+      ],
+      "useCaseTags": [
+        "아동공연",
+        "주말관람",
+        "원본확인"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 86,
+      "reasons": [
+        "48개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
+        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
+      ],
+      "evidence": [
+        "유형: 공연",
+        "분야: 서커스/마술",
+        "관람연령: 48개월 이상",
+        "학생대상 후보: 초등",
+        "지역: 확인필요",
+        "시작까지 -41일"
+      ],
+      "warnings": [
+        "장소 또는 지역 확인 필요"
+      ],
+      "programIdeas": [
+        "관람 전 배경지식 10분 브리핑",
+        "관람 후 한 문단 감상 기록",
+        "학부모 주말 문화체험 안내"
+      ]
+    }
+  },
+  {
+    "id": "kopis-PF294523",
+    "source": "kopis",
+    "title": "오즈의 마법사 [구미]",
+    "eventType": "공연",
+    "category": "뮤지컬",
+    "grades": [
+      "초등"
+    ],
+    "ageText": "20개월 이상",
+    "region": "확인필요",
+    "venueName": "구미시문화예술회관",
+    "venueAddress": null,
+    "startDate": "2026-07-25",
+    "endDate": "2026-07-26",
+    "dday": -40,
+    "runtime": "55분",
+    "priceText": "전석 50,000원",
+    "free": false,
+    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF294523_260624_130411.gif",
+    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF294523",
+    "summary": "오즈의 마법사 [구미]은(는) 구미시문화예술회관에서 진행되는 뮤지컬 행사입니다.",
+    "status": "예정",
+    "conflict": false,
+    "recommendation": {
+      "subjectTags": [
+        "국어/논술",
+        "예술"
+      ],
+      "useCaseTags": [
+        "아동공연",
+        "주말관람",
+        "원본확인"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 86,
+      "reasons": [
+        "20개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
+        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
+      ],
+      "evidence": [
+        "유형: 공연",
+        "분야: 뮤지컬",
+        "관람연령: 20개월 이상",
+        "학생대상 후보: 초등",
+        "지역: 확인필요",
+        "시작까지 -40일"
+      ],
+      "warnings": [
+        "장소 또는 지역 확인 필요"
+      ],
+      "programIdeas": [
+        "관람 전 배경지식 10분 브리핑",
+        "관람 후 한 문단 감상 기록",
+        "학부모 주말 문화체험 안내"
+      ]
+    }
+  },
+  {
+    "id": "kopis-PF289969",
+    "source": "kopis",
+    "title": "인싸가족",
+    "eventType": "공연",
+    "category": "뮤지컬",
+    "grades": [
+      "초등"
+    ],
+    "ageText": "24개월 이상",
+    "region": "확인필요",
+    "venueName": "티켓링크 1975 씨어터(구.능동 어린이회관)",
+    "venueAddress": null,
+    "startDate": "2026-07-25",
+    "endDate": "2026-08-02",
+    "dday": -33,
+    "runtime": "1시간 5분",
+    "priceText": "VIP석 77,000원, R석 66,000원",
+    "free": false,
+    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF289969_260423_104757.gif",
+    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF289969",
+    "summary": "인싸가족은(는) 티켓링크 1975 씨어터(구.능동 어린이회관)에서 진행되는 뮤지컬 행사입니다.",
     "status": "예정",
     "conflict": false,
     "recommendation": {
@@ -16137,5126 +21258,6 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     }
   },
   {
-    "id": "kopis-PF292976",
-    "source": "kopis",
-    "title": "NAC 문화예술교육 공연 및 체험, 악기체험 클클클 Ⅲ. 친구들이 놀러왔어 [부산]",
-    "eventType": "공연",
-    "category": "서양음악(클래식)",
-    "grades": [
-      "초등"
-    ],
-    "ageText": "전체 관람가",
-    "region": "확인필요",
-    "venueName": "낙동아트센터",
-    "venueAddress": null,
-    "startDate": "2026-07-18",
-    "endDate": "2026-07-18",
-    "dday": -42,
-    "runtime": "1시간",
-    "priceText": "전석 10,000원",
-    "free": false,
-    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF292976_260605_113547.jpg",
-    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF292976",
-    "summary": "NAC 문화예술교육 공연 및 체험, 악기체험 클클클 Ⅲ. 친구들이 놀러왔어 [부산]은(는) 낙동아트센터에서 진행되는 서양음악(클래식) 행사입니다.",
-    "status": "예정",
-    "conflict": false,
-    "recommendation": {
-      "subjectTags": [
-        "국어/논술",
-        "예술"
-      ],
-      "useCaseTags": [
-        "아동공연",
-        "주말관람",
-        "원본확인"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 86,
-      "reasons": [
-        "전체 관람가 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
-      ],
-      "evidence": [
-        "유형: 공연",
-        "분야: 서양음악(클래식)",
-        "관람연령: 전체 관람가",
-        "학생대상 후보: 초등",
-        "지역: 확인필요",
-        "시작까지 -42일"
-      ],
-      "warnings": [
-        "장소 또는 지역 확인 필요"
-      ],
-      "programIdeas": [
-        "관람 전 배경지식 10분 브리핑",
-        "관람 후 한 문단 감상 기록",
-        "학부모 주말 문화체험 안내"
-      ]
-    }
-  },
-  {
-    "id": "kopis-PF293647",
-    "source": "kopis",
-    "title": "강북Festa, 디어 산타",
-    "eventType": "공연",
-    "category": "연극",
-    "grades": [
-      "초등"
-    ],
-    "ageText": "36개월 이상",
-    "region": "확인필요",
-    "venueName": "강북문화예술회관",
-    "venueAddress": null,
-    "startDate": "2026-07-18",
-    "endDate": "2026-07-18",
-    "dday": -42,
-    "runtime": "1시간 20분",
-    "priceText": "전석 10,000원",
-    "free": false,
-    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF293647_260615_102458.jpg",
-    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF293647",
-    "summary": "강북Festa, 디어 산타은(는) 강북문화예술회관에서 진행되는 연극 행사입니다.",
-    "status": "예정",
-    "conflict": false,
-    "recommendation": {
-      "subjectTags": [
-        "국어/논술",
-        "예술"
-      ],
-      "useCaseTags": [
-        "아동공연",
-        "주말관람",
-        "원본확인"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 86,
-      "reasons": [
-        "36개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
-      ],
-      "evidence": [
-        "유형: 공연",
-        "분야: 연극",
-        "관람연령: 36개월 이상",
-        "학생대상 후보: 초등",
-        "지역: 확인필요",
-        "시작까지 -42일"
-      ],
-      "warnings": [
-        "장소 또는 지역 확인 필요"
-      ],
-      "programIdeas": [
-        "관람 전 배경지식 10분 브리핑",
-        "관람 후 한 문단 감상 기록",
-        "학부모 주말 문화체험 안내"
-      ]
-    }
-  },
-  {
-    "id": "kopis-PF292404",
-    "source": "kopis",
-    "title": "개구쟁이 특공대: 마녀저택 [전주]",
-    "eventType": "공연",
-    "category": "뮤지컬",
-    "grades": [
-      "초등"
-    ],
-    "ageText": "24개월 이상",
-    "region": "확인필요",
-    "venueName": "한국소리문화의전당",
-    "venueAddress": null,
-    "startDate": "2026-07-18",
-    "endDate": "2026-07-19",
-    "dday": -41,
-    "runtime": "1시간 10분",
-    "priceText": "전석 70,000원",
-    "free": false,
-    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF292404_260528_110759.gif",
-    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF292404",
-    "summary": "개구쟁이 특공대: 마녀저택 [전주]은(는) 한국소리문화의전당에서 진행되는 뮤지컬 행사입니다.",
-    "status": "예정",
-    "conflict": false,
-    "recommendation": {
-      "subjectTags": [
-        "국어/논술",
-        "예술"
-      ],
-      "useCaseTags": [
-        "아동공연",
-        "주말관람",
-        "원본확인"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 86,
-      "reasons": [
-        "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
-      ],
-      "evidence": [
-        "유형: 공연",
-        "분야: 뮤지컬",
-        "관람연령: 24개월 이상",
-        "학생대상 후보: 초등",
-        "지역: 확인필요",
-        "시작까지 -41일"
-      ],
-      "warnings": [
-        "장소 또는 지역 확인 필요"
-      ],
-      "programIdeas": [
-        "관람 전 배경지식 10분 브리핑",
-        "관람 후 한 문단 감상 기록",
-        "학부모 주말 문화체험 안내"
-      ]
-    }
-  },
-  {
-    "id": "kopis-PF292953",
-    "source": "kopis",
-    "title": "겨울왕국: 겨울이야기 [부천]",
-    "eventType": "공연",
-    "category": "뮤지컬",
-    "grades": [
-      "초등"
-    ],
-    "ageText": "24개월 이상",
-    "region": "확인필요",
-    "venueName": "복사골문화센터",
-    "venueAddress": null,
-    "startDate": "2026-07-18",
-    "endDate": "2026-07-19",
-    "dday": -41,
-    "runtime": "1시간 5분",
-    "priceText": "R석 50,000원",
-    "free": false,
-    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF292953_260605_103628.jpg",
-    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF292953",
-    "summary": "겨울왕국: 겨울이야기 [부천]은(는) 복사골문화센터에서 진행되는 뮤지컬 행사입니다.",
-    "status": "예정",
-    "conflict": false,
-    "recommendation": {
-      "subjectTags": [
-        "국어/논술",
-        "예술"
-      ],
-      "useCaseTags": [
-        "아동공연",
-        "주말관람",
-        "원본확인"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 86,
-      "reasons": [
-        "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
-      ],
-      "evidence": [
-        "유형: 공연",
-        "분야: 뮤지컬",
-        "관람연령: 24개월 이상",
-        "학생대상 후보: 초등",
-        "지역: 확인필요",
-        "시작까지 -41일"
-      ],
-      "warnings": [
-        "장소 또는 지역 확인 필요"
-      ],
-      "programIdeas": [
-        "관람 전 배경지식 10분 브리핑",
-        "관람 후 한 문단 감상 기록",
-        "학부모 주말 문화체험 안내"
-      ]
-    }
-  },
-  {
-    "id": "kopis-PF292512",
-    "source": "kopis",
-    "title": "넘버블록스 [하남 (앵콜) ]",
-    "eventType": "공연",
-    "category": "뮤지컬",
-    "grades": [
-      "초등"
-    ],
-    "ageText": "24개월 이상",
-    "region": "확인필요",
-    "venueName": "하남문화예술회관",
-    "venueAddress": null,
-    "startDate": "2026-07-18",
-    "endDate": "2026-07-19",
-    "dday": -41,
-    "runtime": "1시간 10분",
-    "priceText": "R석 70,000원, S석 60,000원",
-    "free": false,
-    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF292512_260529_114548.jpg",
-    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF292512",
-    "summary": "넘버블록스 [하남 (앵콜) ]은(는) 하남문화예술회관에서 진행되는 뮤지컬 행사입니다.",
-    "status": "예정",
-    "conflict": false,
-    "recommendation": {
-      "subjectTags": [
-        "국어/논술",
-        "예술"
-      ],
-      "useCaseTags": [
-        "아동공연",
-        "주말관람",
-        "원본확인"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 86,
-      "reasons": [
-        "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
-      ],
-      "evidence": [
-        "유형: 공연",
-        "분야: 뮤지컬",
-        "관람연령: 24개월 이상",
-        "학생대상 후보: 초등",
-        "지역: 확인필요",
-        "시작까지 -41일"
-      ],
-      "warnings": [
-        "장소 또는 지역 확인 필요"
-      ],
-      "programIdeas": [
-        "관람 전 배경지식 10분 브리핑",
-        "관람 후 한 문단 감상 기록",
-        "학부모 주말 문화체험 안내"
-      ]
-    }
-  },
-  {
-    "id": "kopis-PF294249",
-    "source": "kopis",
-    "title": "도깨비 운동회 [서울 종로]",
-    "eventType": "공연",
-    "category": "무용(서양/한국무용)",
-    "grades": [
-      "초등"
-    ],
-    "ageText": "36개월 이상",
-    "region": "서울",
-    "venueName": "서울돈화문국악당",
-    "venueAddress": null,
-    "startDate": "2026-07-18",
-    "endDate": "2026-07-18",
-    "dday": -42,
-    "runtime": "1시간",
-    "priceText": "전석 20,000원",
-    "free": false,
-    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF294249_260622_111939.gif",
-    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF294249",
-    "summary": "도깨비 운동회 [서울 종로]은(는) 서울돈화문국악당에서 진행되는 무용(서양/한국무용) 행사입니다.",
-    "status": "예정",
-    "conflict": false,
-    "recommendation": {
-      "subjectTags": [
-        "국어/논술",
-        "예술"
-      ],
-      "useCaseTags": [
-        "아동공연",
-        "주말관람",
-        "원본확인"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 100,
-      "reasons": [
-        "36개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
-      ],
-      "evidence": [
-        "유형: 공연",
-        "분야: 무용(서양/한국무용)",
-        "관람연령: 36개월 이상",
-        "학생대상 후보: 초등",
-        "지역: 서울",
-        "시작까지 -42일"
-      ],
-      "warnings": [],
-      "programIdeas": [
-        "관람 전 배경지식 10분 브리핑",
-        "관람 후 한 문단 감상 기록",
-        "학부모 주말 문화체험 안내"
-      ]
-    }
-  },
-  {
-    "id": "kopis-PF294664",
-    "source": "kopis",
-    "title": "똥벼락 [목포]",
-    "eventType": "공연",
-    "category": "한국음악(국악)",
-    "grades": [
-      "초등"
-    ],
-    "ageText": "만 4세 이상",
-    "region": "확인필요",
-    "venueName": "목포문화예술회관",
-    "venueAddress": null,
-    "startDate": "2026-07-18",
-    "endDate": "2026-07-18",
-    "dday": -42,
-    "runtime": "1시간",
-    "priceText": "전석 10,000원",
-    "free": false,
-    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF294664_260626_103515.jpg",
-    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF294664",
-    "summary": "똥벼락 [목포]은(는) 목포문화예술회관에서 진행되는 한국음악(국악) 행사입니다.",
-    "status": "예정",
-    "conflict": false,
-    "recommendation": {
-      "subjectTags": [
-        "국어/논술",
-        "예술"
-      ],
-      "useCaseTags": [
-        "아동공연",
-        "주말관람",
-        "원본확인"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 86,
-      "reasons": [
-        "만 4세 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
-      ],
-      "evidence": [
-        "유형: 공연",
-        "분야: 한국음악(국악)",
-        "관람연령: 만 4세 이상",
-        "학생대상 후보: 초등",
-        "지역: 확인필요",
-        "시작까지 -42일"
-      ],
-      "warnings": [
-        "장소 또는 지역 확인 필요"
-      ],
-      "programIdeas": [
-        "관람 전 배경지식 10분 브리핑",
-        "관람 후 한 문단 감상 기록",
-        "학부모 주말 문화체험 안내"
-      ]
-    }
-  },
-  {
-    "id": "kopis-PF292467",
-    "source": "kopis",
-    "title": "바다탐험대 옥토넛 시즌4: 숨겨진 보물을 찾아라! [과천]",
-    "eventType": "공연",
-    "category": "뮤지컬",
-    "grades": [
-      "초등"
-    ],
-    "ageText": "전체 관람가",
-    "region": "확인필요",
-    "venueName": "국립과천과학관",
-    "venueAddress": null,
-    "startDate": "2026-07-18",
-    "endDate": "2026-07-19",
-    "dday": -41,
-    "runtime": "1시간 5분",
-    "priceText": "전석 70,000원",
-    "free": false,
-    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF292467_260528_143951.gif",
-    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF292467",
-    "summary": "바다탐험대 옥토넛 시즌4: 숨겨진 보물을 찾아라! [과천]은(는) 국립과천과학관에서 진행되는 뮤지컬 행사입니다.",
-    "status": "예정",
-    "conflict": false,
-    "recommendation": {
-      "subjectTags": [
-        "국어/논술",
-        "예술"
-      ],
-      "useCaseTags": [
-        "아동공연",
-        "주말관람",
-        "원본확인"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 86,
-      "reasons": [
-        "전체 관람가 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
-      ],
-      "evidence": [
-        "유형: 공연",
-        "분야: 뮤지컬",
-        "관람연령: 전체 관람가",
-        "학생대상 후보: 초등",
-        "지역: 확인필요",
-        "시작까지 -41일"
-      ],
-      "warnings": [
-        "장소 또는 지역 확인 필요"
-      ],
-      "programIdeas": [
-        "관람 전 배경지식 10분 브리핑",
-        "관람 후 한 문단 감상 기록",
-        "학부모 주말 문화체험 안내"
-      ]
-    }
-  },
-  {
-    "id": "kopis-PF291847",
-    "source": "kopis",
-    "title": "백설공주 [광양]",
-    "eventType": "공연",
-    "category": "뮤지컬",
-    "grades": [
-      "초등"
-    ],
-    "ageText": "전체 관람가",
-    "region": "확인필요",
-    "venueName": "광양시문화예술회관",
-    "venueAddress": null,
-    "startDate": "2026-07-18",
-    "endDate": "2026-07-18",
-    "dday": -42,
-    "runtime": "50분",
-    "priceText": "현장판매 35,000원, 사전예약 9,900원",
-    "free": false,
-    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF291847_260520_133210.jpg",
-    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF291847",
-    "summary": "백설공주 [광양]은(는) 광양시문화예술회관에서 진행되는 뮤지컬 행사입니다.",
-    "status": "예정",
-    "conflict": false,
-    "recommendation": {
-      "subjectTags": [
-        "국어/논술",
-        "예술"
-      ],
-      "useCaseTags": [
-        "아동공연",
-        "주말관람",
-        "원본확인"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 86,
-      "reasons": [
-        "전체 관람가 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
-      ],
-      "evidence": [
-        "유형: 공연",
-        "분야: 뮤지컬",
-        "관람연령: 전체 관람가",
-        "학생대상 후보: 초등",
-        "지역: 확인필요",
-        "시작까지 -42일"
-      ],
-      "warnings": [
-        "장소 또는 지역 확인 필요"
-      ],
-      "programIdeas": [
-        "관람 전 배경지식 10분 브리핑",
-        "관람 후 한 문단 감상 기록",
-        "학부모 주말 문화체험 안내"
-      ]
-    }
-  },
-  {
-    "id": "kopis-PF290713",
-    "source": "kopis",
-    "title": "베베핀, 두근두근 새친구 [안산]",
-    "eventType": "공연",
-    "category": "뮤지컬",
-    "grades": [
-      "초등"
-    ],
-    "ageText": "12개월 이상",
-    "region": "확인필요",
-    "venueName": "안산문화예술의전당",
-    "venueAddress": null,
-    "startDate": "2026-07-18",
-    "endDate": "2026-07-19",
-    "dday": -41,
-    "runtime": "1시간 10분",
-    "priceText": "VIP석 77,000원, R석 55,000원",
-    "free": false,
-    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF290713_260506_131200.gif",
-    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF290713",
-    "summary": "베베핀, 두근두근 새친구 [안산]은(는) 안산문화예술의전당에서 진행되는 뮤지컬 행사입니다.",
-    "status": "예정",
-    "conflict": false,
-    "recommendation": {
-      "subjectTags": [
-        "국어/논술",
-        "예술"
-      ],
-      "useCaseTags": [
-        "아동공연",
-        "주말관람",
-        "원본확인"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 86,
-      "reasons": [
-        "12개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
-      ],
-      "evidence": [
-        "유형: 공연",
-        "분야: 뮤지컬",
-        "관람연령: 12개월 이상",
-        "학생대상 후보: 초등",
-        "지역: 확인필요",
-        "시작까지 -41일"
-      ],
-      "warnings": [
-        "장소 또는 지역 확인 필요"
-      ],
-      "programIdeas": [
-        "관람 전 배경지식 10분 브리핑",
-        "관람 후 한 문단 감상 기록",
-        "학부모 주말 문화체험 안내"
-      ]
-    }
-  },
-  {
-    "id": "kopis-PF294038",
-    "source": "kopis",
-    "title": "사과가 쿵! [서울 노원]",
-    "eventType": "공연",
-    "category": "뮤지컬",
-    "grades": [
-      "초등"
-    ],
-    "ageText": "24개월 이상",
-    "region": "확인필요",
-    "venueName": "노원구민의전당(구. 노원구민회관)",
-    "venueAddress": null,
-    "startDate": "2026-07-18",
-    "endDate": "2026-07-18",
-    "dday": -42,
-    "runtime": "50분",
-    "priceText": "전석 40,000원, 사전예약 10,000원",
-    "free": false,
-    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF294038_260618_145321.jpg",
-    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF294038",
-    "summary": "사과가 쿵! [서울 노원]은(는) 노원구민의전당(구. 노원구민회관)에서 진행되는 뮤지컬 행사입니다.",
-    "status": "예정",
-    "conflict": false,
-    "recommendation": {
-      "subjectTags": [
-        "국어/논술",
-        "예술"
-      ],
-      "useCaseTags": [
-        "아동공연",
-        "주말관람",
-        "원본확인"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 86,
-      "reasons": [
-        "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
-      ],
-      "evidence": [
-        "유형: 공연",
-        "분야: 뮤지컬",
-        "관람연령: 24개월 이상",
-        "학생대상 후보: 초등",
-        "지역: 확인필요",
-        "시작까지 -42일"
-      ],
-      "warnings": [
-        "장소 또는 지역 확인 필요"
-      ],
-      "programIdeas": [
-        "관람 전 배경지식 10분 브리핑",
-        "관람 후 한 문단 감상 기록",
-        "학부모 주말 문화체험 안내"
-      ]
-    }
-  },
-  {
-    "id": "kopis-PF292176",
-    "source": "kopis",
-    "title": "신데렐라 [파주]",
-    "eventType": "공연",
-    "category": "뮤지컬",
-    "grades": [
-      "초등"
-    ],
-    "ageText": "24개월 이상",
-    "region": "확인필요",
-    "venueName": "파주시민회관",
-    "venueAddress": null,
-    "startDate": "2026-07-18",
-    "endDate": "2026-07-18",
-    "dday": -42,
-    "runtime": "1시간",
-    "priceText": "현장판매 40,000원, 사전예약 11,900원",
-    "free": false,
-    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF292176_260526_125011.jpg",
-    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF292176",
-    "summary": "신데렐라 [파주]은(는) 파주시민회관에서 진행되는 뮤지컬 행사입니다.",
-    "status": "예정",
-    "conflict": false,
-    "recommendation": {
-      "subjectTags": [
-        "국어/논술",
-        "예술"
-      ],
-      "useCaseTags": [
-        "아동공연",
-        "주말관람",
-        "원본확인"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 86,
-      "reasons": [
-        "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
-      ],
-      "evidence": [
-        "유형: 공연",
-        "분야: 뮤지컬",
-        "관람연령: 24개월 이상",
-        "학생대상 후보: 초등",
-        "지역: 확인필요",
-        "시작까지 -42일"
-      ],
-      "warnings": [
-        "장소 또는 지역 확인 필요"
-      ],
-      "programIdeas": [
-        "관람 전 배경지식 10분 브리핑",
-        "관람 후 한 문단 감상 기록",
-        "학부모 주말 문화체험 안내"
-      ]
-    }
-  },
-  {
-    "id": "kopis-PF292580",
-    "source": "kopis",
-    "title": "신데렐라 [평택]",
-    "eventType": "공연",
-    "category": "뮤지컬",
-    "grades": [
-      "초등"
-    ],
-    "ageText": "24개월 이상",
-    "region": "확인필요",
-    "venueName": "평택시서부문예회관",
-    "venueAddress": null,
-    "startDate": "2026-07-18",
-    "endDate": "2026-07-18",
-    "dday": -42,
-    "runtime": "55분",
-    "priceText": "사전예약 10,000원",
-    "free": false,
-    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF292580_260601_102922.png",
-    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF292580",
-    "summary": "신데렐라 [평택]은(는) 평택시서부문예회관에서 진행되는 뮤지컬 행사입니다.",
-    "status": "예정",
-    "conflict": false,
-    "recommendation": {
-      "subjectTags": [
-        "국어/논술",
-        "예술"
-      ],
-      "useCaseTags": [
-        "아동공연",
-        "주말관람",
-        "원본확인"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 86,
-      "reasons": [
-        "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
-      ],
-      "evidence": [
-        "유형: 공연",
-        "분야: 뮤지컬",
-        "관람연령: 24개월 이상",
-        "학생대상 후보: 초등",
-        "지역: 확인필요",
-        "시작까지 -42일"
-      ],
-      "warnings": [
-        "장소 또는 지역 확인 필요"
-      ],
-      "programIdeas": [
-        "관람 전 배경지식 10분 브리핑",
-        "관람 후 한 문단 감상 기록",
-        "학부모 주말 문화체험 안내"
-      ]
-    }
-  },
-  {
-    "id": "kopis-PF291145",
-    "source": "kopis",
-    "title": "아쿠아쇼: 바닷 속 버블왕국 [서울 영등포]",
-    "eventType": "공연",
-    "category": "서커스/마술",
-    "grades": [
-      "초등"
-    ],
-    "ageText": "전체 관람가",
-    "region": "확인필요",
-    "venueName": "영등포아트홀",
-    "venueAddress": null,
-    "startDate": "2026-07-18",
-    "endDate": "2026-07-18",
-    "dday": -42,
-    "runtime": "1시간",
-    "priceText": "전석 50,000원",
-    "free": false,
-    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF291145_260512_095111.gif",
-    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF291145",
-    "summary": "아쿠아쇼: 바닷 속 버블왕국 [서울 영등포]은(는) 영등포아트홀에서 진행되는 서커스/마술 행사입니다.",
-    "status": "예정",
-    "conflict": false,
-    "recommendation": {
-      "subjectTags": [
-        "국어/논술",
-        "예술"
-      ],
-      "useCaseTags": [
-        "아동공연",
-        "주말관람",
-        "원본확인"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 86,
-      "reasons": [
-        "전체 관람가 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
-      ],
-      "evidence": [
-        "유형: 공연",
-        "분야: 서커스/마술",
-        "관람연령: 전체 관람가",
-        "학생대상 후보: 초등",
-        "지역: 확인필요",
-        "시작까지 -42일"
-      ],
-      "warnings": [
-        "장소 또는 지역 확인 필요"
-      ],
-      "programIdeas": [
-        "관람 전 배경지식 10분 브리핑",
-        "관람 후 한 문단 감상 기록",
-        "학부모 주말 문화체험 안내"
-      ]
-    }
-  },
-  {
-    "id": "kopis-PF291124",
-    "source": "kopis",
-    "title": "알파블록스 [전주]",
-    "eventType": "공연",
-    "category": "뮤지컬",
-    "grades": [
-      "초등"
-    ],
-    "ageText": "24개월 이상",
-    "region": "전북",
-    "venueName": "전북대학교 삼성문화회관",
-    "venueAddress": null,
-    "startDate": "2026-07-18",
-    "endDate": "2026-07-19",
-    "dday": -41,
-    "runtime": "1시간 15분",
-    "priceText": "R석 70,000원, S석 60,000원",
-    "free": false,
-    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF291124_260511_150917.gif",
-    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF291124",
-    "summary": "알파블록스 [전주]은(는) 전북대학교 삼성문화회관에서 진행되는 뮤지컬 행사입니다.",
-    "status": "예정",
-    "conflict": false,
-    "recommendation": {
-      "subjectTags": [
-        "국어/논술",
-        "예술"
-      ],
-      "useCaseTags": [
-        "아동공연",
-        "주말관람",
-        "원본확인"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 100,
-      "reasons": [
-        "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
-      ],
-      "evidence": [
-        "유형: 공연",
-        "분야: 뮤지컬",
-        "관람연령: 24개월 이상",
-        "학생대상 후보: 초등",
-        "지역: 전북",
-        "시작까지 -41일"
-      ],
-      "warnings": [],
-      "programIdeas": [
-        "관람 전 배경지식 10분 브리핑",
-        "관람 후 한 문단 감상 기록",
-        "학부모 주말 문화체험 안내"
-      ]
-    }
-  },
-  {
-    "id": "kopis-PF292885",
-    "source": "kopis",
-    "title": "어린이 마술쇼 [진주]",
-    "eventType": "공연",
-    "category": "서커스/마술",
-    "grades": [
-      "초등"
-    ],
-    "ageText": "전체 관람가",
-    "region": "확인필요",
-    "venueName": "경상대학교 칠암캠퍼스",
-    "venueAddress": null,
-    "startDate": "2026-07-18",
-    "endDate": "2026-07-18",
-    "dday": -42,
-    "runtime": "1시간",
-    "priceText": "전석 10,000원",
-    "free": false,
-    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF292885_260604_140614.jpg",
-    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF292885",
-    "summary": "어린이 마술쇼 [진주]은(는) 경상대학교 칠암캠퍼스에서 진행되는 서커스/마술 행사입니다.",
-    "status": "예정",
-    "conflict": false,
-    "recommendation": {
-      "subjectTags": [
-        "국어/논술",
-        "예술"
-      ],
-      "useCaseTags": [
-        "아동공연",
-        "주말관람",
-        "원본확인"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 86,
-      "reasons": [
-        "전체 관람가 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
-      ],
-      "evidence": [
-        "유형: 공연",
-        "분야: 서커스/마술",
-        "관람연령: 전체 관람가",
-        "학생대상 후보: 초등",
-        "지역: 확인필요",
-        "시작까지 -42일"
-      ],
-      "warnings": [
-        "장소 또는 지역 확인 필요"
-      ],
-      "programIdeas": [
-        "관람 전 배경지식 10분 브리핑",
-        "관람 후 한 문단 감상 기록",
-        "학부모 주말 문화체험 안내"
-      ]
-    }
-  },
-  {
-    "id": "kopis-PF294360",
-    "source": "kopis",
-    "title": "어린이 서커스쇼 [남양주]",
-    "eventType": "공연",
-    "category": "서커스/마술",
-    "grades": [
-      "초등"
-    ],
-    "ageText": "24개월 이상",
-    "region": "확인필요",
-    "venueName": "남양주 어린이비전센터",
-    "venueAddress": null,
-    "startDate": "2026-07-18",
-    "endDate": "2026-07-18",
-    "dday": -42,
-    "runtime": "1시간",
-    "priceText": "현장판매 35,000원, 사전예약 10,000원",
-    "free": false,
-    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF294360_260622_161632.png",
-    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF294360",
-    "summary": "어린이 서커스쇼 [남양주]은(는) 남양주 어린이비전센터에서 진행되는 서커스/마술 행사입니다.",
-    "status": "예정",
-    "conflict": false,
-    "recommendation": {
-      "subjectTags": [
-        "국어/논술",
-        "예술"
-      ],
-      "useCaseTags": [
-        "아동공연",
-        "주말관람",
-        "원본확인"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 86,
-      "reasons": [
-        "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
-      ],
-      "evidence": [
-        "유형: 공연",
-        "분야: 서커스/마술",
-        "관람연령: 24개월 이상",
-        "학생대상 후보: 초등",
-        "지역: 확인필요",
-        "시작까지 -42일"
-      ],
-      "warnings": [
-        "장소 또는 지역 확인 필요"
-      ],
-      "programIdeas": [
-        "관람 전 배경지식 10분 브리핑",
-        "관람 후 한 문단 감상 기록",
-        "학부모 주말 문화체험 안내"
-      ]
-    }
-  },
-  {
-    "id": "kopis-PF291990",
-    "source": "kopis",
-    "title": "어린이 캣프렌즈 [부산]",
-    "eventType": "공연",
-    "category": "뮤지컬",
-    "grades": [
-      "초등"
-    ],
-    "ageText": "24개월 이상",
-    "region": "확인필요",
-    "venueName": "신세계 문화홀 [센텀시티]",
-    "venueAddress": null,
-    "startDate": "2026-07-18",
-    "endDate": "2026-07-19",
-    "dday": -41,
-    "runtime": "55분",
-    "priceText": "전석 40,000원",
-    "free": false,
-    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF291990_260521_142711.png",
-    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF291990",
-    "summary": "어린이 캣프렌즈 [부산]은(는) 신세계 문화홀 [센텀시티]에서 진행되는 뮤지컬 행사입니다.",
-    "status": "예정",
-    "conflict": false,
-    "recommendation": {
-      "subjectTags": [
-        "국어/논술",
-        "예술"
-      ],
-      "useCaseTags": [
-        "아동공연",
-        "주말관람",
-        "원본확인"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 86,
-      "reasons": [
-        "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
-      ],
-      "evidence": [
-        "유형: 공연",
-        "분야: 뮤지컬",
-        "관람연령: 24개월 이상",
-        "학생대상 후보: 초등",
-        "지역: 확인필요",
-        "시작까지 -41일"
-      ],
-      "warnings": [
-        "장소 또는 지역 확인 필요"
-      ],
-      "programIdeas": [
-        "관람 전 배경지식 10분 브리핑",
-        "관람 후 한 문단 감상 기록",
-        "학부모 주말 문화체험 안내"
-      ]
-    }
-  },
-  {
-    "id": "kopis-PF291905",
-    "source": "kopis",
-    "title": "엄마까투리: 유치원도, 도시도 처음이야 [경주]",
-    "eventType": "공연",
-    "category": "뮤지컬",
-    "grades": [
-      "초등"
-    ],
-    "ageText": "전체 관람가",
-    "region": "확인필요",
-    "venueName": "경주예술의전당",
-    "venueAddress": null,
-    "startDate": "2026-07-18",
-    "endDate": "2026-07-18",
-    "dday": -42,
-    "runtime": "1시간 10분",
-    "priceText": "사전예약 35,000원",
-    "free": false,
-    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF291905_260521_100625.jpg",
-    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF291905",
-    "summary": "엄마까투리: 유치원도, 도시도 처음이야 [경주]은(는) 경주예술의전당에서 진행되는 뮤지컬 행사입니다.",
-    "status": "예정",
-    "conflict": false,
-    "recommendation": {
-      "subjectTags": [
-        "국어/논술",
-        "예술"
-      ],
-      "useCaseTags": [
-        "아동공연",
-        "주말관람",
-        "원본확인"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 86,
-      "reasons": [
-        "전체 관람가 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
-      ],
-      "evidence": [
-        "유형: 공연",
-        "분야: 뮤지컬",
-        "관람연령: 전체 관람가",
-        "학생대상 후보: 초등",
-        "지역: 확인필요",
-        "시작까지 -42일"
-      ],
-      "warnings": [
-        "장소 또는 지역 확인 필요"
-      ],
-      "programIdeas": [
-        "관람 전 배경지식 10분 브리핑",
-        "관람 후 한 문단 감상 기록",
-        "학부모 주말 문화체험 안내"
-      ]
-    }
-  },
-  {
-    "id": "kopis-PF292770",
-    "source": "kopis",
-    "title": "엉뚱발랄 콩순이: 슈퍼콘서트 [대구]",
-    "eventType": "공연",
-    "category": "뮤지컬",
-    "grades": [
-      "초등"
-    ],
-    "ageText": "전체 관람가",
-    "region": "대구",
-    "venueName": "대구어린이회관 꾀꼬리극장",
-    "venueAddress": null,
-    "startDate": "2026-07-18",
-    "endDate": "2026-07-19",
-    "dday": -41,
-    "runtime": "1시간 10분",
-    "priceText": "R석 66,000원",
-    "free": false,
-    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF292770_260602_113959.gif",
-    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF292770",
-    "summary": "엉뚱발랄 콩순이: 슈퍼콘서트 [대구]은(는) 대구어린이회관 꾀꼬리극장에서 진행되는 뮤지컬 행사입니다.",
-    "status": "예정",
-    "conflict": false,
-    "recommendation": {
-      "subjectTags": [
-        "국어/논술",
-        "예술"
-      ],
-      "useCaseTags": [
-        "아동공연",
-        "주말관람",
-        "원본확인"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 100,
-      "reasons": [
-        "전체 관람가 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
-      ],
-      "evidence": [
-        "유형: 공연",
-        "분야: 뮤지컬",
-        "관람연령: 전체 관람가",
-        "학생대상 후보: 초등",
-        "지역: 대구",
-        "시작까지 -41일"
-      ],
-      "warnings": [],
-      "programIdeas": [
-        "관람 전 배경지식 10분 브리핑",
-        "관람 후 한 문단 감상 기록",
-        "학부모 주말 문화체험 안내"
-      ]
-    }
-  },
-  {
-    "id": "kopis-PF291028",
-    "source": "kopis",
-    "title": "우주매직쇼 [안산]",
-    "eventType": "공연",
-    "category": "서커스/마술",
-    "grades": [
-      "초등"
-    ],
-    "ageText": "24개월 이상",
-    "region": "확인필요",
-    "venueName": "보노마루",
-    "venueAddress": null,
-    "startDate": "2026-07-18",
-    "endDate": "2026-08-16",
-    "dday": -13,
-    "runtime": "1시간",
-    "priceText": "전석 40,000원",
-    "free": false,
-    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF291028_260511_111502.png",
-    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF291028",
-    "summary": "우주매직쇼 [안산]은(는) 보노마루에서 진행되는 서커스/마술 행사입니다.",
-    "status": "예정",
-    "conflict": false,
-    "recommendation": {
-      "subjectTags": [
-        "국어/논술",
-        "예술"
-      ],
-      "useCaseTags": [
-        "아동공연",
-        "주말관람",
-        "원본확인"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 86,
-      "reasons": [
-        "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
-      ],
-      "evidence": [
-        "유형: 공연",
-        "분야: 서커스/마술",
-        "관람연령: 24개월 이상",
-        "학생대상 후보: 초등",
-        "지역: 확인필요",
-        "시작까지 -13일"
-      ],
-      "warnings": [
-        "장소 또는 지역 확인 필요"
-      ],
-      "programIdeas": [
-        "관람 전 배경지식 10분 브리핑",
-        "관람 후 한 문단 감상 기록",
-        "학부모 주말 문화체험 안내"
-      ]
-    }
-  },
-  {
-    "id": "kopis-PF292409",
-    "source": "kopis",
-    "title": "인어공주 [고양]",
-    "eventType": "공연",
-    "category": "뮤지컬",
-    "grades": [
-      "초등"
-    ],
-    "ageText": "24개월 이상",
-    "region": "확인필요",
-    "venueName": "고양어울림누리",
-    "venueAddress": null,
-    "startDate": "2026-07-18",
-    "endDate": "2026-07-18",
-    "dday": -42,
-    "runtime": "1시간",
-    "priceText": "R석 35,000원, 고양나눔특별할인석 9,500원",
-    "free": false,
-    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF292409_260528_112337.gif",
-    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF292409",
-    "summary": "인어공주 [고양]은(는) 고양어울림누리에서 진행되는 뮤지컬 행사입니다.",
-    "status": "예정",
-    "conflict": false,
-    "recommendation": {
-      "subjectTags": [
-        "국어/논술",
-        "예술"
-      ],
-      "useCaseTags": [
-        "아동공연",
-        "주말관람",
-        "원본확인"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 86,
-      "reasons": [
-        "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
-      ],
-      "evidence": [
-        "유형: 공연",
-        "분야: 뮤지컬",
-        "관람연령: 24개월 이상",
-        "학생대상 후보: 초등",
-        "지역: 확인필요",
-        "시작까지 -42일"
-      ],
-      "warnings": [
-        "장소 또는 지역 확인 필요"
-      ],
-      "programIdeas": [
-        "관람 전 배경지식 10분 브리핑",
-        "관람 후 한 문단 감상 기록",
-        "학부모 주말 문화체험 안내"
-      ]
-    }
-  },
-  {
-    "id": "kopis-PF291765",
-    "source": "kopis",
-    "title": "인어공주 [인천]",
-    "eventType": "공연",
-    "category": "뮤지컬",
-    "grades": [
-      "초등"
-    ],
-    "ageText": "24개월 이상",
-    "region": "확인필요",
-    "venueName": "부평아트센터",
-    "venueAddress": null,
-    "startDate": "2026-07-18",
-    "endDate": "2026-07-19",
-    "dday": -41,
-    "runtime": "1시간",
-    "priceText": "전석 40,000원",
-    "free": false,
-    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF291765_260519_142553.gif",
-    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF291765",
-    "summary": "인어공주 [인천]은(는) 부평아트센터에서 진행되는 뮤지컬 행사입니다.",
-    "status": "예정",
-    "conflict": false,
-    "recommendation": {
-      "subjectTags": [
-        "국어/논술",
-        "예술"
-      ],
-      "useCaseTags": [
-        "아동공연",
-        "주말관람",
-        "원본확인"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 86,
-      "reasons": [
-        "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
-      ],
-      "evidence": [
-        "유형: 공연",
-        "분야: 뮤지컬",
-        "관람연령: 24개월 이상",
-        "학생대상 후보: 초등",
-        "지역: 확인필요",
-        "시작까지 -41일"
-      ],
-      "warnings": [
-        "장소 또는 지역 확인 필요"
-      ],
-      "programIdeas": [
-        "관람 전 배경지식 10분 브리핑",
-        "관람 후 한 문단 감상 기록",
-        "학부모 주말 문화체험 안내"
-      ]
-    }
-  },
-  {
-    "id": "kopis-PF291052",
-    "source": "kopis",
-    "title": "인어공주 [제주 서귀포]",
-    "eventType": "공연",
-    "category": "뮤지컬",
-    "grades": [
-      "초등"
-    ],
-    "ageText": "24개월 이상",
-    "region": "확인필요",
-    "venueName": "서귀포예술의전당",
-    "venueAddress": null,
-    "startDate": "2026-07-18",
-    "endDate": "2026-07-18",
-    "dday": -42,
-    "runtime": "1시간",
-    "priceText": "전석 40,000원",
-    "free": false,
-    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF291052_260511_124755.jpg",
-    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF291052",
-    "summary": "인어공주 [제주 서귀포]은(는) 서귀포예술의전당에서 진행되는 뮤지컬 행사입니다.",
-    "status": "예정",
-    "conflict": false,
-    "recommendation": {
-      "subjectTags": [
-        "국어/논술",
-        "예술"
-      ],
-      "useCaseTags": [
-        "아동공연",
-        "주말관람",
-        "원본확인"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 86,
-      "reasons": [
-        "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
-      ],
-      "evidence": [
-        "유형: 공연",
-        "분야: 뮤지컬",
-        "관람연령: 24개월 이상",
-        "학생대상 후보: 초등",
-        "지역: 확인필요",
-        "시작까지 -42일"
-      ],
-      "warnings": [
-        "장소 또는 지역 확인 필요"
-      ],
-      "programIdeas": [
-        "관람 전 배경지식 10분 브리핑",
-        "관람 후 한 문단 감상 기록",
-        "학부모 주말 문화체험 안내"
-      ]
-    }
-  },
-  {
-    "id": "kopis-PF291791",
-    "source": "kopis",
-    "title": "잠자는 숲속의 공주 [수원]",
-    "eventType": "공연",
-    "category": "뮤지컬",
-    "grades": [
-      "초등"
-    ],
-    "ageText": "24개월 이상",
-    "region": "확인필요",
-    "venueName": "장안구민회관 한누리아트홀",
-    "venueAddress": null,
-    "startDate": "2026-07-18",
-    "endDate": "2026-07-18",
-    "dday": -42,
-    "runtime": "1시간",
-    "priceText": "전석 40,000원",
-    "free": false,
-    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF291791_260520_102126.gif",
-    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF291791",
-    "summary": "잠자는 숲속의 공주 [수원]은(는) 장안구민회관 한누리아트홀에서 진행되는 뮤지컬 행사입니다.",
-    "status": "예정",
-    "conflict": false,
-    "recommendation": {
-      "subjectTags": [
-        "국어/논술",
-        "예술"
-      ],
-      "useCaseTags": [
-        "아동공연",
-        "주말관람",
-        "원본확인"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 86,
-      "reasons": [
-        "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
-      ],
-      "evidence": [
-        "유형: 공연",
-        "분야: 뮤지컬",
-        "관람연령: 24개월 이상",
-        "학생대상 후보: 초등",
-        "지역: 확인필요",
-        "시작까지 -42일"
-      ],
-      "warnings": [
-        "장소 또는 지역 확인 필요"
-      ],
-      "programIdeas": [
-        "관람 전 배경지식 10분 브리핑",
-        "관람 후 한 문단 감상 기록",
-        "학부모 주말 문화체험 안내"
-      ]
-    }
-  },
-  {
-    "id": "kopis-PF290959",
-    "source": "kopis",
-    "title": "정글북 [부산]",
-    "eventType": "공연",
-    "category": "뮤지컬",
-    "grades": [
-      "초등"
-    ],
-    "ageText": "전체 관람가",
-    "region": "부산",
-    "venueName": "부산북구문화예술회관 (구.북구문화빙상센터)",
-    "venueAddress": null,
-    "startDate": "2026-07-18",
-    "endDate": "2026-07-18",
-    "dday": -42,
-    "runtime": "50분",
-    "priceText": "사전예약 9,900원",
-    "free": false,
-    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF290959_260508_134731.jpg",
-    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF290959",
-    "summary": "정글북 [부산]은(는) 부산북구문화예술회관 (구.북구문화빙상센터)에서 진행되는 뮤지컬 행사입니다.",
-    "status": "예정",
-    "conflict": false,
-    "recommendation": {
-      "subjectTags": [
-        "국어/논술",
-        "예술"
-      ],
-      "useCaseTags": [
-        "아동공연",
-        "주말관람",
-        "원본확인"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 100,
-      "reasons": [
-        "전체 관람가 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
-      ],
-      "evidence": [
-        "유형: 공연",
-        "분야: 뮤지컬",
-        "관람연령: 전체 관람가",
-        "학생대상 후보: 초등",
-        "지역: 부산",
-        "시작까지 -42일"
-      ],
-      "warnings": [],
-      "programIdeas": [
-        "관람 전 배경지식 10분 브리핑",
-        "관람 후 한 문단 감상 기록",
-        "학부모 주말 문화체험 안내"
-      ]
-    }
-  },
-  {
-    "id": "kopis-PF294341",
-    "source": "kopis",
-    "title": "제24회 경기인형극제, 망태할아버지가 온다 [수원]",
-    "eventType": "공연",
-    "category": "연극",
-    "grades": [
-      "초등"
-    ],
-    "ageText": "만 2세 이상",
-    "region": "경기",
-    "venueName": "(재)경기문화재단",
-    "venueAddress": null,
-    "startDate": "2026-07-18",
-    "endDate": "2026-07-18",
-    "dday": -42,
-    "runtime": "50분",
-    "priceText": "전석 20,000원",
-    "free": false,
-    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF294341_260622_152946.jpg",
-    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF294341",
-    "summary": "제24회 경기인형극제, 망태할아버지가 온다 [수원]은(는) (재)경기문화재단에서 진행되는 연극 행사입니다.",
-    "status": "예정",
-    "conflict": false,
-    "recommendation": {
-      "subjectTags": [
-        "국어/논술",
-        "예술"
-      ],
-      "useCaseTags": [
-        "아동공연",
-        "주말관람",
-        "원본확인"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 100,
-      "reasons": [
-        "만 2세 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
-      ],
-      "evidence": [
-        "유형: 공연",
-        "분야: 연극",
-        "관람연령: 만 2세 이상",
-        "학생대상 후보: 초등",
-        "지역: 경기",
-        "시작까지 -42일"
-      ],
-      "warnings": [],
-      "programIdeas": [
-        "관람 전 배경지식 10분 브리핑",
-        "관람 후 한 문단 감상 기록",
-        "학부모 주말 문화체험 안내"
-      ]
-    }
-  },
-  {
-    "id": "kopis-PF293456",
-    "source": "kopis",
-    "title": "창작오페라 collection No.3, 보칼리제 오페라: 달사람 [인천]",
-    "eventType": "공연",
-    "category": "서양음악(클래식)",
-    "grades": [
-      "초등"
-    ],
-    "ageText": "36개월 이상",
-    "region": "확인필요",
-    "venueName": "부평아트센터",
-    "venueAddress": null,
-    "startDate": "2026-07-18",
-    "endDate": "2026-07-18",
-    "dday": -42,
-    "runtime": "1시간",
-    "priceText": "전석무료",
-    "free": true,
-    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF293456_260611_142835.jpg",
-    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF293456",
-    "summary": "창작오페라 collection No.3, 보칼리제 오페라: 달사람 [인천]은(는) 부평아트센터에서 진행되는 서양음악(클래식) 행사입니다.",
-    "status": "예정",
-    "conflict": false,
-    "recommendation": {
-      "subjectTags": [
-        "국어/논술",
-        "예술"
-      ],
-      "useCaseTags": [
-        "아동공연",
-        "주말관람",
-        "원본확인"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 86,
-      "reasons": [
-        "36개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
-      ],
-      "evidence": [
-        "유형: 공연",
-        "분야: 서양음악(클래식)",
-        "관람연령: 36개월 이상",
-        "학생대상 후보: 초등",
-        "지역: 확인필요",
-        "시작까지 -42일"
-      ],
-      "warnings": [
-        "장소 또는 지역 확인 필요"
-      ],
-      "programIdeas": [
-        "관람 전 배경지식 10분 브리핑",
-        "관람 후 한 문단 감상 기록",
-        "학부모 주말 문화체험 안내"
-      ]
-    }
-  },
-  {
-    "id": "kopis-PF283670",
-    "source": "kopis",
-    "title": "키즈 마티네 콘서트: 요들요들 알프스 소년 [김포] (7월)",
-    "eventType": "공연",
-    "category": "서양음악(클래식)",
-    "grades": [
-      "초등"
-    ],
-    "ageText": "36개월 이상",
-    "region": "확인필요",
-    "venueName": "김포아트홀",
-    "venueAddress": null,
-    "startDate": "2026-07-18",
-    "endDate": "2026-07-18",
-    "dday": -42,
-    "runtime": "1시간",
-    "priceText": "전석 10,000원",
-    "free": false,
-    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF283670_260122_134512.gif",
-    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF283670",
-    "summary": "키즈 마티네 콘서트: 요들요들 알프스 소년 [김포] (7월)은(는) 김포아트홀에서 진행되는 서양음악(클래식) 행사입니다.",
-    "status": "예정",
-    "conflict": false,
-    "recommendation": {
-      "subjectTags": [
-        "국어/논술",
-        "예술"
-      ],
-      "useCaseTags": [
-        "아동공연",
-        "주말관람",
-        "원본확인"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 86,
-      "reasons": [
-        "36개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
-      ],
-      "evidence": [
-        "유형: 공연",
-        "분야: 서양음악(클래식)",
-        "관람연령: 36개월 이상",
-        "학생대상 후보: 초등",
-        "지역: 확인필요",
-        "시작까지 -42일"
-      ],
-      "warnings": [
-        "장소 또는 지역 확인 필요"
-      ],
-      "programIdeas": [
-        "관람 전 배경지식 10분 브리핑",
-        "관람 후 한 문단 감상 기록",
-        "학부모 주말 문화체험 안내"
-      ]
-    }
-  },
-  {
-    "id": "kopis-PF292938",
-    "source": "kopis",
-    "title": "키즈 바로크: 텔레만 아저씨의 이야기 보따리 [인천]",
-    "eventType": "공연",
-    "category": "서양음악(클래식)",
-    "grades": [
-      "초등"
-    ],
-    "ageText": "48개월 이상",
-    "region": "확인필요",
-    "venueName": "제물포구문화체육센터(구. 동구문화체육센터)",
-    "venueAddress": null,
-    "startDate": "2026-07-18",
-    "endDate": "2026-07-18",
-    "dday": -42,
-    "runtime": "1시간 10분",
-    "priceText": "전석 10,000원",
-    "free": false,
-    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF292938_260605_100737.jpg",
-    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF292938",
-    "summary": "키즈 바로크: 텔레만 아저씨의 이야기 보따리 [인천]은(는) 제물포구문화체육센터(구. 동구문화체육센터)에서 진행되는 서양음악(클래식) 행사입니다.",
-    "status": "예정",
-    "conflict": false,
-    "recommendation": {
-      "subjectTags": [
-        "국어/논술",
-        "예술"
-      ],
-      "useCaseTags": [
-        "아동공연",
-        "주말관람",
-        "원본확인"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 86,
-      "reasons": [
-        "48개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
-      ],
-      "evidence": [
-        "유형: 공연",
-        "분야: 서양음악(클래식)",
-        "관람연령: 48개월 이상",
-        "학생대상 후보: 초등",
-        "지역: 확인필요",
-        "시작까지 -42일"
-      ],
-      "warnings": [
-        "장소 또는 지역 확인 필요"
-      ],
-      "programIdeas": [
-        "관람 전 배경지식 10분 브리핑",
-        "관람 후 한 문단 감상 기록",
-        "학부모 주말 문화체험 안내"
-      ]
-    }
-  },
-  {
-    "id": "kopis-PF290813",
-    "source": "kopis",
-    "title": "포켓다이노 [청주]",
-    "eventType": "공연",
-    "category": "뮤지컬",
-    "grades": [
-      "초등"
-    ],
-    "ageText": "24개월 이상",
-    "region": "확인필요",
-    "venueName": "청주아트홀 (구. 청주시민회관)",
-    "venueAddress": null,
-    "startDate": "2026-07-18",
-    "endDate": "2026-07-18",
-    "dday": -42,
-    "runtime": "1시간",
-    "priceText": "전석 40,000원",
-    "free": false,
-    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF290813_260507_131924.jpg",
-    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF290813",
-    "summary": "포켓다이노 [청주]은(는) 청주아트홀 (구. 청주시민회관)에서 진행되는 뮤지컬 행사입니다.",
-    "status": "예정",
-    "conflict": false,
-    "recommendation": {
-      "subjectTags": [
-        "국어/논술",
-        "예술"
-      ],
-      "useCaseTags": [
-        "아동공연",
-        "주말관람",
-        "원본확인"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 86,
-      "reasons": [
-        "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
-      ],
-      "evidence": [
-        "유형: 공연",
-        "분야: 뮤지컬",
-        "관람연령: 24개월 이상",
-        "학생대상 후보: 초등",
-        "지역: 확인필요",
-        "시작까지 -42일"
-      ],
-      "warnings": [
-        "장소 또는 지역 확인 필요"
-      ],
-      "programIdeas": [
-        "관람 전 배경지식 10분 브리핑",
-        "관람 후 한 문단 감상 기록",
-        "학부모 주말 문화체험 안내"
-      ]
-    }
-  },
-  {
-    "id": "kopis-PF291818",
-    "source": "kopis",
-    "title": "프린세스 공주 [인천]",
-    "eventType": "공연",
-    "category": "뮤지컬",
-    "grades": [
-      "초등"
-    ],
-    "ageText": "24개월 이상",
-    "region": "인천",
-    "venueName": "인천문화예술회관",
-    "venueAddress": null,
-    "startDate": "2026-07-18",
-    "endDate": "2026-07-19",
-    "dday": -41,
-    "runtime": "1시간",
-    "priceText": "전석 40,000원",
-    "free": false,
-    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF291818_260520_110843.gif",
-    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF291818",
-    "summary": "프린세스 공주 [인천]은(는) 인천문화예술회관에서 진행되는 뮤지컬 행사입니다.",
-    "status": "예정",
-    "conflict": false,
-    "recommendation": {
-      "subjectTags": [
-        "국어/논술",
-        "예술"
-      ],
-      "useCaseTags": [
-        "아동공연",
-        "주말관람",
-        "원본확인"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 100,
-      "reasons": [
-        "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
-      ],
-      "evidence": [
-        "유형: 공연",
-        "분야: 뮤지컬",
-        "관람연령: 24개월 이상",
-        "학생대상 후보: 초등",
-        "지역: 인천",
-        "시작까지 -41일"
-      ],
-      "warnings": [],
-      "programIdeas": [
-        "관람 전 배경지식 10분 브리핑",
-        "관람 후 한 문단 감상 기록",
-        "학부모 주말 문화체험 안내"
-      ]
-    }
-  },
-  {
-    "id": "kopis-PF291836",
-    "source": "kopis",
-    "title": "프린세스 캐치! 티니핑 [수원]",
-    "eventType": "공연",
-    "category": "뮤지컬",
-    "grades": [
-      "초등"
-    ],
-    "ageText": "24개월 이상",
-    "region": "경기",
-    "venueName": "경기아트센터(구. 경기도문화의전당)",
-    "venueAddress": null,
-    "startDate": "2026-07-18",
-    "endDate": "2026-07-19",
-    "dday": -41,
-    "runtime": "1시간 10분",
-    "priceText": "R석 70,000원, S석 60,000원, 만원의 행복석 10,000원",
-    "free": false,
-    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF291836_260520_130303.gif",
-    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF291836",
-    "summary": "프린세스 캐치! 티니핑 [수원]은(는) 경기아트센터(구. 경기도문화의전당)에서 진행되는 뮤지컬 행사입니다.",
-    "status": "예정",
-    "conflict": false,
-    "recommendation": {
-      "subjectTags": [
-        "국어/논술",
-        "예술"
-      ],
-      "useCaseTags": [
-        "아동공연",
-        "주말관람",
-        "원본확인"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 100,
-      "reasons": [
-        "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
-      ],
-      "evidence": [
-        "유형: 공연",
-        "분야: 뮤지컬",
-        "관람연령: 24개월 이상",
-        "학생대상 후보: 초등",
-        "지역: 경기",
-        "시작까지 -41일"
-      ],
-      "warnings": [],
-      "programIdeas": [
-        "관람 전 배경지식 10분 브리핑",
-        "관람 후 한 문단 감상 기록",
-        "학부모 주말 문화체험 안내"
-      ]
-    }
-  },
-  {
-    "id": "kopis-PF293639",
-    "source": "kopis",
-    "title": "피노키오야 노올자~! [서울 구로]",
-    "eventType": "공연",
-    "category": "뮤지컬",
-    "grades": [
-      "초등"
-    ],
-    "ageText": "36개월 이상",
-    "region": "확인필요",
-    "venueName": "꿈나무극장",
-    "venueAddress": null,
-    "startDate": "2026-07-18",
-    "endDate": "2026-07-18",
-    "dday": -42,
-    "runtime": "1시간",
-    "priceText": "전석 10,000원",
-    "free": false,
-    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF293639_260612_174133.gif",
-    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF293639",
-    "summary": "피노키오야 노올자~! [서울 구로]은(는) 꿈나무극장에서 진행되는 뮤지컬 행사입니다.",
-    "status": "예정",
-    "conflict": false,
-    "recommendation": {
-      "subjectTags": [
-        "국어/논술",
-        "예술"
-      ],
-      "useCaseTags": [
-        "아동공연",
-        "주말관람",
-        "원본확인"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 86,
-      "reasons": [
-        "36개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
-      ],
-      "evidence": [
-        "유형: 공연",
-        "분야: 뮤지컬",
-        "관람연령: 36개월 이상",
-        "학생대상 후보: 초등",
-        "지역: 확인필요",
-        "시작까지 -42일"
-      ],
-      "warnings": [
-        "장소 또는 지역 확인 필요"
-      ],
-      "programIdeas": [
-        "관람 전 배경지식 10분 브리핑",
-        "관람 후 한 문단 감상 기록",
-        "학부모 주말 문화체험 안내"
-      ]
-    }
-  },
-  {
-    "id": "kopis-PF293741",
-    "source": "kopis",
-    "title": "피터팬 [서울 구로]",
-    "eventType": "공연",
-    "category": "뮤지컬",
-    "grades": [
-      "초등"
-    ],
-    "ageText": "24개월 이상",
-    "region": "확인필요",
-    "venueName": "구로구민회관",
-    "venueAddress": null,
-    "startDate": "2026-07-18",
-    "endDate": "2026-07-18",
-    "dday": -42,
-    "runtime": "1시간",
-    "priceText": "사전예약 12,900원",
-    "free": false,
-    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF293741_260615_142504.jpg",
-    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF293741",
-    "summary": "피터팬 [서울 구로]은(는) 구로구민회관에서 진행되는 뮤지컬 행사입니다.",
-    "status": "예정",
-    "conflict": false,
-    "recommendation": {
-      "subjectTags": [
-        "국어/논술",
-        "예술"
-      ],
-      "useCaseTags": [
-        "아동공연",
-        "주말관람",
-        "원본확인"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 86,
-      "reasons": [
-        "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
-      ],
-      "evidence": [
-        "유형: 공연",
-        "분야: 뮤지컬",
-        "관람연령: 24개월 이상",
-        "학생대상 후보: 초등",
-        "지역: 확인필요",
-        "시작까지 -42일"
-      ],
-      "warnings": [
-        "장소 또는 지역 확인 필요"
-      ],
-      "programIdeas": [
-        "관람 전 배경지식 10분 브리핑",
-        "관람 후 한 문단 감상 기록",
-        "학부모 주말 문화체험 안내"
-      ]
-    }
-  },
-  {
-    "id": "kopis-PF290952",
-    "source": "kopis",
-    "title": "피터팬 [화성]",
-    "eventType": "공연",
-    "category": "뮤지컬",
-    "grades": [
-      "초등"
-    ],
-    "ageText": "전체 관람가",
-    "region": "확인필요",
-    "venueName": "화성시어린이문화센터",
-    "venueAddress": null,
-    "startDate": "2026-07-18",
-    "endDate": "2026-07-18",
-    "dday": -42,
-    "runtime": "50분",
-    "priceText": "사전예약(특가 판매석) 9,900원, 사전예약(1인권 판매석) 14,900원",
-    "free": false,
-    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF290952_260508_134258.jpg",
-    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF290952",
-    "summary": "피터팬 [화성]은(는) 화성시어린이문화센터에서 진행되는 뮤지컬 행사입니다.",
-    "status": "예정",
-    "conflict": false,
-    "recommendation": {
-      "subjectTags": [
-        "국어/논술",
-        "예술"
-      ],
-      "useCaseTags": [
-        "아동공연",
-        "주말관람",
-        "원본확인"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 86,
-      "reasons": [
-        "전체 관람가 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
-      ],
-      "evidence": [
-        "유형: 공연",
-        "분야: 뮤지컬",
-        "관람연령: 전체 관람가",
-        "학생대상 후보: 초등",
-        "지역: 확인필요",
-        "시작까지 -42일"
-      ],
-      "warnings": [
-        "장소 또는 지역 확인 필요"
-      ],
-      "programIdeas": [
-        "관람 전 배경지식 10분 브리핑",
-        "관람 후 한 문단 감상 기록",
-        "학부모 주말 문화체험 안내"
-      ]
-    }
-  },
-  {
-    "id": "kopis-PF292383",
-    "source": "kopis",
-    "title": "겨울왕국: 겨울이야기 [대전]",
-    "eventType": "공연",
-    "category": "뮤지컬",
-    "grades": [
-      "초등"
-    ],
-    "ageText": "24개월 이상",
-    "region": "대전",
-    "venueName": "대전평송청소년문화센터",
-    "venueAddress": null,
-    "startDate": "2026-07-19",
-    "endDate": "2026-07-19",
-    "dday": -41,
-    "runtime": "1시간",
-    "priceText": "현장판매 40,000원, 사전예약 10,000원",
-    "free": false,
-    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF292383_260528_102844.jpg",
-    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF292383",
-    "summary": "겨울왕국: 겨울이야기 [대전]은(는) 대전평송청소년문화센터에서 진행되는 뮤지컬 행사입니다.",
-    "status": "예정",
-    "conflict": false,
-    "recommendation": {
-      "subjectTags": [
-        "국어/논술",
-        "예술"
-      ],
-      "useCaseTags": [
-        "아동공연",
-        "주말관람",
-        "원본확인"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 100,
-      "reasons": [
-        "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
-      ],
-      "evidence": [
-        "유형: 공연",
-        "분야: 뮤지컬",
-        "관람연령: 24개월 이상",
-        "학생대상 후보: 초등",
-        "지역: 대전",
-        "시작까지 -41일"
-      ],
-      "warnings": [],
-      "programIdeas": [
-        "관람 전 배경지식 10분 브리핑",
-        "관람 후 한 문단 감상 기록",
-        "학부모 주말 문화체험 안내"
-      ]
-    }
-  },
-  {
-    "id": "kopis-PF293064",
-    "source": "kopis",
-    "title": "미녀와 야수 [시흥]",
-    "eventType": "공연",
-    "category": "뮤지컬",
-    "grades": [
-      "초등"
-    ],
-    "ageText": "전체 관람가",
-    "region": "확인필요",
-    "venueName": "시흥ABC행복학습센터",
-    "venueAddress": null,
-    "startDate": "2026-07-19",
-    "endDate": "2026-07-19",
-    "dday": -41,
-    "runtime": "50분",
-    "priceText": "네이버 1인권 14,900원, 사전예약(특가) 9,900원",
-    "free": false,
-    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF293064_260608_133037.jpg",
-    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF293064",
-    "summary": "미녀와 야수 [시흥]은(는) 시흥ABC행복학습센터에서 진행되는 뮤지컬 행사입니다.",
-    "status": "예정",
-    "conflict": false,
-    "recommendation": {
-      "subjectTags": [
-        "국어/논술",
-        "예술"
-      ],
-      "useCaseTags": [
-        "아동공연",
-        "주말관람",
-        "원본확인"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 86,
-      "reasons": [
-        "전체 관람가 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
-      ],
-      "evidence": [
-        "유형: 공연",
-        "분야: 뮤지컬",
-        "관람연령: 전체 관람가",
-        "학생대상 후보: 초등",
-        "지역: 확인필요",
-        "시작까지 -41일"
-      ],
-      "warnings": [
-        "장소 또는 지역 확인 필요"
-      ],
-      "programIdeas": [
-        "관람 전 배경지식 10분 브리핑",
-        "관람 후 한 문단 감상 기록",
-        "학부모 주말 문화체험 안내"
-      ]
-    }
-  },
-  {
-    "id": "kopis-PF291906",
-    "source": "kopis",
-    "title": "백설공주 [보령]",
-    "eventType": "공연",
-    "category": "뮤지컬",
-    "grades": [
-      "초등"
-    ],
-    "ageText": "전체 관람가",
-    "region": "확인필요",
-    "venueName": "보령문화의전당",
-    "venueAddress": null,
-    "startDate": "2026-07-19",
-    "endDate": "2026-07-19",
-    "dday": -41,
-    "runtime": "50분",
-    "priceText": "현장판매 35,000원, 사전예약 9,900원",
-    "free": false,
-    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF291906_260521_100625.jpg",
-    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF291906",
-    "summary": "백설공주 [보령]은(는) 보령문화의전당에서 진행되는 뮤지컬 행사입니다.",
-    "status": "예정",
-    "conflict": false,
-    "recommendation": {
-      "subjectTags": [
-        "국어/논술",
-        "예술"
-      ],
-      "useCaseTags": [
-        "아동공연",
-        "주말관람",
-        "원본확인"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 86,
-      "reasons": [
-        "전체 관람가 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
-      ],
-      "evidence": [
-        "유형: 공연",
-        "분야: 뮤지컬",
-        "관람연령: 전체 관람가",
-        "학생대상 후보: 초등",
-        "지역: 확인필요",
-        "시작까지 -41일"
-      ],
-      "warnings": [
-        "장소 또는 지역 확인 필요"
-      ],
-      "programIdeas": [
-        "관람 전 배경지식 10분 브리핑",
-        "관람 후 한 문단 감상 기록",
-        "학부모 주말 문화체험 안내"
-      ]
-    }
-  },
-  {
-    "id": "kopis-PF294141",
-    "source": "kopis",
-    "title": "서커스디랩 기획공연: 더블 빌 [인천]",
-    "eventType": "공연",
-    "category": "서커스/마술",
-    "grades": [
-      "초등"
-    ],
-    "ageText": "만 5세 이상",
-    "region": "인천",
-    "venueName": "인천아트플랫폼",
-    "venueAddress": null,
-    "startDate": "2026-07-19",
-    "endDate": "2026-07-19",
-    "dday": -41,
-    "runtime": "1시간",
-    "priceText": "전석 10,000원",
-    "free": false,
-    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF294141_260619_134402.jpg",
-    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF294141",
-    "summary": "서커스디랩 기획공연: 더블 빌 [인천]은(는) 인천아트플랫폼에서 진행되는 서커스/마술 행사입니다.",
-    "status": "예정",
-    "conflict": false,
-    "recommendation": {
-      "subjectTags": [
-        "국어/논술",
-        "예술"
-      ],
-      "useCaseTags": [
-        "아동공연",
-        "주말관람",
-        "원본확인"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 100,
-      "reasons": [
-        "만 5세 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
-      ],
-      "evidence": [
-        "유형: 공연",
-        "분야: 서커스/마술",
-        "관람연령: 만 5세 이상",
-        "학생대상 후보: 초등",
-        "지역: 인천",
-        "시작까지 -41일"
-      ],
-      "warnings": [],
-      "programIdeas": [
-        "관람 전 배경지식 10분 브리핑",
-        "관람 후 한 문단 감상 기록",
-        "학부모 주말 문화체험 안내"
-      ]
-    }
-  },
-  {
-    "id": "kopis-PF289786",
-    "source": "kopis",
-    "title": "어린이 서커스 쇼 [원주]",
-    "eventType": "공연",
-    "category": "서커스/마술",
-    "grades": [
-      "초등"
-    ],
-    "ageText": "24개월 이상",
-    "region": "확인필요",
-    "venueName": "원주치악예술관",
-    "venueAddress": null,
-    "startDate": "2026-07-19",
-    "endDate": "2026-07-19",
-    "dday": -41,
-    "runtime": "55분",
-    "priceText": "전석 35,000원",
-    "free": false,
-    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF289786_260420_151647.jpg",
-    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF289786",
-    "summary": "어린이 서커스 쇼 [원주]은(는) 원주치악예술관에서 진행되는 서커스/마술 행사입니다.",
-    "status": "예정",
-    "conflict": false,
-    "recommendation": {
-      "subjectTags": [
-        "국어/논술",
-        "예술"
-      ],
-      "useCaseTags": [
-        "아동공연",
-        "주말관람",
-        "원본확인"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 86,
-      "reasons": [
-        "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
-      ],
-      "evidence": [
-        "유형: 공연",
-        "분야: 서커스/마술",
-        "관람연령: 24개월 이상",
-        "학생대상 후보: 초등",
-        "지역: 확인필요",
-        "시작까지 -41일"
-      ],
-      "warnings": [
-        "장소 또는 지역 확인 필요"
-      ],
-      "programIdeas": [
-        "관람 전 배경지식 10분 브리핑",
-        "관람 후 한 문단 감상 기록",
-        "학부모 주말 문화체험 안내"
-      ]
-    }
-  },
-  {
-    "id": "kopis-PF292627",
-    "source": "kopis",
-    "title": "워터버블쇼 [광주]",
-    "eventType": "공연",
-    "category": "서커스/마술",
-    "grades": [
-      "초등"
-    ],
-    "ageText": "24개월 이상",
-    "region": "확인필요",
-    "venueName": "빛고을시민문화관",
-    "venueAddress": null,
-    "startDate": "2026-07-19",
-    "endDate": "2026-07-19",
-    "dday": -41,
-    "runtime": "1시간",
-    "priceText": "전석 10,000원",
-    "free": false,
-    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF292627_260601_125421.png",
-    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF292627",
-    "summary": "워터버블쇼 [광주]은(는) 빛고을시민문화관에서 진행되는 서커스/마술 행사입니다.",
-    "status": "예정",
-    "conflict": false,
-    "recommendation": {
-      "subjectTags": [
-        "국어/논술",
-        "예술"
-      ],
-      "useCaseTags": [
-        "아동공연",
-        "주말관람",
-        "원본확인"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 86,
-      "reasons": [
-        "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
-      ],
-      "evidence": [
-        "유형: 공연",
-        "분야: 서커스/마술",
-        "관람연령: 24개월 이상",
-        "학생대상 후보: 초등",
-        "지역: 확인필요",
-        "시작까지 -41일"
-      ],
-      "warnings": [
-        "장소 또는 지역 확인 필요"
-      ],
-      "programIdeas": [
-        "관람 전 배경지식 10분 브리핑",
-        "관람 후 한 문단 감상 기록",
-        "학부모 주말 문화체험 안내"
-      ]
-    }
-  },
-  {
-    "id": "kopis-PF292443",
-    "source": "kopis",
-    "title": "워터버블쇼 [양주]",
-    "eventType": "공연",
-    "category": "서커스/마술",
-    "grades": [
-      "초등"
-    ],
-    "ageText": "24개월 이상",
-    "region": "경기",
-    "venueName": "경기섬유종합지원센터",
-    "venueAddress": null,
-    "startDate": "2026-07-19",
-    "endDate": "2026-07-19",
-    "dday": -41,
-    "runtime": "55분",
-    "priceText": "전석 10,000원",
-    "free": false,
-    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF292443_260528_134401.jpg",
-    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF292443",
-    "summary": "워터버블쇼 [양주]은(는) 경기섬유종합지원센터에서 진행되는 서커스/마술 행사입니다.",
-    "status": "예정",
-    "conflict": false,
-    "recommendation": {
-      "subjectTags": [
-        "국어/논술",
-        "예술"
-      ],
-      "useCaseTags": [
-        "아동공연",
-        "주말관람",
-        "원본확인"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 100,
-      "reasons": [
-        "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
-      ],
-      "evidence": [
-        "유형: 공연",
-        "분야: 서커스/마술",
-        "관람연령: 24개월 이상",
-        "학생대상 후보: 초등",
-        "지역: 경기",
-        "시작까지 -41일"
-      ],
-      "warnings": [],
-      "programIdeas": [
-        "관람 전 배경지식 10분 브리핑",
-        "관람 후 한 문단 감상 기록",
-        "학부모 주말 문화체험 안내"
-      ]
-    }
-  },
-  {
-    "id": "kopis-PF290877",
-    "source": "kopis",
-    "title": "인어공주 [제주 제주]",
-    "eventType": "공연",
-    "category": "뮤지컬",
-    "grades": [
-      "초등"
-    ],
-    "ageText": "만 2세 이상",
-    "region": "제주",
-    "venueName": "제주특별자치도 설문대여성문화센터",
-    "venueAddress": null,
-    "startDate": "2026-07-19",
-    "endDate": "2026-07-19",
-    "dday": -41,
-    "runtime": "1시간",
-    "priceText": "전석 40,000원",
-    "free": false,
-    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF290877_260508_101021.jpg",
-    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF290877",
-    "summary": "인어공주 [제주 제주]은(는) 제주특별자치도 설문대여성문화센터에서 진행되는 뮤지컬 행사입니다.",
-    "status": "예정",
-    "conflict": false,
-    "recommendation": {
-      "subjectTags": [
-        "국어/논술",
-        "예술"
-      ],
-      "useCaseTags": [
-        "아동공연",
-        "주말관람",
-        "원본확인"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 100,
-      "reasons": [
-        "만 2세 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
-      ],
-      "evidence": [
-        "유형: 공연",
-        "분야: 뮤지컬",
-        "관람연령: 만 2세 이상",
-        "학생대상 후보: 초등",
-        "지역: 제주",
-        "시작까지 -41일"
-      ],
-      "warnings": [],
-      "programIdeas": [
-        "관람 전 배경지식 10분 브리핑",
-        "관람 후 한 문단 감상 기록",
-        "학부모 주말 문화체험 안내"
-      ]
-    }
-  },
-  {
-    "id": "kopis-PF292931",
-    "source": "kopis",
-    "title": "정글북 [울산 중구]",
-    "eventType": "공연",
-    "category": "뮤지컬",
-    "grades": [
-      "초등"
-    ],
-    "ageText": "전체 관람가",
-    "region": "울산",
-    "venueName": "울산중구문화의전당",
-    "venueAddress": null,
-    "startDate": "2026-07-19",
-    "endDate": "2026-07-19",
-    "dday": -41,
-    "runtime": "50분",
-    "priceText": "네이버 1인권 14,900원, 사전예약(특가) 9,900원",
-    "free": false,
-    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF292931_260605_094937.jpg",
-    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF292931",
-    "summary": "정글북 [울산 중구]은(는) 울산중구문화의전당에서 진행되는 뮤지컬 행사입니다.",
-    "status": "예정",
-    "conflict": false,
-    "recommendation": {
-      "subjectTags": [
-        "국어/논술",
-        "예술"
-      ],
-      "useCaseTags": [
-        "아동공연",
-        "주말관람",
-        "원본확인"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 100,
-      "reasons": [
-        "전체 관람가 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
-      ],
-      "evidence": [
-        "유형: 공연",
-        "분야: 뮤지컬",
-        "관람연령: 전체 관람가",
-        "학생대상 후보: 초등",
-        "지역: 울산",
-        "시작까지 -41일"
-      ],
-      "warnings": [],
-      "programIdeas": [
-        "관람 전 배경지식 10분 브리핑",
-        "관람 후 한 문단 감상 기록",
-        "학부모 주말 문화체험 안내"
-      ]
-    }
-  },
-  {
-    "id": "kopis-PF291987",
-    "source": "kopis",
-    "title": "프린세스 공주 [창원 진해]",
-    "eventType": "공연",
-    "category": "뮤지컬",
-    "grades": [
-      "초등"
-    ],
-    "ageText": "24개월 이상",
-    "region": "확인필요",
-    "venueName": "진해문화센터 (진해구민회관)",
-    "venueAddress": null,
-    "startDate": "2026-07-19",
-    "endDate": "2026-07-19",
-    "dday": -41,
-    "runtime": "1시간",
-    "priceText": "전석 40,000원",
-    "free": false,
-    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF291987_260521_142057.png",
-    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF291987",
-    "summary": "프린세스 공주 [창원 진해]은(는) 진해문화센터 (진해구민회관)에서 진행되는 뮤지컬 행사입니다.",
-    "status": "예정",
-    "conflict": false,
-    "recommendation": {
-      "subjectTags": [
-        "국어/논술",
-        "예술"
-      ],
-      "useCaseTags": [
-        "아동공연",
-        "주말관람",
-        "원본확인"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 86,
-      "reasons": [
-        "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
-      ],
-      "evidence": [
-        "유형: 공연",
-        "분야: 뮤지컬",
-        "관람연령: 24개월 이상",
-        "학생대상 후보: 초등",
-        "지역: 확인필요",
-        "시작까지 -41일"
-      ],
-      "warnings": [
-        "장소 또는 지역 확인 필요"
-      ],
-      "programIdeas": [
-        "관람 전 배경지식 10분 브리핑",
-        "관람 후 한 문단 감상 기록",
-        "학부모 주말 문화체험 안내"
-      ]
-    }
-  },
-  {
-    "id": "kopis-PF292240",
-    "source": "kopis",
-    "title": "피노키오 [아산]",
-    "eventType": "공연",
-    "category": "뮤지컬",
-    "grades": [
-      "초등"
-    ],
-    "ageText": "전체 관람가",
-    "region": "확인필요",
-    "venueName": "아산시 평생학습관(아산아트홀)",
-    "venueAddress": null,
-    "startDate": "2026-07-19",
-    "endDate": "2026-07-19",
-    "dday": -41,
-    "runtime": "1시간",
-    "priceText": "전석 40,000원",
-    "free": false,
-    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF292240_260526_151913.jpg",
-    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF292240",
-    "summary": "피노키오 [아산]은(는) 아산시 평생학습관(아산아트홀)에서 진행되는 뮤지컬 행사입니다.",
-    "status": "예정",
-    "conflict": false,
-    "recommendation": {
-      "subjectTags": [
-        "국어/논술",
-        "예술"
-      ],
-      "useCaseTags": [
-        "아동공연",
-        "주말관람",
-        "원본확인"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 86,
-      "reasons": [
-        "전체 관람가 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
-      ],
-      "evidence": [
-        "유형: 공연",
-        "분야: 뮤지컬",
-        "관람연령: 전체 관람가",
-        "학생대상 후보: 초등",
-        "지역: 확인필요",
-        "시작까지 -41일"
-      ],
-      "warnings": [
-        "장소 또는 지역 확인 필요"
-      ],
-      "programIdeas": [
-        "관람 전 배경지식 10분 브리핑",
-        "관람 후 한 문단 감상 기록",
-        "학부모 주말 문화체험 안내"
-      ]
-    }
-  },
-  {
-    "id": "kopis-PF293122",
-    "source": "kopis",
-    "title": "피터팬 [평택]",
-    "eventType": "공연",
-    "category": "뮤지컬",
-    "grades": [
-      "초등"
-    ],
-    "ageText": "24개월 이상",
-    "region": "확인필요",
-    "venueName": "평택시남부문예회관",
-    "venueAddress": null,
-    "startDate": "2026-07-19",
-    "endDate": "2026-07-19",
-    "dday": -41,
-    "runtime": "1시간",
-    "priceText": "전석 30,000원",
-    "free": false,
-    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF293122_260608_152343.jpg",
-    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF293122",
-    "summary": "피터팬 [평택]은(는) 평택시남부문예회관에서 진행되는 뮤지컬 행사입니다.",
-    "status": "예정",
-    "conflict": false,
-    "recommendation": {
-      "subjectTags": [
-        "국어/논술",
-        "예술"
-      ],
-      "useCaseTags": [
-        "아동공연",
-        "주말관람",
-        "원본확인"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 86,
-      "reasons": [
-        "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
-      ],
-      "evidence": [
-        "유형: 공연",
-        "분야: 뮤지컬",
-        "관람연령: 24개월 이상",
-        "학생대상 후보: 초등",
-        "지역: 확인필요",
-        "시작까지 -41일"
-      ],
-      "warnings": [
-        "장소 또는 지역 확인 필요"
-      ],
-      "programIdeas": [
-        "관람 전 배경지식 10분 브리핑",
-        "관람 후 한 문단 감상 기록",
-        "학부모 주말 문화체험 안내"
-      ]
-    }
-  },
-  {
-    "id": "kopis-PF294349",
-    "source": "kopis",
-    "title": "동동마을을 구해주세요! [인천]",
-    "eventType": "공연",
-    "category": "한국음악(국악)",
-    "grades": [
-      "초등"
-    ],
-    "ageText": "만 3세 이상",
-    "region": "확인필요",
-    "venueName": "국악전용극장 잔치마당",
-    "venueAddress": null,
-    "startDate": "2026-07-20",
-    "endDate": "2026-07-24",
-    "dday": -36,
-    "runtime": "50분",
-    "priceText": "전석 1,000원",
-    "free": false,
-    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF294349_260622_154137.jpg",
-    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF294349",
-    "summary": "동동마을을 구해주세요! [인천]은(는) 국악전용극장 잔치마당에서 진행되는 한국음악(국악) 행사입니다.",
-    "status": "예정",
-    "conflict": false,
-    "recommendation": {
-      "subjectTags": [
-        "국어/논술",
-        "예술"
-      ],
-      "useCaseTags": [
-        "아동공연",
-        "원본확인"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 86,
-      "reasons": [
-        "만 3세 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다."
-      ],
-      "evidence": [
-        "유형: 공연",
-        "분야: 한국음악(국악)",
-        "관람연령: 만 3세 이상",
-        "학생대상 후보: 초등",
-        "지역: 확인필요",
-        "시작까지 -36일"
-      ],
-      "warnings": [
-        "장소 또는 지역 확인 필요"
-      ],
-      "programIdeas": [
-        "관람 전 배경지식 10분 브리핑",
-        "관람 후 한 문단 감상 기록",
-        "학부모 주말 문화체험 안내"
-      ]
-    }
-  },
-  {
-    "id": "kopis-PF294367",
-    "source": "kopis",
-    "title": "제24회 경기인형극제 수원, 여우 까마귀 그리고 사자",
-    "eventType": "공연",
-    "category": "연극",
-    "grades": [
-      "초등"
-    ],
-    "ageText": "36개월 이상",
-    "region": "경기",
-    "venueName": "경기아트센터(구. 경기도문화의전당)",
-    "venueAddress": null,
-    "startDate": "2026-07-21",
-    "endDate": "2026-07-22",
-    "dday": -38,
-    "runtime": "50분",
-    "priceText": "전석 20,000원",
-    "free": false,
-    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF294367_260622_171745.jpg",
-    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF294367",
-    "summary": "제24회 경기인형극제 수원, 여우 까마귀 그리고 사자은(는) 경기아트센터(구. 경기도문화의전당)에서 진행되는 연극 행사입니다.",
-    "status": "예정",
-    "conflict": false,
-    "recommendation": {
-      "subjectTags": [
-        "국어/논술",
-        "예술"
-      ],
-      "useCaseTags": [
-        "아동공연",
-        "원본확인"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 100,
-      "reasons": [
-        "36개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다."
-      ],
-      "evidence": [
-        "유형: 공연",
-        "분야: 연극",
-        "관람연령: 36개월 이상",
-        "학생대상 후보: 초등",
-        "지역: 경기",
-        "시작까지 -38일"
-      ],
-      "warnings": [],
-      "programIdeas": [
-        "관람 전 배경지식 10분 브리핑",
-        "관람 후 한 문단 감상 기록",
-        "학부모 주말 문화체험 안내"
-      ]
-    }
-  },
-  {
-    "id": "kopis-PF294471",
-    "source": "kopis",
-    "title": "팡팡 벌룬 일루전 [하남]",
-    "eventType": "공연",
-    "category": "서커스/마술",
-    "grades": [
-      "초등"
-    ],
-    "ageText": "24개월 이상",
-    "region": "확인필요",
-    "venueName": "한홀 소극장",
-    "venueAddress": null,
-    "startDate": "2026-07-21",
-    "endDate": "2026-08-17",
-    "dday": -12,
-    "runtime": "50분",
-    "priceText": "전석 40,000원",
-    "free": false,
-    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF294471_260624_100723.jpg",
-    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF294471",
-    "summary": "팡팡 벌룬 일루전 [하남]은(는) 한홀 소극장에서 진행되는 서커스/마술 행사입니다.",
-    "status": "예정",
-    "conflict": false,
-    "recommendation": {
-      "subjectTags": [
-        "국어/논술",
-        "예술"
-      ],
-      "useCaseTags": [
-        "아동공연",
-        "주말관람",
-        "원본확인"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 86,
-      "reasons": [
-        "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
-      ],
-      "evidence": [
-        "유형: 공연",
-        "분야: 서커스/마술",
-        "관람연령: 24개월 이상",
-        "학생대상 후보: 초등",
-        "지역: 확인필요",
-        "시작까지 -12일"
-      ],
-      "warnings": [
-        "장소 또는 지역 확인 필요"
-      ],
-      "programIdeas": [
-        "관람 전 배경지식 10분 브리핑",
-        "관람 후 한 문단 감상 기록",
-        "학부모 주말 문화체험 안내"
-      ]
-    }
-  },
-  {
-    "id": "kopis-PF290425",
-    "source": "kopis",
-    "title": "피터팬 [성남]",
-    "eventType": "공연",
-    "category": "뮤지컬",
-    "grades": [
-      "초등"
-    ],
-    "ageText": "전체 관람가",
-    "region": "확인필요",
-    "venueName": "잡월드 나래울극장",
-    "venueAddress": null,
-    "startDate": "2026-07-21",
-    "endDate": "2026-08-17",
-    "dday": -12,
-    "runtime": "55분",
-    "priceText": "전석 40,000원",
-    "free": false,
-    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF290425_260430_104640.jpg",
-    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF290425",
-    "summary": "피터팬 [성남]은(는) 잡월드 나래울극장에서 진행되는 뮤지컬 행사입니다.",
-    "status": "예정",
-    "conflict": false,
-    "recommendation": {
-      "subjectTags": [
-        "국어/논술",
-        "예술"
-      ],
-      "useCaseTags": [
-        "아동공연",
-        "주말관람",
-        "원본확인"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 86,
-      "reasons": [
-        "전체 관람가 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
-      ],
-      "evidence": [
-        "유형: 공연",
-        "분야: 뮤지컬",
-        "관람연령: 전체 관람가",
-        "학생대상 후보: 초등",
-        "지역: 확인필요",
-        "시작까지 -12일"
-      ],
-      "warnings": [
-        "장소 또는 지역 확인 필요"
-      ],
-      "programIdeas": [
-        "관람 전 배경지식 10분 브리핑",
-        "관람 후 한 문단 감상 기록",
-        "학부모 주말 문화체험 안내"
-      ]
-    }
-  },
-  {
-    "id": "kopis-PF294715",
-    "source": "kopis",
-    "title": "어린이 놀이터: 극장 [파주]",
-    "eventType": "공연",
-    "category": "연극",
-    "grades": [
-      "초등"
-    ],
-    "ageText": "전체 관람가",
-    "region": "확인필요",
-    "venueName": "파주시민회관",
-    "venueAddress": null,
-    "startDate": "2026-07-22",
-    "endDate": "2026-07-22",
-    "dday": -38,
-    "runtime": "1시간",
-    "priceText": "전석무료",
-    "free": true,
-    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF294715_260626_141310.png",
-    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF294715",
-    "summary": "어린이 놀이터: 극장 [파주]은(는) 파주시민회관에서 진행되는 연극 행사입니다.",
-    "status": "예정",
-    "conflict": false,
-    "recommendation": {
-      "subjectTags": [
-        "국어/논술",
-        "예술"
-      ],
-      "useCaseTags": [
-        "아동공연",
-        "원본확인"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 86,
-      "reasons": [
-        "전체 관람가 기준이라 초등 학생 안내 후보로 검토할 수 있습니다."
-      ],
-      "evidence": [
-        "유형: 공연",
-        "분야: 연극",
-        "관람연령: 전체 관람가",
-        "학생대상 후보: 초등",
-        "지역: 확인필요",
-        "시작까지 -38일"
-      ],
-      "warnings": [
-        "장소 또는 지역 확인 필요"
-      ],
-      "programIdeas": [
-        "관람 전 배경지식 10분 브리핑",
-        "관람 후 한 문단 감상 기록",
-        "학부모 주말 문화체험 안내"
-      ]
-    }
-  },
-  {
-    "id": "kopis-PF293693",
-    "source": "kopis",
-    "title": "꼬마 오즈 [군포]",
-    "eventType": "공연",
-    "category": "연극",
-    "grades": [
-      "초등"
-    ],
-    "ageText": "36개월 이상",
-    "region": "확인필요",
-    "venueName": "군포시평생학습원",
-    "venueAddress": null,
-    "startDate": "2026-07-23",
-    "endDate": "2026-07-25",
-    "dday": -35,
-    "runtime": "1시간",
-    "priceText": "전석 10,000원",
-    "free": false,
-    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF293693_260615_123534.gif",
-    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF293693",
-    "summary": "꼬마 오즈 [군포]은(는) 군포시평생학습원에서 진행되는 연극 행사입니다.",
-    "status": "예정",
-    "conflict": false,
-    "recommendation": {
-      "subjectTags": [
-        "국어/논술",
-        "예술"
-      ],
-      "useCaseTags": [
-        "아동공연",
-        "주말관람",
-        "원본확인"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 86,
-      "reasons": [
-        "36개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
-      ],
-      "evidence": [
-        "유형: 공연",
-        "분야: 연극",
-        "관람연령: 36개월 이상",
-        "학생대상 후보: 초등",
-        "지역: 확인필요",
-        "시작까지 -35일"
-      ],
-      "warnings": [
-        "장소 또는 지역 확인 필요"
-      ],
-      "programIdeas": [
-        "관람 전 배경지식 10분 브리핑",
-        "관람 후 한 문단 감상 기록",
-        "학부모 주말 문화체험 안내"
-      ]
-    }
-  },
-  {
-    "id": "kopis-PF293275",
-    "source": "kopis",
-    "title": "아시테지 국제여름축제, 완벽한 하루",
-    "eventType": "공연",
-    "category": "연극",
-    "grades": [
-      "초등"
-    ],
-    "ageText": "36개월 이상",
-    "region": "확인필요",
-    "venueName": "아르코 꿈밭극장",
-    "venueAddress": null,
-    "startDate": "2026-07-23",
-    "endDate": "2026-07-25",
-    "dday": -35,
-    "runtime": "45분",
-    "priceText": "전석 35,000원",
-    "free": false,
-    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF293275_260610_132258.jpg",
-    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF293275",
-    "summary": "아시테지 국제여름축제, 완벽한 하루은(는) 아르코 꿈밭극장에서 진행되는 연극 행사입니다.",
-    "status": "예정",
-    "conflict": false,
-    "recommendation": {
-      "subjectTags": [
-        "국어/논술",
-        "예술"
-      ],
-      "useCaseTags": [
-        "아동공연",
-        "주말관람",
-        "원본확인"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 86,
-      "reasons": [
-        "36개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
-      ],
-      "evidence": [
-        "유형: 공연",
-        "분야: 연극",
-        "관람연령: 36개월 이상",
-        "학생대상 후보: 초등",
-        "지역: 확인필요",
-        "시작까지 -35일"
-      ],
-      "warnings": [
-        "장소 또는 지역 확인 필요"
-      ],
-      "programIdeas": [
-        "관람 전 배경지식 10분 브리핑",
-        "관람 후 한 문단 감상 기록",
-        "학부모 주말 문화체험 안내"
-      ]
-    }
-  },
-  {
-    "id": "kopis-PF293264",
-    "source": "kopis",
-    "title": "아시테지 국제여름축제, 잠들고 싶지 않아!",
-    "eventType": "공연",
-    "category": "연극",
-    "grades": [
-      "초등"
-    ],
-    "ageText": "36개월 이상",
-    "region": "확인필요",
-    "venueName": "아르코예술극장",
-    "venueAddress": null,
-    "startDate": "2026-07-23",
-    "endDate": "2026-07-26",
-    "dday": -34,
-    "runtime": "45분",
-    "priceText": "전석 50,000원",
-    "free": false,
-    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF293264_260610_125414.png",
-    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF293264",
-    "summary": "아시테지 국제여름축제, 잠들고 싶지 않아!은(는) 아르코예술극장에서 진행되는 연극 행사입니다.",
-    "status": "예정",
-    "conflict": false,
-    "recommendation": {
-      "subjectTags": [
-        "국어/논술",
-        "예술"
-      ],
-      "useCaseTags": [
-        "아동공연",
-        "주말관람",
-        "원본확인"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 86,
-      "reasons": [
-        "36개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
-      ],
-      "evidence": [
-        "유형: 공연",
-        "분야: 연극",
-        "관람연령: 36개월 이상",
-        "학생대상 후보: 초등",
-        "지역: 확인필요",
-        "시작까지 -34일"
-      ],
-      "warnings": [
-        "장소 또는 지역 확인 필요"
-      ],
-      "programIdeas": [
-        "관람 전 배경지식 10분 브리핑",
-        "관람 후 한 문단 감상 기록",
-        "학부모 주말 문화체험 안내"
-      ]
-    }
-  },
-  {
-    "id": "kopis-PF294002",
-    "source": "kopis",
-    "title": "강치전 [포항]",
-    "eventType": "공연",
-    "category": "뮤지컬",
-    "grades": [
-      "초등"
-    ],
-    "ageText": "24개월 이상",
-    "region": "확인필요",
-    "venueName": "포항문화예술회관",
-    "venueAddress": null,
-    "startDate": "2026-07-24",
-    "endDate": "2026-07-25",
-    "dday": -35,
-    "runtime": "1시간",
-    "priceText": "전석 30,000원",
-    "free": false,
-    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF294002_260617_172454.jpg",
-    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF294002",
-    "summary": "강치전 [포항]은(는) 포항문화예술회관에서 진행되는 뮤지컬 행사입니다.",
-    "status": "예정",
-    "conflict": false,
-    "recommendation": {
-      "subjectTags": [
-        "국어/논술",
-        "예술"
-      ],
-      "useCaseTags": [
-        "아동공연",
-        "주말관람",
-        "원본확인"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 86,
-      "reasons": [
-        "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
-      ],
-      "evidence": [
-        "유형: 공연",
-        "분야: 뮤지컬",
-        "관람연령: 24개월 이상",
-        "학생대상 후보: 초등",
-        "지역: 확인필요",
-        "시작까지 -35일"
-      ],
-      "warnings": [
-        "장소 또는 지역 확인 필요"
-      ],
-      "programIdeas": [
-        "관람 전 배경지식 10분 브리핑",
-        "관람 후 한 문단 감상 기록",
-        "학부모 주말 문화체험 안내"
-      ]
-    }
-  },
-  {
-    "id": "kopis-PF290332",
-    "source": "kopis",
-    "title": "고래밥: 바다 대운동회 [서울 마포]",
-    "eventType": "공연",
-    "category": "뮤지컬",
-    "grades": [
-      "초등"
-    ],
-    "ageText": "20개월 이상",
-    "region": "확인필요",
-    "venueName": "마포아트센터",
-    "venueAddress": null,
-    "startDate": "2026-07-24",
-    "endDate": "2026-08-16",
-    "dday": -13,
-    "runtime": "1시간 10분",
-    "priceText": "R석 70,000원, S석 50,000원",
-    "free": false,
-    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF290332_260429_105537.gif",
-    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF290332",
-    "summary": "고래밥: 바다 대운동회 [서울 마포]은(는) 마포아트센터에서 진행되는 뮤지컬 행사입니다.",
-    "status": "예정",
-    "conflict": false,
-    "recommendation": {
-      "subjectTags": [
-        "국어/논술",
-        "예술"
-      ],
-      "useCaseTags": [
-        "아동공연",
-        "주말관람",
-        "원본확인"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 86,
-      "reasons": [
-        "20개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
-      ],
-      "evidence": [
-        "유형: 공연",
-        "분야: 뮤지컬",
-        "관람연령: 20개월 이상",
-        "학생대상 후보: 초등",
-        "지역: 확인필요",
-        "시작까지 -13일"
-      ],
-      "warnings": [
-        "장소 또는 지역 확인 필요"
-      ],
-      "programIdeas": [
-        "관람 전 배경지식 10분 브리핑",
-        "관람 후 한 문단 감상 기록",
-        "학부모 주말 문화체험 안내"
-      ]
-    }
-  },
-  {
-    "id": "kopis-PF290455",
-    "source": "kopis",
-    "title": "꼬마마법사 주니토니: 아클라타 마법책 대소동 [서울]",
-    "eventType": "공연",
-    "category": "뮤지컬",
-    "grades": [
-      "초등"
-    ],
-    "ageText": "24개월 이상",
-    "region": "확인필요",
-    "venueName": "NOL 씨어터 합정(구, 신한카드 SOL페이 스퀘어)",
-    "venueAddress": null,
-    "startDate": "2026-07-24",
-    "endDate": "2026-08-09",
-    "dday": -20,
-    "runtime": "1시간 5분",
-    "priceText": "VIP석 70,000원, R석 60,000원",
-    "free": false,
-    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF290455_260430_130327.gif",
-    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF290455",
-    "summary": "꼬마마법사 주니토니: 아클라타 마법책 대소동 [서울]은(는) NOL 씨어터 합정(구, 신한카드 SOL페이 스퀘어)에서 진행되는 뮤지컬 행사입니다.",
-    "status": "예정",
-    "conflict": false,
-    "recommendation": {
-      "subjectTags": [
-        "국어/논술",
-        "예술"
-      ],
-      "useCaseTags": [
-        "아동공연",
-        "주말관람",
-        "원본확인"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 86,
-      "reasons": [
-        "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
-      ],
-      "evidence": [
-        "유형: 공연",
-        "분야: 뮤지컬",
-        "관람연령: 24개월 이상",
-        "학생대상 후보: 초등",
-        "지역: 확인필요",
-        "시작까지 -20일"
-      ],
-      "warnings": [
-        "장소 또는 지역 확인 필요"
-      ],
-      "programIdeas": [
-        "관람 전 배경지식 10분 브리핑",
-        "관람 후 한 문단 감상 기록",
-        "학부모 주말 문화체험 안내"
-      ]
-    }
-  },
-  {
-    "id": "kopis-PF292077",
-    "source": "kopis",
-    "title": "시크릿쥬쥬: 별의보석, 잃어버린 빛을 찾아서 [서울]",
-    "eventType": "공연",
-    "category": "뮤지컬",
-    "grades": [
-      "초등"
-    ],
-    "ageText": "24개월 이상",
-    "region": "확인필요",
-    "venueName": "NOL 씨어터 합정(구, 신한카드 SOL페이 스퀘어)",
-    "venueAddress": null,
-    "startDate": "2026-07-24",
-    "endDate": "2026-08-09",
-    "dday": -20,
-    "runtime": "1시간 5분",
-    "priceText": "VIP석 70,000원, R석 50,000원",
-    "free": false,
-    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF292077_260522_144032.gif",
-    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF292077",
-    "summary": "시크릿쥬쥬: 별의보석, 잃어버린 빛을 찾아서 [서울]은(는) NOL 씨어터 합정(구, 신한카드 SOL페이 스퀘어)에서 진행되는 뮤지컬 행사입니다.",
-    "status": "예정",
-    "conflict": false,
-    "recommendation": {
-      "subjectTags": [
-        "국어/논술",
-        "예술"
-      ],
-      "useCaseTags": [
-        "아동공연",
-        "주말관람",
-        "원본확인"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 86,
-      "reasons": [
-        "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
-      ],
-      "evidence": [
-        "유형: 공연",
-        "분야: 뮤지컬",
-        "관람연령: 24개월 이상",
-        "학생대상 후보: 초등",
-        "지역: 확인필요",
-        "시작까지 -20일"
-      ],
-      "warnings": [
-        "장소 또는 지역 확인 필요"
-      ],
-      "programIdeas": [
-        "관람 전 배경지식 10분 브리핑",
-        "관람 후 한 문단 감상 기록",
-        "학부모 주말 문화체험 안내"
-      ]
-    }
-  },
-  {
-    "id": "kopis-PF293270",
-    "source": "kopis",
-    "title": "아시테지 국제여름축제, 타나: 작은 동굴",
-    "eventType": "공연",
-    "category": "무용(서양/한국무용)",
-    "grades": [
-      "초등"
-    ],
-    "ageText": "12개월 이상",
-    "region": "확인필요",
-    "venueName": "종로아이들극장",
-    "venueAddress": null,
-    "startDate": "2026-07-24",
-    "endDate": "2026-07-26",
-    "dday": -34,
-    "runtime": "40분",
-    "priceText": "전석 50,000원",
-    "free": false,
-    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF293270_260610_131156.jpg",
-    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF293270",
-    "summary": "아시테지 국제여름축제, 타나: 작은 동굴은(는) 종로아이들극장에서 진행되는 무용(서양/한국무용) 행사입니다.",
-    "status": "예정",
-    "conflict": false,
-    "recommendation": {
-      "subjectTags": [
-        "국어/논술",
-        "예술"
-      ],
-      "useCaseTags": [
-        "아동공연",
-        "주말관람",
-        "원본확인"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 86,
-      "reasons": [
-        "12개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
-      ],
-      "evidence": [
-        "유형: 공연",
-        "분야: 무용(서양/한국무용)",
-        "관람연령: 12개월 이상",
-        "학생대상 후보: 초등",
-        "지역: 확인필요",
-        "시작까지 -34일"
-      ],
-      "warnings": [
-        "장소 또는 지역 확인 필요"
-      ],
-      "programIdeas": [
-        "관람 전 배경지식 10분 브리핑",
-        "관람 후 한 문단 감상 기록",
-        "학부모 주말 문화체험 안내"
-      ]
-    }
-  },
-  {
-    "id": "kopis-PF292338",
-    "source": "kopis",
-    "title": "아쿠아쇼: 바닷 속 버블왕국 [성남]",
-    "eventType": "공연",
-    "category": "서커스/마술",
-    "grades": [
-      "초등"
-    ],
-    "ageText": "24개월 이상",
-    "region": "확인필요",
-    "venueName": "성남아트리움 (구. 성남시민회관)",
-    "venueAddress": null,
-    "startDate": "2026-07-24",
-    "endDate": "2026-07-26",
-    "dday": -34,
-    "runtime": "1시간",
-    "priceText": "전석 50,000원",
-    "free": false,
-    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF292338_260527_132230.gif",
-    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF292338",
-    "summary": "아쿠아쇼: 바닷 속 버블왕국 [성남]은(는) 성남아트리움 (구. 성남시민회관)에서 진행되는 서커스/마술 행사입니다.",
-    "status": "예정",
-    "conflict": false,
-    "recommendation": {
-      "subjectTags": [
-        "국어/논술",
-        "예술"
-      ],
-      "useCaseTags": [
-        "아동공연",
-        "주말관람",
-        "원본확인"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 86,
-      "reasons": [
-        "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
-      ],
-      "evidence": [
-        "유형: 공연",
-        "분야: 서커스/마술",
-        "관람연령: 24개월 이상",
-        "학생대상 후보: 초등",
-        "지역: 확인필요",
-        "시작까지 -34일"
-      ],
-      "warnings": [
-        "장소 또는 지역 확인 필요"
-      ],
-      "programIdeas": [
-        "관람 전 배경지식 10분 브리핑",
-        "관람 후 한 문단 감상 기록",
-        "학부모 주말 문화체험 안내"
-      ]
-    }
-  },
-  {
-    "id": "kopis-PF293502",
-    "source": "kopis",
-    "title": "이상하고 아름다운 하얀 숲",
-    "eventType": "공연",
-    "category": "뮤지컬",
-    "grades": [
-      "초등"
-    ],
-    "ageText": "48개월 이상",
-    "region": "확인필요",
-    "venueName": "모두예술극장",
-    "venueAddress": null,
-    "startDate": "2026-07-24",
-    "endDate": "2026-07-26",
-    "dday": -34,
-    "runtime": "1시간",
-    "priceText": "전석 35,000원",
-    "free": false,
-    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF293502_260611_164031.jpg",
-    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF293502",
-    "summary": "이상하고 아름다운 하얀 숲은(는) 모두예술극장에서 진행되는 뮤지컬 행사입니다.",
-    "status": "예정",
-    "conflict": false,
-    "recommendation": {
-      "subjectTags": [
-        "국어/논술",
-        "예술"
-      ],
-      "useCaseTags": [
-        "아동공연",
-        "주말관람",
-        "원본확인"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 86,
-      "reasons": [
-        "48개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
-      ],
-      "evidence": [
-        "유형: 공연",
-        "분야: 뮤지컬",
-        "관람연령: 48개월 이상",
-        "학생대상 후보: 초등",
-        "지역: 확인필요",
-        "시작까지 -34일"
-      ],
-      "warnings": [
-        "장소 또는 지역 확인 필요"
-      ],
-      "programIdeas": [
-        "관람 전 배경지식 10분 브리핑",
-        "관람 후 한 문단 감상 기록",
-        "학부모 주말 문화체험 안내"
-      ]
-    }
-  },
-  {
-    "id": "kopis-PF291085",
-    "source": "kopis",
-    "title": "MBC 심야괴담회x니니키즈: 학교에서 살아남기 [광주]",
-    "eventType": "공연",
-    "category": "뮤지컬",
-    "grades": [
-      "초등"
-    ],
-    "ageText": "24개월 이상",
-    "region": "광주",
-    "venueName": "광주 예술의 전당",
-    "venueAddress": null,
-    "startDate": "2026-07-25",
-    "endDate": "2026-07-26",
-    "dday": -34,
-    "runtime": "1시간 10분",
-    "priceText": "전석 66,000원",
-    "free": false,
-    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF291085_260511_135508.gif",
-    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF291085",
-    "summary": "MBC 심야괴담회x니니키즈: 학교에서 살아남기 [광주]은(는) 광주 예술의 전당에서 진행되는 뮤지컬 행사입니다.",
-    "status": "예정",
-    "conflict": false,
-    "recommendation": {
-      "subjectTags": [
-        "국어/논술",
-        "예술"
-      ],
-      "useCaseTags": [
-        "아동공연",
-        "주말관람",
-        "원본확인"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 100,
-      "reasons": [
-        "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
-      ],
-      "evidence": [
-        "유형: 공연",
-        "분야: 뮤지컬",
-        "관람연령: 24개월 이상",
-        "학생대상 후보: 초등",
-        "지역: 광주",
-        "시작까지 -34일"
-      ],
-      "warnings": [],
-      "programIdeas": [
-        "관람 전 배경지식 10분 브리핑",
-        "관람 후 한 문단 감상 기록",
-        "학부모 주말 문화체험 안내"
-      ]
-    }
-  },
-  {
-    "id": "kopis-PF293489",
-    "source": "kopis",
-    "title": "강북Festa, 어둑시니",
-    "eventType": "공연",
-    "category": "연극",
-    "grades": [
-      "초등"
-    ],
-    "ageText": "36개월 이상",
-    "region": "확인필요",
-    "venueName": "강북문화예술회관",
-    "venueAddress": null,
-    "startDate": "2026-07-25",
-    "endDate": "2026-07-25",
-    "dday": -35,
-    "runtime": "50분",
-    "priceText": "전석 10,000원",
-    "free": false,
-    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF293489_260611_153740.gif",
-    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF293489",
-    "summary": "강북Festa, 어둑시니은(는) 강북문화예술회관에서 진행되는 연극 행사입니다.",
-    "status": "예정",
-    "conflict": false,
-    "recommendation": {
-      "subjectTags": [
-        "국어/논술",
-        "예술"
-      ],
-      "useCaseTags": [
-        "아동공연",
-        "주말관람",
-        "원본확인"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 86,
-      "reasons": [
-        "36개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
-      ],
-      "evidence": [
-        "유형: 공연",
-        "분야: 연극",
-        "관람연령: 36개월 이상",
-        "학생대상 후보: 초등",
-        "지역: 확인필요",
-        "시작까지 -35일"
-      ],
-      "warnings": [
-        "장소 또는 지역 확인 필요"
-      ],
-      "programIdeas": [
-        "관람 전 배경지식 10분 브리핑",
-        "관람 후 한 문단 감상 기록",
-        "학부모 주말 문화체험 안내"
-      ]
-    }
-  },
-  {
-    "id": "kopis-PF293637",
-    "source": "kopis",
-    "title": "개구쟁이 특공대: 마녀저택 [서울 양천]",
-    "eventType": "공연",
-    "category": "뮤지컬",
-    "grades": [
-      "초등"
-    ],
-    "ageText": "24개월 이상",
-    "region": "확인필요",
-    "venueName": "양천문화회관",
-    "venueAddress": null,
-    "startDate": "2026-07-25",
-    "endDate": "2026-07-26",
-    "dday": -34,
-    "runtime": "1시간 10분",
-    "priceText": "R석 70,000원",
-    "free": false,
-    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF293637_260612_173144.jpg",
-    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF293637",
-    "summary": "개구쟁이 특공대: 마녀저택 [서울 양천]은(는) 양천문화회관에서 진행되는 뮤지컬 행사입니다.",
-    "status": "예정",
-    "conflict": false,
-    "recommendation": {
-      "subjectTags": [
-        "국어/논술",
-        "예술"
-      ],
-      "useCaseTags": [
-        "아동공연",
-        "주말관람",
-        "원본확인"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 86,
-      "reasons": [
-        "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
-      ],
-      "evidence": [
-        "유형: 공연",
-        "분야: 뮤지컬",
-        "관람연령: 24개월 이상",
-        "학생대상 후보: 초등",
-        "지역: 확인필요",
-        "시작까지 -34일"
-      ],
-      "warnings": [
-        "장소 또는 지역 확인 필요"
-      ],
-      "programIdeas": [
-        "관람 전 배경지식 10분 브리핑",
-        "관람 후 한 문단 감상 기록",
-        "학부모 주말 문화체험 안내"
-      ]
-    }
-  },
-  {
-    "id": "kopis-PF294093",
-    "source": "kopis",
-    "title": "공룡 애니멀 쇼 [대구 달성]",
-    "eventType": "공연",
-    "category": "서커스/마술",
-    "grades": [
-      "초등"
-    ],
-    "ageText": "만 2세 이상",
-    "region": "확인필요",
-    "venueName": "달성문화원",
-    "venueAddress": null,
-    "startDate": "2026-07-25",
-    "endDate": "2026-07-25",
-    "dday": -35,
-    "runtime": "1시간",
-    "priceText": "전석 35,000원",
-    "free": false,
-    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF294093_260619_104637.jpg",
-    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF294093",
-    "summary": "공룡 애니멀 쇼 [대구 달성]은(는) 달성문화원에서 진행되는 서커스/마술 행사입니다.",
-    "status": "예정",
-    "conflict": false,
-    "recommendation": {
-      "subjectTags": [
-        "국어/논술",
-        "예술"
-      ],
-      "useCaseTags": [
-        "아동공연",
-        "주말관람",
-        "원본확인"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 86,
-      "reasons": [
-        "만 2세 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
-      ],
-      "evidence": [
-        "유형: 공연",
-        "분야: 서커스/마술",
-        "관람연령: 만 2세 이상",
-        "학생대상 후보: 초등",
-        "지역: 확인필요",
-        "시작까지 -35일"
-      ],
-      "warnings": [
-        "장소 또는 지역 확인 필요"
-      ],
-      "programIdeas": [
-        "관람 전 배경지식 10분 브리핑",
-        "관람 후 한 문단 감상 기록",
-        "학부모 주말 문화체험 안내"
-      ]
-    }
-  },
-  {
-    "id": "kopis-PF293390",
-    "source": "kopis",
-    "title": "누가 내 머리에 똥 쌌어? [광주]",
-    "eventType": "공연",
-    "category": "뮤지컬",
-    "grades": [
-      "초등"
-    ],
-    "ageText": "24개월 이상",
-    "region": "확인필요",
-    "venueName": "5.18기념문화센터",
-    "venueAddress": null,
-    "startDate": "2026-07-25",
-    "endDate": "2026-07-25",
-    "dday": -35,
-    "runtime": "55분",
-    "priceText": "전석 40,000원",
-    "free": false,
-    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF293390_260611_110848.png",
-    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF293390",
-    "summary": "누가 내 머리에 똥 쌌어? [광주]은(는) 5.18기념문화센터에서 진행되는 뮤지컬 행사입니다.",
-    "status": "예정",
-    "conflict": false,
-    "recommendation": {
-      "subjectTags": [
-        "국어/논술",
-        "예술"
-      ],
-      "useCaseTags": [
-        "아동공연",
-        "주말관람",
-        "원본확인"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 86,
-      "reasons": [
-        "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
-      ],
-      "evidence": [
-        "유형: 공연",
-        "분야: 뮤지컬",
-        "관람연령: 24개월 이상",
-        "학생대상 후보: 초등",
-        "지역: 확인필요",
-        "시작까지 -35일"
-      ],
-      "warnings": [
-        "장소 또는 지역 확인 필요"
-      ],
-      "programIdeas": [
-        "관람 전 배경지식 10분 브리핑",
-        "관람 후 한 문단 감상 기록",
-        "학부모 주말 문화체험 안내"
-      ]
-    }
-  },
-  {
-    "id": "kopis-PF293843",
-    "source": "kopis",
-    "title": "누가 내 머리에 똥 쌌어? [대구]",
-    "eventType": "공연",
-    "category": "뮤지컬",
-    "grades": [
-      "초등"
-    ],
-    "ageText": "36개월 이상",
-    "region": "확인필요",
-    "venueName": "대덕문화전당",
-    "venueAddress": null,
-    "startDate": "2026-07-25",
-    "endDate": "2026-07-25",
-    "dday": -35,
-    "runtime": "1시간",
-    "priceText": "전석 30,000원",
-    "free": false,
-    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF293843_260616_134157.jpg",
-    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF293843",
-    "summary": "누가 내 머리에 똥 쌌어? [대구]은(는) 대덕문화전당에서 진행되는 뮤지컬 행사입니다.",
-    "status": "예정",
-    "conflict": false,
-    "recommendation": {
-      "subjectTags": [
-        "국어/논술",
-        "예술"
-      ],
-      "useCaseTags": [
-        "아동공연",
-        "주말관람",
-        "원본확인"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 86,
-      "reasons": [
-        "36개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
-      ],
-      "evidence": [
-        "유형: 공연",
-        "분야: 뮤지컬",
-        "관람연령: 36개월 이상",
-        "학생대상 후보: 초등",
-        "지역: 확인필요",
-        "시작까지 -35일"
-      ],
-      "warnings": [
-        "장소 또는 지역 확인 필요"
-      ],
-      "programIdeas": [
-        "관람 전 배경지식 10분 브리핑",
-        "관람 후 한 문단 감상 기록",
-        "학부모 주말 문화체험 안내"
-      ]
-    }
-  },
-  {
-    "id": "kopis-PF292167",
-    "source": "kopis",
-    "title": "더: 매직서커스 [창원 진해]",
-    "eventType": "공연",
-    "category": "서커스/마술",
-    "grades": [
-      "초등"
-    ],
-    "ageText": "24개월 이상",
-    "region": "확인필요",
-    "venueName": "진해문화센터 (진해구민회관)",
-    "venueAddress": null,
-    "startDate": "2026-07-25",
-    "endDate": "2026-07-25",
-    "dday": -35,
-    "runtime": "1시간",
-    "priceText": "전석 50,000원",
-    "free": false,
-    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF292167_260526_122407.gif",
-    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF292167",
-    "summary": "더: 매직서커스 [창원 진해]은(는) 진해문화센터 (진해구민회관)에서 진행되는 서커스/마술 행사입니다.",
-    "status": "예정",
-    "conflict": false,
-    "recommendation": {
-      "subjectTags": [
-        "국어/논술",
-        "예술"
-      ],
-      "useCaseTags": [
-        "아동공연",
-        "주말관람",
-        "원본확인"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 86,
-      "reasons": [
-        "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
-      ],
-      "evidence": [
-        "유형: 공연",
-        "분야: 서커스/마술",
-        "관람연령: 24개월 이상",
-        "학생대상 후보: 초등",
-        "지역: 확인필요",
-        "시작까지 -35일"
-      ],
-      "warnings": [
-        "장소 또는 지역 확인 필요"
-      ],
-      "programIdeas": [
-        "관람 전 배경지식 10분 브리핑",
-        "관람 후 한 문단 감상 기록",
-        "학부모 주말 문화체험 안내"
-      ]
-    }
-  },
-  {
-    "id": "kopis-PF292046",
-    "source": "kopis",
-    "title": "똥볶이 할멈: 정의의 맛 [강릉]",
-    "eventType": "공연",
-    "category": "뮤지컬",
-    "grades": [
-      "초등"
-    ],
-    "ageText": "전체 관람가",
-    "region": "확인필요",
-    "venueName": "강릉원주대학교 해람문화관",
-    "venueAddress": null,
-    "startDate": "2026-07-25",
-    "endDate": "2026-07-25",
-    "dday": -35,
-    "runtime": "1시간 10분",
-    "priceText": "전석 35,000원",
-    "free": false,
-    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF292046_260522_125315.jpg",
-    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF292046",
-    "summary": "똥볶이 할멈: 정의의 맛 [강릉]은(는) 강릉원주대학교 해람문화관에서 진행되는 뮤지컬 행사입니다.",
-    "status": "예정",
-    "conflict": false,
-    "recommendation": {
-      "subjectTags": [
-        "국어/논술",
-        "예술"
-      ],
-      "useCaseTags": [
-        "아동공연",
-        "주말관람",
-        "원본확인"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 86,
-      "reasons": [
-        "전체 관람가 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
-      ],
-      "evidence": [
-        "유형: 공연",
-        "분야: 뮤지컬",
-        "관람연령: 전체 관람가",
-        "학생대상 후보: 초등",
-        "지역: 확인필요",
-        "시작까지 -35일"
-      ],
-      "warnings": [
-        "장소 또는 지역 확인 필요"
-      ],
-      "programIdeas": [
-        "관람 전 배경지식 10분 브리핑",
-        "관람 후 한 문단 감상 기록",
-        "학부모 주말 문화체험 안내"
-      ]
-    }
-  },
-  {
-    "id": "kopis-PF290812",
-    "source": "kopis",
-    "title": "로보카폴리: 브룸스타운의 에너지를 지켜라! [인천]",
-    "eventType": "공연",
-    "category": "뮤지컬",
-    "grades": [
-      "초등"
-    ],
-    "ageText": "24개월 이상",
-    "region": "확인필요",
-    "venueName": "부평아트센터",
-    "venueAddress": null,
-    "startDate": "2026-07-25",
-    "endDate": "2026-07-26",
-    "dday": -34,
-    "runtime": "1시간 5분",
-    "priceText": "R석 66,000원",
-    "free": false,
-    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF290812_260507_131649.gif",
-    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF290812",
-    "summary": "로보카폴리: 브룸스타운의 에너지를 지켜라! [인천]은(는) 부평아트센터에서 진행되는 뮤지컬 행사입니다.",
-    "status": "예정",
-    "conflict": false,
-    "recommendation": {
-      "subjectTags": [
-        "국어/논술",
-        "예술"
-      ],
-      "useCaseTags": [
-        "아동공연",
-        "주말관람",
-        "원본확인"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 86,
-      "reasons": [
-        "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
-      ],
-      "evidence": [
-        "유형: 공연",
-        "분야: 뮤지컬",
-        "관람연령: 24개월 이상",
-        "학생대상 후보: 초등",
-        "지역: 확인필요",
-        "시작까지 -34일"
-      ],
-      "warnings": [
-        "장소 또는 지역 확인 필요"
-      ],
-      "programIdeas": [
-        "관람 전 배경지식 10분 브리핑",
-        "관람 후 한 문단 감상 기록",
-        "학부모 주말 문화체험 안내"
-      ]
-    }
-  },
-  {
-    "id": "kopis-PF294699",
-    "source": "kopis",
-    "title": "매직 인 버블랜드 [인천]",
-    "eventType": "공연",
-    "category": "서커스/마술",
-    "grades": [
-      "초등"
-    ],
-    "ageText": "20개월 이상",
-    "region": "인천",
-    "venueName": "인천어린이과학관",
-    "venueAddress": null,
-    "startDate": "2026-07-25",
-    "endDate": "2026-08-16",
-    "dday": -13,
-    "runtime": "50분",
-    "priceText": "현장판매 25,000원, 사전예약 15,000원",
-    "free": false,
-    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF294699_260626_132828.png",
-    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF294699",
-    "summary": "매직 인 버블랜드 [인천]은(는) 인천어린이과학관에서 진행되는 서커스/마술 행사입니다.",
-    "status": "예정",
-    "conflict": false,
-    "recommendation": {
-      "subjectTags": [
-        "국어/논술",
-        "예술"
-      ],
-      "useCaseTags": [
-        "아동공연",
-        "주말관람",
-        "원본확인"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 100,
-      "reasons": [
-        "20개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
-      ],
-      "evidence": [
-        "유형: 공연",
-        "분야: 서커스/마술",
-        "관람연령: 20개월 이상",
-        "학생대상 후보: 초등",
-        "지역: 인천",
-        "시작까지 -13일"
-      ],
-      "warnings": [],
-      "programIdeas": [
-        "관람 전 배경지식 10분 브리핑",
-        "관람 후 한 문단 감상 기록",
-        "학부모 주말 문화체험 안내"
-      ]
-    }
-  },
-  {
-    "id": "kopis-PF290802",
-    "source": "kopis",
-    "title": "멜로우TV: Run it up, 팀 나빠 [대전]",
-    "eventType": "공연",
-    "category": "뮤지컬",
-    "grades": [
-      "초등"
-    ],
-    "ageText": "24개월 이상",
-    "region": "대전",
-    "venueName": "대전평송청소년문화센터",
-    "venueAddress": null,
-    "startDate": "2026-07-25",
-    "endDate": "2026-07-26",
-    "dday": -34,
-    "runtime": "1시간 10분",
-    "priceText": "R석 70,000원",
-    "free": false,
-    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF290802_260507_114444.gif",
-    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF290802",
-    "summary": "멜로우TV: Run it up, 팀 나빠 [대전]은(는) 대전평송청소년문화센터에서 진행되는 뮤지컬 행사입니다.",
-    "status": "예정",
-    "conflict": false,
-    "recommendation": {
-      "subjectTags": [
-        "국어/논술",
-        "예술"
-      ],
-      "useCaseTags": [
-        "아동공연",
-        "주말관람",
-        "원본확인"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 100,
-      "reasons": [
-        "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
-      ],
-      "evidence": [
-        "유형: 공연",
-        "분야: 뮤지컬",
-        "관람연령: 24개월 이상",
-        "학생대상 후보: 초등",
-        "지역: 대전",
-        "시작까지 -34일"
-      ],
-      "warnings": [],
-      "programIdeas": [
-        "관람 전 배경지식 10분 브리핑",
-        "관람 후 한 문단 감상 기록",
-        "학부모 주말 문화체험 안내"
-      ]
-    }
-  },
-  {
-    "id": "kopis-PF280986",
-    "source": "kopis",
-    "title": "무지개 물고기 [세종]",
-    "eventType": "공연",
-    "category": "뮤지컬",
-    "grades": [
-      "초등"
-    ],
-    "ageText": "24개월 이상",
-    "region": "확인필요",
-    "venueName": "비오케이아트센터(BOK아트센터)",
-    "venueAddress": null,
-    "startDate": "2026-07-25",
-    "endDate": "2026-07-26",
-    "dday": -34,
-    "runtime": "1시간",
-    "priceText": "전석 50,000원",
-    "free": false,
-    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF280986_251205_122022.jpg",
-    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF280986",
-    "summary": "무지개 물고기 [세종]은(는) 비오케이아트센터(BOK아트센터)에서 진행되는 뮤지컬 행사입니다.",
-    "status": "예정",
-    "conflict": false,
-    "recommendation": {
-      "subjectTags": [
-        "국어/논술",
-        "예술"
-      ],
-      "useCaseTags": [
-        "아동공연",
-        "주말관람",
-        "원본확인"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 86,
-      "reasons": [
-        "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
-      ],
-      "evidence": [
-        "유형: 공연",
-        "분야: 뮤지컬",
-        "관람연령: 24개월 이상",
-        "학생대상 후보: 초등",
-        "지역: 확인필요",
-        "시작까지 -34일"
-      ],
-      "warnings": [
-        "장소 또는 지역 확인 필요"
-      ],
-      "programIdeas": [
-        "관람 전 배경지식 10분 브리핑",
-        "관람 후 한 문단 감상 기록",
-        "학부모 주말 문화체험 안내"
-      ]
-    }
-  },
-  {
-    "id": "kopis-PF293968",
-    "source": "kopis",
-    "title": "백설공주 [구미]",
-    "eventType": "공연",
-    "category": "뮤지컬",
-    "grades": [
-      "초등"
-    ],
-    "ageText": "전체 관람가",
-    "region": "확인필요",
-    "venueName": "롯데마트 어린이소극장 [구미]",
-    "venueAddress": null,
-    "startDate": "2026-07-25",
-    "endDate": "2026-08-23",
-    "dday": -6,
-    "runtime": "50분",
-    "priceText": "전석 22,000원",
-    "free": false,
-    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF293968_260617_145522.jpg",
-    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF293968",
-    "summary": "백설공주 [구미]은(는) 롯데마트 어린이소극장 [구미]에서 진행되는 뮤지컬 행사입니다.",
-    "status": "예정",
-    "conflict": false,
-    "recommendation": {
-      "subjectTags": [
-        "국어/논술",
-        "예술"
-      ],
-      "useCaseTags": [
-        "아동공연",
-        "주말관람",
-        "원본확인"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 86,
-      "reasons": [
-        "전체 관람가 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
-      ],
-      "evidence": [
-        "유형: 공연",
-        "분야: 뮤지컬",
-        "관람연령: 전체 관람가",
-        "학생대상 후보: 초등",
-        "지역: 확인필요",
-        "시작까지 -6일"
-      ],
-      "warnings": [
-        "장소 또는 지역 확인 필요"
-      ],
-      "programIdeas": [
-        "관람 전 배경지식 10분 브리핑",
-        "관람 후 한 문단 감상 기록",
-        "학부모 주말 문화체험 안내"
-      ]
-    }
-  },
-  {
-    "id": "kopis-PF294429",
-    "source": "kopis",
-    "title": "베베핀, 두근두근 새친구 [이천]",
-    "eventType": "공연",
-    "category": "뮤지컬",
-    "grades": [
-      "초등"
-    ],
-    "ageText": "12개월 이상",
-    "region": "확인필요",
-    "venueName": "이천아트홀",
-    "venueAddress": null,
-    "startDate": "2026-07-25",
-    "endDate": "2026-07-25",
-    "dday": -35,
-    "runtime": "1시간 10분",
-    "priceText": "VIP석 77,000원",
-    "free": false,
-    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF294429_260623_131459.gif",
-    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF294429",
-    "summary": "베베핀, 두근두근 새친구 [이천]은(는) 이천아트홀에서 진행되는 뮤지컬 행사입니다.",
-    "status": "예정",
-    "conflict": false,
-    "recommendation": {
-      "subjectTags": [
-        "국어/논술",
-        "예술"
-      ],
-      "useCaseTags": [
-        "아동공연",
-        "주말관람",
-        "원본확인"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 86,
-      "reasons": [
-        "12개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
-      ],
-      "evidence": [
-        "유형: 공연",
-        "분야: 뮤지컬",
-        "관람연령: 12개월 이상",
-        "학생대상 후보: 초등",
-        "지역: 확인필요",
-        "시작까지 -35일"
-      ],
-      "warnings": [
-        "장소 또는 지역 확인 필요"
-      ],
-      "programIdeas": [
-        "관람 전 배경지식 10분 브리핑",
-        "관람 후 한 문단 감상 기록",
-        "학부모 주말 문화체험 안내"
-      ]
-    }
-  },
-  {
-    "id": "kopis-PF294380",
-    "source": "kopis",
-    "title": "부엉이의 안경 [남양주]",
-    "eventType": "공연",
-    "category": "무용(서양/한국무용)",
-    "grades": [
-      "초등"
-    ],
-    "ageText": "전체 관람가",
-    "region": "확인필요",
-    "venueName": "다산아트홀",
-    "venueAddress": null,
-    "startDate": "2026-07-25",
-    "endDate": "2026-07-25",
-    "dday": -35,
-    "runtime": "50분",
-    "priceText": "전석 10,000원",
-    "free": false,
-    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF294380_260623_102940.gif",
-    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF294380",
-    "summary": "부엉이의 안경 [남양주]은(는) 다산아트홀에서 진행되는 무용(서양/한국무용) 행사입니다.",
-    "status": "예정",
-    "conflict": false,
-    "recommendation": {
-      "subjectTags": [
-        "국어/논술",
-        "예술"
-      ],
-      "useCaseTags": [
-        "아동공연",
-        "주말관람",
-        "원본확인"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 86,
-      "reasons": [
-        "전체 관람가 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
-      ],
-      "evidence": [
-        "유형: 공연",
-        "분야: 무용(서양/한국무용)",
-        "관람연령: 전체 관람가",
-        "학생대상 후보: 초등",
-        "지역: 확인필요",
-        "시작까지 -35일"
-      ],
-      "warnings": [
-        "장소 또는 지역 확인 필요"
-      ],
-      "programIdeas": [
-        "관람 전 배경지식 10분 브리핑",
-        "관람 후 한 문단 감상 기록",
-        "학부모 주말 문화체험 안내"
-      ]
-    }
-  },
-  {
-    "id": "kopis-PF292142",
-    "source": "kopis",
-    "title": "사과가 쿵! [대전]",
-    "eventType": "공연",
-    "category": "뮤지컬",
-    "grades": [
-      "초등"
-    ],
-    "ageText": "24개월 이상",
-    "region": "대전",
-    "venueName": "대전평송청소년문화센터",
-    "venueAddress": null,
-    "startDate": "2026-07-25",
-    "endDate": "2026-07-25",
-    "dday": -35,
-    "runtime": "55분",
-    "priceText": "전석 40,000원",
-    "free": false,
-    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF292142_260526_104904.gif",
-    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF292142",
-    "summary": "사과가 쿵! [대전]은(는) 대전평송청소년문화센터에서 진행되는 뮤지컬 행사입니다.",
-    "status": "예정",
-    "conflict": false,
-    "recommendation": {
-      "subjectTags": [
-        "국어/논술",
-        "예술"
-      ],
-      "useCaseTags": [
-        "아동공연",
-        "주말관람",
-        "원본확인"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 100,
-      "reasons": [
-        "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
-      ],
-      "evidence": [
-        "유형: 공연",
-        "분야: 뮤지컬",
-        "관람연령: 24개월 이상",
-        "학생대상 후보: 초등",
-        "지역: 대전",
-        "시작까지 -35일"
-      ],
-      "warnings": [],
-      "programIdeas": [
-        "관람 전 배경지식 10분 브리핑",
-        "관람 후 한 문단 감상 기록",
-        "학부모 주말 문화체험 안내"
-      ]
-    }
-  },
-  {
-    "id": "kopis-PF292495",
-    "source": "kopis",
-    "title": "사과가 쿵! [예산]",
-    "eventType": "공연",
-    "category": "뮤지컬",
-    "grades": [
-      "초등"
-    ],
-    "ageText": "20개월 이상",
-    "region": "충남",
-    "venueName": "충남도청 문예회관",
-    "venueAddress": null,
-    "startDate": "2026-07-25",
-    "endDate": "2026-07-25",
-    "dday": -35,
-    "runtime": "1시간",
-    "priceText": "전석 50,000원",
-    "free": false,
-    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF292495_260529_104931.png",
-    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF292495",
-    "summary": "사과가 쿵! [예산]은(는) 충남도청 문예회관에서 진행되는 뮤지컬 행사입니다.",
-    "status": "예정",
-    "conflict": false,
-    "recommendation": {
-      "subjectTags": [
-        "국어/논술",
-        "예술"
-      ],
-      "useCaseTags": [
-        "아동공연",
-        "주말관람",
-        "원본확인"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 100,
-      "reasons": [
-        "20개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
-      ],
-      "evidence": [
-        "유형: 공연",
-        "분야: 뮤지컬",
-        "관람연령: 20개월 이상",
-        "학생대상 후보: 초등",
-        "지역: 충남",
-        "시작까지 -35일"
-      ],
-      "warnings": [],
-      "programIdeas": [
-        "관람 전 배경지식 10분 브리핑",
-        "관람 후 한 문단 감상 기록",
-        "학부모 주말 문화체험 안내"
-      ]
-    }
-  },
-  {
-    "id": "kopis-PF294422",
-    "source": "kopis",
-    "title": "세이프키즈 명곡시리즈, 헨젤과 그레텔 [서울 은평]",
-    "eventType": "공연",
-    "category": "뮤지컬",
-    "grades": [
-      "초등"
-    ],
-    "ageText": "전체 관람가",
-    "region": "확인필요",
-    "venueName": "은평문화예술회관",
-    "venueAddress": null,
-    "startDate": "2026-07-25",
-    "endDate": "2026-07-25",
-    "dday": -35,
-    "runtime": "1시간 10분",
-    "priceText": "VIP석 30,000원, R석 20,000원, S석 10,000원",
-    "free": false,
-    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF294422_260623_125114.gif",
-    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF294422",
-    "summary": "세이프키즈 명곡시리즈, 헨젤과 그레텔 [서울 은평]은(는) 은평문화예술회관에서 진행되는 뮤지컬 행사입니다.",
-    "status": "예정",
-    "conflict": false,
-    "recommendation": {
-      "subjectTags": [
-        "국어/논술",
-        "예술"
-      ],
-      "useCaseTags": [
-        "아동공연",
-        "주말관람",
-        "원본확인"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 86,
-      "reasons": [
-        "전체 관람가 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
-      ],
-      "evidence": [
-        "유형: 공연",
-        "분야: 뮤지컬",
-        "관람연령: 전체 관람가",
-        "학생대상 후보: 초등",
-        "지역: 확인필요",
-        "시작까지 -35일"
-      ],
-      "warnings": [
-        "장소 또는 지역 확인 필요"
-      ],
-      "programIdeas": [
-        "관람 전 배경지식 10분 브리핑",
-        "관람 후 한 문단 감상 기록",
-        "학부모 주말 문화체험 안내"
-      ]
-    }
-  },
-  {
-    "id": "kopis-PF291801",
-    "source": "kopis",
-    "title": "신데렐라 [진주]",
-    "eventType": "공연",
-    "category": "뮤지컬",
-    "grades": [
-      "초등"
-    ],
-    "ageText": "전체 관람가",
-    "region": "확인필요",
-    "venueName": "경상대학교 칠암캠퍼스",
-    "venueAddress": null,
-    "startDate": "2026-07-25",
-    "endDate": "2026-07-25",
-    "dday": -35,
-    "runtime": "50분",
-    "priceText": "사전예약 9,900원",
-    "free": false,
-    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF291801_260520_103716.jpg",
-    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF291801",
-    "summary": "신데렐라 [진주]은(는) 경상대학교 칠암캠퍼스에서 진행되는 뮤지컬 행사입니다.",
-    "status": "예정",
-    "conflict": false,
-    "recommendation": {
-      "subjectTags": [
-        "국어/논술",
-        "예술"
-      ],
-      "useCaseTags": [
-        "아동공연",
-        "주말관람",
-        "원본확인"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 86,
-      "reasons": [
-        "전체 관람가 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
-      ],
-      "evidence": [
-        "유형: 공연",
-        "분야: 뮤지컬",
-        "관람연령: 전체 관람가",
-        "학생대상 후보: 초등",
-        "지역: 확인필요",
-        "시작까지 -35일"
-      ],
-      "warnings": [
-        "장소 또는 지역 확인 필요"
-      ],
-      "programIdeas": [
-        "관람 전 배경지식 10분 브리핑",
-        "관람 후 한 문단 감상 기록",
-        "학부모 주말 문화체험 안내"
-      ]
-    }
-  },
-  {
-    "id": "kopis-PF294712",
-    "source": "kopis",
-    "title": "안녕, 잠!",
-    "eventType": "공연",
-    "category": "연극",
-    "grades": [
-      "초등"
-    ],
-    "ageText": "36개월 이상",
-    "region": "확인필요",
-    "venueName": "북아현아트홀",
-    "venueAddress": null,
-    "startDate": "2026-07-25",
-    "endDate": "2026-07-25",
-    "dday": -35,
-    "runtime": "1시간",
-    "priceText": "전석 30,000원",
-    "free": false,
-    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF294712_260626_140225.png",
-    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF294712",
-    "summary": "안녕, 잠!은(는) 북아현아트홀에서 진행되는 연극 행사입니다.",
-    "status": "예정",
-    "conflict": false,
-    "recommendation": {
-      "subjectTags": [
-        "국어/논술",
-        "예술"
-      ],
-      "useCaseTags": [
-        "아동공연",
-        "주말관람",
-        "원본확인"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 86,
-      "reasons": [
-        "36개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
-      ],
-      "evidence": [
-        "유형: 공연",
-        "분야: 연극",
-        "관람연령: 36개월 이상",
-        "학생대상 후보: 초등",
-        "지역: 확인필요",
-        "시작까지 -35일"
-      ],
-      "warnings": [
-        "장소 또는 지역 확인 필요"
-      ],
-      "programIdeas": [
-        "관람 전 배경지식 10분 브리핑",
-        "관람 후 한 문단 감상 기록",
-        "학부모 주말 문화체험 안내"
-      ]
-    }
-  },
-  {
-    "id": "kopis-PF291081",
-    "source": "kopis",
-    "title": "알파블록스 [대구]",
-    "eventType": "공연",
-    "category": "뮤지컬",
-    "grades": [
-      "초등"
-    ],
-    "ageText": "24개월 이상",
-    "region": "확인필요",
-    "venueName": "천마아트센터",
-    "venueAddress": null,
-    "startDate": "2026-07-25",
-    "endDate": "2026-07-26",
-    "dday": -34,
-    "runtime": "1시간 15분",
-    "priceText": "R석 70,000원, S석 60,000원",
-    "free": false,
-    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF291081_260511_134850.gif",
-    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF291081",
-    "summary": "알파블록스 [대구]은(는) 천마아트센터에서 진행되는 뮤지컬 행사입니다.",
-    "status": "예정",
-    "conflict": false,
-    "recommendation": {
-      "subjectTags": [
-        "국어/논술",
-        "예술"
-      ],
-      "useCaseTags": [
-        "아동공연",
-        "주말관람",
-        "원본확인"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 86,
-      "reasons": [
-        "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
-      ],
-      "evidence": [
-        "유형: 공연",
-        "분야: 뮤지컬",
-        "관람연령: 24개월 이상",
-        "학생대상 후보: 초등",
-        "지역: 확인필요",
-        "시작까지 -34일"
-      ],
-      "warnings": [
-        "장소 또는 지역 확인 필요"
-      ],
-      "programIdeas": [
-        "관람 전 배경지식 10분 브리핑",
-        "관람 후 한 문단 감상 기록",
-        "학부모 주말 문화체험 안내"
-      ]
-    }
-  },
-  {
-    "id": "kopis-PF293182",
-    "source": "kopis",
-    "title": "어린이 마술쇼 [김해]",
-    "eventType": "공연",
-    "category": "서커스/마술",
-    "grades": [
-      "초등"
-    ],
-    "ageText": "24개월 이상",
-    "region": "확인필요",
-    "venueName": "김해 장유문화센터",
-    "venueAddress": null,
-    "startDate": "2026-07-25",
-    "endDate": "2026-07-25",
-    "dday": -35,
-    "runtime": "1시간",
-    "priceText": "전석 30,000원",
-    "free": false,
-    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF293182_260609_102742.jpg",
-    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF293182",
-    "summary": "어린이 마술쇼 [김해]은(는) 김해 장유문화센터에서 진행되는 서커스/마술 행사입니다.",
-    "status": "예정",
-    "conflict": false,
-    "recommendation": {
-      "subjectTags": [
-        "국어/논술",
-        "예술"
-      ],
-      "useCaseTags": [
-        "아동공연",
-        "주말관람",
-        "원본확인"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 86,
-      "reasons": [
-        "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
-      ],
-      "evidence": [
-        "유형: 공연",
-        "분야: 서커스/마술",
-        "관람연령: 24개월 이상",
-        "학생대상 후보: 초등",
-        "지역: 확인필요",
-        "시작까지 -35일"
-      ],
-      "warnings": [
-        "장소 또는 지역 확인 필요"
-      ],
-      "programIdeas": [
-        "관람 전 배경지식 10분 브리핑",
-        "관람 후 한 문단 감상 기록",
-        "학부모 주말 문화체험 안내"
-      ]
-    }
-  },
-  {
-    "id": "kopis-PF294561",
-    "source": "kopis",
-    "title": "어린이 아트스테이지, 일장일딴 컬렉션 [김포]",
-    "eventType": "공연",
-    "category": "연극",
-    "grades": [
-      "초등"
-    ],
-    "ageText": "48개월 이상",
-    "region": "확인필요",
-    "venueName": "통진두레문화센터",
-    "venueAddress": null,
-    "startDate": "2026-07-25",
-    "endDate": "2026-07-26",
-    "dday": -34,
-    "runtime": "55분",
-    "priceText": "전석 15,000원",
-    "free": false,
-    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF294561_260624_141844.gif",
-    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF294561",
-    "summary": "어린이 아트스테이지, 일장일딴 컬렉션 [김포]은(는) 통진두레문화센터에서 진행되는 연극 행사입니다.",
-    "status": "예정",
-    "conflict": false,
-    "recommendation": {
-      "subjectTags": [
-        "국어/논술",
-        "예술"
-      ],
-      "useCaseTags": [
-        "아동공연",
-        "주말관람",
-        "원본확인"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 86,
-      "reasons": [
-        "48개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
-      ],
-      "evidence": [
-        "유형: 공연",
-        "분야: 연극",
-        "관람연령: 48개월 이상",
-        "학생대상 후보: 초등",
-        "지역: 확인필요",
-        "시작까지 -34일"
-      ],
-      "warnings": [
-        "장소 또는 지역 확인 필요"
-      ],
-      "programIdeas": [
-        "관람 전 배경지식 10분 브리핑",
-        "관람 후 한 문단 감상 기록",
-        "학부모 주말 문화체험 안내"
-      ]
-    }
-  },
-  {
-    "id": "kopis-PF294606",
-    "source": "kopis",
-    "title": "에어리얼 매직쇼 [춘천]",
-    "eventType": "공연",
-    "category": "서커스/마술",
-    "grades": [
-      "초등"
-    ],
-    "ageText": "48개월 이상",
-    "region": "확인필요",
-    "venueName": "춘천인형극장",
-    "venueAddress": null,
-    "startDate": "2026-07-25",
-    "endDate": "2026-07-25",
-    "dday": -35,
-    "runtime": "50분",
-    "priceText": "전석 40,000원",
-    "free": false,
-    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF294606_260625_113452.png",
-    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF294606",
-    "summary": "에어리얼 매직쇼 [춘천]은(는) 춘천인형극장에서 진행되는 서커스/마술 행사입니다.",
-    "status": "예정",
-    "conflict": false,
-    "recommendation": {
-      "subjectTags": [
-        "국어/논술",
-        "예술"
-      ],
-      "useCaseTags": [
-        "아동공연",
-        "주말관람",
-        "원본확인"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 86,
-      "reasons": [
-        "48개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
-      ],
-      "evidence": [
-        "유형: 공연",
-        "분야: 서커스/마술",
-        "관람연령: 48개월 이상",
-        "학생대상 후보: 초등",
-        "지역: 확인필요",
-        "시작까지 -35일"
-      ],
-      "warnings": [
-        "장소 또는 지역 확인 필요"
-      ],
-      "programIdeas": [
-        "관람 전 배경지식 10분 브리핑",
-        "관람 후 한 문단 감상 기록",
-        "학부모 주말 문화체험 안내"
-      ]
-    }
-  },
-  {
-    "id": "kopis-PF294523",
-    "source": "kopis",
-    "title": "오즈의 마법사 [구미]",
-    "eventType": "공연",
-    "category": "뮤지컬",
-    "grades": [
-      "초등"
-    ],
-    "ageText": "20개월 이상",
-    "region": "확인필요",
-    "venueName": "구미시문화예술회관",
-    "venueAddress": null,
-    "startDate": "2026-07-25",
-    "endDate": "2026-07-26",
-    "dday": -34,
-    "runtime": "55분",
-    "priceText": "전석 50,000원",
-    "free": false,
-    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF294523_260624_130411.gif",
-    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF294523",
-    "summary": "오즈의 마법사 [구미]은(는) 구미시문화예술회관에서 진행되는 뮤지컬 행사입니다.",
-    "status": "예정",
-    "conflict": false,
-    "recommendation": {
-      "subjectTags": [
-        "국어/논술",
-        "예술"
-      ],
-      "useCaseTags": [
-        "아동공연",
-        "주말관람",
-        "원본확인"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 86,
-      "reasons": [
-        "20개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
-      ],
-      "evidence": [
-        "유형: 공연",
-        "분야: 뮤지컬",
-        "관람연령: 20개월 이상",
-        "학생대상 후보: 초등",
-        "지역: 확인필요",
-        "시작까지 -34일"
-      ],
-      "warnings": [
-        "장소 또는 지역 확인 필요"
-      ],
-      "programIdeas": [
-        "관람 전 배경지식 10분 브리핑",
-        "관람 후 한 문단 감상 기록",
-        "학부모 주말 문화체험 안내"
-      ]
-    }
-  },
-  {
-    "id": "kopis-PF289969",
-    "source": "kopis",
-    "title": "인싸가족",
-    "eventType": "공연",
-    "category": "뮤지컬",
-    "grades": [
-      "초등"
-    ],
-    "ageText": "24개월 이상",
-    "region": "확인필요",
-    "venueName": "티켓링크 1975 씨어터(구.능동 어린이회관)",
-    "venueAddress": null,
-    "startDate": "2026-07-25",
-    "endDate": "2026-08-02",
-    "dday": -27,
-    "runtime": "1시간 5분",
-    "priceText": "VIP석 77,000원, R석 66,000원",
-    "free": false,
-    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF289969_260423_104757.gif",
-    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF289969",
-    "summary": "인싸가족은(는) 티켓링크 1975 씨어터(구.능동 어린이회관)에서 진행되는 뮤지컬 행사입니다.",
-    "status": "예정",
-    "conflict": false,
-    "recommendation": {
-      "subjectTags": [
-        "국어/논술",
-        "예술"
-      ],
-      "useCaseTags": [
-        "아동공연",
-        "주말관람",
-        "원본확인"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 86,
-      "reasons": [
-        "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
-      ],
-      "evidence": [
-        "유형: 공연",
-        "분야: 뮤지컬",
-        "관람연령: 24개월 이상",
-        "학생대상 후보: 초등",
-        "지역: 확인필요",
-        "시작까지 -27일"
-      ],
-      "warnings": [
-        "장소 또는 지역 확인 필요"
-      ],
-      "programIdeas": [
-        "관람 전 배경지식 10분 브리핑",
-        "관람 후 한 문단 감상 기록",
-        "학부모 주말 문화체험 안내"
-      ]
-    }
-  },
-  {
     "id": "kopis-PF290009",
     "source": "kopis",
     "title": "인어공주 [대구]",
@@ -21271,7 +21272,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-25",
     "endDate": "2026-08-02",
-    "dday": -27,
+    "dday": -33,
     "runtime": "1시간",
     "priceText": "전석 30,000원",
     "free": false,
@@ -21302,7 +21303,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -27일"
+        "시작까지 -33일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -21329,7 +21330,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-25",
     "endDate": "2026-07-25",
-    "dday": -35,
+    "dday": -41,
     "runtime": "1시간",
     "priceText": "전석 50,000원",
     "free": false,
@@ -21360,7 +21361,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -35일"
+        "시작까지 -41일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -21387,7 +21388,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-25",
     "endDate": "2026-07-25",
-    "dday": -35,
+    "dday": -41,
     "runtime": "1시간",
     "priceText": "전석 30,000원",
     "free": false,
@@ -21418,7 +21419,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -35일"
+        "시작까지 -41일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -21445,7 +21446,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-25",
     "endDate": "2026-07-25",
-    "dday": -35,
+    "dday": -41,
     "runtime": "50분",
     "priceText": "네이버 1인권 14,900원, 사전예약 9,900원",
     "free": false,
@@ -21476,7 +21477,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -35일"
+        "시작까지 -41일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -21503,7 +21504,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-25",
     "endDate": "2026-07-25",
-    "dday": -35,
+    "dday": -41,
     "runtime": "55분",
     "priceText": "전석 40,000원",
     "free": false,
@@ -21534,7 +21535,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -35일"
+        "시작까지 -41일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -21561,7 +21562,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-25",
     "endDate": "2026-07-25",
-    "dday": -35,
+    "dday": -41,
     "runtime": "1시간 20분",
     "priceText": "R석 66,000원",
     "free": false,
@@ -21592,7 +21593,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -35일"
+        "시작까지 -41일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -21619,7 +21620,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-25",
     "endDate": "2026-07-26",
-    "dday": -34,
+    "dday": -40,
     "runtime": "1시간 10분",
     "priceText": "R석 70,000원, S석 60,000원",
     "free": false,
@@ -21650,7 +21651,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -34일"
+        "시작까지 -40일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -21677,7 +21678,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-25",
     "endDate": "2026-07-25",
-    "dday": -35,
+    "dday": -41,
     "runtime": "50분",
     "priceText": "사전예약 9,900원, 사전예약 14,900원",
     "free": false,
@@ -21708,7 +21709,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -35일"
+        "시작까지 -41일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -21735,7 +21736,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-25",
     "endDate": "2026-07-26",
-    "dday": -34,
+    "dday": -40,
     "runtime": "55분",
     "priceText": "현장판매 40,000원, 사전예약 10,000원",
     "free": false,
@@ -21766,7 +21767,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -34일"
+        "시작까지 -40일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -21793,7 +21794,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-25",
     "endDate": "2026-07-25",
-    "dday": -35,
+    "dday": -41,
     "runtime": "1시간",
     "priceText": "R석 10,000원, S석 5,000원",
     "free": false,
@@ -21824,7 +21825,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -35일"
+        "시작까지 -41일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -21851,7 +21852,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-25",
     "endDate": "2026-08-23",
-    "dday": -6,
+    "dday": -12,
     "runtime": "1시간 10분",
     "priceText": "플레이석(R석)  77,000원, 파이팅석(S석)  66,000원",
     "free": false,
@@ -21882,7 +21883,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -6일"
+        "시작까지 -12일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -21909,7 +21910,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-26",
     "endDate": "2026-07-26",
-    "dday": -34,
+    "dday": -40,
     "runtime": "55분",
     "priceText": "전석 30,000원",
     "free": false,
@@ -21940,7 +21941,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -34일"
+        "시작까지 -40일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -22027,7 +22028,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-26",
     "endDate": "2026-07-26",
-    "dday": -34,
+    "dday": -40,
     "runtime": "50분",
     "priceText": "전석 35,000원",
     "free": false,
@@ -22058,7 +22059,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -34일"
+        "시작까지 -40일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -22085,7 +22086,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-26",
     "endDate": "2026-07-26",
-    "dday": -34,
+    "dday": -40,
     "runtime": "55분",
     "priceText": "전석 10,000원",
     "free": false,
@@ -22116,7 +22117,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -34일"
+        "시작까지 -40일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -22143,7 +22144,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-26",
     "endDate": "2026-07-26",
-    "dday": -34,
+    "dday": -40,
     "runtime": "1시간",
     "priceText": "전석 50,000원",
     "free": false,
@@ -22174,7 +22175,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -34일"
+        "시작까지 -40일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -22201,7 +22202,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-26",
     "endDate": "2026-07-26",
-    "dday": -34,
+    "dday": -40,
     "runtime": "1시간",
     "priceText": "전석 40,000원",
     "free": false,
@@ -22232,7 +22233,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -34일"
+        "시작까지 -40일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -22259,7 +22260,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-27",
     "endDate": "2026-07-27",
-    "dday": -33,
+    "dday": -39,
     "runtime": "1시간 5분",
     "priceText": "전석 10,000원",
     "free": false,
@@ -22288,7 +22289,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 48개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -33일"
+        "시작까지 -39일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -22374,7 +22375,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-28",
     "endDate": "2026-08-30",
-    "dday": 0,
+    "dday": -5,
     "runtime": "35분",
     "priceText": "현장판매 10,000원, 사전예약 9,000원",
     "free": false,
@@ -22390,7 +22391,6 @@ export const CULTURE_EVENTS: CultureEvent[] = [
       ],
       "useCaseTags": [
         "아동공연",
-        "이번주관람",
         "주말관람",
         "원본확인"
       ],
@@ -22398,7 +22398,6 @@ export const CULTURE_EVENTS: CultureEvent[] = [
       "confidenceScore": 86,
       "reasons": [
         "전체 관람가 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "이번 주 바로 안내할 수 있는 가까운 일정입니다.",
         "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
       ],
       "evidence": [
@@ -22407,7 +22406,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 0일"
+        "시작까지 -5일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -22434,7 +22433,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-28",
     "endDate": "2026-07-30",
-    "dday": -30,
+    "dday": -36,
     "runtime": "45분",
     "priceText": "전석 50,000원",
     "free": false,
@@ -22463,7 +22462,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -30일"
+        "시작까지 -36일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -22490,7 +22489,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-29",
     "endDate": "2026-07-30",
-    "dday": -30,
+    "dday": -36,
     "runtime": "45분",
     "priceText": "전석 15,000원",
     "free": false,
@@ -22519,7 +22518,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 만 5세 이상",
         "학생대상 후보: 초등",
         "지역: 광주",
-        "시작까지 -30일"
+        "시작까지 -36일"
       ],
       "warnings": [],
       "programIdeas": [
@@ -22544,7 +22543,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-29",
     "endDate": "2026-08-02",
-    "dday": -27,
+    "dday": -33,
     "runtime": "1시간 10분",
     "priceText": "VIP석 77,000원",
     "free": false,
@@ -22575,7 +22574,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 12개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -27일"
+        "시작까지 -33일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -22602,7 +22601,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-29",
     "endDate": "2026-08-01",
-    "dday": -28,
+    "dday": -34,
     "runtime": "1시간",
     "priceText": "전석 40,000원",
     "free": false,
@@ -22633,7 +22632,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -28일"
+        "시작까지 -34일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -22660,7 +22659,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-29",
     "endDate": "2026-07-31",
-    "dday": -29,
+    "dday": -35,
     "runtime": "50분",
     "priceText": "전석 30,000원",
     "free": false,
@@ -22689,7 +22688,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 48개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -29일"
+        "시작까지 -35일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -22716,7 +22715,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-29",
     "endDate": "2026-07-30",
-    "dday": -30,
+    "dday": -36,
     "runtime": "50분",
     "priceText": "전석 35,000원",
     "free": false,
@@ -22745,7 +22744,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 48개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -30일"
+        "시작까지 -36일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -22772,7 +22771,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-29",
     "endDate": "2026-08-09",
-    "dday": -20,
+    "dday": -26,
     "runtime": "50분",
     "priceText": "전석 35,000원",
     "free": false,
@@ -22804,7 +22803,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -20일"
+        "시작까지 -26일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -22831,7 +22830,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-29",
     "endDate": "2026-08-02",
-    "dday": -27,
+    "dday": -33,
     "runtime": "1시간 10분",
     "priceText": "R석 70,000원, S석 60,000원",
     "free": false,
@@ -22862,7 +22861,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -27일"
+        "시작까지 -33일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -22889,7 +22888,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-30",
     "endDate": "2026-08-02",
-    "dday": -27,
+    "dday": -33,
     "runtime": "1시간",
     "priceText": "전석 35,000원",
     "free": false,
@@ -22920,7 +22919,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 48개월 이상",
         "학생대상 후보: 초등",
         "지역: 서울",
-        "시작까지 -27일"
+        "시작까지 -33일"
       ],
       "warnings": [],
       "programIdeas": [
@@ -22945,7 +22944,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-30",
     "endDate": "2026-08-01",
-    "dday": -28,
+    "dday": -34,
     "runtime": "35분",
     "priceText": "전석 35,000원",
     "free": false,
@@ -22976,7 +22975,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 36개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -28일"
+        "시작까지 -34일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -23003,7 +23002,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-30",
     "endDate": "2026-08-09",
-    "dday": -20,
+    "dday": -26,
     "runtime": "1시간 5분",
     "priceText": "전석 40,000원",
     "free": false,
@@ -23034,7 +23033,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 36개월 이상",
         "학생대상 후보: 초등",
         "지역: 서울",
-        "시작까지 -20일"
+        "시작까지 -26일"
       ],
       "warnings": [],
       "programIdeas": [
@@ -23059,7 +23058,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-30",
     "endDate": "2026-08-16",
-    "dday": -13,
+    "dday": -19,
     "runtime": "1시간",
     "priceText": "전석 50,000원",
     "free": false,
@@ -23091,7 +23090,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -13일"
+        "시작까지 -19일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -23118,7 +23117,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-30",
     "endDate": "2026-07-30",
-    "dday": -30,
+    "dday": -36,
     "runtime": "1시간 10분",
     "priceText": "전석 10,000원",
     "free": false,
@@ -23147,7 +23146,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 만 3세 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -30일"
+        "시작까지 -36일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -23174,7 +23173,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-31",
     "endDate": "2026-08-01",
-    "dday": -28,
+    "dday": -34,
     "runtime": "1시간 20분",
     "priceText": "VIP석 43,900원, R석 38,900원, S석 33,900원",
     "free": false,
@@ -23205,7 +23204,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -28일"
+        "시작까지 -34일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -23232,7 +23231,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-31",
     "endDate": "2026-08-02",
-    "dday": -27,
+    "dday": -33,
     "runtime": "1시간",
     "priceText": "1층석 40,000원, 2층석 35,000원",
     "free": false,
@@ -23263,7 +23262,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 20개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -27일"
+        "시작까지 -33일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -23290,7 +23289,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-31",
     "endDate": "2026-07-31",
-    "dday": -29,
+    "dday": -35,
     "runtime": "1시간",
     "priceText": "전석 10,000원",
     "free": false,
@@ -23319,7 +23318,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 만 4세 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -29일"
+        "시작까지 -35일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -23346,7 +23345,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-07-31",
     "endDate": "2026-07-31",
-    "dday": -29,
+    "dday": -35,
     "runtime": "1시간",
     "priceText": "전석 20,000원",
     "free": false,
@@ -23375,7 +23374,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 36개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -29일"
+        "시작까지 -35일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -23402,7 +23401,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-01",
     "endDate": "2026-08-01",
-    "dday": -28,
+    "dday": -34,
     "runtime": "45분",
     "priceText": "전석 20,000원",
     "free": false,
@@ -23433,7 +23432,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 만 3세 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -28일"
+        "시작까지 -34일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -23460,7 +23459,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-01",
     "endDate": "2026-08-01",
-    "dday": -28,
+    "dday": -34,
     "runtime": "50분",
     "priceText": "전석 10,000원",
     "free": false,
@@ -23491,7 +23490,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 36개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -28일"
+        "시작까지 -34일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -23518,7 +23517,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-01",
     "endDate": "2026-08-01",
-    "dday": -28,
+    "dday": -34,
     "runtime": "1시간",
     "priceText": "전석 5,000원",
     "free": false,
@@ -23549,7 +23548,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 만 5세 이상",
         "학생대상 후보: 초등",
         "지역: 광주",
-        "시작까지 -28일"
+        "시작까지 -34일"
       ],
       "warnings": [],
       "programIdeas": [
@@ -23574,7 +23573,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-01",
     "endDate": "2026-08-02",
-    "dday": -27,
+    "dday": -33,
     "runtime": "1시간 10분",
     "priceText": "R석 70,000원, S석 60,000원",
     "free": false,
@@ -23605,7 +23604,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -27일"
+        "시작까지 -33일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -23632,7 +23631,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-01",
     "endDate": "2026-08-01",
-    "dday": -28,
+    "dday": -34,
     "runtime": "55분",
     "priceText": "전석 50,000원",
     "free": false,
@@ -23663,7 +23662,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -28일"
+        "시작까지 -34일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -23690,7 +23689,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-01",
     "endDate": "2026-08-01",
-    "dday": -28,
+    "dday": -34,
     "runtime": "55분",
     "priceText": "전석 50,000원",
     "free": false,
@@ -23721,7 +23720,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -28일"
+        "시작까지 -34일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -23748,7 +23747,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-01",
     "endDate": "2026-08-02",
-    "dday": -27,
+    "dday": -33,
     "runtime": "55분",
     "priceText": "전석 40,000원",
     "free": false,
@@ -23779,7 +23778,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -27일"
+        "시작까지 -33일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -23806,7 +23805,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-01",
     "endDate": "2026-08-02",
-    "dday": -27,
+    "dday": -33,
     "runtime": "1시간 10분",
     "priceText": "전석 40,000원",
     "free": false,
@@ -23837,7 +23836,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -27일"
+        "시작까지 -33일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -23864,7 +23863,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-01",
     "endDate": "2026-08-02",
-    "dday": -27,
+    "dday": -33,
     "runtime": "55분",
     "priceText": "전석 40,000원",
     "free": false,
@@ -23895,7 +23894,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -27일"
+        "시작까지 -33일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -23922,7 +23921,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-01",
     "endDate": "2026-08-02",
-    "dday": -27,
+    "dday": -33,
     "runtime": "1시간 10분",
     "priceText": "R석 70,000원",
     "free": false,
@@ -23953,7 +23952,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -27일"
+        "시작까지 -33일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -23980,7 +23979,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-01",
     "endDate": "2026-08-01",
-    "dday": -28,
+    "dday": -34,
     "runtime": "55분",
     "priceText": "전석 40,000원, 착한좌석  10,000원",
     "free": false,
@@ -24011,7 +24010,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 경기",
-        "시작까지 -28일"
+        "시작까지 -34일"
       ],
       "warnings": [],
       "programIdeas": [
@@ -24036,7 +24035,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-01",
     "endDate": "2026-08-23",
-    "dday": -6,
+    "dday": -12,
     "runtime": "1시간 25분",
     "priceText": "VIP석 56,900원, R석 51,900원, S석 46,900원, A석 41,900원",
     "free": false,
@@ -24067,7 +24066,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -6일"
+        "시작까지 -12일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -24094,7 +24093,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-01",
     "endDate": "2026-08-01",
-    "dday": -28,
+    "dday": -34,
     "runtime": "50분",
     "priceText": "전석 20,000원",
     "free": false,
@@ -24125,7 +24124,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 36개월 이상",
         "학생대상 후보: 초등",
         "지역: 대구",
-        "시작까지 -28일"
+        "시작까지 -34일"
       ],
       "warnings": [],
       "programIdeas": [
@@ -24150,7 +24149,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-01",
     "endDate": "2026-08-01",
-    "dday": -28,
+    "dday": -34,
     "runtime": "50분",
     "priceText": "현장판매 14,900원, 사전예약 9,900원",
     "free": false,
@@ -24181,7 +24180,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -28일"
+        "시작까지 -34일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -24208,7 +24207,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-01",
     "endDate": "2026-08-02",
-    "dday": -27,
+    "dday": -33,
     "runtime": "55분",
     "priceText": "전석 35,000원",
     "free": false,
@@ -24239,7 +24238,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 만 5세 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -27일"
+        "시작까지 -33일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -24266,7 +24265,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-01",
     "endDate": "2026-08-02",
-    "dday": -27,
+    "dday": -33,
     "runtime": "1시간",
     "priceText": "전석 35,000원",
     "free": false,
@@ -24297,7 +24296,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 36개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -27일"
+        "시작까지 -33일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -24324,7 +24323,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-01",
     "endDate": "2026-08-02",
-    "dday": -27,
+    "dday": -33,
     "runtime": "1시간 15분",
     "priceText": "R석 70,000원, S석 60,000원",
     "free": false,
@@ -24355,7 +24354,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -27일"
+        "시작까지 -33일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -24382,7 +24381,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-01",
     "endDate": "2026-08-02",
-    "dday": -27,
+    "dday": -33,
     "runtime": "1시간 10분",
     "priceText": "전석 66,000원",
     "free": false,
@@ -24413,7 +24412,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 12개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -27일"
+        "시작까지 -33일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -24440,7 +24439,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-01",
     "endDate": "2026-08-09",
-    "dday": -20,
+    "dday": -26,
     "runtime": "1시간 20분",
     "priceText": "아마존석  54,900원, R석 48,900원, S석 42,900원",
     "free": false,
@@ -24471,7 +24470,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -20일"
+        "시작까지 -26일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -24498,7 +24497,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-01",
     "endDate": "2026-08-09",
-    "dday": -20,
+    "dday": -26,
     "runtime": "1시간 5분",
     "priceText": "사전예약 23,000원",
     "free": false,
@@ -24530,7 +24529,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -20일"
+        "시작까지 -26일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -24557,7 +24556,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-01",
     "endDate": "2026-08-01",
-    "dday": -28,
+    "dday": -34,
     "runtime": "55분",
     "priceText": "사전예약 10,000원, 전석 40,000원",
     "free": false,
@@ -24588,7 +24587,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -28일"
+        "시작까지 -34일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -24615,7 +24614,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-01",
     "endDate": "2026-08-01",
-    "dday": -28,
+    "dday": -34,
     "runtime": "1시간",
     "priceText": "현장판매 50,000원, 사전예약 9,900원",
     "free": false,
@@ -24646,7 +24645,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 20개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -28일"
+        "시작까지 -34일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -24673,7 +24672,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-01",
     "endDate": "2026-08-01",
-    "dday": -28,
+    "dday": -34,
     "runtime": "1시간",
     "priceText": "전석 50,000원",
     "free": false,
@@ -24704,7 +24703,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -28일"
+        "시작까지 -34일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -24731,7 +24730,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-01",
     "endDate": "2026-08-01",
-    "dday": -28,
+    "dday": -34,
     "runtime": "1시간",
     "priceText": "R석 55,000원",
     "free": false,
@@ -24762,7 +24761,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -28일"
+        "시작까지 -34일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -24789,7 +24788,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-01",
     "endDate": "2026-08-01",
-    "dday": -28,
+    "dday": -34,
     "runtime": "50분",
     "priceText": "현장판매 14,900원, 사전예약 9,900원",
     "free": false,
@@ -24820,7 +24819,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -28일"
+        "시작까지 -34일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -24847,7 +24846,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-01",
     "endDate": "2026-08-01",
-    "dday": -28,
+    "dday": -34,
     "runtime": "50분",
     "priceText": "전석 10,000원",
     "free": false,
@@ -24878,7 +24877,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 만 3세 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -28일"
+        "시작까지 -34일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -24905,7 +24904,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-01",
     "endDate": "2026-08-01",
-    "dday": -28,
+    "dday": -34,
     "runtime": "1시간 20분",
     "priceText": "R석 66,000원",
     "free": false,
@@ -24936,7 +24935,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -28일"
+        "시작까지 -34일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -24963,7 +24962,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-01",
     "endDate": "2026-08-02",
-    "dday": -27,
+    "dday": -33,
     "runtime": "1시간 10분",
     "priceText": "R석 70,000원, S석 60,000원",
     "free": false,
@@ -24994,7 +24993,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -27일"
+        "시작까지 -33일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -25021,7 +25020,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-01",
     "endDate": "2026-08-01",
-    "dday": -28,
+    "dday": -34,
     "runtime": "1시간 15분",
     "priceText": "R석 30,000원, S석 20,000원, A석 10,000원",
     "free": false,
@@ -25052,7 +25051,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 48개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -28일"
+        "시작까지 -34일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -25079,7 +25078,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-02",
     "endDate": "2026-08-02",
-    "dday": -27,
+    "dday": -33,
     "runtime": "55분",
     "priceText": "사전예약 21,000원",
     "free": false,
@@ -25110,7 +25109,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -27일"
+        "시작까지 -33일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -25137,7 +25136,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-02",
     "endDate": "2026-08-02",
-    "dday": -27,
+    "dday": -33,
     "runtime": "1시간",
     "priceText": "전석 30,000원",
     "free": false,
@@ -25168,7 +25167,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -27일"
+        "시작까지 -33일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -25195,7 +25194,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-02",
     "endDate": "2026-08-02",
-    "dday": -27,
+    "dday": -33,
     "runtime": "50분",
     "priceText": "사전예약 9,900원",
     "free": false,
@@ -25226,7 +25225,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 경기",
-        "시작까지 -27일"
+        "시작까지 -33일"
       ],
       "warnings": [],
       "programIdeas": [
@@ -25251,7 +25250,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-02",
     "endDate": "2026-08-02",
-    "dday": -27,
+    "dday": -33,
     "runtime": "50분",
     "priceText": "네이버 1인권 14,900원, 사전예약(특가) 9,900원",
     "free": false,
@@ -25282,7 +25281,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -27일"
+        "시작까지 -33일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -25309,7 +25308,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-02",
     "endDate": "2026-08-02",
-    "dday": -27,
+    "dday": -33,
     "runtime": "55분",
     "priceText": "현장판매 40,000원, 사전예약 10,000원",
     "free": false,
@@ -25340,7 +25339,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -27일"
+        "시작까지 -33일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -25367,7 +25366,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-02",
     "endDate": "2026-08-02",
-    "dday": -27,
+    "dday": -33,
     "runtime": "1시간",
     "priceText": "전석 30,000원",
     "free": false,
@@ -25398,7 +25397,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -27일"
+        "시작까지 -33일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -25425,7 +25424,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-02",
     "endDate": "2026-08-02",
-    "dday": -27,
+    "dday": -33,
     "runtime": "50분",
     "priceText": "네이버 1인권 14,900원, 사전예약(특가) 9,900원",
     "free": false,
@@ -25456,7 +25455,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -27일"
+        "시작까지 -33일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -25483,7 +25482,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-03",
     "endDate": "2026-08-05",
-    "dday": -24,
+    "dday": -30,
     "runtime": "1시간",
     "priceText": "전석 30,000원",
     "free": false,
@@ -25512,7 +25511,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -24일"
+        "시작까지 -30일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -25539,7 +25538,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-04",
     "endDate": "2026-08-30",
-    "dday": 0,
+    "dday": -5,
     "runtime": "55분",
     "priceText": "전석 40,000원",
     "free": false,
@@ -25555,7 +25554,6 @@ export const CULTURE_EVENTS: CultureEvent[] = [
       ],
       "useCaseTags": [
         "아동공연",
-        "이번주관람",
         "주말관람",
         "원본확인"
       ],
@@ -25563,7 +25561,6 @@ export const CULTURE_EVENTS: CultureEvent[] = [
       "confidenceScore": 86,
       "reasons": [
         "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "이번 주 바로 안내할 수 있는 가까운 일정입니다.",
         "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
       ],
       "evidence": [
@@ -25572,7 +25569,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 0일"
+        "시작까지 -5일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -25599,7 +25596,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-07",
     "endDate": "2026-08-28",
-    "dday": -1,
+    "dday": -7,
     "runtime": "50분",
     "priceText": "단체 9,000원, 개인 10,000원",
     "free": false,
@@ -25630,7 +25627,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 36개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -1일"
+        "시작까지 -7일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -25657,7 +25654,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-07",
     "endDate": "2026-08-30",
-    "dday": 0,
+    "dday": -5,
     "runtime": "1시간 5분",
     "priceText": "전석 66,000원",
     "free": false,
@@ -25673,7 +25670,6 @@ export const CULTURE_EVENTS: CultureEvent[] = [
       ],
       "useCaseTags": [
         "아동공연",
-        "이번주관람",
         "주말관람",
         "원본확인"
       ],
@@ -25681,7 +25677,6 @@ export const CULTURE_EVENTS: CultureEvent[] = [
       "confidenceScore": 86,
       "reasons": [
         "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "이번 주 바로 안내할 수 있는 가까운 일정입니다.",
         "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
       ],
       "evidence": [
@@ -25690,7 +25685,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 0일"
+        "시작까지 -5일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -25717,7 +25712,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-07",
     "endDate": "2026-08-09",
-    "dday": -20,
+    "dday": -26,
     "runtime": "1시간",
     "priceText": "전석 25,000원",
     "free": false,
@@ -25748,7 +25743,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -20일"
+        "시작까지 -26일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -25775,7 +25770,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-08",
     "endDate": "2026-08-08",
-    "dday": -21,
+    "dday": -27,
     "runtime": "50분",
     "priceText": "전석 20,000원",
     "free": false,
@@ -25806,7 +25801,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 48개월 이상",
         "학생대상 후보: 초등",
         "지역: 인천",
-        "시작까지 -21일"
+        "시작까지 -27일"
       ],
       "warnings": [],
       "programIdeas": [
@@ -25831,7 +25826,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-08",
     "endDate": "2026-08-08",
-    "dday": -21,
+    "dday": -27,
     "runtime": "1시간 10분",
     "priceText": "전석 20,000원",
     "free": false,
@@ -25862,7 +25857,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 48개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -21일"
+        "시작까지 -27일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -25889,7 +25884,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-08",
     "endDate": "2026-08-09",
-    "dday": -20,
+    "dday": -26,
     "runtime": "1시간 5분",
     "priceText": "R석 60,000원, S석 40,000원",
     "free": false,
@@ -25920,7 +25915,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -20일"
+        "시작까지 -26일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -25947,7 +25942,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-08",
     "endDate": "2026-08-09",
-    "dday": -20,
+    "dday": -26,
     "runtime": "1시간",
     "priceText": "전석 50,000원",
     "free": false,
@@ -25978,7 +25973,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -20일"
+        "시작까지 -26일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -26005,7 +26000,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-08",
     "endDate": "2026-08-09",
-    "dday": -20,
+    "dday": -26,
     "runtime": "1시간 5분",
     "priceText": "R석 66,000원",
     "free": false,
@@ -26036,7 +26031,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -20일"
+        "시작까지 -26일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -26063,7 +26058,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-08",
     "endDate": "2026-08-09",
-    "dday": -20,
+    "dday": -26,
     "runtime": "1시간 10분",
     "priceText": "R석 70,000원",
     "free": false,
@@ -26094,7 +26089,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -20일"
+        "시작까지 -26일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -26121,7 +26116,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-08",
     "endDate": "2026-08-08",
-    "dday": -21,
+    "dday": -27,
     "runtime": "1시간 5분",
     "priceText": "전석 60,000원",
     "free": false,
@@ -26152,7 +26147,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 세종",
-        "시작까지 -21일"
+        "시작까지 -27일"
       ],
       "warnings": [],
       "programIdeas": [
@@ -26177,7 +26172,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-08",
     "endDate": "2026-08-09",
-    "dday": -20,
+    "dday": -26,
     "runtime": "55분",
     "priceText": "전석 40,000원",
     "free": false,
@@ -26208,7 +26203,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -20일"
+        "시작까지 -26일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -26235,7 +26230,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-08",
     "endDate": "2026-08-08",
-    "dday": -21,
+    "dday": -27,
     "runtime": "1시간",
     "priceText": "전석 15,000원",
     "free": false,
@@ -26266,7 +26261,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -21일"
+        "시작까지 -27일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -26293,7 +26288,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-08",
     "endDate": "2026-08-08",
-    "dday": -21,
+    "dday": -27,
     "runtime": "1시간 10분",
     "priceText": "전석 30,000원",
     "free": false,
@@ -26324,7 +26319,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 48개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -21일"
+        "시작까지 -27일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -26351,7 +26346,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-08",
     "endDate": "2026-08-08",
-    "dday": -21,
+    "dday": -27,
     "runtime": "1시간 10분",
     "priceText": "R석 29,900원",
     "free": false,
@@ -26382,7 +26377,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -21일"
+        "시작까지 -27일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -26409,7 +26404,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-08",
     "endDate": "2026-08-08",
-    "dday": -21,
+    "dday": -27,
     "runtime": "50분",
     "priceText": "현장판매 14,900원, 사전예약 9,900원",
     "free": false,
@@ -26440,7 +26435,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -21일"
+        "시작까지 -27일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -26467,7 +26462,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-08",
     "endDate": "2026-08-08",
-    "dday": -21,
+    "dday": -27,
     "runtime": "1시간",
     "priceText": "사전예약 10,000원",
     "free": false,
@@ -26498,7 +26493,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -21일"
+        "시작까지 -27일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -26525,7 +26520,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-08",
     "endDate": "2026-08-09",
-    "dday": -20,
+    "dday": -26,
     "runtime": "1시간 10분",
     "priceText": "전석 40,000원, 사전예약 9,900원",
     "free": false,
@@ -26556,7 +26551,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 36개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -20일"
+        "시작까지 -26일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -26583,7 +26578,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-08",
     "endDate": "2026-08-09",
-    "dday": -20,
+    "dday": -26,
     "runtime": "1시간 10분",
     "priceText": "전석 66,000원",
     "free": false,
@@ -26614,7 +26609,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 12개월 이상",
         "학생대상 후보: 초등",
         "지역: 대구",
-        "시작까지 -20일"
+        "시작까지 -26일"
       ],
       "warnings": [],
       "programIdeas": [
@@ -26639,7 +26634,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-08",
     "endDate": "2026-08-09",
-    "dday": -20,
+    "dday": -26,
     "runtime": "1시간 10분",
     "priceText": "R석 66,000원",
     "free": false,
@@ -26670,7 +26665,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 대전",
-        "시작까지 -20일"
+        "시작까지 -26일"
       ],
       "warnings": [],
       "programIdeas": [
@@ -26695,7 +26690,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-08",
     "endDate": "2026-08-08",
-    "dday": -21,
+    "dday": -27,
     "runtime": "1시간",
     "priceText": "전석 50,000원",
     "free": false,
@@ -26726,7 +26721,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -21일"
+        "시작까지 -27일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -26753,7 +26748,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-08",
     "endDate": "2026-08-08",
-    "dday": -21,
+    "dday": -27,
     "runtime": "50분",
     "priceText": "사전예약 네이버 1인 판매석 14,900원, 사전예약 특가판매석 9,900원",
     "free": false,
@@ -26784,7 +26779,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -21일"
+        "시작까지 -27일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -26811,7 +26806,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-08",
     "endDate": "2026-08-09",
-    "dday": -20,
+    "dday": -26,
     "runtime": "1시간 15분",
     "priceText": "전석 70,000원",
     "free": false,
@@ -26842,7 +26837,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -20일"
+        "시작까지 -26일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -26869,7 +26864,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-08",
     "endDate": "2026-08-08",
-    "dday": -21,
+    "dday": -27,
     "runtime": "1시간",
     "priceText": "VIP석(사전예약) 13,500원, R석(사전예약) 9,500원",
     "free": false,
@@ -26900,7 +26895,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -21일"
+        "시작까지 -27일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -26927,7 +26922,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-08",
     "endDate": "2026-08-08",
-    "dday": -21,
+    "dday": -27,
     "runtime": "1시간 5분",
     "priceText": "전석 50,000원",
     "free": false,
@@ -26958,7 +26953,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -21일"
+        "시작까지 -27일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -26985,7 +26980,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-08",
     "endDate": "2026-08-08",
-    "dday": -21,
+    "dday": -27,
     "runtime": "55분",
     "priceText": "사전예약 10,000원",
     "free": false,
@@ -27016,7 +27011,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -21일"
+        "시작까지 -27일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -27043,7 +27038,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-08",
     "endDate": "2026-08-09",
-    "dday": -20,
+    "dday": -26,
     "runtime": "1시간",
     "priceText": "R석 20,000원, S석 15,000원",
     "free": false,
@@ -27074,7 +27069,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -20일"
+        "시작까지 -26일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -27101,7 +27096,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-09",
     "endDate": "2026-08-09",
-    "dday": -20,
+    "dday": -26,
     "runtime": "1시간",
     "priceText": "전석 30,000원",
     "free": false,
@@ -27132,7 +27127,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -20일"
+        "시작까지 -26일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -27159,7 +27154,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-09",
     "endDate": "2026-08-09",
-    "dday": -20,
+    "dday": -26,
     "runtime": "1시간",
     "priceText": "사전예약 10,000원",
     "free": false,
@@ -27190,7 +27185,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -20일"
+        "시작까지 -26일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -27217,7 +27212,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-09",
     "endDate": "2026-08-09",
-    "dday": -20,
+    "dday": -26,
     "runtime": "50분",
     "priceText": "전석 15,000원",
     "free": false,
@@ -27248,7 +27243,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 만 5세 이상",
         "학생대상 후보: 초등",
         "지역: 광주",
-        "시작까지 -20일"
+        "시작까지 -26일"
       ],
       "warnings": [],
       "programIdeas": [
@@ -27273,7 +27268,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-09",
     "endDate": "2026-08-09",
-    "dday": -20,
+    "dday": -26,
     "runtime": "50분",
     "priceText": "사전예약 1일권  14,900원, 사전예약 특가판매석 9,900원",
     "free": false,
@@ -27304,7 +27299,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -20일"
+        "시작까지 -26일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -27331,7 +27326,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-09",
     "endDate": "2026-08-09",
-    "dday": -20,
+    "dday": -26,
     "runtime": "55분",
     "priceText": "사전예약 10,000원",
     "free": false,
@@ -27362,7 +27357,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -20일"
+        "시작까지 -26일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -27389,7 +27384,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-12",
     "endDate": "2026-08-12",
-    "dday": -17,
+    "dday": -23,
     "runtime": "55분",
     "priceText": "전석 15,000원",
     "free": false,
@@ -27418,7 +27413,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -17일"
+        "시작까지 -23일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -27445,7 +27440,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-14",
     "endDate": "2026-08-15",
-    "dday": -14,
+    "dday": -20,
     "runtime": "1시간",
     "priceText": "전석 20,000원",
     "free": false,
@@ -27476,7 +27471,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 36개월 이상",
         "학생대상 후보: 초등",
         "지역: 대전",
-        "시작까지 -14일"
+        "시작까지 -20일"
       ],
       "warnings": [],
       "programIdeas": [
@@ -27501,7 +27496,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-14",
     "endDate": "2026-08-14",
-    "dday": -15,
+    "dday": -21,
     "runtime": "1시간 5분",
     "priceText": "전석 15,000원",
     "free": false,
@@ -27530,7 +27525,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 36개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -15일"
+        "시작까지 -21일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -27557,7 +27552,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-14",
     "endDate": "2026-08-16",
-    "dday": -13,
+    "dday": -19,
     "runtime": "1시간",
     "priceText": "전석 40,000원",
     "free": false,
@@ -27588,7 +27583,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 36개월 이상",
         "학생대상 후보: 초등",
         "지역: 서울",
-        "시작까지 -13일"
+        "시작까지 -19일"
       ],
       "warnings": [],
       "programIdeas": [
@@ -27613,7 +27608,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-14",
     "endDate": "2026-08-16",
-    "dday": -13,
+    "dday": -19,
     "runtime": "1시간 15분",
     "priceText": "전석 70,000원",
     "free": false,
@@ -27644,7 +27639,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -13일"
+        "시작까지 -19일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -27671,7 +27666,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-15",
     "endDate": "2026-08-16",
-    "dday": -13,
+    "dday": -19,
     "runtime": "1시간 40분",
     "priceText": "R석 60,000원, S석 50,000원",
     "free": false,
@@ -27702,7 +27697,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 36개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -13일"
+        "시작까지 -19일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -27729,7 +27724,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-15",
     "endDate": "2026-08-15",
-    "dday": -14,
+    "dday": -20,
     "runtime": "1시간",
     "priceText": "전석 50,000원",
     "free": false,
@@ -27760,7 +27755,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 전북",
-        "시작까지 -14일"
+        "시작까지 -20일"
       ],
       "warnings": [],
       "programIdeas": [
@@ -27785,7 +27780,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-15",
     "endDate": "2026-08-16",
-    "dday": -13,
+    "dday": -19,
     "runtime": "55분",
     "priceText": "1층석 45,000원, 2층석 35,000원",
     "free": false,
@@ -27816,7 +27811,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -13일"
+        "시작까지 -19일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -27843,7 +27838,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-15",
     "endDate": "2026-08-17",
-    "dday": -12,
+    "dday": -18,
     "runtime": "1시간",
     "priceText": "전석 30,000원",
     "free": false,
@@ -27874,7 +27869,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -12일"
+        "시작까지 -18일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -27901,7 +27896,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-15",
     "endDate": "2026-08-16",
-    "dday": -13,
+    "dday": -19,
     "runtime": "1시간",
     "priceText": "전석 40,000원",
     "free": false,
@@ -27932,7 +27927,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -13일"
+        "시작까지 -19일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -27959,7 +27954,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-15",
     "endDate": "2026-08-16",
-    "dday": -13,
+    "dday": -19,
     "runtime": "1시간 10분",
     "priceText": "R석 70,000원",
     "free": false,
@@ -27990,7 +27985,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -13일"
+        "시작까지 -19일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -28017,7 +28012,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-15",
     "endDate": "2026-08-16",
-    "dday": -13,
+    "dday": -19,
     "runtime": "1시간",
     "priceText": "전석 20,000원",
     "free": false,
@@ -28048,7 +28043,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 대구",
-        "시작까지 -13일"
+        "시작까지 -19일"
       ],
       "warnings": [],
       "programIdeas": [
@@ -28073,7 +28068,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-15",
     "endDate": "2026-08-15",
-    "dday": -14,
+    "dday": -20,
     "runtime": "50분",
     "priceText": "네이버 1인권 14,900원, 사전예약(특가) 9,900원",
     "free": false,
@@ -28104,7 +28099,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -14일"
+        "시작까지 -20일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -28131,7 +28126,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-15",
     "endDate": "2026-08-16",
-    "dday": -13,
+    "dday": -19,
     "runtime": "1시간 5분",
     "priceText": "전석 70,000원",
     "free": false,
@@ -28162,7 +28157,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -13일"
+        "시작까지 -19일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -28189,7 +28184,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-15",
     "endDate": "2026-08-15",
-    "dday": -14,
+    "dday": -20,
     "runtime": "1시간",
     "priceText": "전석 40,000원",
     "free": false,
@@ -28220,7 +28215,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -14일"
+        "시작까지 -20일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -28247,7 +28242,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-15",
     "endDate": "2026-08-17",
-    "dday": -12,
+    "dday": -18,
     "runtime": "1시간 10분",
     "priceText": "VIP석 77,000원",
     "free": false,
@@ -28278,7 +28273,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -12일"
+        "시작까지 -18일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -28305,7 +28300,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-15",
     "endDate": "2026-08-16",
-    "dday": -13,
+    "dday": -19,
     "runtime": "55분",
     "priceText": "전석 40,000원",
     "free": false,
@@ -28336,7 +28331,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -13일"
+        "시작까지 -19일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -28363,7 +28358,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-15",
     "endDate": "2026-08-15",
-    "dday": -14,
+    "dday": -20,
     "runtime": "55분",
     "priceText": "전석 40,000원",
     "free": false,
@@ -28394,7 +28389,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -14일"
+        "시작까지 -20일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -28421,7 +28416,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-15",
     "endDate": "2026-08-15",
-    "dday": -14,
+    "dday": -20,
     "runtime": "50분",
     "priceText": "전석 5,000원",
     "free": false,
@@ -28452,7 +28447,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 만 2세 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -14일"
+        "시작까지 -20일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -28479,7 +28474,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-15",
     "endDate": "2026-08-15",
-    "dday": -14,
+    "dday": -20,
     "runtime": "50분",
     "priceText": "전석 10,000원",
     "free": false,
@@ -28510,7 +28505,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 36개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -14일"
+        "시작까지 -20일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -28537,7 +28532,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-15",
     "endDate": "2026-08-15",
-    "dday": -14,
+    "dday": -20,
     "runtime": "55분",
     "priceText": "전석 10,000원",
     "free": false,
@@ -28568,7 +28563,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -14일"
+        "시작까지 -20일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -28595,7 +28590,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-15",
     "endDate": "2026-08-16",
-    "dday": -13,
+    "dday": -19,
     "runtime": "1시간",
     "priceText": "전석 50,000원",
     "free": false,
@@ -28626,7 +28621,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 광주",
-        "시작까지 -13일"
+        "시작까지 -19일"
       ],
       "warnings": [],
       "programIdeas": [
@@ -28651,7 +28646,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-15",
     "endDate": "2026-08-16",
-    "dday": -13,
+    "dday": -19,
     "runtime": "1시간",
     "priceText": "전석 50,000원",
     "free": false,
@@ -28682,7 +28677,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 울산",
-        "시작까지 -13일"
+        "시작까지 -19일"
       ],
       "warnings": [],
       "programIdeas": [
@@ -28707,7 +28702,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-15",
     "endDate": "2026-08-15",
-    "dday": -14,
+    "dday": -20,
     "runtime": "1시간 20분",
     "priceText": "전석 66,000원",
     "free": false,
@@ -28738,7 +28733,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -14일"
+        "시작까지 -20일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -28765,7 +28760,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-15",
     "endDate": "2026-08-16",
-    "dday": -13,
+    "dday": -19,
     "runtime": "1시간",
     "priceText": "전석 40,000원",
     "free": false,
@@ -28796,7 +28791,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 제주",
-        "시작까지 -13일"
+        "시작까지 -19일"
       ],
       "warnings": [],
       "programIdeas": [
@@ -28821,7 +28816,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-15",
     "endDate": "2026-08-16",
-    "dday": -13,
+    "dday": -19,
     "runtime": "1시간 10분",
     "priceText": "R석 70,000원, S석 60,000원",
     "free": false,
@@ -28852,7 +28847,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 36개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -13일"
+        "시작까지 -19일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -28879,7 +28874,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-15",
     "endDate": "2026-08-15",
-    "dday": -14,
+    "dday": -20,
     "runtime": "55분",
     "priceText": "사전예약 15,000원",
     "free": false,
@@ -28910,7 +28905,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -14일"
+        "시작까지 -20일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -28937,7 +28932,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-15",
     "endDate": "2026-08-15",
-    "dday": -14,
+    "dday": -20,
     "runtime": "1시간",
     "priceText": "전석 40,000원",
     "free": false,
@@ -28968,7 +28963,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 대전",
-        "시작까지 -14일"
+        "시작까지 -20일"
       ],
       "warnings": [],
       "programIdeas": [
@@ -28993,13 +28988,647 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-16",
     "endDate": "2026-08-17",
-    "dday": -12,
+    "dday": -18,
     "runtime": "1시간 5분",
     "priceText": "전석 50,000원, 사전예약 25,000원",
     "free": false,
     "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF292983_260605_131547.jpg",
     "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF292983",
     "summary": "겨울왕국 시즌3: 엘사의 숨겨진 세상 [수원]은(는) 장안구민회관 한누리아트홀에서 진행되는 뮤지컬 행사입니다.",
+    "status": "예정",
+    "conflict": false,
+    "recommendation": {
+      "subjectTags": [
+        "국어/논술",
+        "예술"
+      ],
+      "useCaseTags": [
+        "아동공연",
+        "주말관람",
+        "원본확인"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 86,
+      "reasons": [
+        "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
+        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
+      ],
+      "evidence": [
+        "유형: 공연",
+        "분야: 뮤지컬",
+        "관람연령: 24개월 이상",
+        "학생대상 후보: 초등",
+        "지역: 확인필요",
+        "시작까지 -18일"
+      ],
+      "warnings": [
+        "장소 또는 지역 확인 필요"
+      ],
+      "programIdeas": [
+        "관람 전 배경지식 10분 브리핑",
+        "관람 후 한 문단 감상 기록",
+        "학부모 주말 문화체험 안내"
+      ]
+    }
+  },
+  {
+    "id": "kopis-PF293065",
+    "source": "kopis",
+    "title": "미녀와 야수 [안산]",
+    "eventType": "공연",
+    "category": "뮤지컬",
+    "grades": [
+      "초등"
+    ],
+    "ageText": "전체 관람가",
+    "region": "확인필요",
+    "venueName": "안산올림픽기념관",
+    "venueAddress": null,
+    "startDate": "2026-08-16",
+    "endDate": "2026-08-16",
+    "dday": -19,
+    "runtime": "50분",
+    "priceText": "네이버 1인권 14,900원, 사전예약(특가) 9,900원",
+    "free": false,
+    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF293065_260608_133440.jpg",
+    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF293065",
+    "summary": "미녀와 야수 [안산]은(는) 안산올림픽기념관에서 진행되는 뮤지컬 행사입니다.",
+    "status": "예정",
+    "conflict": false,
+    "recommendation": {
+      "subjectTags": [
+        "국어/논술",
+        "예술"
+      ],
+      "useCaseTags": [
+        "아동공연",
+        "주말관람",
+        "원본확인"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 86,
+      "reasons": [
+        "전체 관람가 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
+        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
+      ],
+      "evidence": [
+        "유형: 공연",
+        "분야: 뮤지컬",
+        "관람연령: 전체 관람가",
+        "학생대상 후보: 초등",
+        "지역: 확인필요",
+        "시작까지 -19일"
+      ],
+      "warnings": [
+        "장소 또는 지역 확인 필요"
+      ],
+      "programIdeas": [
+        "관람 전 배경지식 10분 브리핑",
+        "관람 후 한 문단 감상 기록",
+        "학부모 주말 문화체험 안내"
+      ]
+    }
+  },
+  {
+    "id": "kopis-PF293692",
+    "source": "kopis",
+    "title": "백설공주 [부천]",
+    "eventType": "공연",
+    "category": "뮤지컬",
+    "grades": [
+      "초등"
+    ],
+    "ageText": "전체 관람가",
+    "region": "확인필요",
+    "venueName": "오정아트홀",
+    "venueAddress": null,
+    "startDate": "2026-08-16",
+    "endDate": "2026-08-16",
+    "dday": -19,
+    "runtime": "50분",
+    "priceText": "현장판매 35,000원, 사전예약 9,900원",
+    "free": false,
+    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF293692_260615_123327.jpg",
+    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF293692",
+    "summary": "백설공주 [부천]은(는) 오정아트홀에서 진행되는 뮤지컬 행사입니다.",
+    "status": "예정",
+    "conflict": false,
+    "recommendation": {
+      "subjectTags": [
+        "국어/논술",
+        "예술"
+      ],
+      "useCaseTags": [
+        "아동공연",
+        "주말관람",
+        "원본확인"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 86,
+      "reasons": [
+        "전체 관람가 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
+        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
+      ],
+      "evidence": [
+        "유형: 공연",
+        "분야: 뮤지컬",
+        "관람연령: 전체 관람가",
+        "학생대상 후보: 초등",
+        "지역: 확인필요",
+        "시작까지 -19일"
+      ],
+      "warnings": [
+        "장소 또는 지역 확인 필요"
+      ],
+      "programIdeas": [
+        "관람 전 배경지식 10분 브리핑",
+        "관람 후 한 문단 감상 기록",
+        "학부모 주말 문화체험 안내"
+      ]
+    }
+  },
+  {
+    "id": "kopis-PF294417",
+    "source": "kopis",
+    "title": "신데렐라 [서산]",
+    "eventType": "공연",
+    "category": "뮤지컬",
+    "grades": [
+      "초등"
+    ],
+    "ageText": "24개월 이상",
+    "region": "확인필요",
+    "venueName": "서산시문화회관",
+    "venueAddress": null,
+    "startDate": "2026-08-16",
+    "endDate": "2026-08-16",
+    "dday": -19,
+    "runtime": "55분",
+    "priceText": "전석 40,000원",
+    "free": false,
+    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF294417_260623_122701.jpg",
+    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF294417",
+    "summary": "신데렐라 [서산]은(는) 서산시문화회관에서 진행되는 뮤지컬 행사입니다.",
+    "status": "예정",
+    "conflict": false,
+    "recommendation": {
+      "subjectTags": [
+        "국어/논술",
+        "예술"
+      ],
+      "useCaseTags": [
+        "아동공연",
+        "주말관람",
+        "원본확인"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 86,
+      "reasons": [
+        "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
+        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
+      ],
+      "evidence": [
+        "유형: 공연",
+        "분야: 뮤지컬",
+        "관람연령: 24개월 이상",
+        "학생대상 후보: 초등",
+        "지역: 확인필요",
+        "시작까지 -19일"
+      ],
+      "warnings": [
+        "장소 또는 지역 확인 필요"
+      ],
+      "programIdeas": [
+        "관람 전 배경지식 10분 브리핑",
+        "관람 후 한 문단 감상 기록",
+        "학부모 주말 문화체험 안내"
+      ]
+    }
+  },
+  {
+    "id": "kopis-PF289145",
+    "source": "kopis",
+    "title": "개구쟁이와 마법",
+    "eventType": "공연",
+    "category": "서양음악(클래식)",
+    "grades": [
+      "초등"
+    ],
+    "ageText": "36개월 이상",
+    "region": "서울",
+    "venueName": "예술의전당 [서울]",
+    "venueAddress": null,
+    "startDate": "2026-08-21",
+    "endDate": "2026-08-23",
+    "dday": -12,
+    "runtime": "1시간",
+    "priceText": "전석 50,000원",
+    "free": false,
+    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF289145_260410_152125.gif",
+    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF289145",
+    "summary": "개구쟁이와 마법은(는) 예술의전당 [서울]에서 진행되는 서양음악(클래식) 행사입니다.",
+    "status": "예정",
+    "conflict": false,
+    "recommendation": {
+      "subjectTags": [
+        "국어/논술",
+        "예술"
+      ],
+      "useCaseTags": [
+        "아동공연",
+        "주말관람",
+        "원본확인"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 100,
+      "reasons": [
+        "36개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
+        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
+      ],
+      "evidence": [
+        "유형: 공연",
+        "분야: 서양음악(클래식)",
+        "관람연령: 36개월 이상",
+        "학생대상 후보: 초등",
+        "지역: 서울",
+        "시작까지 -12일"
+      ],
+      "warnings": [],
+      "programIdeas": [
+        "관람 전 배경지식 10분 브리핑",
+        "관람 후 한 문단 감상 기록",
+        "학부모 주말 문화체험 안내"
+      ]
+    }
+  },
+  {
+    "id": "kopis-PF293488",
+    "source": "kopis",
+    "title": "겨울왕국: 겨울이야기 [김천]",
+    "eventType": "공연",
+    "category": "뮤지컬",
+    "grades": [
+      "초등"
+    ],
+    "ageText": "24개월 이상",
+    "region": "확인필요",
+    "venueName": "김천시립문화회관",
+    "venueAddress": null,
+    "startDate": "2026-08-22",
+    "endDate": "2026-08-22",
+    "dday": -13,
+    "runtime": "55분",
+    "priceText": "현장판매 40,000원, 사전예약 10,000원",
+    "free": false,
+    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF293488_260611_153111.jpg",
+    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF293488",
+    "summary": "겨울왕국: 겨울이야기 [김천]은(는) 김천시립문화회관에서 진행되는 뮤지컬 행사입니다.",
+    "status": "예정",
+    "conflict": false,
+    "recommendation": {
+      "subjectTags": [
+        "국어/논술",
+        "예술"
+      ],
+      "useCaseTags": [
+        "아동공연",
+        "주말관람",
+        "원본확인"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 86,
+      "reasons": [
+        "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
+        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
+      ],
+      "evidence": [
+        "유형: 공연",
+        "분야: 뮤지컬",
+        "관람연령: 24개월 이상",
+        "학생대상 후보: 초등",
+        "지역: 확인필요",
+        "시작까지 -13일"
+      ],
+      "warnings": [
+        "장소 또는 지역 확인 필요"
+      ],
+      "programIdeas": [
+        "관람 전 배경지식 10분 브리핑",
+        "관람 후 한 문단 감상 기록",
+        "학부모 주말 문화체험 안내"
+      ]
+    }
+  },
+  {
+    "id": "kopis-PF294526",
+    "source": "kopis",
+    "title": "고래밥: 바다 대운동회 [부산]",
+    "eventType": "공연",
+    "category": "뮤지컬",
+    "grades": [
+      "초등"
+    ],
+    "ageText": "20개월 이상",
+    "region": "부산",
+    "venueName": "KBS홀 [부산]",
+    "venueAddress": null,
+    "startDate": "2026-08-22",
+    "endDate": "2026-08-23",
+    "dday": -12,
+    "runtime": "1시간 10분",
+    "priceText": "VIP석 70,000원, R석 60,000원",
+    "free": false,
+    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF294526_260624_131109.gif",
+    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF294526",
+    "summary": "고래밥: 바다 대운동회 [부산]은(는) KBS홀 [부산]에서 진행되는 뮤지컬 행사입니다.",
+    "status": "예정",
+    "conflict": false,
+    "recommendation": {
+      "subjectTags": [
+        "국어/논술",
+        "예술"
+      ],
+      "useCaseTags": [
+        "아동공연",
+        "주말관람",
+        "원본확인"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 100,
+      "reasons": [
+        "20개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
+        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
+      ],
+      "evidence": [
+        "유형: 공연",
+        "분야: 뮤지컬",
+        "관람연령: 20개월 이상",
+        "학생대상 후보: 초등",
+        "지역: 부산",
+        "시작까지 -12일"
+      ],
+      "warnings": [],
+      "programIdeas": [
+        "관람 전 배경지식 10분 브리핑",
+        "관람 후 한 문단 감상 기록",
+        "학부모 주말 문화체험 안내"
+      ]
+    }
+  },
+  {
+    "id": "kopis-PF292600",
+    "source": "kopis",
+    "title": "공룡 애니멀쇼 [서울 성북]",
+    "eventType": "공연",
+    "category": "서커스/마술",
+    "grades": [
+      "초등"
+    ],
+    "ageText": "24개월 이상",
+    "region": "확인필요",
+    "venueName": "성북구민회관",
+    "venueAddress": null,
+    "startDate": "2026-08-22",
+    "endDate": "2026-08-22",
+    "dday": -13,
+    "runtime": "55분",
+    "priceText": "전석 30,000원",
+    "free": false,
+    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF292600_260601_110905.jpg",
+    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF292600",
+    "summary": "공룡 애니멀쇼 [서울 성북]은(는) 성북구민회관에서 진행되는 서커스/마술 행사입니다.",
+    "status": "예정",
+    "conflict": false,
+    "recommendation": {
+      "subjectTags": [
+        "국어/논술",
+        "예술"
+      ],
+      "useCaseTags": [
+        "아동공연",
+        "주말관람",
+        "원본확인"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 86,
+      "reasons": [
+        "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
+        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
+      ],
+      "evidence": [
+        "유형: 공연",
+        "분야: 서커스/마술",
+        "관람연령: 24개월 이상",
+        "학생대상 후보: 초등",
+        "지역: 확인필요",
+        "시작까지 -13일"
+      ],
+      "warnings": [
+        "장소 또는 지역 확인 필요"
+      ],
+      "programIdeas": [
+        "관람 전 배경지식 10분 브리핑",
+        "관람 후 한 문단 감상 기록",
+        "학부모 주말 문화체험 안내"
+      ]
+    }
+  },
+  {
+    "id": "kopis-PF293553",
+    "source": "kopis",
+    "title": "누가 내 머리에 똥 쌌어? [과천]",
+    "eventType": "공연",
+    "category": "뮤지컬",
+    "grades": [
+      "초등"
+    ],
+    "ageText": "24개월 이상",
+    "region": "확인필요",
+    "venueName": "국립과천과학관",
+    "venueAddress": null,
+    "startDate": "2026-08-22",
+    "endDate": "2026-08-30",
+    "dday": -5,
+    "runtime": "55분",
+    "priceText": "전석 40,000원",
+    "free": false,
+    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF293553_260612_132736.gif",
+    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF293553",
+    "summary": "누가 내 머리에 똥 쌌어? [과천]은(는) 국립과천과학관에서 진행되는 뮤지컬 행사입니다.",
+    "status": "예정",
+    "conflict": false,
+    "recommendation": {
+      "subjectTags": [
+        "국어/논술",
+        "예술"
+      ],
+      "useCaseTags": [
+        "아동공연",
+        "주말관람",
+        "원본확인"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 86,
+      "reasons": [
+        "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
+        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
+      ],
+      "evidence": [
+        "유형: 공연",
+        "분야: 뮤지컬",
+        "관람연령: 24개월 이상",
+        "학생대상 후보: 초등",
+        "지역: 확인필요",
+        "시작까지 -5일"
+      ],
+      "warnings": [
+        "장소 또는 지역 확인 필요"
+      ],
+      "programIdeas": [
+        "관람 전 배경지식 10분 브리핑",
+        "관람 후 한 문단 감상 기록",
+        "학부모 주말 문화체험 안내"
+      ]
+    }
+  },
+  {
+    "id": "kopis-PF294680",
+    "source": "kopis",
+    "title": "누가 내 머리에 똥 쌌어? [청주]",
+    "eventType": "공연",
+    "category": "뮤지컬",
+    "grades": [
+      "초등"
+    ],
+    "ageText": "24개월 이상",
+    "region": "확인필요",
+    "venueName": "청주아트홀 (구. 청주시민회관)",
+    "venueAddress": null,
+    "startDate": "2026-08-22",
+    "endDate": "2026-08-22",
+    "dday": -13,
+    "runtime": "1시간",
+    "priceText": "현장판매 40,000원, 사전예약 15,000원",
+    "free": false,
+    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF294680_260626_112213.jpg",
+    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF294680",
+    "summary": "누가 내 머리에 똥 쌌어? [청주]은(는) 청주아트홀 (구. 청주시민회관)에서 진행되는 뮤지컬 행사입니다.",
+    "status": "예정",
+    "conflict": false,
+    "recommendation": {
+      "subjectTags": [
+        "국어/논술",
+        "예술"
+      ],
+      "useCaseTags": [
+        "아동공연",
+        "주말관람",
+        "원본확인"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 86,
+      "reasons": [
+        "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
+        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
+      ],
+      "evidence": [
+        "유형: 공연",
+        "분야: 뮤지컬",
+        "관람연령: 24개월 이상",
+        "학생대상 후보: 초등",
+        "지역: 확인필요",
+        "시작까지 -13일"
+      ],
+      "warnings": [
+        "장소 또는 지역 확인 필요"
+      ],
+      "programIdeas": [
+        "관람 전 배경지식 10분 브리핑",
+        "관람 후 한 문단 감상 기록",
+        "학부모 주말 문화체험 안내"
+      ]
+    }
+  },
+  {
+    "id": "kopis-PF292978",
+    "source": "kopis",
+    "title": "라푼젤 [부산]",
+    "eventType": "공연",
+    "category": "뮤지컬",
+    "grades": [
+      "초등"
+    ],
+    "ageText": "24개월 이상",
+    "region": "확인필요",
+    "venueName": "동래문화회관",
+    "venueAddress": null,
+    "startDate": "2026-08-22",
+    "endDate": "2026-08-22",
+    "dday": -13,
+    "runtime": "55분",
+    "priceText": "전석 50,000원",
+    "free": false,
+    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF292978_260605_114819.jpg",
+    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF292978",
+    "summary": "라푼젤 [부산]은(는) 동래문화회관에서 진행되는 뮤지컬 행사입니다.",
+    "status": "예정",
+    "conflict": false,
+    "recommendation": {
+      "subjectTags": [
+        "국어/논술",
+        "예술"
+      ],
+      "useCaseTags": [
+        "아동공연",
+        "주말관람",
+        "원본확인"
+      ],
+      "confidence": "높음",
+      "confidenceScore": 86,
+      "reasons": [
+        "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
+        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
+      ],
+      "evidence": [
+        "유형: 공연",
+        "분야: 뮤지컬",
+        "관람연령: 24개월 이상",
+        "학생대상 후보: 초등",
+        "지역: 확인필요",
+        "시작까지 -13일"
+      ],
+      "warnings": [
+        "장소 또는 지역 확인 필요"
+      ],
+      "programIdeas": [
+        "관람 전 배경지식 10분 브리핑",
+        "관람 후 한 문단 감상 기록",
+        "학부모 주말 문화체험 안내"
+      ]
+    }
+  },
+  {
+    "id": "kopis-PF293724",
+    "source": "kopis",
+    "title": "렛잇고3 [인천 연수]",
+    "eventType": "공연",
+    "category": "뮤지컬",
+    "grades": [
+      "초등"
+    ],
+    "ageText": "24개월 이상",
+    "region": "확인필요",
+    "venueName": "트라이보울",
+    "venueAddress": null,
+    "startDate": "2026-08-22",
+    "endDate": "2026-08-23",
+    "dday": -12,
+    "runtime": "1시간 10분",
+    "priceText": "전석 40,000원",
+    "free": false,
+    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF293724_260615_134737.jpg",
+    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF293724",
+    "summary": "렛잇고3 [인천 연수]은(는) 트라이보울에서 진행되는 뮤지컬 행사입니다.",
     "status": "예정",
     "conflict": false,
     "recommendation": {
@@ -29037,642 +29666,6 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     }
   },
   {
-    "id": "kopis-PF293065",
-    "source": "kopis",
-    "title": "미녀와 야수 [안산]",
-    "eventType": "공연",
-    "category": "뮤지컬",
-    "grades": [
-      "초등"
-    ],
-    "ageText": "전체 관람가",
-    "region": "확인필요",
-    "venueName": "안산올림픽기념관",
-    "venueAddress": null,
-    "startDate": "2026-08-16",
-    "endDate": "2026-08-16",
-    "dday": -13,
-    "runtime": "50분",
-    "priceText": "네이버 1인권 14,900원, 사전예약(특가) 9,900원",
-    "free": false,
-    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF293065_260608_133440.jpg",
-    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF293065",
-    "summary": "미녀와 야수 [안산]은(는) 안산올림픽기념관에서 진행되는 뮤지컬 행사입니다.",
-    "status": "예정",
-    "conflict": false,
-    "recommendation": {
-      "subjectTags": [
-        "국어/논술",
-        "예술"
-      ],
-      "useCaseTags": [
-        "아동공연",
-        "주말관람",
-        "원본확인"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 86,
-      "reasons": [
-        "전체 관람가 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
-      ],
-      "evidence": [
-        "유형: 공연",
-        "분야: 뮤지컬",
-        "관람연령: 전체 관람가",
-        "학생대상 후보: 초등",
-        "지역: 확인필요",
-        "시작까지 -13일"
-      ],
-      "warnings": [
-        "장소 또는 지역 확인 필요"
-      ],
-      "programIdeas": [
-        "관람 전 배경지식 10분 브리핑",
-        "관람 후 한 문단 감상 기록",
-        "학부모 주말 문화체험 안내"
-      ]
-    }
-  },
-  {
-    "id": "kopis-PF293692",
-    "source": "kopis",
-    "title": "백설공주 [부천]",
-    "eventType": "공연",
-    "category": "뮤지컬",
-    "grades": [
-      "초등"
-    ],
-    "ageText": "전체 관람가",
-    "region": "확인필요",
-    "venueName": "오정아트홀",
-    "venueAddress": null,
-    "startDate": "2026-08-16",
-    "endDate": "2026-08-16",
-    "dday": -13,
-    "runtime": "50분",
-    "priceText": "현장판매 35,000원, 사전예약 9,900원",
-    "free": false,
-    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF293692_260615_123327.jpg",
-    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF293692",
-    "summary": "백설공주 [부천]은(는) 오정아트홀에서 진행되는 뮤지컬 행사입니다.",
-    "status": "예정",
-    "conflict": false,
-    "recommendation": {
-      "subjectTags": [
-        "국어/논술",
-        "예술"
-      ],
-      "useCaseTags": [
-        "아동공연",
-        "주말관람",
-        "원본확인"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 86,
-      "reasons": [
-        "전체 관람가 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
-      ],
-      "evidence": [
-        "유형: 공연",
-        "분야: 뮤지컬",
-        "관람연령: 전체 관람가",
-        "학생대상 후보: 초등",
-        "지역: 확인필요",
-        "시작까지 -13일"
-      ],
-      "warnings": [
-        "장소 또는 지역 확인 필요"
-      ],
-      "programIdeas": [
-        "관람 전 배경지식 10분 브리핑",
-        "관람 후 한 문단 감상 기록",
-        "학부모 주말 문화체험 안내"
-      ]
-    }
-  },
-  {
-    "id": "kopis-PF294417",
-    "source": "kopis",
-    "title": "신데렐라 [서산]",
-    "eventType": "공연",
-    "category": "뮤지컬",
-    "grades": [
-      "초등"
-    ],
-    "ageText": "24개월 이상",
-    "region": "확인필요",
-    "venueName": "서산시문화회관",
-    "venueAddress": null,
-    "startDate": "2026-08-16",
-    "endDate": "2026-08-16",
-    "dday": -13,
-    "runtime": "55분",
-    "priceText": "전석 40,000원",
-    "free": false,
-    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF294417_260623_122701.jpg",
-    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF294417",
-    "summary": "신데렐라 [서산]은(는) 서산시문화회관에서 진행되는 뮤지컬 행사입니다.",
-    "status": "예정",
-    "conflict": false,
-    "recommendation": {
-      "subjectTags": [
-        "국어/논술",
-        "예술"
-      ],
-      "useCaseTags": [
-        "아동공연",
-        "주말관람",
-        "원본확인"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 86,
-      "reasons": [
-        "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
-      ],
-      "evidence": [
-        "유형: 공연",
-        "분야: 뮤지컬",
-        "관람연령: 24개월 이상",
-        "학생대상 후보: 초등",
-        "지역: 확인필요",
-        "시작까지 -13일"
-      ],
-      "warnings": [
-        "장소 또는 지역 확인 필요"
-      ],
-      "programIdeas": [
-        "관람 전 배경지식 10분 브리핑",
-        "관람 후 한 문단 감상 기록",
-        "학부모 주말 문화체험 안내"
-      ]
-    }
-  },
-  {
-    "id": "kopis-PF289145",
-    "source": "kopis",
-    "title": "개구쟁이와 마법",
-    "eventType": "공연",
-    "category": "서양음악(클래식)",
-    "grades": [
-      "초등"
-    ],
-    "ageText": "36개월 이상",
-    "region": "서울",
-    "venueName": "예술의전당 [서울]",
-    "venueAddress": null,
-    "startDate": "2026-08-21",
-    "endDate": "2026-08-23",
-    "dday": -6,
-    "runtime": "1시간",
-    "priceText": "전석 50,000원",
-    "free": false,
-    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF289145_260410_152125.gif",
-    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF289145",
-    "summary": "개구쟁이와 마법은(는) 예술의전당 [서울]에서 진행되는 서양음악(클래식) 행사입니다.",
-    "status": "예정",
-    "conflict": false,
-    "recommendation": {
-      "subjectTags": [
-        "국어/논술",
-        "예술"
-      ],
-      "useCaseTags": [
-        "아동공연",
-        "주말관람",
-        "원본확인"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 100,
-      "reasons": [
-        "36개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
-      ],
-      "evidence": [
-        "유형: 공연",
-        "분야: 서양음악(클래식)",
-        "관람연령: 36개월 이상",
-        "학생대상 후보: 초등",
-        "지역: 서울",
-        "시작까지 -6일"
-      ],
-      "warnings": [],
-      "programIdeas": [
-        "관람 전 배경지식 10분 브리핑",
-        "관람 후 한 문단 감상 기록",
-        "학부모 주말 문화체험 안내"
-      ]
-    }
-  },
-  {
-    "id": "kopis-PF293488",
-    "source": "kopis",
-    "title": "겨울왕국: 겨울이야기 [김천]",
-    "eventType": "공연",
-    "category": "뮤지컬",
-    "grades": [
-      "초등"
-    ],
-    "ageText": "24개월 이상",
-    "region": "확인필요",
-    "venueName": "김천시립문화회관",
-    "venueAddress": null,
-    "startDate": "2026-08-22",
-    "endDate": "2026-08-22",
-    "dday": -7,
-    "runtime": "55분",
-    "priceText": "현장판매 40,000원, 사전예약 10,000원",
-    "free": false,
-    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF293488_260611_153111.jpg",
-    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF293488",
-    "summary": "겨울왕국: 겨울이야기 [김천]은(는) 김천시립문화회관에서 진행되는 뮤지컬 행사입니다.",
-    "status": "예정",
-    "conflict": false,
-    "recommendation": {
-      "subjectTags": [
-        "국어/논술",
-        "예술"
-      ],
-      "useCaseTags": [
-        "아동공연",
-        "주말관람",
-        "원본확인"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 86,
-      "reasons": [
-        "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
-      ],
-      "evidence": [
-        "유형: 공연",
-        "분야: 뮤지컬",
-        "관람연령: 24개월 이상",
-        "학생대상 후보: 초등",
-        "지역: 확인필요",
-        "시작까지 -7일"
-      ],
-      "warnings": [
-        "장소 또는 지역 확인 필요"
-      ],
-      "programIdeas": [
-        "관람 전 배경지식 10분 브리핑",
-        "관람 후 한 문단 감상 기록",
-        "학부모 주말 문화체험 안내"
-      ]
-    }
-  },
-  {
-    "id": "kopis-PF294526",
-    "source": "kopis",
-    "title": "고래밥: 바다 대운동회 [부산]",
-    "eventType": "공연",
-    "category": "뮤지컬",
-    "grades": [
-      "초등"
-    ],
-    "ageText": "20개월 이상",
-    "region": "부산",
-    "venueName": "KBS홀 [부산]",
-    "venueAddress": null,
-    "startDate": "2026-08-22",
-    "endDate": "2026-08-23",
-    "dday": -6,
-    "runtime": "1시간 10분",
-    "priceText": "VIP석 70,000원, R석 60,000원",
-    "free": false,
-    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF294526_260624_131109.gif",
-    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF294526",
-    "summary": "고래밥: 바다 대운동회 [부산]은(는) KBS홀 [부산]에서 진행되는 뮤지컬 행사입니다.",
-    "status": "예정",
-    "conflict": false,
-    "recommendation": {
-      "subjectTags": [
-        "국어/논술",
-        "예술"
-      ],
-      "useCaseTags": [
-        "아동공연",
-        "주말관람",
-        "원본확인"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 100,
-      "reasons": [
-        "20개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
-      ],
-      "evidence": [
-        "유형: 공연",
-        "분야: 뮤지컬",
-        "관람연령: 20개월 이상",
-        "학생대상 후보: 초등",
-        "지역: 부산",
-        "시작까지 -6일"
-      ],
-      "warnings": [],
-      "programIdeas": [
-        "관람 전 배경지식 10분 브리핑",
-        "관람 후 한 문단 감상 기록",
-        "학부모 주말 문화체험 안내"
-      ]
-    }
-  },
-  {
-    "id": "kopis-PF292600",
-    "source": "kopis",
-    "title": "공룡 애니멀쇼 [서울 성북]",
-    "eventType": "공연",
-    "category": "서커스/마술",
-    "grades": [
-      "초등"
-    ],
-    "ageText": "24개월 이상",
-    "region": "확인필요",
-    "venueName": "성북구민회관",
-    "venueAddress": null,
-    "startDate": "2026-08-22",
-    "endDate": "2026-08-22",
-    "dday": -7,
-    "runtime": "55분",
-    "priceText": "전석 30,000원",
-    "free": false,
-    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF292600_260601_110905.jpg",
-    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF292600",
-    "summary": "공룡 애니멀쇼 [서울 성북]은(는) 성북구민회관에서 진행되는 서커스/마술 행사입니다.",
-    "status": "예정",
-    "conflict": false,
-    "recommendation": {
-      "subjectTags": [
-        "국어/논술",
-        "예술"
-      ],
-      "useCaseTags": [
-        "아동공연",
-        "주말관람",
-        "원본확인"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 86,
-      "reasons": [
-        "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
-      ],
-      "evidence": [
-        "유형: 공연",
-        "분야: 서커스/마술",
-        "관람연령: 24개월 이상",
-        "학생대상 후보: 초등",
-        "지역: 확인필요",
-        "시작까지 -7일"
-      ],
-      "warnings": [
-        "장소 또는 지역 확인 필요"
-      ],
-      "programIdeas": [
-        "관람 전 배경지식 10분 브리핑",
-        "관람 후 한 문단 감상 기록",
-        "학부모 주말 문화체험 안내"
-      ]
-    }
-  },
-  {
-    "id": "kopis-PF293553",
-    "source": "kopis",
-    "title": "누가 내 머리에 똥 쌌어? [과천]",
-    "eventType": "공연",
-    "category": "뮤지컬",
-    "grades": [
-      "초등"
-    ],
-    "ageText": "24개월 이상",
-    "region": "확인필요",
-    "venueName": "국립과천과학관",
-    "venueAddress": null,
-    "startDate": "2026-08-22",
-    "endDate": "2026-08-30",
-    "dday": 0,
-    "runtime": "55분",
-    "priceText": "전석 40,000원",
-    "free": false,
-    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF293553_260612_132736.gif",
-    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF293553",
-    "summary": "누가 내 머리에 똥 쌌어? [과천]은(는) 국립과천과학관에서 진행되는 뮤지컬 행사입니다.",
-    "status": "예정",
-    "conflict": false,
-    "recommendation": {
-      "subjectTags": [
-        "국어/논술",
-        "예술"
-      ],
-      "useCaseTags": [
-        "아동공연",
-        "이번주관람",
-        "주말관람",
-        "원본확인"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 86,
-      "reasons": [
-        "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "이번 주 바로 안내할 수 있는 가까운 일정입니다.",
-        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
-      ],
-      "evidence": [
-        "유형: 공연",
-        "분야: 뮤지컬",
-        "관람연령: 24개월 이상",
-        "학생대상 후보: 초등",
-        "지역: 확인필요",
-        "시작까지 0일"
-      ],
-      "warnings": [
-        "장소 또는 지역 확인 필요"
-      ],
-      "programIdeas": [
-        "관람 전 배경지식 10분 브리핑",
-        "관람 후 한 문단 감상 기록",
-        "학부모 주말 문화체험 안내"
-      ]
-    }
-  },
-  {
-    "id": "kopis-PF294680",
-    "source": "kopis",
-    "title": "누가 내 머리에 똥 쌌어? [청주]",
-    "eventType": "공연",
-    "category": "뮤지컬",
-    "grades": [
-      "초등"
-    ],
-    "ageText": "24개월 이상",
-    "region": "확인필요",
-    "venueName": "청주아트홀 (구. 청주시민회관)",
-    "venueAddress": null,
-    "startDate": "2026-08-22",
-    "endDate": "2026-08-22",
-    "dday": -7,
-    "runtime": "1시간",
-    "priceText": "현장판매 40,000원, 사전예약 15,000원",
-    "free": false,
-    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF294680_260626_112213.jpg",
-    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF294680",
-    "summary": "누가 내 머리에 똥 쌌어? [청주]은(는) 청주아트홀 (구. 청주시민회관)에서 진행되는 뮤지컬 행사입니다.",
-    "status": "예정",
-    "conflict": false,
-    "recommendation": {
-      "subjectTags": [
-        "국어/논술",
-        "예술"
-      ],
-      "useCaseTags": [
-        "아동공연",
-        "주말관람",
-        "원본확인"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 86,
-      "reasons": [
-        "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
-      ],
-      "evidence": [
-        "유형: 공연",
-        "분야: 뮤지컬",
-        "관람연령: 24개월 이상",
-        "학생대상 후보: 초등",
-        "지역: 확인필요",
-        "시작까지 -7일"
-      ],
-      "warnings": [
-        "장소 또는 지역 확인 필요"
-      ],
-      "programIdeas": [
-        "관람 전 배경지식 10분 브리핑",
-        "관람 후 한 문단 감상 기록",
-        "학부모 주말 문화체험 안내"
-      ]
-    }
-  },
-  {
-    "id": "kopis-PF292978",
-    "source": "kopis",
-    "title": "라푼젤 [부산]",
-    "eventType": "공연",
-    "category": "뮤지컬",
-    "grades": [
-      "초등"
-    ],
-    "ageText": "24개월 이상",
-    "region": "확인필요",
-    "venueName": "동래문화회관",
-    "venueAddress": null,
-    "startDate": "2026-08-22",
-    "endDate": "2026-08-22",
-    "dday": -7,
-    "runtime": "55분",
-    "priceText": "전석 50,000원",
-    "free": false,
-    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF292978_260605_114819.jpg",
-    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF292978",
-    "summary": "라푼젤 [부산]은(는) 동래문화회관에서 진행되는 뮤지컬 행사입니다.",
-    "status": "예정",
-    "conflict": false,
-    "recommendation": {
-      "subjectTags": [
-        "국어/논술",
-        "예술"
-      ],
-      "useCaseTags": [
-        "아동공연",
-        "주말관람",
-        "원본확인"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 86,
-      "reasons": [
-        "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
-      ],
-      "evidence": [
-        "유형: 공연",
-        "분야: 뮤지컬",
-        "관람연령: 24개월 이상",
-        "학생대상 후보: 초등",
-        "지역: 확인필요",
-        "시작까지 -7일"
-      ],
-      "warnings": [
-        "장소 또는 지역 확인 필요"
-      ],
-      "programIdeas": [
-        "관람 전 배경지식 10분 브리핑",
-        "관람 후 한 문단 감상 기록",
-        "학부모 주말 문화체험 안내"
-      ]
-    }
-  },
-  {
-    "id": "kopis-PF293724",
-    "source": "kopis",
-    "title": "렛잇고3 [인천 연수]",
-    "eventType": "공연",
-    "category": "뮤지컬",
-    "grades": [
-      "초등"
-    ],
-    "ageText": "24개월 이상",
-    "region": "확인필요",
-    "venueName": "트라이보울",
-    "venueAddress": null,
-    "startDate": "2026-08-22",
-    "endDate": "2026-08-23",
-    "dday": -6,
-    "runtime": "1시간 10분",
-    "priceText": "전석 40,000원",
-    "free": false,
-    "posterUrl": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF293724_260615_134737.jpg",
-    "officialUrl": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF293724",
-    "summary": "렛잇고3 [인천 연수]은(는) 트라이보울에서 진행되는 뮤지컬 행사입니다.",
-    "status": "예정",
-    "conflict": false,
-    "recommendation": {
-      "subjectTags": [
-        "국어/논술",
-        "예술"
-      ],
-      "useCaseTags": [
-        "아동공연",
-        "주말관람",
-        "원본확인"
-      ],
-      "confidence": "높음",
-      "confidenceScore": 86,
-      "reasons": [
-        "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
-      ],
-      "evidence": [
-        "유형: 공연",
-        "분야: 뮤지컬",
-        "관람연령: 24개월 이상",
-        "학생대상 후보: 초등",
-        "지역: 확인필요",
-        "시작까지 -6일"
-      ],
-      "warnings": [
-        "장소 또는 지역 확인 필요"
-      ],
-      "programIdeas": [
-        "관람 전 배경지식 10분 브리핑",
-        "관람 후 한 문단 감상 기록",
-        "학부모 주말 문화체험 안내"
-      ]
-    }
-  },
-  {
     "id": "kopis-PF294433",
     "source": "kopis",
     "title": "멜로우TV: Run it up, 팀 나빠 [천안]",
@@ -29687,7 +29680,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-22",
     "endDate": "2026-08-23",
-    "dday": -6,
+    "dday": -12,
     "runtime": "1시간 10분",
     "priceText": "전석 70,000원",
     "free": false,
@@ -29718,7 +29711,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -6일"
+        "시작까지 -12일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -29745,7 +29738,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-22",
     "endDate": "2026-08-22",
-    "dday": -7,
+    "dday": -13,
     "runtime": "1시간",
     "priceText": "현장판매 40,000원, 사전예약 10,000원",
     "free": false,
@@ -29776,7 +29769,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -7일"
+        "시작까지 -13일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -29803,7 +29796,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-22",
     "endDate": "2026-08-23",
-    "dday": -6,
+    "dday": -12,
     "runtime": "1시간 5분",
     "priceText": "전석 60,000원",
     "free": false,
@@ -29834,7 +29827,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 인천",
-        "시작까지 -6일"
+        "시작까지 -12일"
       ],
       "warnings": [],
       "programIdeas": [
@@ -29859,7 +29852,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-22",
     "endDate": "2026-08-23",
-    "dday": -6,
+    "dday": -12,
     "runtime": "1시간 5분",
     "priceText": "전석 50,000원",
     "free": false,
@@ -29890,7 +29883,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 대구",
-        "시작까지 -6일"
+        "시작까지 -12일"
       ],
       "warnings": [],
       "programIdeas": [
@@ -29915,7 +29908,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-22",
     "endDate": "2026-08-22",
-    "dday": -7,
+    "dday": -13,
     "runtime": "50분",
     "priceText": "현장판매 14,900원, 사전예약 9,900원",
     "free": false,
@@ -29946,7 +29939,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -7일"
+        "시작까지 -13일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -29973,7 +29966,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-22",
     "endDate": "2026-08-22",
-    "dday": -7,
+    "dday": -13,
     "runtime": "1시간",
     "priceText": "동동이석 66,000원, 구슬이석 44,000원",
     "free": false,
@@ -30004,7 +29997,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 부산",
-        "시작까지 -7일"
+        "시작까지 -13일"
       ],
       "warnings": [],
       "programIdeas": [
@@ -30029,7 +30022,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-22",
     "endDate": "2026-08-22",
-    "dday": -7,
+    "dday": -13,
     "runtime": "1시간",
     "priceText": "전석 50,000원",
     "free": false,
@@ -30060,7 +30053,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -7일"
+        "시작까지 -13일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -30087,7 +30080,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-22",
     "endDate": "2026-08-22",
-    "dday": -7,
+    "dday": -13,
     "runtime": "",
     "priceText": "전석 20,000원",
     "free": false,
@@ -30118,7 +30111,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 36개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -7일"
+        "시작까지 -13일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -30145,7 +30138,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-22",
     "endDate": "2026-08-23",
-    "dday": -6,
+    "dday": -12,
     "runtime": "1시간 20분",
     "priceText": "아마존석 54,900원, R석 48,900원, S석 42,900원",
     "free": false,
@@ -30176,7 +30169,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -6일"
+        "시작까지 -12일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -30203,7 +30196,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-22",
     "endDate": "2026-08-22",
-    "dday": -7,
+    "dday": -13,
     "runtime": "50분",
     "priceText": "전석 10,000원",
     "free": false,
@@ -30234,7 +30227,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 만 4세 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -7일"
+        "시작까지 -13일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -30261,7 +30254,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-22",
     "endDate": "2026-08-22",
-    "dday": -7,
+    "dday": -13,
     "runtime": "50분",
     "priceText": "현장판매 14,900원, 사전예약 9,900원",
     "free": false,
@@ -30292,7 +30285,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -7일"
+        "시작까지 -13일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -30319,7 +30312,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-22",
     "endDate": "2026-08-22",
-    "dday": -7,
+    "dday": -13,
     "runtime": "1시간",
     "priceText": "전석 35,000원",
     "free": false,
@@ -30350,7 +30343,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 대전",
-        "시작까지 -7일"
+        "시작까지 -13일"
       ],
       "warnings": [],
       "programIdeas": [
@@ -30375,7 +30368,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-22",
     "endDate": "2026-08-22",
-    "dday": -7,
+    "dday": -13,
     "runtime": "50분",
     "priceText": "네이버 1인권 14,900원, 사전예약(특가) 9,900원",
     "free": false,
@@ -30406,7 +30399,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -7일"
+        "시작까지 -13일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -30433,7 +30426,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-22",
     "endDate": "2026-08-22",
-    "dday": -7,
+    "dday": -13,
     "runtime": "1시간",
     "priceText": "전석 55,000원",
     "free": false,
@@ -30464,7 +30457,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 대전",
-        "시작까지 -7일"
+        "시작까지 -13일"
       ],
       "warnings": [],
       "programIdeas": [
@@ -30489,7 +30482,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-22",
     "endDate": "2026-08-23",
-    "dday": -6,
+    "dday": -12,
     "runtime": "1시간 10분",
     "priceText": "전석 70,000원",
     "free": false,
@@ -30520,7 +30513,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -6일"
+        "시작까지 -12일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -30547,7 +30540,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-23",
     "endDate": "2026-08-23",
-    "dday": -6,
+    "dday": -12,
     "runtime": "1시간",
     "priceText": "전석 40,000원",
     "free": false,
@@ -30578,7 +30571,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 울산",
-        "시작까지 -6일"
+        "시작까지 -12일"
       ],
       "warnings": [],
       "programIdeas": [
@@ -30603,7 +30596,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-23",
     "endDate": "2026-08-23",
-    "dday": -6,
+    "dday": -12,
     "runtime": "1시간",
     "priceText": "전석 30,000원",
     "free": false,
@@ -30634,7 +30627,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -6일"
+        "시작까지 -12일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -30661,7 +30654,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-23",
     "endDate": "2026-08-23",
-    "dday": -6,
+    "dday": -12,
     "runtime": "50분",
     "priceText": "현장판매 35,000원, 사전예약 9,900원",
     "free": false,
@@ -30692,7 +30685,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -6일"
+        "시작까지 -12일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -30719,7 +30712,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-23",
     "endDate": "2026-08-23",
-    "dday": -6,
+    "dday": -12,
     "runtime": "50분",
     "priceText": "현장판매 14,900원, 사전예약 9,900원",
     "free": false,
@@ -30750,7 +30743,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -6일"
+        "시작까지 -12일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -30777,7 +30770,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-23",
     "endDate": "2026-08-23",
-    "dday": -6,
+    "dday": -12,
     "runtime": "55분",
     "priceText": "사전예약 10,000원",
     "free": false,
@@ -30808,7 +30801,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -6일"
+        "시작까지 -12일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -30835,7 +30828,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-26",
     "endDate": "2026-08-26",
-    "dday": -3,
+    "dday": -9,
     "runtime": "1시간",
     "priceText": "전석 10,000원",
     "free": false,
@@ -30864,7 +30857,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 48개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -3일"
+        "시작까지 -9일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -30891,7 +30884,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-28",
     "endDate": "2026-08-28",
-    "dday": -1,
+    "dday": -7,
     "runtime": "50분",
     "priceText": "전석 20,000원",
     "free": false,
@@ -30920,7 +30913,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 36개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 -1일"
+        "시작까지 -7일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -30947,7 +30940,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-29",
     "endDate": "2026-08-30",
-    "dday": 0,
+    "dday": -5,
     "runtime": "1시간 10분",
     "priceText": "전석 66,000원",
     "free": false,
@@ -30963,7 +30956,6 @@ export const CULTURE_EVENTS: CultureEvent[] = [
       ],
       "useCaseTags": [
         "아동공연",
-        "이번주관람",
         "주말관람",
         "원본확인"
       ],
@@ -30971,7 +30963,6 @@ export const CULTURE_EVENTS: CultureEvent[] = [
       "confidenceScore": 100,
       "reasons": [
         "전체 관람가 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "이번 주 바로 안내할 수 있는 가까운 일정입니다.",
         "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
       ],
       "evidence": [
@@ -30980,7 +30971,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 대구",
-        "시작까지 0일"
+        "시작까지 -5일"
       ],
       "warnings": [],
       "programIdeas": [
@@ -31005,7 +30996,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-29",
     "endDate": "2026-08-29",
-    "dday": 0,
+    "dday": -6,
     "runtime": "1시간",
     "priceText": "전석 30,000원",
     "free": false,
@@ -31021,7 +31012,6 @@ export const CULTURE_EVENTS: CultureEvent[] = [
       ],
       "useCaseTags": [
         "아동공연",
-        "이번주관람",
         "주말관람",
         "원본확인"
       ],
@@ -31029,7 +31019,6 @@ export const CULTURE_EVENTS: CultureEvent[] = [
       "confidenceScore": 100,
       "reasons": [
         "36개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "이번 주 바로 안내할 수 있는 가까운 일정입니다.",
         "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
       ],
       "evidence": [
@@ -31038,7 +31027,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 36개월 이상",
         "학생대상 후보: 초등",
         "지역: 세종",
-        "시작까지 0일"
+        "시작까지 -6일"
       ],
       "warnings": [],
       "programIdeas": [
@@ -31063,7 +31052,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-29",
     "endDate": "2026-08-30",
-    "dday": 0,
+    "dday": -5,
     "runtime": "1시간 10분",
     "priceText": "VIP석 70,000원, R석 60,000원",
     "free": false,
@@ -31079,7 +31068,6 @@ export const CULTURE_EVENTS: CultureEvent[] = [
       ],
       "useCaseTags": [
         "아동공연",
-        "이번주관람",
         "주말관람",
         "원본확인"
       ],
@@ -31087,7 +31075,6 @@ export const CULTURE_EVENTS: CultureEvent[] = [
       "confidenceScore": 86,
       "reasons": [
         "20개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "이번 주 바로 안내할 수 있는 가까운 일정입니다.",
         "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
       ],
       "evidence": [
@@ -31096,7 +31083,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 20개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 0일"
+        "시작까지 -5일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -31123,7 +31110,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-29",
     "endDate": "2026-08-29",
-    "dday": 0,
+    "dday": -6,
     "runtime": "55분",
     "priceText": "전석 30,000원",
     "free": false,
@@ -31139,7 +31126,6 @@ export const CULTURE_EVENTS: CultureEvent[] = [
       ],
       "useCaseTags": [
         "아동공연",
-        "이번주관람",
         "주말관람",
         "원본확인"
       ],
@@ -31147,7 +31133,6 @@ export const CULTURE_EVENTS: CultureEvent[] = [
       "confidenceScore": 86,
       "reasons": [
         "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "이번 주 바로 안내할 수 있는 가까운 일정입니다.",
         "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
       ],
       "evidence": [
@@ -31156,7 +31141,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 0일"
+        "시작까지 -6일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -31183,7 +31168,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-29",
     "endDate": "2026-08-29",
-    "dday": 0,
+    "dday": -6,
     "runtime": "1시간",
     "priceText": "1층석 50,000원, 2층석 40,000원",
     "free": false,
@@ -31199,7 +31184,6 @@ export const CULTURE_EVENTS: CultureEvent[] = [
       ],
       "useCaseTags": [
         "아동공연",
-        "이번주관람",
         "주말관람",
         "원본확인"
       ],
@@ -31207,7 +31191,6 @@ export const CULTURE_EVENTS: CultureEvent[] = [
       "confidenceScore": 86,
       "reasons": [
         "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "이번 주 바로 안내할 수 있는 가까운 일정입니다.",
         "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
       ],
       "evidence": [
@@ -31216,7 +31199,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 0일"
+        "시작까지 -6일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -31243,7 +31226,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-29",
     "endDate": "2026-08-29",
-    "dday": 0,
+    "dday": -6,
     "runtime": "1시간 10분",
     "priceText": "R석 40,000원",
     "free": false,
@@ -31259,7 +31242,6 @@ export const CULTURE_EVENTS: CultureEvent[] = [
       ],
       "useCaseTags": [
         "아동공연",
-        "이번주관람",
         "주말관람",
         "원본확인"
       ],
@@ -31267,7 +31249,6 @@ export const CULTURE_EVENTS: CultureEvent[] = [
       "confidenceScore": 100,
       "reasons": [
         "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "이번 주 바로 안내할 수 있는 가까운 일정입니다.",
         "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
       ],
       "evidence": [
@@ -31276,7 +31257,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 대전",
-        "시작까지 0일"
+        "시작까지 -6일"
       ],
       "warnings": [],
       "programIdeas": [
@@ -31301,7 +31282,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-29",
     "endDate": "2026-08-29",
-    "dday": 0,
+    "dday": -6,
     "runtime": "1시간 5분",
     "priceText": "R석 66,000원",
     "free": false,
@@ -31317,7 +31298,6 @@ export const CULTURE_EVENTS: CultureEvent[] = [
       ],
       "useCaseTags": [
         "아동공연",
-        "이번주관람",
         "주말관람",
         "원본확인"
       ],
@@ -31325,7 +31305,6 @@ export const CULTURE_EVENTS: CultureEvent[] = [
       "confidenceScore": 86,
       "reasons": [
         "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "이번 주 바로 안내할 수 있는 가까운 일정입니다.",
         "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
       ],
       "evidence": [
@@ -31334,7 +31313,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 0일"
+        "시작까지 -6일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -31361,7 +31340,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-29",
     "endDate": "2026-08-30",
-    "dday": 0,
+    "dday": -5,
     "runtime": "1시간",
     "priceText": "전석 30,000원",
     "free": false,
@@ -31377,7 +31356,6 @@ export const CULTURE_EVENTS: CultureEvent[] = [
       ],
       "useCaseTags": [
         "아동공연",
-        "이번주관람",
         "주말관람",
         "원본확인"
       ],
@@ -31385,7 +31363,6 @@ export const CULTURE_EVENTS: CultureEvent[] = [
       "confidenceScore": 86,
       "reasons": [
         "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "이번 주 바로 안내할 수 있는 가까운 일정입니다.",
         "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
       ],
       "evidence": [
@@ -31394,7 +31371,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 0일"
+        "시작까지 -5일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -31421,7 +31398,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-29",
     "endDate": "2026-08-30",
-    "dday": 0,
+    "dday": -5,
     "runtime": "1시간 5분",
     "priceText": "전석 70,000원",
     "free": false,
@@ -31437,7 +31414,6 @@ export const CULTURE_EVENTS: CultureEvent[] = [
       ],
       "useCaseTags": [
         "아동공연",
-        "이번주관람",
         "주말관람",
         "원본확인"
       ],
@@ -31445,7 +31421,6 @@ export const CULTURE_EVENTS: CultureEvent[] = [
       "confidenceScore": 100,
       "reasons": [
         "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "이번 주 바로 안내할 수 있는 가까운 일정입니다.",
         "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
       ],
       "evidence": [
@@ -31454,7 +31429,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 인천",
-        "시작까지 0일"
+        "시작까지 -5일"
       ],
       "warnings": [],
       "programIdeas": [
@@ -31479,7 +31454,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-29",
     "endDate": "2026-08-29",
-    "dday": 0,
+    "dday": -6,
     "runtime": "1시간",
     "priceText": "VIP석(사전예약) 13,500원, R석(사전예약) 9,500원",
     "free": false,
@@ -31495,7 +31470,6 @@ export const CULTURE_EVENTS: CultureEvent[] = [
       ],
       "useCaseTags": [
         "아동공연",
-        "이번주관람",
         "주말관람",
         "원본확인"
       ],
@@ -31503,7 +31477,6 @@ export const CULTURE_EVENTS: CultureEvent[] = [
       "confidenceScore": 86,
       "reasons": [
         "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "이번 주 바로 안내할 수 있는 가까운 일정입니다.",
         "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
       ],
       "evidence": [
@@ -31512,7 +31485,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 0일"
+        "시작까지 -6일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -31539,7 +31512,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-29",
     "endDate": "2026-08-30",
-    "dday": 0,
+    "dday": -5,
     "runtime": "55분",
     "priceText": "전석 40,000원",
     "free": false,
@@ -31555,7 +31528,6 @@ export const CULTURE_EVENTS: CultureEvent[] = [
       ],
       "useCaseTags": [
         "아동공연",
-        "이번주관람",
         "주말관람",
         "원본확인"
       ],
@@ -31563,7 +31535,6 @@ export const CULTURE_EVENTS: CultureEvent[] = [
       "confidenceScore": 86,
       "reasons": [
         "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "이번 주 바로 안내할 수 있는 가까운 일정입니다.",
         "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
       ],
       "evidence": [
@@ -31572,7 +31543,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 0일"
+        "시작까지 -5일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -31599,7 +31570,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-29",
     "endDate": "2026-08-30",
-    "dday": 0,
+    "dday": -5,
     "runtime": "1시간 5분",
     "priceText": "1층석 66,000원, 2층석 55,000원",
     "free": false,
@@ -31615,7 +31586,6 @@ export const CULTURE_EVENTS: CultureEvent[] = [
       ],
       "useCaseTags": [
         "아동공연",
-        "이번주관람",
         "주말관람",
         "원본확인"
       ],
@@ -31623,7 +31593,6 @@ export const CULTURE_EVENTS: CultureEvent[] = [
       "confidenceScore": 86,
       "reasons": [
         "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "이번 주 바로 안내할 수 있는 가까운 일정입니다.",
         "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
       ],
       "evidence": [
@@ -31632,7 +31601,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 0일"
+        "시작까지 -5일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -31659,7 +31628,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-29",
     "endDate": "2026-08-29",
-    "dday": 0,
+    "dday": -6,
     "runtime": "1시간",
     "priceText": "전석 30,000원",
     "free": false,
@@ -31675,7 +31644,6 @@ export const CULTURE_EVENTS: CultureEvent[] = [
       ],
       "useCaseTags": [
         "아동공연",
-        "이번주관람",
         "주말관람",
         "원본확인"
       ],
@@ -31683,7 +31651,6 @@ export const CULTURE_EVENTS: CultureEvent[] = [
       "confidenceScore": 86,
       "reasons": [
         "전체 관람가 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "이번 주 바로 안내할 수 있는 가까운 일정입니다.",
         "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
       ],
       "evidence": [
@@ -31692,7 +31659,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 0일"
+        "시작까지 -6일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -31719,7 +31686,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-29",
     "endDate": "2026-08-29",
-    "dday": 0,
+    "dday": -6,
     "runtime": "50분",
     "priceText": "전석 5,000원",
     "free": false,
@@ -31735,7 +31702,6 @@ export const CULTURE_EVENTS: CultureEvent[] = [
       ],
       "useCaseTags": [
         "아동공연",
-        "이번주관람",
         "주말관람",
         "원본확인"
       ],
@@ -31743,7 +31709,6 @@ export const CULTURE_EVENTS: CultureEvent[] = [
       "confidenceScore": 86,
       "reasons": [
         "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "이번 주 바로 안내할 수 있는 가까운 일정입니다.",
         "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
       ],
       "evidence": [
@@ -31752,7 +31717,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 0일"
+        "시작까지 -6일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -31779,7 +31744,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-29",
     "endDate": "2026-08-30",
-    "dday": 0,
+    "dday": -5,
     "runtime": "1시간 5분",
     "priceText": "전석 50,000원",
     "free": false,
@@ -31796,7 +31761,6 @@ export const CULTURE_EVENTS: CultureEvent[] = [
       ],
       "useCaseTags": [
         "아동공연",
-        "이번주관람",
         "주말관람",
         "원본확인"
       ],
@@ -31804,7 +31768,6 @@ export const CULTURE_EVENTS: CultureEvent[] = [
       "confidenceScore": 86,
       "reasons": [
         "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "이번 주 바로 안내할 수 있는 가까운 일정입니다.",
         "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
       ],
       "evidence": [
@@ -31813,7 +31776,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 0일"
+        "시작까지 -5일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -31840,7 +31803,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-29",
     "endDate": "2026-08-30",
-    "dday": 0,
+    "dday": -5,
     "runtime": "1시간 5분",
     "priceText": "전석 50,000원",
     "free": false,
@@ -31857,7 +31820,6 @@ export const CULTURE_EVENTS: CultureEvent[] = [
       ],
       "useCaseTags": [
         "아동공연",
-        "이번주관람",
         "주말관람",
         "원본확인"
       ],
@@ -31865,7 +31827,6 @@ export const CULTURE_EVENTS: CultureEvent[] = [
       "confidenceScore": 86,
       "reasons": [
         "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "이번 주 바로 안내할 수 있는 가까운 일정입니다.",
         "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
       ],
       "evidence": [
@@ -31874,7 +31835,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 0일"
+        "시작까지 -5일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -31901,7 +31862,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-29",
     "endDate": "2026-08-30",
-    "dday": 0,
+    "dday": -5,
     "runtime": "1시간 10분",
     "priceText": "전석 66,000원",
     "free": false,
@@ -31917,7 +31878,6 @@ export const CULTURE_EVENTS: CultureEvent[] = [
       ],
       "useCaseTags": [
         "아동공연",
-        "이번주관람",
         "주말관람",
         "원본확인"
       ],
@@ -31925,7 +31885,6 @@ export const CULTURE_EVENTS: CultureEvent[] = [
       "confidenceScore": 86,
       "reasons": [
         "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "이번 주 바로 안내할 수 있는 가까운 일정입니다.",
         "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
       ],
       "evidence": [
@@ -31934,7 +31893,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 0일"
+        "시작까지 -5일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -31961,7 +31920,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-29",
     "endDate": "2026-08-30",
-    "dday": 0,
+    "dday": -5,
     "runtime": "1시간 5분",
     "priceText": "R석 70,000원, S석 50,000원",
     "free": false,
@@ -31977,7 +31936,6 @@ export const CULTURE_EVENTS: CultureEvent[] = [
       ],
       "useCaseTags": [
         "아동공연",
-        "이번주관람",
         "주말관람",
         "원본확인"
       ],
@@ -31985,7 +31943,6 @@ export const CULTURE_EVENTS: CultureEvent[] = [
       "confidenceScore": 86,
       "reasons": [
         "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "이번 주 바로 안내할 수 있는 가까운 일정입니다.",
         "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
       ],
       "evidence": [
@@ -31994,7 +31951,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 0일"
+        "시작까지 -5일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -32021,7 +31978,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-29",
     "endDate": "2026-08-29",
-    "dday": 0,
+    "dday": -6,
     "runtime": "1시간",
     "priceText": "현장판매 50,000원, 사전예약 19,900원",
     "free": false,
@@ -32037,7 +31994,6 @@ export const CULTURE_EVENTS: CultureEvent[] = [
       ],
       "useCaseTags": [
         "아동공연",
-        "이번주관람",
         "주말관람",
         "원본확인"
       ],
@@ -32045,7 +32001,6 @@ export const CULTURE_EVENTS: CultureEvent[] = [
       "confidenceScore": 86,
       "reasons": [
         "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "이번 주 바로 안내할 수 있는 가까운 일정입니다.",
         "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
       ],
       "evidence": [
@@ -32054,7 +32009,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 0일"
+        "시작까지 -6일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -32081,7 +32036,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-29",
     "endDate": "2026-08-30",
-    "dday": 0,
+    "dday": -5,
     "runtime": "1시간",
     "priceText": "전석 50,000원",
     "free": false,
@@ -32097,7 +32052,6 @@ export const CULTURE_EVENTS: CultureEvent[] = [
       ],
       "useCaseTags": [
         "아동공연",
-        "이번주관람",
         "주말관람",
         "원본확인"
       ],
@@ -32105,7 +32059,6 @@ export const CULTURE_EVENTS: CultureEvent[] = [
       "confidenceScore": 100,
       "reasons": [
         "전체 관람가 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "이번 주 바로 안내할 수 있는 가까운 일정입니다.",
         "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
       ],
       "evidence": [
@@ -32114,7 +32067,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 부산",
-        "시작까지 0일"
+        "시작까지 -5일"
       ],
       "warnings": [],
       "programIdeas": [
@@ -32139,7 +32092,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-29",
     "endDate": "2026-08-29",
-    "dday": 0,
+    "dday": -6,
     "runtime": "50분",
     "priceText": "현장판매 14,900원, 사전예약 9,900원",
     "free": false,
@@ -32155,7 +32108,6 @@ export const CULTURE_EVENTS: CultureEvent[] = [
       ],
       "useCaseTags": [
         "아동공연",
-        "이번주관람",
         "주말관람",
         "원본확인"
       ],
@@ -32163,7 +32115,6 @@ export const CULTURE_EVENTS: CultureEvent[] = [
       "confidenceScore": 86,
       "reasons": [
         "전체 관람가 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "이번 주 바로 안내할 수 있는 가까운 일정입니다.",
         "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
       ],
       "evidence": [
@@ -32172,7 +32123,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 0일"
+        "시작까지 -6일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -32199,7 +32150,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-29",
     "endDate": "2026-08-29",
-    "dday": 0,
+    "dday": -6,
     "runtime": "1시간",
     "priceText": "VIP석 13,500원, R석 9,500원",
     "free": false,
@@ -32215,7 +32166,6 @@ export const CULTURE_EVENTS: CultureEvent[] = [
       ],
       "useCaseTags": [
         "아동공연",
-        "이번주관람",
         "주말관람",
         "원본확인"
       ],
@@ -32223,7 +32173,6 @@ export const CULTURE_EVENTS: CultureEvent[] = [
       "confidenceScore": 86,
       "reasons": [
         "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "이번 주 바로 안내할 수 있는 가까운 일정입니다.",
         "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
       ],
       "evidence": [
@@ -32232,7 +32181,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 0일"
+        "시작까지 -6일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -32259,7 +32208,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-29",
     "endDate": "2026-08-30",
-    "dday": 0,
+    "dday": -5,
     "runtime": "1시간 10분",
     "priceText": "전석 70,000원",
     "free": false,
@@ -32275,7 +32224,6 @@ export const CULTURE_EVENTS: CultureEvent[] = [
       ],
       "useCaseTags": [
         "아동공연",
-        "이번주관람",
         "주말관람",
         "원본확인"
       ],
@@ -32283,7 +32231,6 @@ export const CULTURE_EVENTS: CultureEvent[] = [
       "confidenceScore": 86,
       "reasons": [
         "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "이번 주 바로 안내할 수 있는 가까운 일정입니다.",
         "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
       ],
       "evidence": [
@@ -32292,7 +32239,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 0일"
+        "시작까지 -5일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -32319,7 +32266,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-29",
     "endDate": "2026-08-30",
-    "dday": 0,
+    "dday": -5,
     "runtime": "1시간 10분",
     "priceText": "R석 70,000원, S석 60,000원",
     "free": false,
@@ -32335,7 +32282,6 @@ export const CULTURE_EVENTS: CultureEvent[] = [
       ],
       "useCaseTags": [
         "아동공연",
-        "이번주관람",
         "주말관람",
         "원본확인"
       ],
@@ -32343,7 +32289,6 @@ export const CULTURE_EVENTS: CultureEvent[] = [
       "confidenceScore": 86,
       "reasons": [
         "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "이번 주 바로 안내할 수 있는 가까운 일정입니다.",
         "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
       ],
       "evidence": [
@@ -32352,7 +32297,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 0일"
+        "시작까지 -5일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -32379,7 +32324,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-30",
     "endDate": "2026-08-30",
-    "dday": 1,
+    "dday": -5,
     "runtime": "50분",
     "priceText": "사전예약 9,900원",
     "free": false,
@@ -32395,7 +32340,6 @@ export const CULTURE_EVENTS: CultureEvent[] = [
       ],
       "useCaseTags": [
         "아동공연",
-        "이번주관람",
         "주말관람",
         "원본확인"
       ],
@@ -32403,7 +32347,6 @@ export const CULTURE_EVENTS: CultureEvent[] = [
       "confidenceScore": 100,
       "reasons": [
         "전체 관람가 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "이번 주 바로 안내할 수 있는 가까운 일정입니다.",
         "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
       ],
       "evidence": [
@@ -32412,7 +32355,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 경기",
-        "시작까지 1일"
+        "시작까지 -5일"
       ],
       "warnings": [],
       "programIdeas": [
@@ -32437,7 +32380,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-30",
     "endDate": "2026-08-30",
-    "dday": 1,
+    "dday": -5,
     "runtime": "55분",
     "priceText": "전석 50,000원",
     "free": false,
@@ -32453,7 +32396,6 @@ export const CULTURE_EVENTS: CultureEvent[] = [
       ],
       "useCaseTags": [
         "아동공연",
-        "이번주관람",
         "주말관람",
         "원본확인"
       ],
@@ -32461,7 +32403,6 @@ export const CULTURE_EVENTS: CultureEvent[] = [
       "confidenceScore": 100,
       "reasons": [
         "전체 관람가 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "이번 주 바로 안내할 수 있는 가까운 일정입니다.",
         "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
       ],
       "evidence": [
@@ -32470,7 +32411,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 대전",
-        "시작까지 1일"
+        "시작까지 -5일"
       ],
       "warnings": [],
       "programIdeas": [
@@ -32495,7 +32436,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-30",
     "endDate": "2026-08-30",
-    "dday": 1,
+    "dday": -5,
     "runtime": "1시간",
     "priceText": "전석 40,000원",
     "free": false,
@@ -32511,7 +32452,6 @@ export const CULTURE_EVENTS: CultureEvent[] = [
       ],
       "useCaseTags": [
         "아동공연",
-        "이번주관람",
         "주말관람",
         "원본확인"
       ],
@@ -32519,7 +32459,6 @@ export const CULTURE_EVENTS: CultureEvent[] = [
       "confidenceScore": 86,
       "reasons": [
         "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "이번 주 바로 안내할 수 있는 가까운 일정입니다.",
         "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
       ],
       "evidence": [
@@ -32528,7 +32467,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 1일"
+        "시작까지 -5일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -32555,7 +32494,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-08-30",
     "endDate": "2026-08-30",
-    "dday": 1,
+    "dday": -5,
     "runtime": "50분",
     "priceText": "사전예약 9,900원",
     "free": false,
@@ -32571,7 +32510,6 @@ export const CULTURE_EVENTS: CultureEvent[] = [
       ],
       "useCaseTags": [
         "아동공연",
-        "이번주관람",
         "주말관람",
         "원본확인"
       ],
@@ -32579,7 +32517,6 @@ export const CULTURE_EVENTS: CultureEvent[] = [
       "confidenceScore": 86,
       "reasons": [
         "전체 관람가 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
-        "이번 주 바로 안내할 수 있는 가까운 일정입니다.",
         "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
       ],
       "evidence": [
@@ -32588,7 +32525,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 1일"
+        "시작까지 -5일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -32615,7 +32552,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-09-02",
     "endDate": "2026-09-27",
-    "dday": 4,
+    "dday": 0,
     "runtime": "55분",
     "priceText": "전석 40,000원",
     "free": false,
@@ -32648,7 +32585,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 4일"
+        "시작까지 0일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -32675,7 +32612,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-09-05",
     "endDate": "2026-09-06",
-    "dday": 7,
+    "dday": 1,
     "runtime": "1시간 10분",
     "priceText": "R석 77,000원, S석 66,000원",
     "free": false,
@@ -32708,7 +32645,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 7일"
+        "시작까지 1일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -32735,7 +32672,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-09-05",
     "endDate": "2026-09-06",
-    "dday": 7,
+    "dday": 1,
     "runtime": "1시간 20분",
     "priceText": "R석 77,000원, S석 55,000원",
     "free": false,
@@ -32768,7 +32705,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 7일"
+        "시작까지 1일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -32795,7 +32732,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-09-05",
     "endDate": "2026-09-06",
-    "dday": 7,
+    "dday": 1,
     "runtime": "1시간 10분",
     "priceText": "전석 70,000원",
     "free": false,
@@ -32828,7 +32765,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 7일"
+        "시작까지 1일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -32855,7 +32792,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-09-05",
     "endDate": "2026-09-06",
-    "dday": 7,
+    "dday": 1,
     "runtime": "1시간 5분",
     "priceText": "전석 60,000원",
     "free": false,
@@ -32888,7 +32825,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 20개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 7일"
+        "시작까지 1일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -32915,7 +32852,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-09-05",
     "endDate": "2026-09-05",
-    "dday": 7,
+    "dday": 1,
     "runtime": "55분",
     "priceText": "전석 40,000원",
     "free": false,
@@ -32948,7 +32885,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 7일"
+        "시작까지 1일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -32975,7 +32912,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-09-05",
     "endDate": "2026-09-05",
-    "dday": 7,
+    "dday": 1,
     "runtime": "1시간",
     "priceText": "사전예약 15,000원, 전석 40,000원",
     "free": false,
@@ -33008,7 +32945,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 광주",
-        "시작까지 7일"
+        "시작까지 1일"
       ],
       "warnings": [],
       "programIdeas": [
@@ -33033,7 +32970,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-09-05",
     "endDate": "2026-09-05",
-    "dday": 7,
+    "dday": 1,
     "runtime": "1시간",
     "priceText": "전석 40,000원",
     "free": false,
@@ -33066,7 +33003,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 7일"
+        "시작까지 1일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -33093,7 +33030,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-09-05",
     "endDate": "2026-09-06",
-    "dday": 7,
+    "dday": 1,
     "runtime": "1시간",
     "priceText": "전석 40,000원",
     "free": false,
@@ -33126,7 +33063,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 7일"
+        "시작까지 1일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -33153,7 +33090,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-09-05",
     "endDate": "2026-09-05",
-    "dday": 7,
+    "dday": 1,
     "runtime": "50분",
     "priceText": "전석 35,000원, 사전예약 9,900원",
     "free": false,
@@ -33186,7 +33123,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 7일"
+        "시작까지 1일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -33213,7 +33150,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-09-05",
     "endDate": "2026-09-06",
-    "dday": 7,
+    "dday": 1,
     "runtime": "1시간 10분",
     "priceText": "전석 66,000원",
     "free": false,
@@ -33246,7 +33183,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 7일"
+        "시작까지 1일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -33273,7 +33210,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-09-06",
     "endDate": "2026-09-06",
-    "dday": 8,
+    "dday": 2,
     "runtime": "55분",
     "priceText": "전석 40,000원",
     "free": false,
@@ -33289,6 +33226,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
       ],
       "useCaseTags": [
         "아동공연",
+        "이번주관람",
         "주말관람",
         "원본확인"
       ],
@@ -33296,6 +33234,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
       "confidenceScore": 86,
       "reasons": [
         "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
+        "이번 주 바로 안내할 수 있는 가까운 일정입니다.",
         "주말 관람 가능성이 있어 가족 참여 안내 후보입니다."
       ],
       "evidence": [
@@ -33304,7 +33243,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 8일"
+        "시작까지 2일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -33331,7 +33270,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-09-08",
     "endDate": "2026-09-11",
-    "dday": 10,
+    "dday": 4,
     "runtime": "50분",
     "priceText": "전석 20,000원",
     "free": false,
@@ -33347,12 +33286,14 @@ export const CULTURE_EVENTS: CultureEvent[] = [
       ],
       "useCaseTags": [
         "아동공연",
+        "이번주관람",
         "원본확인"
       ],
       "confidence": "높음",
       "confidenceScore": 86,
       "reasons": [
-        "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다."
+        "24개월 이상 기준이라 초등 학생 안내 후보로 검토할 수 있습니다.",
+        "이번 주 바로 안내할 수 있는 가까운 일정입니다."
       ],
       "evidence": [
         "유형: 공연",
@@ -33360,7 +33301,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 10일"
+        "시작까지 4일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -33387,7 +33328,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-09-12",
     "endDate": "2026-09-12",
-    "dday": 14,
+    "dday": 8,
     "runtime": "55분",
     "priceText": "전석 50,000원",
     "free": false,
@@ -33418,7 +33359,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 14일"
+        "시작까지 8일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -33445,7 +33386,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-09-12",
     "endDate": "2026-09-13",
-    "dday": 14,
+    "dday": 8,
     "runtime": "1시간 15분",
     "priceText": "R석 70,000원",
     "free": false,
@@ -33476,7 +33417,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 부산",
-        "시작까지 14일"
+        "시작까지 8일"
       ],
       "warnings": [],
       "programIdeas": [
@@ -33501,7 +33442,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-09-12",
     "endDate": "2026-09-13",
-    "dday": 14,
+    "dday": 8,
     "runtime": "1시간 10분",
     "priceText": "전석 50,000원",
     "free": false,
@@ -33532,7 +33473,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 부산",
-        "시작까지 14일"
+        "시작까지 8일"
       ],
       "warnings": [],
       "programIdeas": [
@@ -33557,7 +33498,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-09-12",
     "endDate": "2026-10-18",
-    "dday": 14,
+    "dday": 8,
     "runtime": "1시간 10분",
     "priceText": "VIP석 77,000원, R석 66,000원, S석 44,000원",
     "free": false,
@@ -33590,7 +33531,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 14일"
+        "시작까지 8일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -33617,7 +33558,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-09-17",
     "endDate": "2026-09-18",
-    "dday": 19,
+    "dday": 13,
     "runtime": "1시간",
     "priceText": "전석 30,000원",
     "free": false,
@@ -33646,7 +33587,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 부산",
-        "시작까지 19일"
+        "시작까지 13일"
       ],
       "warnings": [],
       "programIdeas": [
@@ -33671,7 +33612,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-09-17",
     "endDate": "2026-10-25",
-    "dday": 19,
+    "dday": 13,
     "runtime": "50분",
     "priceText": "전석 25,000원",
     "free": false,
@@ -33702,7 +33643,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 12개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 19일"
+        "시작까지 13일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -33729,7 +33670,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-09-19",
     "endDate": "2026-09-20",
-    "dday": 21,
+    "dday": 15,
     "runtime": "1시간 5분",
     "priceText": "전석 66,000원",
     "free": false,
@@ -33760,7 +33701,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 24개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 21일"
+        "시작까지 15일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -33787,7 +33728,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-09-19",
     "endDate": "2026-09-19",
-    "dday": 21,
+    "dday": 15,
     "runtime": "1시간",
     "priceText": "전석 50,000원",
     "free": false,
@@ -33818,7 +33759,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 전체 관람가",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 21일"
+        "시작까지 15일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -33845,7 +33786,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-09-19",
     "endDate": "2026-09-20",
-    "dday": 21,
+    "dday": 15,
     "runtime": "1시간 5분",
     "priceText": "전석 60,000원",
     "free": false,
@@ -33876,7 +33817,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 12개월 이상",
         "학생대상 후보: 초등",
         "지역: 대구",
-        "시작까지 21일"
+        "시작까지 15일"
       ],
       "warnings": [],
       "programIdeas": [
@@ -33901,7 +33842,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-09-19",
     "endDate": "2026-09-19",
-    "dday": 21,
+    "dday": 15,
     "runtime": "1시간",
     "priceText": "전석 10,000원",
     "free": false,
@@ -33932,7 +33873,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 36개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 21일"
+        "시작까지 15일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
@@ -33959,7 +33900,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
     "venueAddress": null,
     "startDate": "2026-09-19",
     "endDate": "2026-11-28",
-    "dday": 21,
+    "dday": 15,
     "runtime": "1시간",
     "priceText": "1층석 20,000원, 2층석 15,000원",
     "free": false,
@@ -33990,7 +33931,7 @@ export const CULTURE_EVENTS: CultureEvent[] = [
         "관람연령: 48개월 이상",
         "학생대상 후보: 초등",
         "지역: 확인필요",
-        "시작까지 21일"
+        "시작까지 15일"
       ],
       "warnings": [
         "장소 또는 지역 확인 필요"
